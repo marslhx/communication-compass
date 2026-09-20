@@ -1,0 +1,43 @@
+[
+  {
+    "id": "r4-two-step",
+    "slug": "r4-two-step",
+    "record_level": "complete",
+    "type": "theory_model",
+    "subtype": "model",
+    "name_zh": "两级传播与意见领袖",
+    "name_original": "Two-step flow and opinion leadership",
+    "aliases": [{"name": "两级流动", "kind": "alternate_translation", "note": "two-step flow 的直译变体。"}],
+    "summary": "两级传播假说把大众媒介效果放回人际关系：思想往往先到达对某领域更积极的意见领袖，再经人际影响扩散给相对不活跃的人群。它开启了对人际网络中介效应的研究，但后续证据也使该假说被大幅精炼。",
+    "why_it_matters": "它纠正了“媒介直接击中所有人”的直线想象，并为社交媒体中的转发、群体讨论、关键节点与网红影响研究提供历史起点。",
+    "questions_explained": ["媒介信息为什么常经过人际关系后才影响更多人？", "意见领袖如何在特定议题和群体中发挥中介作用？"],
+    "propositions": [
+      {"id": "r4ts-p1", "statement": "大众媒介与人际影响并非互相排斥；媒介接触可通过意见领袖所在的人际网络发生作用。", "evidence_status": "direct", "evidence": [{"source_id": "Q341", "locator": "PDF p. 1, abstract and opening paragraph", "support_note": "Katz 直接概括 ideas 从广播和印刷品流向 opinion leaders、再流向较不活跃群体，并说明大众传播经由相互连接的个人网络被传导。", "support_role": "supports"}]},
+      {"id": "r4ts-p2", "statement": "该假说的研究贡献不只是画出两个箭头，还在于促使调查研究处理人际关系与个人媒介接触之间的联系。", "evidence_status": "direct", "evidence": [{"source_id": "Q341", "locator": "PDF pp. 1, 3–4", "support_note": "摘要说明连续研究试图在传统调查中处理人际关系；第 3–4 页进一步比较投票、Rovere 与 Decatur 研究如何纳入顾问—被影响者关系。", "support_role": "supports"}]}
+    ],
+    "conditions": ["意见领袖应在具体议题、群体和关系网络中识别，不宜当作固定人格类型。", "分析需同时观察媒介接触、人际讨论与时间顺序，不能仅以关注者数代替影响过程。"],
+    "key_points": [
+      {"id": "r4ts-k1", "statement": "两级传播把人际关系带回媒介效果研究，强调人们在群体中讨论、解释和转述媒介信息。", "evidence_status": "direct", "evidence": [{"source_id": "Q341", "locator": "PDF pp. 1, 10", "support_note": "第 1 页将两级流动与相互连接的个人网络相连；第 10 页把人际关系列为信息渠道、群体压力和社会支持的不同作用。", "support_role": "supports"}]},
+      {"id": "r4ts-k2", "statement": "意见领袖是对某些议题更活跃、并能影响其他人的网络位置，不必等同于名人、权威或大流量账号。", "evidence_status": "interpretive", "evidence": [{"source_id": "T001", "locator": "PDF pp. 124–125，Two Step Flow Theory", "support_note": "教学综述把意见领袖与特定群体中的影响过程联系；对“不等同名人”的表述是编辑性限定。", "support_role": "qualifies"}]},
+      {"id": "r4ts-k3", "statement": "“两级”是历史性假说而非每次传播都必须有且仅有两步；后续研究已对原假说做了显著精炼。", "evidence_status": "direct", "evidence": [{"source_id": "Q341", "locator": "PDF p. 1 abstract; p. 9–10 synthesis", "support_note": "摘要直接称原假说 largely corroborated and considerably refined；第 9 页讨论某些领域可能需要追踪长于二人关系的个人影响链，第 10 页概括角色和关系条件。", "support_role": "supports"}]}
+    ],
+    "limits_or_debates": [
+      {"id": "r4ts-l1", "statement": "在多平台、多群组和算法推荐并存的环境中，信息可能多向、循环且跨越多个中介；两级模型只能作为入门假说。", "evidence_status": "interpretive", "evidence": [{"source_id": "Q341", "locator": "PDF pp. 9–10", "support_note": "原文支持在部分领域可能存在更长的个人影响链以及原假说被精炼；多平台与算法语境仍是编辑性当代外推，待专题证据补强。", "support_role": "qualifies"}]},
+      {"id": "r4ts-l2", "statement": "意见领袖的识别取决于议题、关系和测量方式；不同研究中的“领袖”不一定是同一类人。", "evidence_status": "interpretive", "evidence": [{"source_id": "Q341", "locator": "PDF pp. 2–4, 8, 10", "support_note": "原文呈现自我指定、顾问—被影响者配对和社会测量等不同设计，并讨论不同领域的领导位置；本条是据此形成的测量警示。", "support_role": "qualifies"}]}
+    ],
+    "area_memberships": [{"area_id": "effects", "is_primary": true, "rationale": "它解释媒介影响如何经人际网络被中介。"}, {"area_id": "communication", "is_primary": false, "rationale": "它将大众传播与人际传播连成过程。"}, {"area_id": "institutions", "is_primary": false, "rationale": "意见领袖影响常嵌入组织、社区和政治网络。"}],
+    "learning_resources": [
+      {"title": "Communication Theories: Two Step Flow Theory", "source_id": "T001", "purpose": "先理解媒介—意见领袖—其他人的基础假说。", "level": "introductory", "locator": "PDF pp. 124–125"},
+      {"title": "The Two-Step Flow of Communication", "source_id": "Q341", "purpose": "从 Katz 的可访问原文理解假说、其调查设计难题和后续精炼。", "level": "intermediate", "locator": "PDF pp. 1–10"}
+    ],
+    "learning_links": [{"target_id": "r1-interpersonal", "reason": "理解人际关系为什么会中介大众媒介信息。", "sequence_hint": "before"}, {"target_id": "r7-algorithm", "reason": "比较人际中介与当代算法分发、网络结构如何共同组织信息流。", "sequence_hint": "after"}],
+    "temporal_profile": "relatively_stable",
+    "last_evidence_check": "2026-09-15",
+    "controversy_status": "contested",
+    "controversy_note": "经典假说的教学价值稳定，但两步结构、领袖识别和对数字网络的外推需以当代证据重新检验。",
+    "review_status": "ready_for_review",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-15",
+    "reviewed_at": null
+  }
+]

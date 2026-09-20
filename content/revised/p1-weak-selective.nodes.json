@@ -1,0 +1,144 @@
+[
+  {
+    "id": "c-selective-exposure",
+    "slug": "selective-exposure",
+    "record_level": "complete",
+    "type": "concept",
+    "subtype": "audience_process",
+    "name_zh": "选择性接触",
+    "name_original": "Selective Exposure",
+    "aliases": [
+      {
+        "name": "选择性曝光",
+        "kind": "alternate_translation",
+        "note": "常见译法；容易被误解为平台曝光机制，本知识点用“接触”突出受众选择。"
+      }
+    ],
+    "summary": "选择性接触指人们并非随机接触所有可得信息，而会受到既有态度、兴趣、身份、情绪、便利性和信息环境结构的共同影响。",
+    "why_it_matters": "它位于受众能动性与媒介结构之间：既不能把信息选择全归给个人偏好，也不能把所有分化全归给算法。",
+    "propositions": [
+      {
+        "id": "se-p1",
+        "statement": "一项元分析发现，在可选择与既有态度、信念或行为一致或不一致的信息时，整体上存在对一致信息的中等偏好（d = 0.36）。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "Q345",
+            "locator": "author-lab PDF p. 21 (journal p. 575), Average Exposure Effect Size and Between-Effects Variability",
+            "support_note": "固定效应模型的加权平均为 d = 0.36（95% CI [0.34, 0.39]），随机效应模型为 d = 0.38（95% CI [0.32, 0.44]）；两者均被作者解释为中等的一致性偏好，且效应存在显著异质性。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "se-p2",
+        "statement": "当不一致信息对完成当前任务更有用、即其相对效用高于一致信息时，元分析中出现了对不一致信息的偏好。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "Q345",
+            "locator": "author-lab PDF pp. 22–23 (journal pp. 576–577), Table 3 and Accuracy Motivation; PDF p. 27 (journal p. 581), Our Review in the Context of the Past Reviews",
+            "support_note": "表 3 将正 d 定义为趋向一致信息、负 d 定义为趋向不一致信息；当不一致信息的相对效用更高时为 d = -0.39（k = 11），结果段与讨论均称偏好发生反转。该结果只支持相对效用条件，不能泛化为任何“与目标有关”的不一致信息都会更受偏好。",
+            "support_role": "supports"
+          }
+        ]
+      }
+    ],
+    "key_points": [
+      {
+        "id": "se-k1",
+        "statement": "信息接触发生在说服和理解之前，因此“没有看到什么”与“看到后如何加工”应分开分析。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "S112",
+            "locator": "Publisher summary",
+            "support_note": "ELM 来源支持接触后的加工问题；本条据此划定两个分析阶段。",
+            "support_role": "qualifies"
+          }
+        ]
+      },
+      {
+        "id": "se-k2",
+        "statement": "经典选举研究已把媒介接触、社会群体和个人影响放进同一经验问题中。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S119",
+            "locator": "Chapters 13-16 and publisher description",
+            "support_note": "出版社页面列出媒介接触、群体同质性和个人影响等章节。",
+            "support_role": "supports"
+          }
+        ]
+      }
+    ],
+    "limits_or_debates": [
+      {
+        "id": "se-l1",
+        "statement": "不能把偏好一致性当作固定心理特质：SESAM 模型将选择性接触放在自我、情绪、动机与时间的条件组合中讨论。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "Q307",
+            "locator": "Abstract",
+            "support_note": "摘要直接说明模型处理 self、affect、motivations 与 time 的角色；本轮未获得并核读 Q307 全文，因此不把该条升级为全文证据。",
+            "support_role": "qualifies"
+          }
+        ]
+      }
+    ],
+    "area_memberships": [
+      {
+        "area_id": "effects",
+        "is_primary": true,
+        "rationale": "它是媒介效果发生前的关键受众过程。"
+      },
+      {
+        "area_id": "digital_ai",
+        "is_primary": false,
+        "rationale": "推荐系统改变可选择集合与偶遇机会。"
+      }
+    ],
+    "learning_resources": [
+      {
+        "title": "The People's Choice",
+        "source_id": "S119",
+        "purpose": "从选举研究理解接触、群体和个人影响的联合分析。",
+        "level": "intermediate",
+        "locator": "Chapters 13-16"
+      },
+      {
+        "title": "Feeling Validated Versus Being Correct",
+        "source_id": "Q345",
+        "purpose": "阅读元分析全文，辨析一致性偏好、准确性动机、信息效用与可外推边界。",
+        "level": "intermediate",
+        "locator": "author-lab PDF pp. 1–7, 21–29"
+      }
+    ],
+    "learning_links": [
+      {
+        "target_id": "r4-audience",
+        "reason": "先理解受众并非被动容器。",
+        "sequence_hint": "before"
+      },
+      {
+        "target_id": "r4-elaboration-likelihood",
+        "reason": "区分选择接触与接触后的信息加工。",
+        "sequence_hint": "after"
+      },
+      {
+        "target_id": "r7-algorithm",
+        "reason": "进一步分析平台排序如何改变选择条件。",
+        "sequence_hint": "after"
+      }
+    ],
+    "temporal_profile": "relatively_stable",
+    "last_evidence_check": "2026-09-16",
+    "controversy_status": "contested",
+    "controversy_note": "个人偏好、社会网络与平台结构的相对作用依研究情境而异。",
+    "review_status": "ready_for_review",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-16",
+    "reviewed_at": null
+  }
+]

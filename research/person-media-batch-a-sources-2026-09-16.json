@@ -1,0 +1,85 @@
+[
+  {
+    "id": "R401",
+    "source_type": "official_record",
+    "title": "Professor Emeritus Claude Shannon, founder of digital communications, dies at 84",
+    "authors_or_organization": [
+      "MIT News Office"
+    ],
+    "year": 2001,
+    "publisher_or_venue": "MIT News, Massachusetts Institute of Technology",
+    "doi": null,
+    "url": "https://news.mit.edu/2001/shannon",
+    "language": "en",
+    "accessed_at": "2026-09-16",
+    "access_status": "full_text",
+    "bibliographic_note": "MIT 官方讣闻直接记录：Shannon 于 1936 年在 University of Michigan 获数学与电气工程两个 B.S.，并于 1940 年在 MIT 获电气工程 S.M. 与数学 Ph.D.。页面同时展示 MIT Museum 肖像，但未给出可复用许可，因此该页只用于学历，不作为肖像许可来源。"
+  },
+  {
+    "id": "R402",
+    "source_type": "other_material",
+    "title": "File:ClaudeShannon MFO3807.jpg",
+    "authors_or_organization": [
+      "Konrad Jacobs",
+      "Mathematisches Forschungsinstitut Oberwolfach",
+      "Wikimedia Commons"
+    ],
+    "year": 2015,
+    "publisher_or_venue": "Wikimedia Commons / Oberwolfach Photo Collection",
+    "doi": null,
+    "url": "https://commons.wikimedia.org/wiki/File:ClaudeShannon_MFO3807.jpg",
+    "language": "en",
+    "accessed_at": "2026-09-16",
+    "access_status": "full_text",
+    "bibliographic_note": "文件页标明作者 Konrad Jacobs、版权方 MFO，并以 CC BY-SA 2.0 DE 发布；Wikimedia VRT 已核验权利人许可，ticket #2008042410024381。原图可直接访问 https://upload.wikimedia.org/wikipedia/commons/9/99/ClaudeShannon_MFO3807.jpg；使用时须署名、链接许可，改编时遵守相同方式共享。"
+  },
+  {
+    "id": "R403",
+    "source_type": "official_record",
+    "title": "Stuart Hall 1932-2014",
+    "authors_or_organization": [
+      "Merton College, University of Oxford"
+    ],
+    "year": 2014,
+    "publisher_or_venue": "Merton College, University of Oxford",
+    "doi": null,
+    "url": "https://www.merton.ox.ac.uk/news/stuart-hall-1932-2014",
+    "language": "en",
+    "accessed_at": "2026-09-16",
+    "access_status": "full_text",
+    "bibliographic_note": "学院讣闻直接记录 Hall 于 1951 年凭 Rhodes Scholarship 到 Merton College 学习 English，完成 B.A. 后开展关于 Henry James 的博士研究，并在 1956 或 1957 年中止。页面图片未给出开放许可，本记录不作为肖像许可依据。"
+  },
+  {
+    "id": "R404",
+    "source_type": "other_material",
+    "title": "Donald Shaw Obituary (1936–2021)",
+    "authors_or_organization": [
+      "The News & Observer"
+    ],
+    "year": 2021,
+    "publisher_or_venue": "The News & Observer / Legacy.com",
+    "doi": null,
+    "url": "https://www.legacy.com/us/obituaries/newsobserver/name/donald-shaw-obituary?id=31091163",
+    "language": "en",
+    "accessed_at": "2026-09-16",
+    "access_status": "full_text",
+    "bibliographic_note": "公开讣告逐项记录 Shaw 于 1957 年在 Mars Hill College 获 associate's degree、1959 与 1960 年在 UNC-Chapel Hill 分别获 bachelor's 与 master's degree、1966 年在 University of Wisconsin 获 doctorate。页面未直接说明各学位专业，也未给肖像开放许可；节点不推断专业、不复用页面照片。"
+  },
+  {
+    "id": "R405",
+    "source_type": "other_material",
+    "title": "Mead, George Herbert (1863-1931)",
+    "authors_or_organization": [
+      "Jane Addams Digital Edition",
+      "Ramapo College of New Jersey"
+    ],
+    "year": null,
+    "publisher_or_venue": "Jane Addams Digital Edition, Ramapo College of New Jersey",
+    "doi": null,
+    "url": "https://digital.janeaddams.ramapo.edu/items/show/886",
+    "language": "en",
+    "accessed_at": "2026-09-16",
+    "access_status": "full_text",
+    "bibliographic_note": "学术数字版人物记录明确把所示 George Herbert Mead 图片标记为 Public domain，并注明图片来自 University of Chicago Centennial Catalogues。页面所载出生日期疑有录入错误，故本项目只采用其肖像、来源与权利字段，不采用出生日期。原图可直接访问 https://s3.amazonaws.com/omeka-janeaddams/original/59a3cf77c0503365c395ce894f705f9f.jpg。"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "rel-bandura-developed-social-cognitive", "source_id": "p-albert-bandura", "target_id": "r4-social-cognitive", "relation_type": "developed", "statement_zh": "阿尔伯特·班杜拉发展了社会认知理论，并将其系统用于大众传播。", "scope_note": "这是跨学科理论；关系不表示理论只属于传播学。", "evidence_status": "direct", "evidence": [{"source_id": "S121", "locator": "Byline and abstract", "support_note": "原论文由 Bandura 署名，摘要明确以社会认知理论分析大众传播。", "support_role": "supports"}, {"source_id": "S122", "locator": "Career overview", "support_note": "斯坦福官方资料确认其观察学习、自我效能和社会认知贡献。", "support_role": "supports"}], "controversy_note": null, "review_status": "ready_for_review", "reviewed_at": null
+  },
+  {
+    "id": "rel-berger-developed-uncertainty-reduction", "source_id": "p-charles-berger", "target_id": "r1-uncertainty-reduction", "relation_type": "developed", "statement_zh": "查尔斯·伯格与理查德·卡拉布里斯合作发展了不确定性降低理论。", "scope_note": "强调合著，且原始论文范围是初次交往。", "evidence_status": "direct", "evidence": [{"source_id": "S123", "locator": "Byline and abstract", "support_note": "原文署名 Berger 与 Calabrese，并概括初次交往理论。", "support_role": "supports"}, {"source_id": "S124", "locator": "Memorial overview", "support_note": "UC Davis 纪念页将不确定性降低理论列为 Berger 最知名的贡献。", "support_role": "supports"}], "controversy_note": null, "review_status": "ready_for_review", "reviewed_at": null
+  },
+  {
+    "id": "rel-ball-rokeach-developed-media-dependency", "source_id": "p-sandra-ball-rokeach", "target_id": "r4-media-dependency", "relation_type": "developed", "statement_zh": "桑德拉·鲍尔-罗奇与梅尔文·德弗勒合作提出媒介系统依赖模型。", "scope_note": "这是合著的系统关系模型，不等于个人媒介成瘾。", "evidence_status": "direct", "evidence": [{"source_id": "S125", "locator": "Byline and abstract", "support_note": "原始论文的合著与摘要直接支持这一关系。", "support_role": "supports"}], "controversy_note": null, "review_status": "ready_for_review", "reviewed_at": null
+  },
+  {
+    "id": "rel-carey-developed-ritual-view", "source_id": "p-james-carey", "target_id": "c-ritual-view", "relation_type": "developed", "statement_zh": "詹姆斯·凯里发展并普及了传播的仪式观。", "scope_note": "“发展”不表示共享与仪式的传播思想在 Carey 之前不存在。", "evidence_status": "direct", "evidence": [{"source_id": "S129", "locator": "James Carey legacy and ritual view", "support_note": "伊利诺伊大学媒体学院官方资料将 ritual view 列为其标志性贡献。", "support_role": "supports"}], "controversy_note": null, "review_status": "ready_for_review", "reviewed_at": null
+  },
+  {
+    "id": "rel-mead-developed-symbolic-interaction", "source_id": "p-george-herbert-mead", "target_id": "c-symbolic-interaction", "relation_type": "developed", "statement_zh": "乔治·赫伯特·米德的语言、自我与社会理论奠定了符号互动传统的重要基础。", "scope_note": "Mead 本人未使用“符号互动论”这一名称，因此采用“奠定重要基础”而非单独提出。", "evidence_status": "direct", "evidence": [{"source_id": "S130", "locator": "Introduction; Language and Mind", "support_note": "SEP 称 Mead 常被视为该学派之父，同时明确他未使用该名称。", "support_role": "qualifies"}], "controversy_note": "学派命名与人物追溯需保留历史边界。", "review_status": "ready_for_review", "reviewed_at": null
+  },
+  {
+    "id": "rel-social-presence-addresses-cmc", "source_id": "r1-social-presence", "target_id": "r1-cmc", "relation_type": "addresses", "statement_zh": "社会临场感理论是分析计算机中介传播中他人在场感的一条经典理论路径。", "scope_note": "CMC 还有线索过滤、社会信息处理、超人际等其他理论，不由临场感单独覆盖。", "evidence_status": "direct", "evidence": [{"source_id": "S128", "locator": "Chapter title and overview", "support_note": "Cambridge 章节直接以 Social Presence in CMC and VR 为题讨论其应用。", "support_role": "supports"}], "controversy_note": null, "review_status": "ready_for_review", "reviewed_at": null
+  },
+  {
+    "id": "rel-media-richness-addresses-organizational", "source_id": "c-media-richness", "target_id": "r1-organizational", "relation_type": "addresses", "statement_zh": "媒介丰富度概念用于分析组织如何以结构与信息机制应对不确定性和模棱两可性。", "scope_note": "概念原始来自组织设计问题，不是一张脱离任务的通用媒介排名。", "evidence_status": "direct", "evidence": [{"source_id": "S127", "locator": "Abstract", "support_note": "原文摘要直接将组织结构、信息丰富度与不确定性和模棱两可性联系起来。", "support_role": "supports"}], "controversy_note": null, "review_status": "ready_for_review", "reviewed_at": null
+  },
+  {
+    "id": "rel-knowledge-gap-addresses-info-disorder", "source_id": "r4-knowledge-gap", "target_id": "r4-info-disorder", "relation_type": "addresses", "statement_zh": "知识沟可作为考察虚假信息环境中不同群体信息获取与纠错差异的问题入口。", "scope_note": "这是教学上的问题连接，原始 1970 年论文不讨论当代虚假信息平台。", "evidence_status": "interpretive", "evidence": [{"source_id": "S120", "locator": "Original knowledge-gap hypothesis", "support_note": "原文支持不同群体的知识增长差异；与虚假信息的连接是编辑延伸。", "support_role": "qualifies"}], "controversy_note": null, "review_status": "ready_for_review", "reviewed_at": null
+  },
+  {
+    "id": "rel-sensemaking-addresses-organizational", "source_id": "c-sensemaking", "target_id": "r1-organizational", "relation_type": "addresses", "statement_zh": "意义建构用来分析组织成员如何在模糊情境中通过交流形成可行解释。", "scope_note": "当前条目主要依据教学综述，原始著作尚需补读。", "evidence_status": "interpretive", "evidence": [{"source_id": "T001", "locator": "Sensemaking 条目", "support_note": "Twente 教学综述支持基本范围，但不代替原始著作。", "support_role": "qualifies"}], "controversy_note": null, "review_status": "ready_for_review", "reviewed_at": null
+  },
+  {
+    "id": "rel-groupthink-addresses-group", "source_id": "c-groupthink", "target_id": "r1-group", "relation_type": "addresses", "statement_zh": "群体迷思概念用于分析群体决策中的一致性压力、异议与信息处理。", "scope_note": "不把所有团体决策失败都归为群体迷思。", "evidence_status": "interpretive", "evidence": [{"source_id": "T001", "locator": "Groupthink 条目", "support_note": "Twente 教学综述用于基本征兆与条件的定位。", "support_role": "qualifies"}], "controversy_note": null, "review_status": "ready_for_review", "reviewed_at": null
+  }
+]

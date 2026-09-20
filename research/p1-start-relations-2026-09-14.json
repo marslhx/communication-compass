@@ -1,0 +1,80 @@
+{
+  "as_of": "2026-09-14",
+  "stage": "independently_reviewed",
+  "assembly_allowed": true,
+  "note": "2026-09-14独立复核通过。三项均可作direct进入默认学术关系层；P02陈述已按原文收窄。正式装配仍以content/revised输入与reviewed-relations白名单为唯一边界。",
+  "candidates": [
+    {
+      "operation": "replace_existing_after_review",
+      "existing_relation_id": "rel-mcluhan-associated-medium-theory",
+      "relation": {
+        "id": "rel-mcluhan-associated-medium-theory",
+        "source_id": "p-mcluhan",
+        "target_id": "r3-medium-theory",
+        "relation_type": "associated_with",
+        "statement_zh": "McLuhan的媒介形式取向是Meyrowitz所称medium theory的重要思想参照；这一关联不表示传统等同于McLuhan一人的思想。",
+        "scope_note": "只记录Meyrowitz对该取向与McLuhan的明确关联及超越他的主张；不用proposed或developed，不声称单一创始权。复核通过后替换既有同ID关系，不能新增平行重复边。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "P01",
+            "locator": "印刷pp.8–10（PDF第1–3页），开场及Four Temptations第一项；p.20（PDF第13页），Conclusion",
+            "support_note": "p.10作者明确将其所称medium theory联系到McLuhan的媒介形式分析；开场与结语要求在其贡献基础上超越单一作者。直接关联陈述替代原关系仅凭摘要与建议阅读作出的归纳。",
+            "support_role": "supports"
+          }
+        ],
+        "controversy_note": "这是传统内部作者对思想参照的明确陈述，不裁定所有媒介理论谱系或对McLuhan具体预测的争论。",
+        "review_status": "ready_for_review",
+        "reviewed_at": null
+      }
+    },
+    {
+      "operation": "add_after_review",
+      "existing_relation_id": null,
+      "relation": {
+        "id": "rel-decolonial-addresses-race-representation",
+        "source_id": "r6-decolonial",
+        "target_id": "r6-race",
+        "relation_type": "addresses",
+        "statement_zh": "后殖民表征批判分析殖民根源的种族化媒介叙事，以及哪些声音获得可见性并参与反驳；肯尼亚受众批评CNN的研究展示了这一问题路径。",
+        "scope_note": "仅限伞形入口中的后殖民表征批判及Nothias与Cheruiyot的肯尼亚案例；不代表整个非洲、所有受众或全部去殖民研究。addresses表示已有分析用途，不表示争议已获统一答案。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "P02",
+            "locator": "p.142末段；p.151 Voices开头；pp.153–154 Discussion（分别为PDF第7、16、18–19页）",
+            "support_note": "p.142将Afro-pessimism明确为具有殖民根源的种族化话语；p.151把声音与权力问题直接归入非洲媒介形象的后殖民批判，并以#SomeoneTellCNN开展分析。讨论同时保留反叙事受当地精英与国家品牌逻辑牵引的限制。",
+            "support_role": "supports"
+          }
+        ],
+        "controversy_note": "挑战西方刻板表征不自动等于普遍赋权；该研究也发现本地可见性与资源不平等。",
+        "review_status": "ready_for_review",
+        "reviewed_at": null
+      }
+    },
+    {
+      "operation": "add_after_review",
+      "existing_relation_id": null,
+      "relation": {
+        "id": "rel-political-economy-addresses-platform-governance",
+        "source_id": "r3-political-economy",
+        "target_id": "r7-platform-governance",
+        "relation_type": "addresses",
+        "statement_zh": "传播领域的政治经济研究把平台治理放进国家、资本、劳动及制度关系中分析；Yuan与Zhang以中国平台经济说明这一路径。",
+        "scope_note": "限于2025年该特刊导论明确采用的政治经济研究取向和中国问题框架；不声称所有政治经济路线共享结论，也不把文章所述历史政策当作2026年当前有效规则。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "P03",
+            "locator": "pp.4–5 Platform Governance；p.7 Digital China—Beyond ‘Platformization’ and ‘Infrastructuralization’",
+            "support_note": "平台治理专节直接讨论国家与平台企业、劳动及公众的关系；p.7明确将研究定位为国家—资本—劳动关系的政治经济分析，并概括其对治理制度的研究。不是仅因政治与经济术语共现而连边。",
+            "support_role": "supports"
+          }
+        ],
+        "controversy_note": "来源是问题建构与特刊导论，支持这一路径确已用于研究平台治理，不单独证明治理成效或所有因果解释。",
+        "review_status": "ready_for_review",
+        "reviewed_at": null
+      }
+    }
+  ]
+}

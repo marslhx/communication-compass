@@ -1,0 +1,134 @@
+[
+  {
+    "id": "R411",
+    "source_type": "official_record",
+    "title": "University Studies",
+    "authors_or_organization": [
+      "Thomas Petersen",
+      "Private Archives Elisabeth Noelle"
+    ],
+    "year": 2015,
+    "publisher_or_venue": "Elisabeth Noelle-Neumann: Her Life and Scientific Work",
+    "doi": null,
+    "url": "https://noelle-neumann.de/biography/biography-university-studies/",
+    "language": "en",
+    "accessed_at": "2026-09-16",
+    "access_status": "full_text",
+    "bibliographic_note": "专题档案站学业总页：直接记录1935年起在柏林、柯尼斯堡、慕尼黑和密苏里大学哥伦比亚分校学习新闻学、历史与哲学，并1940年在柏林以美国政治与报刊大规模调查论文取得博士学位。页面的机构性质是私人档案专题站，不等同于大学学籍证明。"
+  },
+  {
+    "id": "R412",
+    "source_type": "other_material",
+    "title": "University Studies Picture Gallery",
+    "authors_or_organization": [
+      "Private Archives Elisabeth Noelle"
+    ],
+    "year": 2015,
+    "publisher_or_venue": "Elisabeth Noelle-Neumann: Her Life and Scientific Work",
+    "doi": null,
+    "url": "https://noelle-neumann.de/biographie-galerien/studium/",
+    "language": "de",
+    "accessed_at": "2026-09-16",
+    "access_status": "full_text",
+    "bibliographic_note": "图库页的图片来源栏明确写为‘Alle Bilder: © Privatarchiv Elisabeth Noelle’。可作肖像线索，但未给出网站外公开展示或再利用许可，因此本轮不接入 portrait。"
+  },
+  {
+    "id": "R413",
+    "source_type": "official_record",
+    "title": "Paul Felix Lazarsfeld, Univ.-Prof. Dr.",
+    "authors_or_organization": [
+      "University of Vienna"
+    ],
+    "year": 2024,
+    "publisher_or_venue": "650 plus – History of the University of Vienna",
+    "doi": null,
+    "url": "https://geschichte.univie.ac.at/de/personen/paul-felix-lazarsfeld",
+    "language": "de",
+    "accessed_at": "2026-09-16",
+    "access_status": "full_text",
+    "bibliographic_note": "维也纳大学官方学校史人物页，直接记录拉扎斯菲尔德在该校学习数学并完成博士论文；页面未在该句给出学位年份。"
+  },
+  {
+    "id": "R414",
+    "source_type": "other_material",
+    "title": "File:Lazarsfeld1941 Lge.jpg",
+    "authors_or_organization": [
+      "Miremahe",
+      "Wikimedia Commons"
+    ],
+    "year": 2016,
+    "publisher_or_venue": "Wikimedia Commons",
+    "doi": null,
+    "url": "https://commons.wikimedia.org/wiki/File:Lazarsfeld1941_Lge.jpg",
+    "language": "en",
+    "accessed_at": "2026-09-16",
+    "access_status": "full_text",
+    "bibliographic_note": "文件页记录上传者为 Miremahe，并由著作权持有人以 CC BY-SA 4.0 发布；需保留署名、许可链接和改动说明。本仓已有 /portraits/lazarsfeld.jpg，本轮仅复核许可记录。"
+  },
+  {
+    "id": "R415",
+    "source_type": "scholarly_synthesis",
+    "title": "Carl Iver Hovland",
+    "authors_or_organization": [
+      "Roger N. Shepard",
+      "National Academy of Sciences"
+    ],
+    "year": 1998,
+    "publisher_or_venue": "Biographical Memoirs, Volume 73, National Academies Press",
+    "doi": "10.17226/9650",
+    "url": "https://www.nationalacademies.org/read/9650/chapter/13",
+    "language": "en",
+    "accessed_at": "2026-09-16",
+    "access_status": "full_text",
+    "bibliographic_note": "美国国家科学院传记回忆录。Professional History 部分直接记录西北大学 A.B. 1932、A.M. 1933，以及耶鲁大学 Ph.D. 1936。页内肖像没有可与整页版权分离的再利用许可，不接入 portrait。"
+  },
+  {
+    "id": "R416",
+    "source_type": "official_record",
+    "title": "Innis Library",
+    "authors_or_organization": [
+      "McMaster University Libraries"
+    ],
+    "year": null,
+    "publisher_or_venue": "McMaster University",
+    "doi": null,
+    "url": "https://library.mcmaster.ca/spaces/innis",
+    "language": "en",
+    "accessed_at": "2026-09-16",
+    "access_status": "full_text",
+    "bibliographic_note": "麦马士达大学图书馆官方页将伊尼斯列为校友，明确列出 B.A. 1916、M.A. 1918（及名誉 L.L.D. 1945，本轮不将名誉学位写入学业训练）。"
+  },
+  {
+    "id": "R417",
+    "source_type": "official_record",
+    "title": "A Feast of Thought: U of T's 20 Greatest Thinkers and Intellectuals",
+    "authors_or_organization": [
+      "Brad Faught",
+      "University of Toronto Magazine"
+    ],
+    "year": 2002,
+    "publisher_or_venue": "University of Toronto Magazine",
+    "doi": null,
+    "url": "https://magazine.utoronto.ca/people/faculty-staff/u-of-t-20-greatest-thinkers-and-intellectuals/",
+    "language": "en",
+    "accessed_at": "2026-09-16",
+    "access_status": "full_text",
+    "bibliographic_note": "多伦多大学官方杂志人物专题，直接记录伊尼斯一战后赴芝加哥大学攻读政治经济学博士，并1919年撰写加拿大太平洋铁路史博士论文。"
+  },
+  {
+    "id": "R418",
+    "source_type": "official_record",
+    "title": "A young Harold Innis",
+    "authors_or_organization": [
+      "University of Toronto Archives & Records Management Services"
+    ],
+    "year": null,
+    "publisher_or_venue": "Collections U of T",
+    "doi": null,
+    "url": "https://collections.library.utoronto.ca/view/utarmsIB:2006-23-38MS",
+    "language": "en",
+    "accessed_at": "2026-09-16",
+    "access_status": "full_text",
+    "bibliographic_note": "大学档案肖像记录，创作者未知，馆藏号 B1972-0003/034 (56) 0001，数字图像号 2006-23-38MS。权利栏明确标注‘Public Domain - Image is clear for use, no permission required. Please credit.’，要求署名 University of Toronto Archives。本轮受‘只创建三个候选文件’限制，未下载、转码或接入图像资产。"
+  }
+]

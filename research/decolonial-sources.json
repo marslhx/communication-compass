@@ -1,0 +1,51 @@
+[
+  {
+    "id": "D01",
+    "source_type": "primary_scholarship",
+    "title": "De-westernizing Communication Studies: A Reassessment",
+    "authors_or_organization": [
+      "Silvio Waisbord",
+      "Claudia Mellado"
+    ],
+    "year": 2014,
+    "publisher_or_venue": "Communication Theory, 24(4), 361–372",
+    "doi": "10.1111/comt.12044",
+    "url": "https://www.researchgate.net/publication/267103499_De-westernizing_Communication_Studies_A_Reassessment",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "full_text",
+    "bibliographic_note": "本轮核读作者上传全文，核对期刊卷期页码与 DOI；主要定位为 pp. 361–370。该文是对争论的原始学术介入与重评，不是对所有地区的系统实证综述。"
+  },
+  {
+    "id": "D02",
+    "source_type": "scholarly_synthesis",
+    "title": "De-Westernization and Decolonization in Media Studies",
+    "authors_or_organization": [
+      "Antje Glück"
+    ],
+    "year": 2018,
+    "publisher_or_venue": "Oxford Research Encyclopedia of Communication",
+    "doi": "10.1093/acrefore/9780190228613.013.898",
+    "url": "https://eprints.bournemouth.ac.uk/34139/13/De-Westernization_acrefore-9780190228613-e-898.pdf",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "full_text",
+    "bibliographic_note": "本轮核读机构仓储中 29 页全文，核对发布日期 2018-12-20 与 DOI。条目为学术综述，用于术语边界、历史、区域差异和学术基础设施的综合；个别历史事实仍应回溯其所引原始文献。"
+  },
+  {
+    "id": "D03",
+    "source_type": "primary_scholarship",
+    "title": "Provincializing Hegemonic Histories of Media and Communication Studies: Toward a Genealogy of Epistemic Resistance in Africa",
+    "authors_or_organization": [
+      "Wendy Willems"
+    ],
+    "year": 2014,
+    "publisher_or_venue": "Communication Theory, 24(4), 415–434",
+    "doi": "10.1111/comt.12043",
+    "url": "https://doi.org/10.1111/comt.12043",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "abstract",
+    "bibliographic_note": "本轮通过期刊页面核对摘要、卷期页码、作者与 DOI；仅使用摘要明示的非洲学科史、知识生产与权力条件主张，未把摘要当作全文。"
+  }
+]

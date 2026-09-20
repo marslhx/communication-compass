@@ -1,0 +1,45 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://commpass.local/schema/source.schema.json",
+  "title": "COMMPASS bibliographic source",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "id",
+    "source_type",
+    "title",
+    "authors_or_organization",
+    "year",
+    "publisher_or_venue",
+    "url",
+    "language",
+    "accessed_at",
+    "access_status"
+  ],
+  "properties": {
+    "id": { "type": "string", "pattern": "^[A-Z][0-9]{2,}$" },
+    "source_type": {
+      "enum": [
+        "primary_scholarship",
+        "scholarly_synthesis",
+        "official_record",
+        "teaching_resource",
+        "other_material"
+      ]
+    },
+    "title": { "type": "string", "minLength": 1 },
+    "authors_or_organization": {
+      "type": "array",
+      "minItems": 1,
+      "items": { "type": "string", "minLength": 1 }
+    },
+    "year": { "type": ["integer", "null"], "minimum": 1400, "maximum": 2100 },
+    "publisher_or_venue": { "type": "string", "minLength": 1 },
+    "doi": { "type": ["string", "null"] },
+    "url": { "type": "string", "format": "uri" },
+    "language": { "enum": ["zh-CN", "zh-TW", "en", "de", "es", "fr", "other"] },
+    "accessed_at": { "type": "string", "format": "date" },
+    "access_status": { "enum": ["full_text", "excerpt", "abstract", "metadata", "unavailable"] },
+    "bibliographic_note": { "type": ["string", "null"] }
+  }
+}

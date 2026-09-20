@@ -1,0 +1,649 @@
+[
+  {
+    "id": "p-shannon",
+    "slug": "p-shannon",
+    "record_level": "complete",
+    "type": "person",
+    "subtype": "scholar",
+    "name_zh": "克劳德·香农",
+    "name_original": "Claude E. Shannon",
+    "aliases": [],
+    "summary": "克劳德·香农（1916–2001）是数学家、工程师与信息论奠基者。1948 年论文将通信的工程问题形式化为消息经信道传输和受噪音影响的问题，为数字通信奠定数学基础。",
+    "why_it_matters": "香农帮助传播学生看清“消息如何可靠传输”与“人们如何理解意义”是两类问题。信息、冗余、信道与噪音成为跨学科词汇，但应保留其工程边界。",
+    "roles": [
+      "Information theory founder",
+      "Mathematician",
+      "Electrical engineer",
+      "Bell Labs researcher"
+    ],
+    "communication_relevance": "香农的核心贡献是通信工程和信息论；它影响了传播过程模型的词汇，但不直接提供语义、文化或权力理论。",
+    "key_points": [
+      {
+        "id": "psh-k1",
+        "statement": "香农 1948 年《通信的数学理论》给出了信息源、发送器、信道、接收器、信宿与噪音源等组件的通信系统模型。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S047",
+            "locator": "pp. 379–381，Introduction and schematic diagram",
+            "support_note": "原文直接界定基本问题并给出通信系统示意图。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "psh-k2",
+        "statement": "原文明确说明，消息的语义层面与当时要解决的工程问题无关；因此 Shannon information 不应被直接等同为“有意义的内容”。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S047",
+            "locator": "p. 379，Introduction",
+            "support_note": "原文将 semantic aspects 明确排除在工程问题之外。",
+            "support_role": "qualifies"
+          }
+        ]
+      }
+    ],
+    "limits_or_debates": [
+      {
+        "id": "psh-l1",
+        "statement": "用香农模型分析人类传播时，若把“噪音”泛化为任何误解，或把信息量当作意义价值，会混淆工程与语义层次。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "S047",
+            "locator": "p. 379，engineering problem and semantic boundary",
+            "support_note": "这是根据原文自身边界作出的跨学科使用警示。",
+            "support_role": "qualifies"
+          }
+        ]
+      }
+    ],
+    "area_memberships": [
+      {
+        "area_id": "communication",
+        "is_primary": true,
+        "rationale": "香农对信息传输过程的形式化是现代传播过程词汇的重要来源。"
+      },
+      {
+        "area_id": "digital_ai",
+        "is_primary": false,
+        "rationale": "信息论是数字通信与计算基础的重要组成。"
+      }
+    ],
+    "learning_resources": [
+      {
+        "title": "A Mathematical Theory of Communication",
+        "source_id": "S047",
+        "purpose": "阅读引言与系统图，理解工程问题和语义边界。",
+        "level": "intermediate",
+        "locator": "pp. 379–381"
+      },
+      {
+        "title": "Claude E. Shannon",
+        "source_id": "S046",
+        "purpose": "从 IEEE 学会人物页了解信息论的学术和工程语境。",
+        "level": "introductory",
+        "locator": "全页"
+      },
+      {
+        "title": "Professor Emeritus Claude Shannon, founder of digital communications, dies at 84",
+        "source_id": "R401",
+        "purpose": "核对香农从密歇根大学到 MIT 的学历路径，并将学位训练与其早期转换电路研究联系起来。",
+        "level": "introductory",
+        "locator": "正文关于 University of Michigan 与 MIT 学位的段落"
+      }
+    ],
+    "learning_links": [
+      {
+        "target_id": "r1-feedback-noise",
+        "reason": "进一步区分工程噪音、反馈与人类传播中的误解。",
+        "sequence_hint": "after"
+      },
+      {
+        "target_id": "r1-process",
+        "reason": "比较工程模型与更广的人类传播过程。",
+        "sequence_hint": "compare"
+      }
+    ],
+    "temporal_profile": "relatively_stable",
+    "last_evidence_check": "2026-09-11",
+    "controversy_status": "contested",
+    "controversy_note": "争议主要来自将工程信息论外推为人类意义理论，而非原数学成就本身。",
+    "review_status": "ready_for_review",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-11",
+    "reviewed_at": null,
+    "portrait": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/ClaudeShannon_MFO3807.jpg",
+      "alt": "克劳德·香农黑白肖像",
+      "credit": "Konrad Jacobs / Mathematisches Forschungsinstitut Oberwolfach / Wikimedia Commons",
+      "license": "CC BY-SA 2.0 DE; Wikimedia VRT ticket #2008042410024381",
+      "source_url": "https://commons.wikimedia.org/wiki/File:ClaudeShannon_MFO3807.jpg"
+    },
+    "education_records": [
+      {
+        "institution": "University of Michigan",
+        "program": "Mathematics and Electrical Engineering",
+        "degree": "B.S. degrees",
+        "period": "1936",
+        "source_id": "R401",
+        "locator": "正文关于 1936 年 University of Michigan 学位的段落"
+      },
+      {
+        "institution": "Massachusetts Institute of Technology",
+        "program": "Electrical Engineering",
+        "degree": "S.M.",
+        "period": "1940",
+        "source_id": "R401",
+        "locator": "正文关于 1940 年 MIT 学位的段落"
+      },
+      {
+        "institution": "Massachusetts Institute of Technology",
+        "program": "Mathematics",
+        "degree": "Ph.D.",
+        "period": "1940",
+        "source_id": "R401",
+        "locator": "正文关于 1940 年 MIT 学位的段落"
+      }
+    ]
+  },
+  {
+    "id": "p-hall",
+    "slug": "stuart-hall",
+    "record_level": "complete",
+    "type": "person",
+    "subtype": null,
+    "name_zh": "斯图亚特·霍尔",
+    "name_original": "Stuart Hall",
+    "aliases": [
+      {
+        "name": "斯图尔特·霍尔",
+        "kind": "alternate_translation",
+        "note": null
+      }
+    ],
+    "summary": "斯图亚特·霍尔（1932—2014）是文化理论家、社会学家与公共知识分子。他在伯明翰当代文化研究中心和英国开放大学任职，推动了编码／解码、表征、种族、身份与文化政治研究。",
+    "why_it_matters": "学习霍尔可以看到理论如何在集体研究、公共教育与具体政治语境中生成。他把意义分析与权力、历史和社会结构连接起来；他的经历也提醒学生不要把文化研究归功于单一人物或把解码位置当成固定受众类型。",
+    "roles": [
+      "文化理论家",
+      "社会学家",
+      "公共知识分子",
+      "教师与合作研究组织者"
+    ],
+    "communication_relevance": "霍尔在媒介意义的生产与接收、表征政治、种族与身份等方面形成了传播学和文化研究的重要分析资源；他在CCCS的协作研究及开放大学的大众教育工作，也连接了理论、经验研究与公共传播。",
+    "key_points": [
+      {
+        "id": "phall-k1",
+        "statement": "霍尔1932年出生、2014年去世；1964年进入伯明翰大学当代文化研究中心，1979年转任英国开放大学社会学教授并任职至1997年。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "G21",
+            "locator": "页面中1964年任职及1979年离校段落",
+            "support_note": "伯明翰大学记录其1964年加入CCCS及1979年转往开放大学。",
+            "support_role": "supports"
+          },
+          {
+            "source_id": "S008",
+            "locator": "人物说明及“Professor of Sociology from 1979 to 1997”图像记录",
+            "support_note": "开放大学档案记录生卒年与1979—1997年社会学教授任期。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "phall-k2",
+        "statement": "伯明翰大学把编码与解码列为霍尔在该校期间最著名的工作之一。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "G21",
+            "locator": "“His most famous works while at Birmingham...”段落",
+            "support_note": "机构页面明确把编码与解码列入其在校期间的代表性工作。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "phall-k3",
+        "statement": "霍尔的工作还持续介入表征、身份、种族、后殖民经验与英国政治，并把这些问题置于具体历史关节点中。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S007",
+            "locator": "accepted manuscript pp. 1-4",
+            "support_note": "学术综述概括霍尔对表征政治、差异中的身份、种族、后殖民身份、多元文化主义和英国政治分析的贡献。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "phall-k4",
+        "statement": "霍尔在伯明翰的影响也来自合作式研究与教学组织，包括共同署名著作、工作论文和研究小组。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "G21",
+            "locator": "关于 collaborative research、co-written books 和 working papers 的段落",
+            "support_note": "伯明翰大学页面强调霍尔推动的协作研究实践及CCCS集体成果。",
+            "support_role": "supports"
+          },
+          {
+            "source_id": "S005",
+            "locator": "Administrative History，历任主任、研究分组和跨学科工作段落",
+            "support_note": "档案把CCCS呈现为多人、分组和跨时期发展的机构工程。",
+            "support_role": "supports"
+          }
+        ]
+      }
+    ],
+    "limits_or_debates": [
+      {
+        "id": "phall-l1",
+        "statement": "不应以“创始人”单数概括霍尔与文化研究的关系；更稳妥的表述是关键理论家和组织者，并同时注明CCCS的集体与机构史。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "G21",
+            "locator": "1964年入职、协作研究与集体成果段落",
+            "support_note": "来源同时显示Hoggart创建中心、Hall随后加入并推动后续工作。",
+            "support_role": "qualifies"
+          },
+          {
+            "source_id": "S005",
+            "locator": "Administrative History",
+            "support_note": "机构史记录多人、研究小组和历任负责人，支持反英雄化的范围限定。",
+            "support_role": "qualifies"
+          }
+        ]
+      },
+      {
+        "id": "phall-l2",
+        "statement": "霍尔的理论涉及多个阶段和问题域；人物知识点不应把全部著述还原为编码／解码，也不应假定其概念体系始终不变。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "S007",
+            "locator": "accepted manuscript pp. 1-4",
+            "support_note": "综述展示其政治与学术问题的范围和阶段变化；本条是据此形成的人物页编辑边界。",
+            "support_role": "qualifies"
+          }
+        ]
+      }
+    ],
+    "area_memberships": [
+      {
+        "area_id": "meaning",
+        "is_primary": true,
+        "rationale": "编码／解码和表征问题集中体现他对意义生产与解释的贡献。"
+      },
+      {
+        "area_id": "effects",
+        "is_primary": false,
+        "rationale": "他的受众理论改变了效果与接受研究的问题设置，但并不等同于传统行为效果研究。"
+      },
+      {
+        "area_id": "power_culture",
+        "is_primary": false,
+        "rationale": "文化、种族、身份、意识形态与霸权构成其研究和公共介入的重要领域。"
+      }
+    ],
+    "learning_resources": [
+      {
+        "title": "Stuart Hall",
+        "source_id": "G21",
+        "purpose": "先了解霍尔与CCCS的机构关系、合作方式和代表性问题。",
+        "level": "introductory",
+        "locator": "全页"
+      },
+      {
+        "title": "Encoding and Decoding in the Television Discourse",
+        "source_id": "G16",
+        "purpose": "按传播环节、代码不对称及1973年稿的四种位置核读原典，并与后来常见三分版本区分。",
+        "level": "intermediate",
+        "locator": "PDF pp. 3-5、17-19"
+      },
+      {
+        "title": "Stuart Hall",
+        "source_id": "S007",
+        "purpose": "补足表征、身份、种族、后殖民政治和开放大学阶段，避免以单篇论文代替整个人物。",
+        "level": "intermediate",
+        "locator": "accepted manuscript pp. 1-4"
+      },
+      {
+        "title": "Stuart Hall 1932-2014",
+        "source_id": "R403",
+        "purpose": "核对霍尔在 Merton 的英文学习、BA 与未完成博士研究，并理解其学术路径与政治转向的关系。",
+        "level": "introductory",
+        "locator": "首段及生平段"
+      }
+    ],
+    "learning_links": [
+      {
+        "target_id": "r6-cultural-studies",
+        "reason": "先把霍尔放回CCCS的机构与集体研究脉络，再理解其个人贡献。",
+        "sequence_hint": "before"
+      },
+      {
+        "target_id": "r2-encoding-decoding",
+        "reason": "进入霍尔传播研究中关于生产、话语与接收关系的具体模型。",
+        "sequence_hint": "after"
+      },
+      {
+        "target_id": "r2-representation",
+        "reason": "继续学习霍尔如何把表征与权力、差异和身份问题联系起来。",
+        "sequence_hint": "after"
+      }
+    ],
+    "temporal_profile": "relatively_stable",
+    "last_evidence_check": null,
+    "controversy_status": "contested",
+    "controversy_note": "本条目重点提示霍尔的贡献边界、合作研究位置及不同时期概念变化，避免将文化研究英雄化或过度体系化。",
+    "review_status": "reviewed",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-11",
+    "reviewed_at": "2026-09-11",
+    "education_records": [
+      {
+        "institution": "Merton College, University of Oxford",
+        "program": "English",
+        "degree": "B.A.",
+        "period": "1951 起（完成年份未注明）",
+        "source_id": "R403",
+        "locator": "首段及生平段：Rhodes Scholarship、study English、completed his BA"
+      },
+      {
+        "institution": "Merton College, University of Oxford",
+        "program": "Doctoral research on Henry James (not completed)",
+        "degree": null,
+        "period": "B.A. 后至 1956 或 1957 年",
+        "source_id": "R403",
+        "locator": "首段：began doctoral work on Henry James, but abandoned it in 1956 or 57"
+      }
+    ]
+  },
+  {
+    "id": "p-shaw",
+    "slug": "p-shaw",
+    "record_level": "complete",
+    "type": "person",
+    "subtype": "scholar",
+    "name_zh": "唐纳德·肖",
+    "name_original": "Donald L. Shaw",
+    "aliases": [],
+    "summary": "唐纳德·肖（1936–2021）是美国新闻与传播学者，长期任教于北卡罗来纳大学教堂山分校，与麦库姆斯共同开展议程设置研究，后来还推进 agenda melding 等方向。",
+    "why_it_matters": "肖的轨迹显示经典理论来自长期合作和方法工作，而非一句口号；他还把研究延伸到个人如何在多元媒介环境中融合议程。",
+    "roles": [
+      "Agenda-setting researcher",
+      "Journalism historian",
+      "Professor at UNC-Chapel Hill"
+    ],
+    "communication_relevance": "肖是议程设置经验研究的共同奠基者，并将学术兴趣扩展到议程融合和新闻史。",
+    "key_points": [
+      {
+        "id": "pdsh-k1",
+        "statement": "肖与麦库姆斯共同完成经典教堂山研究，将新闻媒介的议题强调与公众显著性判断联系起来。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "G17",
+            "locator": "全文作者与 METHOD/RESULTS",
+            "support_note": "原文列两人为共同作者并报告联合研究。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "pdsh-k2",
+        "statement": "他在 UNC 长期从事传播研究与教学，后期 agenda melding 工作关心多元媒介环境中个人议程的组织。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S052",
+            "locator": "Memorial statement",
+            "support_note": "BU 研究中心纪念页记录其 UNC 职位、议程设置与 agenda melding 贡献。",
+            "support_role": "supports"
+          }
+        ]
+      }
+    ],
+    "limits_or_debates": [
+      {
+        "id": "pdsh-l1",
+        "statement": "肖的贡献不宜被缩减为麦库姆斯的配角；两人的经典论文是共同作者成果，后续路线也包含肖自己的发展。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S052",
+            "locator": "Memorial statement",
+            "support_note": "纪念页明确将他列为议程设置共同开发者并提到后续研究。",
+            "support_role": "qualifies"
+          }
+        ]
+      }
+    ],
+    "area_memberships": [
+      {
+        "area_id": "effects",
+        "is_primary": true,
+        "rationale": "其最具代表性的贡献是议程设置研究。"
+      },
+      {
+        "area_id": "institutions",
+        "is_primary": false,
+        "rationale": "他同时研究新闻史与媒介议程的制度生成。"
+      }
+    ],
+    "learning_resources": [
+      {
+        "title": "The Agenda-Setting Function of Mass Media",
+        "source_id": "G17",
+        "purpose": "阅读共同作者的经典研究设计和限定。",
+        "level": "intermediate",
+        "locator": "重印 pp. 105–117"
+      },
+      {
+        "title": "CRC Fellows Mourn the Passing of Dr. Donald L. Shaw",
+        "source_id": "S052",
+        "purpose": "了解其长期教学、议程设置和 agenda melding 工作。",
+        "level": "introductory",
+        "locator": "全页"
+      },
+      {
+        "title": "Donald Shaw Obituary (1936–2021)",
+        "source_id": "R404",
+        "purpose": "核对肖从 Mars Hill、UNC-Chapel Hill 到 Wisconsin 的学位路径；来源未注明专业，不据此补写专业。",
+        "level": "introductory",
+        "locator": "讣告教育经历段"
+      }
+    ],
+    "learning_links": [
+      {
+        "target_id": "r4-agenda-setting",
+        "reason": "进入理论、方法和因果边界。",
+        "sequence_hint": "after"
+      },
+      {
+        "target_id": "p-mccombs",
+        "reason": "以共同作者视角理解经典研究。",
+        "sequence_hint": "compare"
+      }
+    ],
+    "temporal_profile": "relatively_stable",
+    "last_evidence_check": "2026-09-11",
+    "controversy_status": "none_identified",
+    "controversy_note": "知识点主要纠正单人归功叙事。",
+    "review_status": "ready_for_review",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-11",
+    "reviewed_at": null,
+    "education_records": [
+      {
+        "institution": "Mars Hill College",
+        "program": "专业未在所引讣告中注明",
+        "degree": "Associate's degree",
+        "period": "1957",
+        "source_id": "R404",
+        "locator": "讣告教育经历段"
+      },
+      {
+        "institution": "University of North Carolina at Chapel Hill",
+        "program": "专业未在所引讣告中注明",
+        "degree": "Bachelor's and master's degrees",
+        "period": "1959、1960",
+        "source_id": "R404",
+        "locator": "讣告教育经历段"
+      },
+      {
+        "institution": "University of Wisconsin",
+        "program": "专业未在所引讣告中注明",
+        "degree": "Doctorate",
+        "period": "1966",
+        "source_id": "R404",
+        "locator": "讣告教育经历段"
+      }
+    ]
+  },
+  {
+    "id": "p-george-herbert-mead",
+    "slug": "george-herbert-mead",
+    "record_level": "complete",
+    "type": "person",
+    "subtype": "scholar",
+    "name_zh": "乔治·赫伯特·米德",
+    "name_original": "George Herbert Mead",
+    "aliases": [],
+    "summary": "乔治·赫伯特·米德（1863—1931）是美国实用主义哲学家与社会理论家，以语言、显著符号、角色承担和社会性自我的理论影响符号互动传统。",
+    "why_it_matters": "他让传播成为理解心智、自我和社会秩序如何可能的基础机制，而不只是个人之间的消息交换。",
+    "roles": [
+      "哲学家",
+      "社会理论家",
+      "经典实用主义者"
+    ],
+    "communication_relevance": "通过语言、手势、显著符号和采择他人视角，解释心智与自我的传播性形成。",
+    "key_points": [
+      {
+        "id": "ghm-k1",
+        "statement": "Mead 把自我的发展与传播直接联系，并以显著符号和反身性说明语言如何促成心智。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S130",
+            "locator": "Introduction; Language and Mind",
+            "support_note": "SEP 条目直接概括他通过传播发展自我的理论，并详解语言机制。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "ghm-k2",
+        "statement": "采择他人视角和“概化他人”是说明社会性自我的重要环节。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S130",
+            "locator": "Roles, the Self, and the Generalized Other",
+            "support_note": "SEP 条目详细说明角色承担与自我发展。",
+            "support_role": "supports"
+          }
+        ]
+      }
+    ],
+    "limits_or_debates": [
+      {
+        "id": "ghm-l1",
+        "statement": "他未出版哲学专著，最知名的《心灵、自我与社会》是死后依学生笔记和手稿编成，阅读时需注意文本史。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S130",
+            "locator": "Introduction",
+            "support_note": "SEP 条目明确说明他未出版哲学专著及该书的编辑来源。",
+            "support_role": "qualifies"
+          }
+        ]
+      }
+    ],
+    "area_memberships": [
+      {
+        "area_id": "meaning",
+        "is_primary": true,
+        "rationale": "以符号、语言和互动解释意义与自我。"
+      },
+      {
+        "area_id": "communication",
+        "is_primary": false,
+        "rationale": "将传播视为心智和社会性自我的基础。"
+      }
+    ],
+    "learning_resources": [
+      {
+        "title": "George Herbert Mead",
+        "source_id": "S130",
+        "purpose": "从同行审订的哲学综述进入人物与原始概念。",
+        "level": "intermediate",
+        "locator": "Sections 1-4"
+      }
+    ],
+    "learning_links": [
+      {
+        "target_id": "c-symbolic-interaction",
+        "reason": "进入其最具传播学意义的概念系统。",
+        "sequence_hint": "after"
+      },
+      {
+        "target_id": "r1-communication-world",
+        "reason": "从微观自我形成迈向传播建构社会世界的总问题。",
+        "sequence_hint": "after"
+      },
+      {
+        "target_id": "p-habermas",
+        "reason": "追踪 Mead 的传播性主体理论如何影响后来社会理论。",
+        "sequence_hint": "after"
+      }
+    ],
+    "temporal_profile": "relatively_stable",
+    "last_evidence_check": "2026-09-11",
+    "controversy_status": "contested",
+    "controversy_note": "需区分 Mead 自身文本、死后编辑著作与后来符号互动学派。",
+    "review_status": "ready_for_review",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-11",
+    "reviewed_at": null,
+    "portrait": {
+      "url": "/portraits/mead.jpg",
+      "alt": "乔治·赫伯特·米德黑白肖像",
+      "credit": "University of Chicago Centennial Catalogues / Jane Addams Digital Edition, Ramapo College",
+      "license": "Public domain, as marked by the Jane Addams Digital Edition item record",
+      "source_url": "https://digital.janeaddams.ramapo.edu/items/show/886"
+    },
+    "education_records": [
+      {
+        "institution": "Oberlin College",
+        "program": "Undergraduate study",
+        "degree": null,
+        "period": "1879–1883",
+        "source_id": "S130",
+        "locator": "Section 1, Life and Influences"
+      },
+      {
+        "institution": "Harvard University",
+        "program": "Philosophy study with Josiah Royce",
+        "degree": null,
+        "period": "1887–1888",
+        "source_id": "S130",
+        "locator": "Section 1, Life and Influences"
+      },
+      {
+        "institution": "Universities in Germany",
+        "program": "Graduate study; courses with Wilhelm Dilthey and engagement with Wilhelm Wundt's research",
+        "degree": null,
+        "period": "1888–1891",
+        "source_id": "S130",
+        "locator": "Section 1, Life and Influences"
+      }
+    ]
+  }
+]

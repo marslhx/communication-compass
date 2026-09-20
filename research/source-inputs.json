@@ -1,0 +1,112 @@
+[
+  {
+    "path": "decolonial-sources.json",
+    "replace_ids": [],
+    "provenance": "Existing research supplement; see final-content-gate.md."
+  },
+  {
+    "path": "migrated-expansion-sources-2026-09-14.json",
+    "replace_ids": [],
+    "provenance": "One-time migration of 92 prior registrations, not new verification; see source-migration-provenance-2026-09-14.json and SOURCE_REBUILD.md."
+  },
+  {
+    "path": "home-start-source-updates-2026-09-14.json",
+    "replace_ids": ["S010"],
+    "provenance": "Scoped source recheck; see content/reviews/home-start-evidence-check-2026-09-14.md."
+  },
+  {
+    "path": "relation-source-additions-2026-09-14.json",
+    "replace_ids": [],
+    "provenance": "Scoped evidence registration for P01-P03; see content/reviews/p1-start-relations-evidence-2026-09-14.md. Registration does not approve or publish candidate relations."
+  },
+  {
+    "path": "non-home-pending-source-updates-2026-09-14.json",
+    "replace_ids": ["C20", "C17"],
+    "provenance": "Scoped P1 non-home pending verification: append N01 reader reprint; recheck C20 and correct C17 authors from actual institutional page. See content/reviews/non-home-pending-evidence-check-2026-09-14.md. No node review promotion."
+  },
+  {
+    "path": "chinese-scholars-first-batch-sources-2026-09-15.json",
+    "replace_ids": [],
+    "provenance": "User-approved first batch of nine Chinese communication scholars. Official profiles establish identity and scope; primary or scholarly sources establish selected contributions. New nodes remain open for correction after basic editorial checks."
+  },
+  {
+    "path": "foreign-core-thirty-sources-2026-09-15.json",
+    "replace_ids": [],
+    "provenance": "Thirteen additions needed to complete the editorial roster of thirty core non-Chinese figures. Verification is deliberately scoped to core contribution, representative source, and teaching links."
+  },
+  {
+    "path": "foreign-core-calibration-sources-2026-09-15.json",
+    "replace_ids": [],
+    "provenance": "Scoped parity review of the earliest foreign-person batch. Adds sources for Harold Innis and Theodor W. Adorno; Berger and Ball-Rokeach remain as topic-extension nodes rather than being deleted."
+  },
+  {
+    "path": "p1-c-concepts-sources-2026-09-15.json",
+    "replace_ids": [],
+    "provenance": "Scoped P1 depth work for five concept nodes. Each source was checked at the recorded access level; additions do not create academic relations or promote node review status."
+  },
+  {
+    "path": "p1-c-topics-sources-2026-09-15.json",
+    "replace_ids": [],
+    "provenance": "Scoped P1 depth and time-bound evidence-state work for four evolving topic/application nodes. Sources support only the stated jurisdictions, samples, periods, and conceptual scopes."
+  },
+  {
+    "path": "p1-weak-two-step-source-2026-09-15.json",
+    "replace_ids": [],
+    "provenance": "Scoped access-strength upgrade for two-step flow: Q341 is the University of Pennsylvania repository full text of Katz's 1957 article, used with page locators; no review promotion."
+  },
+  {
+    "path": "p1-weak-gatekeeping-source-2026-09-15.json",
+    "replace_ids": [],
+    "provenance": "Scoped access-strength upgrade for digital gatekeeping: Q342 is the author postprint hosted by the University of Zurich research site; network-gatekeeping abstract evidence remains separately bounded."
+  },
+  {
+    "path": "p1-weak-method-dependency-sources-2026-09-15.json",
+    "replace_ids": [],
+    "provenance": "Scoped access-strength upgrade for content analysis: Q343 is an author-uploaded full text with exact page locators. No Q344 was registered because a stable verifiable full text for media system dependency was not obtained."
+  },
+  {
+    "path": "p1-weak-selective-source-2026-09-16.json",
+    "replace_ids": [],
+    "provenance": "Scoped access-strength upgrade for selective exposure: Q345 is the full meta-analysis linked from a coauthor's research lab, used with exact effect, table, and limitation locators. Q346 was not registered because no stable parasocial full text was obtained."
+  },
+  {
+    "path": "p1-weak-sensemaking-source-2026-09-16.json",
+    "replace_ids": [],
+    "provenance": "Scoped access-strength upgrade for sensemaking: Q347 is the complete published article as actually read with printed-page locators; use is limited to the article's organizational-process boundary."
+  },
+  {
+    "path": "p1-weak-social-cognitive-source-2026-09-16.json",
+    "replace_ids": [],
+    "provenance": "Scoped access-strength upgrade for social cognitive theory: Q348 is a complete chapter manuscript cross-checked against publisher and institutional metadata, with third-party hosting explicitly disclosed; no review promotion."
+  },
+  {
+    "path": "p1-weak-third-person-source-2026-09-16.json",
+    "replace_ids": [],
+    "provenance": "Scoped access-strength upgrade for the third-person effect: Q349 is a complete scan of the original article cross-checked against Oxford Academic metadata, with third-party hosting and evidentiary limits explicitly disclosed."
+  },
+  {
+    "path": "p1-weak-elm-source-2026-09-16.json",
+    "replace_ids": [],
+    "provenance": "Scoped access-strength upgrade for the elaboration likelihood model: Q350 is the complete chapter uploaded as author content by Richard E. Petty and used with printed-page locators; no review promotion."
+  },
+  {
+    "path": "person-media-batch-a-sources-2026-09-16.json",
+    "replace_ids": [],
+    "provenance": "First controlled person-profile media batch: education records for Shannon, Hall, Shaw and Mead plus explicit image-rights records. Unlicensed candidates are documented but not shown."
+  },
+  {
+    "path": "person-media-batch-b-sources-2026-09-16.json",
+    "replace_ids": [],
+    "provenance": "First controlled person-profile media batch: education records for Noelle-Neumann, Lazarsfeld, Hovland and Innis plus image-rights checks. Registration does not imply all candidate images may be reused."
+  },
+  {
+    "path": "person-media-batch-c-sources-2026-09-16.json",
+    "replace_ids": [],
+    "provenance": "First controlled person-profile media batch: education records for Rogers, Schramm, Lewin and Goffman plus image-rights checks. Only the explicitly licensed Lewin sculpture portrait is displayed."
+  },
+  {
+    "path": "p2-core-traditions-source-updates-2026-09-19.json",
+    "replace_ids": ["S002", "G17", "S073", "P224"],
+    "provenance": "Scoped P2 source recheck for core traditions, development communication, and high-value direct relations. S002 is upgraded only to excerpt from the author-uploaded pp.4-5; G17 records the actual 2017 uncorrected-proofs copy and its internal pp.106-107; S073 is conservatively recorded as excerpt after the direct chapter link returned 403; P224 is corrected from full_text to excerpt. Q351-Q354 add bounded World Bank, FAO and IAMCR materials. Registration does not itself approve nodes or relations."
+  }
+]

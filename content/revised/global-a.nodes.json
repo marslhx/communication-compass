@@ -1,0 +1,1037 @@
+[
+  {
+    "id": "r2-encoding-decoding",
+    "slug": "encoding-decoding",
+    "record_level": "complete",
+    "type": "theory_model",
+    "subtype": "theory",
+    "name_zh": "编码与解码",
+    "name_original": "Encoding and decoding",
+    "aliases": [
+      {
+        "name": "编码／解码",
+        "kind": "common_name",
+        "note": "中文排版变体。"
+      },
+      {
+        "name": "编码—解码模式",
+        "kind": "common_name",
+        "note": null
+      }
+    ],
+    "summary": "霍尔在1973年讨论稿中以编码与解码重构电视传播过程，并列出主导—霸权式、专业式、协商式和对抗式四种假设性位置。常见的三分版本不属于本轮已核结论，需另核后来版本。",
+    "why_it_matters": "它帮助学生离开“发送者把固定意义交给被动受众”的直线想象，同时又不把受众自由夸大为任意解释。分析新闻、短视频或影视时，可以分别追问生产条件、文本中的优先意义、受众使用的文化代码及其社会位置。",
+    "questions_explained": [
+      "媒介意义为什么不能被生产者完整地固定和移交？",
+      "面对同一媒介话语，不同受众为何可能接受、调整或反对其优先意义？"
+    ],
+    "propositions": [
+      {
+        "id": "r2ed-p1",
+        "statement": "生产、流通、分配／消费和再生产是相互联结但彼此有区别的环节。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "G16",
+            "locator": "PDF pp. 3-5（文内 pp. 2-4），流程模型及相邻段落",
+            "support_note": "原文讨论生产、流通、分配／消费和再生产这些相互联结但相对有区别的环节。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r2ed-p2",
+        "statement": "编码与解码之间存在结构性关系，但前者不能保证后者得出同一意义。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "G16",
+            "locator": "PDF p. 5，流程图及紧随其后的代码不对称段落",
+            "support_note": "原文说明meaning structures I／II未必相同，编码与解码代码可能不完全对称，并联系广播者与受众的结构位置及代码关系。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r2ed-p3",
+        "statement": "1973年讨论稿列出主导—霸权式、专业式、协商式和对抗式四种假设性或理想类型位置。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "G16",
+            "locator": "PDF pp. 17-19（文内 pp. 16-18），four hypothetical／ideal-type positions 及随后四项",
+            "support_note": "1973年讨论稿依次列出dominant or hegemonic、professional、negotiated、oppositional四种位置；常见三分版本需另核。",
+            "support_role": "supports"
+          }
+        ]
+      }
+    ],
+    "conditions": [
+      "分析对象应具有可识别的生产语境、话语形式和接收语境。",
+      "判断解码位置必须相对于文本的优先意义及具体历史语境，不能只凭“赞成／反对”的表面态度。"
+    ],
+    "key_points": [
+      {
+        "id": "r2ed-k1",
+        "statement": "霍尔把大众传播理解为生产、流通、分配／消费和再生产相互联结的结构；媒介信息必须以话语形式出现，才能从生产环节进入社会流通。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "G16",
+            "locator": "PDF pp. 3-5（文内 pp. 2-4），流程模型及相邻段落",
+            "support_note": "原文讨论相互联结而相对有区别的环节，并说明电视话语在这些环节中流通。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r2ed-k2",
+        "statement": "编码与解码不是完全对称的同一过程；代码的不对称可能来自广播者与受众之间的结构位置和代码关系差异。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "G16",
+            "locator": "PDF p. 5，流程图及紧随其后的代码不对称段落",
+            "support_note": "原文把编码与解码的不完全对称联系到广播者和受众的结构位置及代码关系。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r2ed-k3",
+        "statement": "1973年讨论稿区分主导—霸权式、专业式、协商式和对抗式四种假设性解码位置。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "G16",
+            "locator": "PDF pp. 17-19（文内 pp. 16-18），four hypothetical／ideal-type positions 及随后四项",
+            "support_note": "原文依次列出dominant or hegemonic、professional、negotiated、oppositional四种位置。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r2ed-k4",
+        "statement": "该模型同时保留优先意义的结构性力量与解码不受编码保证这两点，因此不能被简化为“受众必然反抗文本”。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "G16",
+            "locator": "PDF p. 5 的代码不对称讨论及 pp. 17-19（文内 pp. 16-18）的解码位置",
+            "support_note": "这是对优先意义／支配性代码仍有结构力量和解码不由编码保证两处正文的编辑归纳。",
+            "support_role": "qualifies"
+          }
+        ]
+      }
+    ],
+    "limits_or_debates": [
+      {
+        "id": "r2ed-l1",
+        "statement": "三分法是分析起点，不应把真实受众硬塞进单一类别；从社会位置直接推出个人解读结果也应作为待检验假设，而不是预设结论。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "S006",
+            "locator": "摘要",
+            "support_note": "摘要指出真实受众话语具有多维性并批评围绕意识形态意义接受、协商或反对的一维框架；个人层面的使用规则是据此作出的编辑限定。",
+            "support_role": "qualifies"
+          }
+        ]
+      },
+      {
+        "id": "r2ed-l2",
+        "statement": "常见三分框架之外，真实接收还具有其他维度，应用模型时应以具体受众资料检验和扩充；该三分框架与1973年讨论稿的四种位置应分版本处理。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S006",
+            "locator": "摘要",
+            "support_note": "摘要明确以经验受众话语的复杂性提出多维接收模型；1973年讨论稿的位置数量由G16另行核定。",
+            "support_role": "qualifies"
+          }
+        ]
+      }
+    ],
+    "area_memberships": [
+      {
+        "area_id": "meaning",
+        "is_primary": true,
+        "rationale": "模型核心问题是媒介意义如何在生产与接收之间被组织、协商和重构。"
+      },
+      {
+        "area_id": "effects",
+        "is_primary": false,
+        "rationale": "它改变了研究受众反应的方式，但解释对象是意义接收，不等同于行为效果模型。"
+      },
+      {
+        "area_id": "power_culture",
+        "is_primary": false,
+        "rationale": "优先意义、霸权代码和对抗性解读把意义过程与社会权力联系起来。"
+      }
+    ],
+    "learning_resources": [
+      {
+        "title": "Encoding and Decoding in the Television Discourse",
+        "source_id": "G16",
+        "purpose": "按流程图、代码不对称和四种解码位置的顺序核读1973年讨论稿，并与后来常见三分版本区分。",
+        "level": "intermediate",
+        "locator": "PDF pp. 3-5、17-19"
+      },
+      {
+        "title": "Encoding and Decoding in the Television Discourse [originally 1973; republished 2007]",
+        "source_id": "S001",
+        "purpose": "用于确认重印版本与章页，不能替代尚未取得的正文。",
+        "level": "intermediate",
+        "locator": "pp. 257-276；当前仅书目记录"
+      },
+      {
+        "title": "Making Sense of Audience Discourses: Towards a Multidimensional Model of Mass Media Reception",
+        "source_id": "S006",
+        "purpose": "从摘要进入三分法在经验受众研究中的维度不足问题；取得全文后再读模型与结论。",
+        "level": "advanced",
+        "locator": "摘要"
+      }
+    ],
+    "learning_links": [
+      {
+        "target_id": "r2-semiotics",
+        "reason": "先掌握符号、代码和意义生产的基本问题，再核读编码／解码的具体分析路径。",
+        "sequence_hint": "before"
+      },
+      {
+        "target_id": "r4-audience",
+        "reason": "进一步用经验受众研究检验解码位置框架之外的接收维度。",
+        "sequence_hint": "after"
+      },
+      {
+        "target_id": "r1-process",
+        "reason": "比较不同传播过程模型的问题设置，但不把综合过程入口等同于霍尔所批评的封闭线性回路。",
+        "sequence_hint": "compare"
+      }
+    ],
+    "temporal_profile": "relatively_stable",
+    "last_evidence_check": null,
+    "controversy_status": "contested",
+    "controversy_note": "1973年讨论稿列出四种位置，后来常见三分版本需另核并区分；解码位置能否充分描述多维、情境化的真实接收过程也存在持续讨论。",
+    "review_status": "ready_for_review",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-11",
+    "reviewed_at": null
+  },
+  {
+    "id": "r3-medium-theory",
+    "slug": "medium-theory",
+    "record_level": "complete",
+    "type": "tradition",
+    "subtype": null,
+    "name_zh": "媒介理论",
+    "name_original": "Medium theory",
+    "aliases": [
+      {
+        "name": "媒介形态理论",
+        "kind": "alternate_translation",
+        "note": "用于减少与泛称 media theory 的混淆。"
+      }
+    ],
+    "summary": "一组把媒介形式和传播技术本身当作解释变量的研究传统。它追问不同媒介如何改变交往的时空范围、感知比例、社会组织和互动情境，而不只分析媒介传递了什么内容。",
+    "why_it_matters": "它让学生在讨论印刷、广播、智能手机或平台时，不只问内容，还问技术形式如何改变速度、规模、可见性、记忆和互动结构。运用这一取向时仍需考察制度、经济、政治、文化与具体使用情境。",
+    "central_questions": [
+      "不同媒介的物质与形式特征会鼓励或抑制哪些交往方式？",
+      "媒介如何重组时间、空间、感知、社会角色与权力配置？"
+    ],
+    "internal_differences": [
+      {
+        "id": "r3mt-i1",
+        "statement": "Innis 从媒介特征、知识在时间和空间中的传播及文化环境考察媒介影响。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S003",
+            "locator": "p. 457，开篇段落",
+            "support_note": "开篇明确提出研究媒介特征、知识在时空中的传播及其文化环境。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r3mt-i2",
+        "statement": "McLuhan 在《理解媒介》第一章着重讨论媒介带来的人类事务之规模、速度或模式变化。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S004",
+            "locator": "Chapter 1, “The Medium Is the Message”，关于 railway 与 electric light 的段落",
+            "support_note": "该章以铁路与电灯等例子说明媒介所带来的规模、速度或模式变化。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r3mt-i3",
+        "statement": "Meyrowitz 用 medium theory 归纳跨作者的共同问题，并把媒介界定为鼓励某些互动、抑制另一些互动的社会—心理环境。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S002",
+            "locator": "摘要与 References and Suggested Readings",
+            "support_note": "摘要给出定义，建议阅读列出该问题传统中的多位作者。",
+            "support_role": "supports"
+          }
+        ]
+      }
+    ],
+    "naming_boundary": "本知识点使用英文单数 Medium theory 的专门含义，不等同于泛称的 media theory。中文展示应同时出现英文名或“媒介形态理论”；“媒介环境取向”只用于说明研究取向，不列为严格同义词。Innis、McLuhan 与后续研究也不被压成统一体系。",
+    "key_points": [
+      {
+        "id": "r3mt-k1",
+        "statement": "媒介理论关注传播技术在不同于具体内容的层面产生的影响，并把媒介视为会鼓励某些互动、抑制另一些互动的社会—心理环境。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S002",
+            "locator": "摘要",
+            "support_note": "百科条目摘要直接以这两个标准界定 medium theory。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r3mt-k2",
+        "statement": "Innis 主张媒介特征会影响知识跨空间和时间的传播，因此需要把媒介放回具体文化环境评估其影响。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S003",
+            "locator": "p. 457，开篇段落",
+            "support_note": "开篇直接提出媒介特征、知识时空传播与文化环境的研究问题。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r3mt-k3",
+        "statement": "McLuhan 所说“媒介即讯息”指向媒介引入的人类事务之规模、速度或模式变化。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S004",
+            "locator": "Chapter 1, “The Medium Is the Message”，关于 railway 与 electric light 的段落",
+            "support_note": "第一章用具体例子把媒介的讯息界定为它带来的 scale、pace、pattern 变化。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r3mt-k4",
+        "statement": "把 Innis、McLuhan 与后续作者放入同一传统，是为了突出共同问题，而不是断言他们使用同一方法或得出同一结论。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "S002",
+            "locator": "摘要与 References and Suggested Readings",
+            "support_note": "条目以共同问题界定传统并列出不同作者；“并非统一体系”是编辑归纳。",
+            "support_role": "qualifies"
+          },
+          {
+            "source_id": "S003",
+            "locator": "p. 457，开篇段落",
+            "support_note": "Innis 的历史文化问题意识为区分传统内部路线提供具体参照。",
+            "support_role": "supports"
+          }
+        ]
+      }
+    ],
+    "limits_or_debates": [
+      {
+        "id": "r3mt-l1",
+        "statement": "应用媒介理论时需避免把媒介形式当作解释社会变化的唯一原因，并同步考察制度、经济、政治、文化和使用差异。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "S002",
+            "locator": "摘要",
+            "support_note": "摘要以 encourage／discourage 描述媒介环境；本条据此提出有限因果解释的编辑规则，不宣称学界风险排序。",
+            "support_role": "qualifies"
+          }
+        ]
+      },
+      {
+        "id": "r3mt-l2",
+        "statement": "传统内部对象和尺度差异很大，跨时代应用必须说明比较维度，不能用一句“媒介即讯息”替代分析。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "S002",
+            "locator": "摘要与 References and Suggested Readings",
+            "support_note": "条目纳入多个时代、对象和作者；应用规则是对这种内部差异的编辑归纳。",
+            "support_role": "qualifies"
+          }
+        ]
+      }
+    ],
+    "area_memberships": [
+      {
+        "area_id": "media_society",
+        "is_primary": true,
+        "rationale": "传统的中心问题是媒介形式如何改变社会组织、感知与交往环境。"
+      },
+      {
+        "area_id": "digital_ai",
+        "is_primary": false,
+        "rationale": "其分析问题可迁移到平台与人工智能媒介的速度、规模和互动条件；这只是教学迁移，不声称经典作者已经研究这些对象。"
+      }
+    ],
+    "learning_resources": [
+      {
+        "title": "Medium Theory",
+        "source_id": "S002",
+        "purpose": "先厘清专门的 medium theory 与泛称 media theory 的区别，并取得后续阅读线索。",
+        "level": "introductory",
+        "locator": "摘要与 References and Suggested Readings"
+      },
+      {
+        "title": "The Bias of Communication",
+        "source_id": "S003",
+        "purpose": "从可核的开篇理解 Innis 如何提出媒介、时空传播与文化环境问题。",
+        "level": "intermediate",
+        "locator": "p. 457，开篇段落；本轮不声称已核结尾"
+      },
+      {
+        "title": "Understanding Media: The Extensions of Man",
+        "source_id": "S004",
+        "purpose": "直接理解“媒介即讯息”的具体论证，避免只记口号。",
+        "level": "intermediate",
+        "locator": "Chapter 1, “The Medium Is the Message”"
+      }
+    ],
+    "learning_links": [
+      {
+        "target_id": "p-mcluhan",
+        "reason": "由人物页进入 McLuhan 的具体文本，同时保留媒介理论不等于一人思想的边界。",
+        "sequence_hint": "compare"
+      },
+      {
+        "target_id": "r3-platformization",
+        "reason": "把媒介环境、互动条件和形式效应的问题迁移到平台化研究；这是学习顺序，不是已证实的思想承接。",
+        "sequence_hint": "after"
+      }
+    ],
+    "temporal_profile": "relatively_stable",
+    "last_evidence_check": null,
+    "controversy_status": "contested",
+    "controversy_note": "传统范围与内部谱系存在不同写法；应用时尤其需要处理技术决定论风险。",
+    "review_status": "ready_for_review",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-11",
+    "reviewed_at": null
+  },
+  {
+    "id": "r4-agenda-setting",
+    "slug": "agenda-setting",
+    "record_level": "complete",
+    "type": "theory_model",
+    "subtype": "theory",
+    "name_zh": "议程设置",
+    "name_original": "Agenda-setting theory",
+    "aliases": [
+      {
+        "name": "议题设置",
+        "kind": "alternate_translation",
+        "note": null
+      },
+      {
+        "name": "议程设定",
+        "kind": "alternate_translation",
+        "note": null
+      }
+    ],
+    "summary": "议程设置研究考察媒介对某些公共议题的突出呈现，是否与公众认为哪些议题重要相联系。1972年经典研究比较美国总统竞选新闻与选民议题排序，发现高度对应，但作者明确说相关证据不能单独证明因果。",
+    "why_it_matters": "它帮助学生把媒体影响从态度改变细化为重要性如何被组织。阅读热点榜、新闻首页或公共政策讨论时，可以区分议题显著性、立场说服和后续扩展，也能理解内容分析与调查如何配合检验传播理论。",
+    "questions_explained": [
+      "媒介对议题的强调是否会影响公众认为什么更重要？",
+      "如何把媒介议程与公众议程操作化并进行比较？"
+    ],
+    "propositions": [
+      {
+        "id": "r4as-p1",
+        "statement": "媒介通过报道数量、位置、篇幅或时长等方式赋予议题不同显著性。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "G17",
+            "locator": "重印 p. 107／原刊 p. 178，major/minor items 的操作定义",
+            "support_note": "原文给出电视、报纸、新闻杂志和评论版内容的位置、篇幅与时长判据。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r4as-p2",
+        "statement": "该研究比较的是选定媒介样本中的议题强调与受访选民的议题重要性判断，而不是逐人测量实际媒介暴露。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "G17",
+            "locator": "重印 pp. 106-107／原刊 pp. 177-178，METHOD",
+            "support_note": "原文交代教堂山样本、当地选民使用的媒介集合与同步内容分析；设计未逐个建立个人暴露—个人判断配对。",
+            "support_role": "qualifies"
+          }
+        ]
+      },
+      {
+        "id": "r4as-p3",
+        "statement": "原始相关设计只能支持议程设置假说，不能独自确证因果方向。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "G17",
+            "locator": "重印 p. 113／原刊 p. 184，DISCUSSION",
+            "support_note": "作者明确说明相关不能证明议程设置因果关系，并指出分析单位为聚合单位。",
+            "support_role": "qualifies"
+          }
+        ]
+      }
+    ],
+    "conditions": [
+      "必须明确议题集合、时间窗口、媒介样本、公众样本和显著性指标。",
+      "反向因果、共同事件、选择性接触和不同人群媒介使用是后续研究应检验的替代解释，不视为1972年研究已经排除。"
+    ],
+    "key_points": [
+      {
+        "id": "r4as-k1",
+        "statement": "经典命题关注媒介对议题显著性的影响，而不是笼统声称媒介总能改变公众的态度方向或强度。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "G17",
+            "locator": "重印 p. 106／原刊 p. 177",
+            "support_note": "原文区分态度方向、强度与议题显著性，并将议程设置表述为影响政治议题的显著性。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r4as-k2",
+        "statement": "1972年研究在1968年美国总统竞选期间访问了北卡罗来纳州教堂山100名尚未确定投票选择的选民，并同步内容分析他们可接触的报纸、杂志及电视新闻。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "G17",
+            "locator": "重印 pp. 106-107／原刊 pp. 177-178，METHOD",
+            "support_note": "原文报告1968年教堂山、五个选区、100名未决定投票选择者、访问日期及同步内容分析的媒介样本。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r4as-k3",
+        "statement": "研究用报道位置、篇幅或播出时长区分主要与次要新闻，并将媒介议题强调与选民的议题判断进行比较。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "G17",
+            "locator": "重印 p. 107／原刊 p. 178，major/minor items 的操作定义",
+            "support_note": "原文逐项给出不同媒介的位置、篇幅与电视时长规则。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r4as-k4",
+        "statement": "教堂山数据总体显示选民的议题重要性判断与媒介综合议程高度一致，但作者把结果称为对假说的支持，而非证明。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "G17",
+            "locator": "重印 p. 109／原刊 p. 180（主要议题相关 +.967、次要议题相关 +.979）；重印 p. 113／原刊 p. 184（DISCUSSION）",
+            "support_note": "结果段报告高度相关，讨论段明确说明相关不能证明议程设置因果关系。",
+            "support_role": "supports"
+          }
+        ]
+      }
+    ],
+    "limits_or_debates": [
+      {
+        "id": "r4as-l1",
+        "statement": "原始研究是单一社区、特定竞选、100名未决定选民的聚合相关分析；外推到其他时期、人群和媒介环境必须重新检验。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "G17",
+            "locator": "重印 pp. 106-107／原刊 pp. 177-178（样本）；重印 p. 113／原刊 p. 184（聚合单位限定）",
+            "support_note": "原文报告单一社区、特定竞选和100名未决定选民的样本边界，并说明所用分析单位是聚合单位。",
+            "support_role": "qualifies"
+          }
+        ]
+      },
+      {
+        "id": "r4as-l2",
+        "statement": "本知识点只呈现1972年论文检验的竞选议题显著性关系，不把后来的扩展写成该论文已经证明的内容。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "G17",
+            "locator": "pp. 176-185，假说、方法与讨论",
+            "support_note": "原文界定本研究实际检验的范围；本条是据此形成的知识点范围规则。",
+            "support_role": "qualifies"
+          }
+        ]
+      }
+    ],
+    "area_memberships": [
+      {
+        "area_id": "effects",
+        "is_primary": true,
+        "rationale": "理论直接研究媒介议题显著性与公众议题显著性之间的影响关系。"
+      },
+      {
+        "area_id": "institutions",
+        "is_primary": false,
+        "rationale": "新闻报道选择和版面或时长配置是形成媒介议程的制度性环节。"
+      }
+    ],
+    "learning_resources": [
+      {
+        "title": "The Agenda-Setting Function of Mass Media",
+        "source_id": "G17",
+        "purpose": "以方法部分为中心阅读经典命题、研究设计、结果及作者自己的因果限定。",
+        "level": "intermediate",
+        "locator": "重印 pp. 105-117／原刊 pp. 176-187"
+      },
+      {
+        "title": "McQuail's Media and Mass Communication Theory 7th edition contents",
+        "source_id": "G11",
+        "purpose": "作为教材目录索引查找 media effects、audiences 与新闻选择相关章节；不把目录当作章节正文。",
+        "level": "introductory",
+        "locator": "目录"
+      }
+    ],
+    "learning_links": [
+      {
+        "target_id": "r4-persuasion",
+        "reason": "比较议题显著性与态度方向或强度这两类不同效果问题。",
+        "sequence_hint": "compare"
+      },
+      {
+        "target_id": "r5-political",
+        "reason": "把经典研究放回总统竞选、新闻议程与政治传播的具体语境。",
+        "sequence_hint": "after"
+      }
+    ],
+    "temporal_profile": "relatively_stable",
+    "last_evidence_check": null,
+    "controversy_status": "contested",
+    "controversy_note": "经典命题稳定，但因果方向、边界条件及后续理论扩展必须与1972年原始研究分开审核。",
+    "review_status": "ready_for_review",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-11",
+    "reviewed_at": null
+  },
+  {
+    "id": "r6-cultural-studies",
+    "slug": "cultural-studies",
+    "record_level": "complete",
+    "type": "tradition",
+    "subtype": null,
+    "name_zh": "文化研究",
+    "name_original": "Cultural studies",
+    "aliases": [],
+    "summary": "文化研究是把文化视为意义实践与权力斗争场域的跨学科批判传统。本样本先呈现有现有材料支持的英国／伯明翰谱系，考察日常生活、通俗文化、媒介与社会权力的历史关系，不以这一谱系代替全球文化研究。",
+    "why_it_matters": "它使学生能把影视、新闻、粉丝、亚文化和身份表征放回权力与历史情境中分析，并理解文本、生产、受众和日常实践不能彼此割裂。当前材料只验证英国／伯明翰骨架，全球与非西方路线仍待补证。",
+    "central_questions": [
+      "文化实践如何生产、维持或挑战权力关系？",
+      "日常生活与通俗文化如何成为阶级、种族、性别和身份协商的场域？",
+      "如何把文本和意义分析同历史、制度及社会结构联系起来？"
+    ],
+    "internal_differences": [
+      {
+        "id": "r6cs-i1",
+        "statement": "在霍尔的比较中，文化主义强调生活经验与历史能动性；结构主义强调经验所依赖的文化范畴和结构关系，其中阿尔都塞的路线突出意识形态。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "N01",
+            "locator": "HTML页码标记[616]—[619]；文化主义概括、结构主义转向及experience对比的连续段落",
+            "support_note": "已核1991重印网页相应段落；保留结构主义内部差别，不把阿尔都塞的意识形态重心套给全部结构主义，也不套用1980原刊页码。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r6cs-i2",
+        "statement": "伯明翰中心在不同时期采用文本细读、理论探究和具体研究等不同工作方式，并通过研究小组组织协作。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S005",
+            "locator": "Administrative History，初始研究范围、close reading、theoretical inquiry、studies in depth 与研究分组段落",
+            "support_note": "档案史直接记录中心的研究工具与分组协作方式。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r6cs-i3",
+        "statement": "伯明翰中心的议题与方法随时期变化，后来更系统回应女性主义与黑人政治提出的问题。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S005",
+            "locator": "Administrative History，关于1970年代末女性主义与1980年代初黑人政治的段落",
+            "support_note": "档案史按时期记录中心政治议题的扩展。",
+            "support_role": "supports"
+          }
+        ]
+      }
+    ],
+    "naming_boundary": "本知识点是研究传统，不是“研究所有文化现象”的泛称，也不是单一学科或单一方法。伯明翰中心是重要制度化地点，但不能被写成文化研究唯一的起源；霍尔是关键人物，也不能被写成独自创立整个领域。当前完整内容仅验证英国／伯明翰谱系。",
+    "key_points": [
+      {
+        "id": "r6cs-k1",
+        "statement": "霍尔反对用绝对开端或不间断思想传承来讲述文化研究的形成，并强调问题域经历断裂与重组。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "G24",
+            "locator": "印刷 p. 57，开篇两段",
+            "support_note": "原文片段明确反对用绝对开端或不间断延续讲述文化研究，并强调问题构形的打断、位移与重组。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r6cs-k2",
+        "statement": "霍尔把文化主义与结构主义视为文化研究的重要范式，同时指出两者都不足以自成完整方案，也并非领域内仅有的路线。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "N01",
+            "locator": "HTML页码标记620后范式局限段；[622]后两范式非唯一的段落；[625]结论",
+            "support_note": "已核重印网页对范式地位、各自不足与其他路线的明示限定；这是霍尔的判断，不作当代全球领域共识。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r6cs-k3",
+        "statement": "伯明翰当代文化研究中心1964年在英文系内成立，工作横跨文学批评、社会学、历史与人类学，并以小组协作研究通俗文化、媒介及社会问题。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S005",
+            "locator": "Administrative History，关于1964年成立、研究分组和跨学科工作的段落",
+            "support_note": "伯明翰大学档案目录直接记录中心的成立、最初范围、分组方式及学科交叉。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r6cs-k4",
+        "statement": "伯明翰中心的议题与方法并非固定不变：档案史记录其早期研究安排及后来对女性主义与黑人政治问题的回应。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S005",
+            "locator": "Administrative History，关于1966-1967年目标、1970年代末女性主义与1980年代初黑人政治的段落",
+            "support_note": "档案史按时期记录中心研究工具与政治议题的扩展。",
+            "support_role": "supports"
+          }
+        ]
+      }
+    ],
+    "limits_or_debates": [
+      {
+        "id": "r6cs-l1",
+        "statement": "当前材料只验证英国／伯明翰谱系的骨架，不能据此把伯明翰中心写成文化研究唯一来源，也不能用英国经验代表全球文化研究。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "S005",
+            "locator": "Administrative History",
+            "support_note": "档案记录的是特定机构史；本条据其证据边界形成知识点范围限定。",
+            "support_role": "qualifies"
+          },
+          {
+            "source_id": "G24",
+            "locator": "印刷p.57，开篇两段（既有核验范围）",
+            "support_note": "原刊既有片段支持起点叙事限制，不提供全球路线的完整证据；本轮范式补证另见N01重印版本。",
+            "support_role": "qualifies"
+          }
+        ]
+      },
+      {
+        "id": "r6cs-l2",
+        "statement": "跨学科不等于方法随意；具体研究仍须说明材料、历史语境、分析步骤，以及文本意义与结构权力之间如何建立证据链。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "S005",
+            "locator": "Administrative History，初始研究范围、close reading、theoretical inquiry 与 studies in depth 的段落",
+            "support_note": "档案显示中心有具体研究安排；完整方法规范是据此形成的编辑建议。",
+            "support_role": "qualifies"
+          }
+        ]
+      }
+    ],
+    "area_memberships": [
+      {
+        "area_id": "power_culture",
+        "is_primary": true,
+        "rationale": "传统核心是文化意义如何与阶级、种族、性别、身份和支配关系相互构成。"
+      },
+      {
+        "area_id": "meaning",
+        "is_primary": false,
+        "rationale": "文本、表征、代码和日常实践中的意义生产是重要分析层次。"
+      },
+      {
+        "area_id": "media_society",
+        "is_primary": false,
+        "rationale": "媒介和通俗文化是该传统的重要对象，但文化研究不只研究媒介。"
+      },
+      {
+        "area_id": "institutions",
+        "is_primary": false,
+        "rationale": "文化生产、新闻、国家与社会制度常进入其情境化分析，但它不是单纯的制度研究传统。"
+      }
+    ],
+    "learning_resources": [
+      {
+        "title": "Records of the Centre for Contemporary Cultural Studies",
+        "source_id": "S005",
+        "purpose": "先了解伯明翰中心的机构史、协作方式和研究范围变化，并明确它不等于整个领域。",
+        "level": "introductory",
+        "locator": "Administrative History"
+      },
+      {
+        "title": "Cultural Studies: Two Paradigms（1991选本重印）",
+        "source_id": "N01",
+        "purpose": "对照已核重印片段理解两范式的张力；与G24为同一文章的不同版本，不作第二项独立研究。",
+        "level": "advanced",
+        "locator": "HTML页码标记[616]—[622]及[625]结论；非1980期刊页码"
+      },
+      {
+        "title": "Stuart Hall",
+        "source_id": "G21",
+        "purpose": "从霍尔的机构角色和协作研究进入伯明翰传统，同时保留集体性。",
+        "level": "introductory",
+        "locator": "页面中1964年任职及协作研究段落"
+      }
+    ],
+    "learning_links": [
+      {
+        "target_id": "p-hall",
+        "reason": "由人物与机构角色进入英国文化研究，但避免把整个传统归于一人。",
+        "sequence_hint": "compare"
+      },
+      {
+        "target_id": "r6-gender",
+        "reason": "沿着女性主义对伯明翰中心议题与工作方式的介入继续学习；当前作为路径而非学术关系边。",
+        "sequence_hint": "after"
+      },
+      {
+        "target_id": "r6-race",
+        "reason": "从黑人政治进入机构议程的历史记录，继续学习种族、族群与媒介表征研究。",
+        "sequence_hint": "after"
+      }
+    ],
+    "temporal_profile": "relatively_stable",
+    "last_evidence_check": null,
+    "controversy_status": "contested",
+    "controversy_note": "本轮明确可支持的争议集中在起点叙事、英国／伯明翰谱系的边界及集体作者传统；全球与非西方路线仍待补证。",
+    "review_status": "ready_for_review",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-14",
+    "reviewed_at": null
+  },
+  {
+    "id": "p-hall",
+    "slug": "stuart-hall",
+    "record_level": "complete",
+    "type": "person",
+    "subtype": null,
+    "name_zh": "斯图亚特·霍尔",
+    "name_original": "Stuart Hall",
+    "aliases": [
+      {
+        "name": "斯图尔特·霍尔",
+        "kind": "alternate_translation",
+        "note": null
+      }
+    ],
+    "summary": "斯图亚特·霍尔（1932—2014）是文化理论家、社会学家与公共知识分子。他在伯明翰当代文化研究中心和英国开放大学任职，推动了编码／解码、表征、种族、身份与文化政治研究。",
+    "why_it_matters": "学习霍尔可以看到理论如何在集体研究、公共教育与具体政治语境中生成。他把意义分析与权力、历史和社会结构连接起来；他的经历也提醒学生不要把文化研究归功于单一人物或把解码位置当成固定受众类型。",
+    "roles": [
+      "文化理论家",
+      "社会学家",
+      "公共知识分子",
+      "教师与合作研究组织者"
+    ],
+    "communication_relevance": "霍尔在媒介意义的生产与接收、表征政治、种族与身份等方面形成了传播学和文化研究的重要分析资源；他在CCCS的协作研究及开放大学的大众教育工作，也连接了理论、经验研究与公共传播。",
+    "key_points": [
+      {
+        "id": "phall-k1",
+        "statement": "霍尔1932年出生、2014年去世；1964年进入伯明翰大学当代文化研究中心，1979年转任英国开放大学社会学教授并任职至1997年。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "G21",
+            "locator": "页面中1964年任职及1979年离校段落",
+            "support_note": "伯明翰大学记录其1964年加入CCCS及1979年转往开放大学。",
+            "support_role": "supports"
+          },
+          {
+            "source_id": "S008",
+            "locator": "人物说明及“Professor of Sociology from 1979 to 1997”图像记录",
+            "support_note": "开放大学档案记录生卒年与1979—1997年社会学教授任期。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "phall-k2",
+        "statement": "伯明翰大学把编码与解码列为霍尔在该校期间最著名的工作之一。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "G21",
+            "locator": "“His most famous works while at Birmingham...”段落",
+            "support_note": "机构页面明确把编码与解码列入其在校期间的代表性工作。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "phall-k3",
+        "statement": "霍尔的工作还持续介入表征、身份、种族、后殖民经验与英国政治，并把这些问题置于具体历史关节点中。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S007",
+            "locator": "accepted manuscript pp. 1-4",
+            "support_note": "学术综述概括霍尔对表征政治、差异中的身份、种族、后殖民身份、多元文化主义和英国政治分析的贡献。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "phall-k4",
+        "statement": "霍尔在伯明翰的影响也来自合作式研究与教学组织，包括共同署名著作、工作论文和研究小组。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "G21",
+            "locator": "关于 collaborative research、co-written books 和 working papers 的段落",
+            "support_note": "伯明翰大学页面强调霍尔推动的协作研究实践及CCCS集体成果。",
+            "support_role": "supports"
+          },
+          {
+            "source_id": "S005",
+            "locator": "Administrative History，历任主任、研究分组和跨学科工作段落",
+            "support_note": "档案把CCCS呈现为多人、分组和跨时期发展的机构工程。",
+            "support_role": "supports"
+          }
+        ]
+      }
+    ],
+    "limits_or_debates": [
+      {
+        "id": "phall-l1",
+        "statement": "不应以“创始人”单数概括霍尔与文化研究的关系；更稳妥的表述是关键理论家和组织者，并同时注明CCCS的集体与机构史。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "G21",
+            "locator": "1964年入职、协作研究与集体成果段落",
+            "support_note": "来源同时显示Hoggart创建中心、Hall随后加入并推动后续工作。",
+            "support_role": "qualifies"
+          },
+          {
+            "source_id": "S005",
+            "locator": "Administrative History",
+            "support_note": "机构史记录多人、研究小组和历任负责人，支持反英雄化的范围限定。",
+            "support_role": "qualifies"
+          }
+        ]
+      },
+      {
+        "id": "phall-l2",
+        "statement": "霍尔的理论涉及多个阶段和问题域；人物知识点不应把全部著述还原为编码／解码，也不应假定其概念体系始终不变。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "S007",
+            "locator": "accepted manuscript pp. 1-4",
+            "support_note": "综述展示其政治与学术问题的范围和阶段变化；本条是据此形成的人物页编辑边界。",
+            "support_role": "qualifies"
+          }
+        ]
+      }
+    ],
+    "area_memberships": [
+      {
+        "area_id": "meaning",
+        "is_primary": true,
+        "rationale": "编码／解码和表征问题集中体现他对意义生产与解释的贡献。"
+      },
+      {
+        "area_id": "effects",
+        "is_primary": false,
+        "rationale": "他的受众理论改变了效果与接受研究的问题设置，但并不等同于传统行为效果研究。"
+      },
+      {
+        "area_id": "power_culture",
+        "is_primary": false,
+        "rationale": "文化、种族、身份、意识形态与霸权构成其研究和公共介入的重要领域。"
+      }
+    ],
+    "learning_resources": [
+      {
+        "title": "Stuart Hall",
+        "source_id": "G21",
+        "purpose": "先了解霍尔与CCCS的机构关系、合作方式和代表性问题。",
+        "level": "introductory",
+        "locator": "全页"
+      },
+      {
+        "title": "Encoding and Decoding in the Television Discourse",
+        "source_id": "G16",
+        "purpose": "按传播环节、代码不对称及1973年稿的四种位置核读原典，并与后来常见三分版本区分。",
+        "level": "intermediate",
+        "locator": "PDF pp. 3-5、17-19"
+      },
+      {
+        "title": "Stuart Hall",
+        "source_id": "S007",
+        "purpose": "补足表征、身份、种族、后殖民政治和开放大学阶段，避免以单篇论文代替整个人物。",
+        "level": "intermediate",
+        "locator": "accepted manuscript pp. 1-4"
+      }
+    ],
+    "learning_links": [
+      {
+        "target_id": "r6-cultural-studies",
+        "reason": "先把霍尔放回CCCS的机构与集体研究脉络，再理解其个人贡献。",
+        "sequence_hint": "before"
+      },
+      {
+        "target_id": "r2-encoding-decoding",
+        "reason": "进入霍尔传播研究中关于生产、话语与接收关系的具体模型。",
+        "sequence_hint": "after"
+      },
+      {
+        "target_id": "r2-representation",
+        "reason": "继续学习霍尔如何把表征与权力、差异和身份问题联系起来。",
+        "sequence_hint": "after"
+      }
+    ],
+    "temporal_profile": "relatively_stable",
+    "last_evidence_check": null,
+    "controversy_status": "contested",
+    "controversy_note": "本条目重点提示霍尔的贡献边界、合作研究位置及不同时期概念变化，避免将文化研究英雄化或过度体系化。",
+    "review_status": "ready_for_review",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-11",
+    "reviewed_at": null
+  }
+]

@@ -1,0 +1,4437 @@
+[
+  {
+    "id": "G01",
+    "source_type": "official_record",
+    "title": "Learning Outcomes in Communication",
+    "authors_or_organization": [
+      "LOC faculty group",
+      "National Communication Association"
+    ],
+    "year": 2015,
+    "publisher_or_venue": "National Communication Association",
+    "doi": null,
+    "url": "https://www.natcom.org/sites/default/files/publications/LOC_1_What_Should_a_Graduate_with_a_Communication_Degree.pdf",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "metadata",
+    "bibliographic_note": "原 source-register 字段：evidence_level=A-primary；evidence_status=partial；claims_supported=传播学本科毕业生的九项学习成果；学科、理论、研究、信息创作、批判分析、伦理、差异与公共话语；原 notes=官方纪念页面已核；PDF需保存本地文本证据"
+  },
+  {
+    "id": "G02",
+    "source_type": "official_record",
+    "title": "Subject Benchmark Statement: Communication Media Film and Cultural Studies",
+    "authors_or_organization": [
+      "QAA advisory group",
+      "Quality Assurance Agency for Higher Education"
+    ],
+    "year": 2024,
+    "publisher_or_venue": "Quality Assurance Agency for Higher Education",
+    "doi": null,
+    "url": "https://www.qaa.ac.uk/docs/qaa/sbs/sbs-communication-media-film-and-cultural-studies-24.pdf?sfvrsn=c401b481_4",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "full_text",
+    "bibliographic_note": "原 source-register 字段：evidence_level=A-primary；evidence_status=verified；claims_supported=学科多样性、超越西方经典、技术非中立、权力与表征、研究方法、伦理、可及性和可持续性；原 notes=已打开32页PDF并核对范围与方法段落"
+  },
+  {
+    "id": "G03",
+    "source_type": "official_record",
+    "title": "ICA 2026 Divisions and Interest Groups",
+    "authors_or_organization": [
+      "International Communication Association",
+      "International Communication Association"
+    ],
+    "year": 2026,
+    "publisher_or_venue": "International Communication Association",
+    "doi": null,
+    "url": "https://www.icahdq.org/mpage/ICA26-calls-for-papers",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "metadata",
+    "bibliographic_note": "原 source-register 字段：evidence_level=A-primary；evidence_status=partial；claims_supported=当前活跃研究单元，用于覆盖检查而非本科必修清单；原 notes=须保存研究单元名称快照；避免与International Council on Archives混淆"
+  },
+  {
+    "id": "G04",
+    "source_type": "official_record",
+    "title": "Sections and Working Groups",
+    "authors_or_organization": [
+      "IAMCR",
+      "International Association for Media and Communication Research"
+    ],
+    "year": 2026,
+    "publisher_or_venue": "International Association for Media and Communication Research",
+    "doi": null,
+    "url": "https://iamcr.org/s-wg",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "full_text",
+    "bibliographic_note": "原 source-register 字段：evidence_level=A-primary；evidence_status=verified；claims_supported=受众、政治经济、国际传播、参与式传播、性别、数字鸿沟、乡村传播与全球政策；原 notes=组织分类会变化，需版本化"
+  },
+  {
+    "id": "G05",
+    "source_type": "official_record",
+    "title": "Communication BA 2026-27 Catalog",
+    "authors_or_organization": [
+      "University of Pennsylvania",
+      "University of Pennsylvania"
+    ],
+    "year": 2026,
+    "publisher_or_venue": "University of Pennsylvania",
+    "doi": null,
+    "url": "https://catalog.upenn.edu/undergraduate/programs/communication-ba/communication-ba.pdf",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "metadata",
+    "bibliographic_note": "原 source-register 字段：evidence_level=A-primary；evidence_status=partial；claims_supported=系统制度过程效果；传播与文化、产业、消费与效果、数据科学及多种方法；原 notes=大学正式培养方案"
+  },
+  {
+    "id": "G06",
+    "source_type": "official_record",
+    "title": "Major in Communication",
+    "authors_or_organization": [
+      "Stanford Communication",
+      "Stanford University"
+    ],
+    "year": 2026,
+    "publisher_or_venue": "Stanford University",
+    "doi": null,
+    "url": "https://comm.stanford.edu/major",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "metadata",
+    "bibliographic_note": "原 source-register 字段：evidence_level=A-primary；evidence_status=partial；claims_supported=传播过程与效果、系统与制度、研究方法、统计、算法政治和AI治理；原 notes=当前课程可能按学年调整"
+  },
+  {
+    "id": "G07",
+    "source_type": "official_record",
+    "title": "Bachelor's Global Communication Science: Study Programme",
+    "authors_or_organization": [
+      "Communication Science",
+      "University of Amsterdam"
+    ],
+    "year": 2026,
+    "publisher_or_venue": "University of Amsterdam",
+    "doi": null,
+    "url": "https://www.uva.nl/en/programmes/bachelors/communication-science/study-programme/study-programme.html?menu=english",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "metadata",
+    "bibliographic_note": "原 source-register 字段：evidence_level=A-primary；evidence_status=partial；claims_supported=连续方法训练、全球比较、算法AI、隐私、虚假信息、健康与可持续性；原 notes=大学正式课程页面"
+  },
+  {
+    "id": "G08",
+    "source_type": "official_record",
+    "title": "Undergraduate Course List",
+    "authors_or_organization": [
+      "Communications and New Media",
+      "National University of Singapore"
+    ],
+    "year": 2026,
+    "publisher_or_venue": "National University of Singapore",
+    "doi": null,
+    "url": "https://fass.nus.edu.sg/cnm/undergraduate-course-list/",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "metadata",
+    "bibliographic_note": "原 source-register 字段：evidence_level=A-primary；evidence_status=partial；claims_supported=亚洲语境下理论、符号学、效果、CMC、方法、算法治理和AI中介传播；原 notes=页面提醒课程并非每年均开；coming soon须单独标记"
+  },
+  {
+    "id": "G09",
+    "source_type": "official_record",
+    "title": "Undergraduate Courses",
+    "authors_or_organization": [
+      "Centre for Film and Media Studies",
+      "University of Cape Town"
+    ],
+    "year": 2026,
+    "publisher_or_venue": "University of Cape Town",
+    "doi": null,
+    "url": "https://humanities.uct.ac.za/cfms/undergraduate-studies/undergraduate-courses",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "metadata",
+    "bibliographic_note": "原 source-register 字段：evidence_level=A-primary；evidence_status=partial；claims_supported=媒体与社会、权力与文化、南非媒体、非洲位置、符号学与霸权；原 notes=用于非西方位置样本，不代表整个非洲课程体系"
+  },
+  {
+    "id": "G10",
+    "source_type": "official_record",
+    "title": "Public Relations Bachelor of Communication",
+    "authors_or_organization": [
+      "University of Queensland",
+      "University of Queensland"
+    ],
+    "year": 2026,
+    "publisher_or_venue": "University of Queensland",
+    "doi": null,
+    "url": "https://study.uq.edu.au/study-options/programs/bachelor-communication-2507/public-relations-pubrec2507?year=2026",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "metadata",
+    "bibliographic_note": "原 source-register 字段：evidence_level=A-primary；evidence_status=partial；claims_supported=公共关系、组织议题、危机、利益相关者、伦理与社会责任；原 notes=应用方向样本"
+  },
+  {
+    "id": "G11",
+    "source_type": "scholarly_synthesis",
+    "title": "McQuail's Media and Mass Communication Theory 7th edition contents",
+    "authors_or_organization": [
+      "Denis McQuail and Mark Deuze",
+      "SAGE"
+    ],
+    "year": 2020,
+    "publisher_or_venue": "SAGE",
+    "doi": null,
+    "url": "https://us.sagepub.com/sites/default/files/upm-assets/113187_book_item_113187.pdf",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "metadata",
+    "bibliographic_note": "原 source-register 字段：evidence_level=B-synthesis；evidence_status=partial；claims_supported=理论、结构、组织、内容、受众、效果的纵向链条；原 notes=用于范围背景，不能作为统一课程标准"
+  },
+  {
+    "id": "G12",
+    "source_type": "scholarly_synthesis",
+    "title": "Theories of Human Communication 13th edition",
+    "authors_or_organization": [
+      "Stephen W. Littlejohn et al.",
+      "Waveland Press"
+    ],
+    "year": 2026,
+    "publisher_or_venue": "Waveland Press",
+    "doi": null,
+    "url": "https://waveland.com/browse.php?t=270",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "metadata",
+    "bibliographic_note": "原 source-register 字段：evidence_level=B-synthesis；evidence_status=partial；claims_supported=传播者、信息、媒介、关系、组织、健康、文化、社会与非人传播；原 notes=出版社目录证据"
+  },
+  {
+    "id": "G13",
+    "source_type": "scholarly_synthesis",
+    "title": "A Handbook of Media and Communication Research 3rd edition",
+    "authors_or_organization": [
+      "Klaus Bruhn Jensen",
+      "Routledge"
+    ],
+    "year": 2021,
+    "publisher_or_venue": "Routledge",
+    "doi": null,
+    "url": "https://www.routledge.com/A-Handbook-of-Media-and-Communication-Research-Qualitative-and-Quantitative-Methodologies/Jensen/p/book/9781138492899",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "metadata",
+    "bibliographic_note": "原 source-register 字段：evidence_level=B-synthesis；evidence_status=partial；claims_supported=人文与社会科学源流、组织文本用户语境及多元方法；原 notes=出版社目录证据"
+  },
+  {
+    "id": "G14",
+    "source_type": "official_record",
+    "title": "Media and Information Literate Citizens: Think Critically Click Wisely",
+    "authors_or_organization": [
+      "UNESCO",
+      "UNESCO"
+    ],
+    "year": 2021,
+    "publisher_or_venue": "UNESCO",
+    "doi": null,
+    "url": "https://www.unesco.org/en/articles/media-and-information-literate-citizens-think-critically-click-wisely",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "metadata",
+    "bibliographic_note": "原 source-register 字段：evidence_level=A-primary；evidence_status=partial；claims_supported=媒体信息与数字素养、AI、数字公民、虚假信息与仇恨言论；原 notes=跨区应用能力来源"
+  },
+  {
+    "id": "G15",
+    "source_type": "official_record",
+    "title": "Reporting on Artificial Intelligence: A Handbook for Journalism Educators",
+    "authors_or_organization": [
+      "UNESCO",
+      "UNESCO"
+    ],
+    "year": 2023,
+    "publisher_or_venue": "UNESCO",
+    "doi": null,
+    "url": "https://unesdoc.unesco.org/in/documentViewer.xhtml?ark=/ark:/48223/pf0000384551",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "metadata",
+    "bibliographic_note": "原 source-register 字段：evidence_level=A-primary；evidence_status=partial；claims_supported=AI定义、文化神话、政策、算法文化、恶意使用与负责任报道；原 notes=AI既是工具也是报道与治理对象"
+  },
+  {
+    "id": "C01",
+    "source_type": "official_record",
+    "title": "教育部发布我国高等教育领域首个教学质量国家标准",
+    "authors_or_organization": [
+      "教育部",
+      "中华人民共和国教育部"
+    ],
+    "year": 2018,
+    "publisher_or_venue": "中华人民共和国教育部",
+    "doi": null,
+    "url": "https://www.moe.gov.cn/jyb_xwfb/xw_fbh/moe_2069/xwfbh_2018n/xwfb_20180130/sfcl/201801/t20180130_325920.html",
+    "language": "zh-CN",
+    "accessed_at": "2026-09-10",
+    "access_status": "full_text",
+    "bibliographic_note": "原 source-register 字段：evidence_level=A-primary；evidence_status=verified；claims_supported=本科专业类国家标准的发布、作用与课程体系定位；原 notes=教育部正式说明；具体新闻传播课程须结合标准正文"
+  },
+  {
+    "id": "C02",
+    "source_type": "official_record",
+    "title": "普通高等学校本科专业类教学质量国家标准（上）",
+    "authors_or_organization": [
+      "教育部高等学校教学指导委员会",
+      "高等教育出版社"
+    ],
+    "year": 2018,
+    "publisher_or_venue": "高等教育出版社",
+    "doi": null,
+    "url": "https://xuanshu.hep.com.cn/front/book/findBookDetails?bookId=5aa808c4f18f967ee7f36bde",
+    "language": "zh-CN",
+    "accessed_at": "2026-09-10",
+    "access_status": "metadata",
+    "bibliographic_note": "原 source-register 字段：evidence_level=A-primary；evidence_status=partial；claims_supported=新闻传播学类标准的正式出版信息；原 notes=具体页码使用高校镜像时需与正式出版信息联合"
+  },
+  {
+    "id": "C03",
+    "source_type": "official_record",
+    "title": "普通高等学校本科专业类教学质量国家标准（上）PDF镜像",
+    "authors_or_organization": [
+      "教育部高等学校教学指导委员会",
+      "南昌大学镜像"
+    ],
+    "year": 2018,
+    "publisher_or_venue": "南昌大学镜像",
+    "doi": null,
+    "url": "https://shpg.ncu.edu.cn/docs/2024-03/52ff1e86364649e1b238a339a7f3e1ab.pdf",
+    "language": "zh-CN",
+    "accessed_at": "2026-09-10",
+    "access_status": "metadata",
+    "bibliographic_note": "原 source-register 字段：evidence_level=A-primary；evidence_status=partial；claims_supported=新闻学、传播学、新媒体、历史、伦理法规、方法、舆论、效果与受众等课程细目；原 notes=非教育部原始托管地址，须与C01和C02交叉使用"
+  },
+  {
+    "id": "C04",
+    "source_type": "official_record",
+    "title": "卓越新闻传播人才教育培养计划2.0",
+    "authors_or_organization": [
+      "教育部 中共中央宣传部",
+      "中华人民共和国教育部"
+    ],
+    "year": 2018,
+    "publisher_or_venue": "中华人民共和国教育部",
+    "doi": null,
+    "url": "https://www.moe.gov.cn/srcsite/A08/s7056/201810/t20181017_351893.html",
+    "language": "zh-CN",
+    "accessed_at": "2026-09-10",
+    "access_status": "metadata",
+    "bibliographic_note": "原 source-register 字段：evidence_level=A-primary；evidence_status=partial；claims_supported=家国情怀、国际视野、全媒化、复合型、媒体融合和中国表达；原 notes=政策目标不能直接当作解释性理论"
+  },
+  {
+    "id": "C05",
+    "source_type": "official_record",
+    "title": "普通高等学校本科专业目录（2025年）",
+    "authors_or_organization": [
+      "教育部",
+      "中华人民共和国教育部"
+    ],
+    "year": 2025,
+    "publisher_or_venue": "中华人民共和国教育部",
+    "doi": null,
+    "url": "https://www.moe.gov.cn/srcsite/A08/moe_1034/s4930/202504/W020250422312780837078.pdf",
+    "language": "zh-CN",
+    "accessed_at": "2026-09-10",
+    "access_status": "metadata",
+    "bibliographic_note": "原 source-register 字段：evidence_level=A-primary；evidence_status=partial；claims_supported=新闻传播学类法定专业边界；原 notes=只支持专业边界，不支持理论定义"
+  },
+  {
+    "id": "C06",
+    "source_type": "official_record",
+    "title": "清华大学新闻学专业本科培养方案",
+    "authors_or_organization": [
+      "清华大学",
+      "清华大学"
+    ],
+    "year": 2020,
+    "publisher_or_venue": "清华大学",
+    "doi": null,
+    "url": "https://www.tsinghua.edu.cn/jxjywj/bkzy2020_60.pdf",
+    "language": "zh-CN",
+    "accessed_at": "2026-09-10",
+    "access_status": "metadata",
+    "bibliographic_note": "原 source-register 字段：evidence_level=A-primary；evidence_status=partial；claims_supported=传播原理、新闻传播史、调查统计、伦理法规、数字技术、跨文化与国际新闻；原 notes=版本较早，需留意更新方案"
+  },
+  {
+    "id": "C07",
+    "source_type": "official_record",
+    "title": "中国人民大学新闻学院系部介绍",
+    "authors_or_organization": [
+      "中国人民大学新闻学院",
+      "中国人民大学"
+    ],
+    "year": 2026,
+    "publisher_or_venue": "中国人民大学",
+    "doi": null,
+    "url": "https://jcr.ruc.edu.cn/xygk/xbjs/index.htm",
+    "language": "zh-CN",
+    "accessed_at": "2026-09-10",
+    "access_status": "metadata",
+    "bibliographic_note": "原 source-register 字段：evidence_level=A-primary；evidence_status=partial；claims_supported=传播理论、数字媒体、公共传播、舆论、计算传播、文化产业与事实核查；原 notes=院系研究覆盖，不等同于本科必修"
+  },
+  {
+    "id": "C08",
+    "source_type": "official_record",
+    "title": "新闻传播学类专业2+X教学培养方案",
+    "authors_or_organization": [
+      "复旦大学新闻学院",
+      "复旦大学"
+    ],
+    "year": 2022,
+    "publisher_or_venue": "复旦大学",
+    "doi": null,
+    "url": "https://xwxy.fudan.edu.cn/_upload/article/files/24/1f/8337f248464082eab37f15e93de6/896c78f5-e2c5-4d7a-ae9a-78798a9dc973.pdf",
+    "language": "zh-CN",
+    "accessed_at": "2026-09-11",
+    "access_status": "full_text",
+    "bibliographic_note": "原 source-register 字段：evidence_level=A-primary；evidence_status=verified；claims_supported=新闻传播史论、方法、伦理、融合、数据、传播学各层次及丰富专题；原 notes=已打开23页PDF并核对课程表"
+  },
+  {
+    "id": "C09",
+    "source_type": "official_record",
+    "title": "传播学本科培养方案",
+    "authors_or_organization": [
+      "新闻传播学院",
+      "北京师范大学"
+    ],
+    "year": 2026,
+    "publisher_or_venue": "北京师范大学",
+    "doi": null,
+    "url": "https://sjc.bnu.edu.cn/rcpy/bkspy/112701.html",
+    "language": "zh-CN",
+    "accessed_at": "2026-09-10",
+    "access_status": "metadata",
+    "bibliographic_note": "原 source-register 字段：evidence_level=A-primary；evidence_status=partial；claims_supported=传播理论、方法、受众、伦理、新媒体、社交媒体、数据新闻与网络数据挖掘；原 notes=大学正式页面"
+  },
+  {
+    "id": "C10",
+    "source_type": "official_record",
+    "title": "新闻传播学类国际传播智能传播试验班培养方案",
+    "authors_or_organization": [
+      "新闻与传播学院",
+      "武汉大学"
+    ],
+    "year": 2025,
+    "publisher_or_venue": "武汉大学",
+    "doi": null,
+    "url": "https://journal.whu.edu.cn/uploadfiles/20260331v2b1q.pdf",
+    "language": "zh-CN",
+    "accessed_at": "2026-09-10",
+    "access_status": "metadata",
+    "bibliographic_note": "原 source-register 字段：evidence_level=A-primary；evidence_status=partial；claims_supported=人智交互、机器学习、大语言模型、计算传播、数据伦理、政治与跨文化传播；原 notes=动态课程需保留学年"
+  },
+  {
+    "id": "C11",
+    "source_type": "official_record",
+    "title": "传播学专业介绍",
+    "authors_or_organization": [
+      "中国传媒大学新闻学院",
+      "中国传媒大学"
+    ],
+    "year": 2026,
+    "publisher_or_venue": "中国传媒大学",
+    "doi": null,
+    "url": "https://xinwenxueyuan.cuc.edu.cn/rcpy/list.htm",
+    "language": "zh-CN",
+    "accessed_at": "2026-09-10",
+    "access_status": "metadata",
+    "bibliographic_note": "原 source-register 字段：evidence_level=A-primary；evidence_status=partial；claims_supported=人际传播、统计、社会科学方法、新媒体与社会、平台化环境；原 notes=大学正式页面"
+  },
+  {
+    "id": "C12",
+    "source_type": "official_record",
+    "title": "中国新闻史学会分支机构",
+    "authors_or_organization": [
+      "中国新闻史学会",
+      "中国新闻史学会"
+    ],
+    "year": 2026,
+    "publisher_or_venue": "中国新闻史学会",
+    "doi": null,
+    "url": "https://www.jca-china.org/html/about/branch/",
+    "language": "zh-CN",
+    "accessed_at": "2026-09-10",
+    "access_status": "metadata",
+    "bibliographic_note": "原 source-register 字段：evidence_level=A-primary；evidence_status=partial；claims_supported=传播、舆论、公共关系、经济、法规伦理、国际、符号、计算、健康、少数民族及海外华文等研究领域；原 notes=学会设分支不等于领域已有成熟统一理论"
+  },
+  {
+    "id": "C13",
+    "source_type": "official_record",
+    "title": "中国新闻传播大讲堂",
+    "authors_or_organization": [
+      "中宣部 教育部 中国记协指导",
+      "中国传媒大学"
+    ],
+    "year": 2026,
+    "publisher_or_venue": "中国传媒大学",
+    "doi": null,
+    "url": "https://tvs.cuc.edu.cn/xwcbdjt/list.htm",
+    "language": "zh-CN",
+    "accessed_at": "2026-09-11",
+    "access_status": "excerpt",
+    "bibliographic_note": "原 source-register 字段：evidence_level=A-primary；evidence_status=partial；claims_supported=马克思主义新闻观、国情、伦理、融合报道与一线实践；原 notes=教学案例节点；2026-09-11 已核页面所列 2020-2023 年课程说明片段；不代表全国高校课程常态。"
+  },
+  {
+    "id": "C14",
+    "source_type": "scholarly_synthesis",
+    "title": "传播学概论",
+    "authors_or_organization": [
+      "胡正荣等",
+      "高等教育出版社"
+    ],
+    "year": 2026,
+    "publisher_or_venue": "高等教育出版社",
+    "doi": null,
+    "url": "https://www.hep.com.cn/book/show/68cffdab-d135-463e-b45d-654d5b9a2490",
+    "language": "zh-CN",
+    "accessed_at": "2026-09-10",
+    "access_status": "metadata",
+    "bibliographic_note": "原 source-register 字段：evidence_level=B-synthesis；evidence_status=partial；claims_supported=传播史、经典理论、过程、媒介、受众、效果、产业与前沿；原 notes=本科教材目录"
+  },
+  {
+    "id": "C15",
+    "source_type": "scholarly_synthesis",
+    "title": "中国新闻传播史",
+    "authors_or_organization": [
+      "教材编写组",
+      "高等教育出版社"
+    ],
+    "year": 2021,
+    "publisher_or_venue": "高等教育出版社",
+    "doi": null,
+    "url": "https://xuanshu.hep.com.cn/front/book/findBookDetails?bookId=5efa23cab0b2bda7c523cbcb",
+    "language": "zh-CN",
+    "accessed_at": "2026-09-11",
+    "access_status": "excerpt",
+    "bibliographic_note": "原 source-register 字段：evidence_level=B-synthesis；evidence_status=partial；claims_supported=古代至改革开放及港澳台新闻传播史的教学范围；原 notes=官网当前显示出版时间2021-08-26、ISBN 978-7-04-054419-0；已核简介与目录；具体人物节点仍需史料；2026-09-11 官网显示出版时间 2021-08-26、ISBN 978-7-04-054419-0；已核图书简介与目录，非全书正文。"
+  },
+  {
+    "id": "C16",
+    "source_type": "scholarly_synthesis",
+    "title": "理论谱系与本土探索：新中国传播学理论研究70年",
+    "authors_or_organization": [
+      "刘涛",
+      "新闻与传播研究"
+    ],
+    "year": 2019,
+    "publisher_or_venue": "新闻与传播研究",
+    "doi": null,
+    "url": "https://www.cssn.cn/xwcbx/__deleted_2022.12.31_13.46.18__xwcbx_xkqy/202208/t20220802_5440270.shtml",
+    "language": "zh-CN",
+    "accessed_at": "2026-09-11",
+    "access_status": "excerpt",
+    "bibliographic_note": "原 source-register 字段：evidence_level=B-synthesis；evidence_status=partial；claims_supported=中国传播学的译介、发展、批判与本土探索；十六字方针和华夏传播线索；原 notes=学术史综述；本土理论成熟度需展示争议；2026-09-11 已核第四节首段与正文末段；它是后出学术史综述，不是 1982 年会议原件。"
+  },
+  {
+    "id": "G16",
+    "source_type": "primary_scholarship",
+    "title": "Encoding and Decoding in the Television Discourse",
+    "authors_or_organization": [
+      "Stuart Hall",
+      "Centre for Contemporary Cultural Studies, University of Birmingham"
+    ],
+    "year": 1973,
+    "publisher_or_venue": "Centre for Contemporary Cultural Studies, University of Birmingham",
+    "doi": null,
+    "url": "https://epapers.bham.ac.uk/id/eprint/2962/",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "full_text",
+    "bibliographic_note": "原 source-register 字段：evidence_level=A-primary；evidence_status=partial；claims_supported=作者、年份、机构和原文档案；命题需逐页定位；原 notes=伯明翰大学机构仓储已核；17MB PDF 本轮超时；2026-09-11 已核机构仓储 21 页 PDF；PDF 3-5 页为流程与代码不对称，17-19 页为四种理想型位置。"
+  },
+  {
+    "id": "G17",
+    "source_type": "primary_scholarship",
+    "title": "The Agenda-Setting Function of Mass Media",
+    "authors_or_organization": [
+      "Maxwell E. McCombs and Donald L. Shaw",
+      "Public Opinion Quarterly; Oxford University Press"
+    ],
+    "year": 1972,
+    "publisher_or_venue": "Public Opinion Quarterly; Oxford University Press",
+    "doi": "10.1086/267990",
+    "url": "https://doi.org/10.1086/267990",
+    "language": "en",
+    "accessed_at": "2026-09-19",
+    "access_status": "full_text",
+    "bibliographic_note": "出版者页面已核摘要。2026-09-11核读可访问全文；2026-09-19复核作者上传的2017年重印校样（页面标明Uncorrected proofs），内部pp.106–107 Method直接说明新闻与社论评论样本、议题分类及突出程度编码。关系定位采用该副本内部页码，不冒充原刊版面，也不把聚合相关扩大为因果。可访问副本：https://www.researchgate.net/profile/Maxwell-Mccombs/publication/317122086_The_Agenda-Setting_function_of_mass_media/links/5cddbc3f458515712eb064d2/The-Agenda-Setting-function-of-mass-media.pdf"
+  },
+  {
+    "id": "G18",
+    "source_type": "primary_scholarship",
+    "title": "The Gate Keeper: A Case Study in the Selection of News",
+    "authors_or_organization": [
+      "David Manning White",
+      "Journalism Quarterly; SAGE"
+    ],
+    "year": 1950,
+    "publisher_or_venue": "Journalism Quarterly; SAGE",
+    "doi": "10.1177/107769905002700403",
+    "url": "https://doi.org/10.1177/107769905002700403",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "full_text",
+    "bibliographic_note": "原 source-register 字段：evidence_level=A-primary；evidence_status=verified；claims_supported=电讯稿选用与拒绝的七日个案、编辑理由分析及出版信息；原 notes=不能单独支持 Lewin 的概念来源"
+  },
+  {
+    "id": "G19",
+    "source_type": "primary_scholarship",
+    "title": "The Structural Transformation of the Public Sphere: An Inquiry into a Category of Bourgeois Society",
+    "authors_or_organization": [
+      "Jürgen Habermas",
+      "The MIT Press"
+    ],
+    "year": 1991,
+    "publisher_or_venue": "The MIT Press",
+    "doi": null,
+    "url": "https://mitpress.mit.edu/9780262581080/the-structural-transformation-of-the-public-sphere/",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "metadata",
+    "bibliographic_note": "原 source-register 字段：evidence_level=A-primary；evidence_status=partial；claims_supported=英译本书目、作者与公共意见的历史社会学研究范围；原 notes=具体定义和批评需原文与二手学术文献"
+  },
+  {
+    "id": "G20",
+    "source_type": "scholarly_synthesis",
+    "title": "Content Analysis: An Introduction to Its Methodology, Fourth Edition",
+    "authors_or_organization": [
+      "Klaus Krippendorff",
+      "SAGE Publications"
+    ],
+    "year": 2018,
+    "publisher_or_venue": "SAGE Publications",
+    "doi": null,
+    "url": "https://uk.sagepub.com/en-gb/afr/content-analysis/book258450",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "metadata",
+    "bibliographic_note": "原 source-register 字段：evidence_level=A-primary；evidence_status=partial；claims_supported=内容分析的当代方法论范围、文本与传播语境；原 notes=出版社书目已核；实施细节需页码定位"
+  },
+  {
+    "id": "G21",
+    "source_type": "official_record",
+    "title": "Stuart Hall",
+    "authors_or_organization": [
+      "University of Birmingham",
+      "University of Birmingham"
+    ],
+    "year": 2014,
+    "publisher_or_venue": "University of Birmingham",
+    "doi": null,
+    "url": "https://www.birmingham.ac.uk/research/perspective/stuart-hall-hilton-and-connell",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "full_text",
+    "bibliographic_note": "原 source-register 字段：evidence_level=A-primary；evidence_status=verified；claims_supported=霍尔在 CCCS 的身份、文化研究关联及编码解码线索；原 notes=适合履历与机构关系；理论命题以 G16 为主"
+  },
+  {
+    "id": "G22",
+    "source_type": "primary_scholarship",
+    "title": "Frontiers in Group Dynamics II: Channels of Group Life; Social Planning and Action Research",
+    "authors_or_organization": [
+      "Kurt Lewin",
+      "Human Relations; SAGE"
+    ],
+    "year": 1947,
+    "publisher_or_venue": "Human Relations; SAGE",
+    "doi": "10.1177/001872674700100201",
+    "url": "https://doi.org/10.1177/001872674700100201",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "excerpt",
+    "bibliographic_note": "原 source-register 字段：evidence_level=A-primary；evidence_status=partial；claims_supported=渠道、门和守门人的一般社会生活概念来源；原 notes=只支持概念前史，不是成熟新闻把关理论；2026-09-11 已核 SAGE 搜索索引所示印刷页 145-146 原文片段；未取得稳定整篇下载。"
+  },
+  {
+    "id": "G23",
+    "source_type": "primary_scholarship",
+    "title": "The Public Sphere: An Encyclopedia Article (1964)",
+    "authors_or_organization": [
+      "Jürgen Habermas",
+      "New German Critique"
+    ],
+    "year": 1974,
+    "publisher_or_venue": "New German Critique",
+    "doi": "10.2307/487737",
+    "url": "https://doi.org/10.2307/487737",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "full_text",
+    "bibliographic_note": "原 source-register 字段：evidence_level=A-primary；evidence_status=partial；claims_supported=公共领域的简明定义、公众讨论及其制度条件；原 notes=须在可访问正文中定位具体段落；2026-09-11 已核日内瓦大学保存的全文 PDF，印刷页 49-55。"
+  },
+  {
+    "id": "G24",
+    "source_type": "primary_scholarship",
+    "title": "Cultural Studies: Two Paradigms",
+    "authors_or_organization": [
+      "Stuart Hall",
+      "Media, Culture & Society; SAGE"
+    ],
+    "year": 1980,
+    "publisher_or_venue": "Media, Culture & Society; SAGE",
+    "doi": "10.1177/016344378000200106",
+    "url": "https://doi.org/10.1177/016344378000200106",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "excerpt",
+    "bibliographic_note": "原 source-register 字段：evidence_level=A-primary；evidence_status=partial；claims_supported=文化主义与结构主义两条思想路线及其张力；原 notes=不支持 Hall 单独创立整个文化研究学科；2026-09-11 仅核机构 PDF 搜索索引片段，足以支持 p.57 的起点叙事限制；范式比较仍待全文。"
+  },
+  {
+    "id": "G25",
+    "source_type": "primary_scholarship",
+    "title": "Content Analysis in Mass Communication: Assessment and Reporting of Intercoder Reliability",
+    "authors_or_organization": [
+      "Matthew Lombard; Jennifer Snyder-Duch; Cheryl Campanella Bracken",
+      "Human Communication Research"
+    ],
+    "year": 2002,
+    "publisher_or_venue": "Human Communication Research",
+    "doi": "10.1111/j.1468-2958.2002.tb00826.x",
+    "url": "https://doi.org/10.1111/j.1468-2958.2002.tb00826.x",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "abstract",
+    "bibliographic_note": "原 source-register 字段：evidence_level=A-primary；evidence_status=partial；claims_supported=编码者间一致性的评估与报告是内容分析质量控制要求；原 notes=不支持所有研究都必须使用同一系数或阈值；2026-09-11 已核正式摘要及作者维护的编码者间信度说明；未核原刊正文 PDF。"
+  },
+  {
+    "id": "C17",
+    "source_type": "scholarly_synthesis",
+    "title": "构建新时代中国新闻传播学",
+    "authors_or_organization": [
+      "刘义昆",
+      "雷雪晴"
+    ],
+    "year": 2020,
+    "publisher_or_venue": "中国社会科学报；全国哲学社会科学工作办公室转载",
+    "doi": null,
+    "url": "https://www.nopss.gov.cn/n1/2020/0221/c219470-31598110.html",
+    "language": "zh-CN",
+    "accessed_at": "2026-09-14",
+    "access_status": "full_text",
+    "bibliographic_note": "2026-09-14实际打开机构刊载全文：页面时间2020-02-21、署名刘义昆与雷雪晴、来源中国社会科学报，据此更正旧登记‘胡正荣’署名。‘与时代同行的中国新闻传播学’中改革开放段记述1982年座谈会及十六字方针；这是后出学术史文章，仍不提供会议原件、原始纪要或一手文本，r1ci-l3保持pending。页面2019年底统计不作为当前数量使用。"
+  },
+  {
+    "id": "C18",
+    "source_type": "official_record",
+    "title": "实践中的马克思主义新闻观案例教材出版",
+    "authors_or_organization": [
+      "新华社",
+      "中华人民共和国教育部"
+    ],
+    "year": 2015,
+    "publisher_or_venue": "中华人民共和国教育部",
+    "doi": null,
+    "url": "https://www.moe.gov.cn/jyb_xwfb/s5147/201501/t20150104_182648.html",
+    "language": "zh-CN",
+    "accessed_at": "2026-09-11",
+    "access_status": "metadata",
+    "bibliographic_note": "原 source-register 字段：evidence_level=A-primary；evidence_status=partial；claims_supported=中宣部、教育部组织编写案例教材及其教学用途；原 notes=官方搜索摘要已核；页面打开异常"
+  },
+  {
+    "id": "C19",
+    "source_type": "teaching_resource",
+    "title": "马克思主义新闻观十二讲",
+    "authors_or_organization": [
+      "本书编写组",
+      "高等教育出版社"
+    ],
+    "year": 2019,
+    "publisher_or_venue": "高等教育出版社",
+    "doi": null,
+    "url": "https://xuanshu.hep.com.cn/front/h5Mobile/bookDetails?bookId=5b745f70f18f967ee7f375c8",
+    "language": "zh-CN",
+    "accessed_at": "2026-09-11",
+    "access_status": "excerpt",
+    "bibliographic_note": "原 source-register 字段：evidence_level=B-synthesis；evidence_status=partial；claims_supported=图书简介与目录所列的新闻真实、权利责任、法治道德、新技术与国际传播等教学范围；原 notes=已核出版社简介及目录，非全书正文；具体概念须用原著或可定位正文；2026-09-11 已核出版社图书简介与目录，非全书正文。"
+  },
+  {
+    "id": "C20",
+    "source_type": "official_record",
+    "title": "方汉奇：新闻研究应该始终坚持历史唯物主义",
+    "authors_or_organization": [
+      "中国人民大学新闻网",
+      "中国人民大学"
+    ],
+    "year": 2017,
+    "publisher_or_venue": "中国人民大学",
+    "doi": null,
+    "url": "https://news.ruc.edu.cn/703146243790278.html",
+    "language": "zh-CN",
+    "accessed_at": "2026-09-14",
+    "access_status": "full_text",
+    "bibliographic_note": "原source-register登记及2026-09-11核验：校方2017年刊载2009年口述自述，履历位于‘早年工作经历及见闻’，著述位于改革开放后研究段落。2026-09-14实际再次打开：文章末‘人物简介’明确载原名方汉迁，2005年首批荣誉教授、2009年首批荣誉一级教授，并将中国新闻史学会会长列作曾任职务。该简介是校方编辑材料，与2009年口述正文区分使用；仅支持所列历史称谓，不核定2026年任职状态，也不采纳页面‘最高水平’等评价为独立学术结论。"
+  },
+  {
+    "id": "S001",
+    "source_type": "primary_scholarship",
+    "title": "Encoding and Decoding in the Television Discourse [originally 1973; republished 2007]",
+    "authors_or_organization": [
+      "Stuart Hall"
+    ],
+    "year": 2018,
+    "publisher_or_venue": "Duke University Press",
+    "doi": "10.1515/9781478002413-014",
+    "url": "https://doi.org/10.1515/9781478002413-014",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "metadata",
+    "bibliographic_note": "原始 note: 用于可靠重印本书目信息；具体命题仍优先回到 G16 的1973年机构仓储原稿。；原始 access_status: bibliographic_record；container: *Essential Essays, Volume 1: Foundations of Cultural Studies*；editor: David Morley；pages: 257-276"
+  },
+  {
+    "id": "S002",
+    "source_type": "scholarly_synthesis",
+    "title": "Medium Theory",
+    "authors_or_organization": [
+      "Joshua Meyrowitz"
+    ],
+    "year": 2008,
+    "publisher_or_venue": "Wiley-Blackwell",
+    "doi": "10.1002/9781405186407.wbiecm064",
+    "url": "https://doi.org/10.1002/9781405186407.wbiecm064",
+    "language": "en",
+    "accessed_at": "2026-09-19",
+    "access_status": "excerpt",
+    "bibliographic_note": "Wiley官方摘要用于medium theory与泛称media theory的边界。2026-09-19另核作者上传版本https://www.researchgate.net/publication/373244548_Medium_Theory的内部pp.4–5：The History of Medium Theory明确说明Innis推进该传统，Sub-genres of Medium Theory将媒介偏向路线与Innis相连。本轮只定点核读该片段，不登记为整篇通读；S003另支持Innis的具体思想内容。"
+  },
+  {
+    "id": "S003",
+    "source_type": "primary_scholarship",
+    "title": "The Bias of Communication",
+    "authors_or_organization": [
+      "H. A. Innis"
+    ],
+    "year": 1949,
+    "publisher_or_venue": "*The Canadian Journal of Economics and Political Science / Revue canadienne d'Economique et de Science politique*, 15(4)",
+    "doi": "10.2307/138041",
+    "url": "https://doi.org/10.2307/138041",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "excerpt",
+    "bibliographic_note": "原始 note: 出版者页面给出可核对的文章信息与开篇原文。；原始 locator_used: p. 457，开篇段落；其他 URL: https://www.cambridge.org/core/journals/canadian-journal-of-economics-and-political-science-revue-canadienne-de-economiques-et-science-politique/article/abs/bias-of-communication/D2AF017715AA6CDE10ECCAEC4552E63B；原始 access_status: publisher_extract；venue: *The Canadian Journal of Economics and Political Science / Revue canadienne d'Economique et de Science politique*, 15(4)；pages: 457-476；2026-09-11 再核 Cambridge Core 开篇摘录与 pp.457-476 书目信息。"
+  },
+  {
+    "id": "S004",
+    "source_type": "primary_scholarship",
+    "title": "*Understanding Media: The Extensions of Man*",
+    "authors_or_organization": [
+      "Marshall McLuhan"
+    ],
+    "year": 1994,
+    "publisher_or_venue": "The MIT Press",
+    "doi": null,
+    "url": "https://mitpress.mit.edu/9780262631594/understanding-media/",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "excerpt",
+    "bibliographic_note": "原始 note: 章节链接由 MIT 站点提供；只用于第一章可直接核验的命题。；原始 locator_used: Chapter 1, “The Medium Is the Message”；其他 URL: https://web.mit.edu/allanmc/www/mcluhan.mediummessage.pdf；原始 access_status: selected_chapter_full_text；ISBN: 9780262631594；2026-09-11 已核 MIT 站点所存第一章 18 页 PDF；PDF 1-2 页直接覆盖媒介改变 scale/pace/pattern，以及铁路与电灯例证。MIT Press 书目页用于版本信息。"
+  },
+  {
+    "id": "S005",
+    "source_type": "official_record",
+    "title": "Records of the Centre for Contemporary Cultural Studies",
+    "authors_or_organization": [
+      "Cadbury Research Library, University of Birmingham"
+    ],
+    "year": null,
+    "publisher_or_venue": "Cadbury Research Library, University of Birmingham",
+    "doi": null,
+    "url": "https://calmview.bham.ac.uk/Record.aspx?id=XUB/CCCS&src=CalmView.Catalog",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "full_text",
+    "bibliographic_note": "原始 note: 机构档案目录，适合支持CCCS成立、组织沿革、研究分组、跨学科范围和议题变化。；原始 locator_used: Administrative History；原始 access_status: full_catalogue_record；2026-09-11 再核 Birmingham 档案目录及 Administrative History 全页面。"
+  },
+  {
+    "id": "S006",
+    "source_type": "primary_scholarship",
+    "title": "Making Sense of Audience Discourses: Towards a Multidimensional Model of Mass Media Reception",
+    "authors_or_organization": [
+      "Kim Christian Schrøder"
+    ],
+    "year": 2000,
+    "publisher_or_venue": "*European Journal of Cultural Studies*, 3(2)",
+    "doi": "10.1177/136754940000300205",
+    "url": "https://doi.org/10.1177/136754940000300205",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "abstract",
+    "bibliographic_note": "原始 note: 用于编码／解码模型的一维意识形态框架及经验受众复杂性之争；未用摘要之外的具体论证细节。；原始 locator_used: 摘要；原始 access_status: abstract；venue: *European Journal of Cultural Studies*, 3(2)；2026-09-11 再核 SAGE 官方摘要，含对一维接收框架的批评与六维模型概述。"
+  },
+  {
+    "id": "S007",
+    "source_type": "scholarly_synthesis",
+    "title": "Stuart Hall",
+    "authors_or_organization": [
+      "Jessica Evans"
+    ],
+    "year": 2017,
+    "publisher_or_venue": "Wiley-Blackwell",
+    "doi": null,
+    "url": "https://oro.open.ac.uk/50815/",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "full_text",
+    "bibliographic_note": "原始 note: 用于霍尔整体学术贡献的二手综述，不替代具体理论原著。；原始 locator_used: accepted manuscript pp. 1-4；原始 access_status: accepted_manuscript_full_text；container: *The Wiley Blackwell Encyclopedia of Social Theory*；editors: Bryan S. Turner; Chang Kyung-Sup; Cynthia F. Epstein; Peter Kivisto; J. Michael Ryan; William Outhwaite；2026-09-11 已核 Open Research Online 所存 5 页 accepted manuscript；文内 pp.1-4 覆盖霍尔的文化研究、表征、身份、种族及阶段性贡献。"
+  },
+  {
+    "id": "S008",
+    "source_type": "official_record",
+    "title": "Stuart Hall: Remembering Professor Stuart Hall (1932-2014)",
+    "authors_or_organization": [
+      "The Open University Digital Archive"
+    ],
+    "year": null,
+    "publisher_or_venue": "The Open University Digital Archive",
+    "doi": null,
+    "url": "https://www.open.ac.uk/library/digital-archive/featured/221",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "full_text",
+    "bibliographic_note": "原始 note: 适合支持生卒年、开放大学任职时间、教学及机构评价。；原始 locator_used: 人物说明及“Professor of Sociology from 1979 to 1997”图像记录；原始 access_status: full_page；2026-09-11 再核 Open University Digital Archive 人物页面。"
+  },
+  {
+    "id": "S025",
+    "source_type": "scholarly_synthesis",
+    "title": "中国传播学70年：知识、技术与学术网络",
+    "authors_or_organization": [
+      "刘海龙"
+    ],
+    "year": 2019,
+    "publisher_or_venue": "广州大学学报（社会科学版），18(5)，106—114",
+    "doi": null,
+    "url": "https://xb.gzhu.edu.cn/skb/CN/Y2019/V18/I5/106",
+    "language": "zh-CN",
+    "accessed_at": "2026-09-11",
+    "access_status": "abstract",
+    "bibliographic_note": "原始 access_status: abstract_and_metadata"
+  },
+  {
+    "id": "S026",
+    "source_type": "scholarly_synthesis",
+    "title": "新闻传播学七十年发展回望与前瞻",
+    "authors_or_organization": [
+      "胡智锋"
+    ],
+    "year": 2019,
+    "publisher_or_venue": "全国哲学社会科学工作办公室",
+    "doi": null,
+    "url": "https://www.nopss.gov.cn/n1/2019/1125/c219470-31473381.html",
+    "language": "zh-CN",
+    "accessed_at": "2026-09-11",
+    "access_status": "full_text",
+    "bibliographic_note": "原始 access_status: full_text"
+  },
+  {
+    "id": "S027",
+    "source_type": "primary_scholarship",
+    "title": "“我们”为何以“新闻”为起点——试析《我们对于新闻学的基本观点》的理论构造",
+    "authors_or_organization": [
+      "朱至刚"
+    ],
+    "year": 2020,
+    "publisher_or_venue": "四川大学学报（哲学社会科学版），2020(2)，106—113",
+    "doi": null,
+    "url": "https://journal.scu.edu.cn/info/1109/29940.htm",
+    "language": "zh-CN",
+    "accessed_at": "2026-09-11",
+    "access_status": "abstract",
+    "bibliographic_note": "原始 access_status: abstract_and_references"
+  },
+  {
+    "id": "S028",
+    "source_type": "primary_scholarship",
+    "title": "中国新闻史研究的回顾与展望——方汉奇先生治学答问",
+    "authors_or_organization": [
+      "方汉奇口述",
+      "王天根访问"
+    ],
+    "year": 2015,
+    "publisher_or_venue": "安徽大学学报（哲学社会科学版），39(2)，98—104",
+    "doi": "10.13796/j.cnki.1001-5019.2015.02.013",
+    "url": "https://doi.org/10.13796/j.cnki.1001-5019.2015.02.013",
+    "language": "zh-CN",
+    "accessed_at": "2026-09-11",
+    "access_status": "full_text",
+    "bibliographic_note": "其他 URL: https://xwcb.ahu.edu.cn/_upload/article/files/76/f8/b25bee434262a40b42bb162ea968/a4bdf0c8-0324-4b41-b73c-e64aeaee4346.pdf；原始 access_status: full_text；2026-09-11 已核全文：通史阶段性成果说明在 pp.102-103，史料、第一手材料与个案研究在 p.104。"
+  },
+  {
+    "id": "S029",
+    "source_type": "scholarly_synthesis",
+    "title": "学人与学科：以方汉奇影响力为中心",
+    "authors_or_organization": [
+      "刘泱育"
+    ],
+    "year": 2022,
+    "publisher_or_venue": "南京师范大学出版社",
+    "doi": null,
+    "url": "https://www.sinobook.com.cn/b2c/scrp/bookdetail.cfm?iBookNo=1086412",
+    "language": "zh-CN",
+    "accessed_at": "2026-09-11",
+    "access_status": "metadata",
+    "bibliographic_note": "原始 access_status: catalog_metadata_and_description"
+  },
+  {
+    "id": "S030",
+    "source_type": "primary_scholarship",
+    "title": "中国新闻史研究的书写转向与未来路径",
+    "authors_or_organization": [
+      "蔡斐"
+    ],
+    "year": 2018,
+    "publisher_or_venue": "新闻与写作，2018(2)，49—52",
+    "doi": null,
+    "url": "https://xwxz.cbpt.cnki.net/portal/journal/portal/client/paper/73e1f4cfd9ca32ccf355091f6c18514d",
+    "language": "zh-CN",
+    "accessed_at": "2026-09-11",
+    "access_status": "abstract",
+    "bibliographic_note": "原始 access_status: abstract_and_metadata"
+  },
+  {
+    "id": "S031",
+    "source_type": "primary_scholarship",
+    "title": "中国新闻史研究的重校：马克思主义历史观视野下的新闻事业与社会发展",
+    "authors_or_organization": [
+      "李杰琼"
+    ],
+    "year": 2019,
+    "publisher_or_venue": "新闻与传播评论，2019(1)",
+    "doi": null,
+    "url": "https://www.cssn.cn/xwcbx/__deleted_2022.12.31_13.46.18__xwcbx_xkqy/202208/t20220802_5440333.shtml",
+    "language": "zh-CN",
+    "accessed_at": "2026-09-11",
+    "access_status": "abstract",
+    "bibliographic_note": "原始 access_status: abstract_and_metadata"
+  },
+  {
+    "id": "S032",
+    "source_type": "primary_scholarship",
+    "title": "“新闻”在何处？新闻史书写的“媒介实践”新进路",
+    "authors_or_organization": [
+      "孙藜",
+      "罗喆"
+    ],
+    "year": 2023,
+    "publisher_or_venue": "青年记者，2023年5月“面向实践的新闻史研究”专题（卷期页码待核）；复旦大学信息与传播研究中心转载",
+    "doi": null,
+    "url": "https://cics.fudan.edu.cn/02/e0/c40201a525024/page.htm",
+    "language": "zh-CN",
+    "accessed_at": "2026-09-11",
+    "access_status": "full_text",
+    "bibliographic_note": "原始 access_status: full_text_web_reprint"
+  },
+  {
+    "id": "S033",
+    "source_type": "scholarly_synthesis",
+    "title": "砥砺深耕：2022年中国的新闻传播史研究",
+    "authors_or_organization": [
+      "李兴博",
+      "刘欣欣"
+    ],
+    "year": 2023,
+    "publisher_or_venue": "新闻春秋，12(2)，29—40",
+    "doi": null,
+    "url": "https://xwcq.ruc.edu.cn/CN/Y2023/V12/I2/29",
+    "language": "zh-CN",
+    "accessed_at": "2026-09-11",
+    "access_status": "excerpt",
+    "bibliographic_note": "原始 access_status: metadata_and_review_excerpt；2026-09-11 仅核综述片段，不作为独立实证验证。"
+  },
+  {
+    "id": "S034",
+    "source_type": "official_record",
+    "title": "About Public Relations",
+    "authors_or_organization": [
+      "Public Relations Society of America (PRSA)"
+    ],
+    "year": null,
+    "publisher_or_venue": "PRSA",
+    "doi": null,
+    "url": "https://www.prsa.org/about/all-about-pr",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "full_text",
+    "bibliographic_note": "原始 access_status: full_text"
+  },
+  {
+    "id": "S035",
+    "source_type": "official_record",
+    "title": "IPRA Code of Conduct",
+    "authors_or_organization": [
+      "International Public Relations Association"
+    ],
+    "year": 2011,
+    "publisher_or_venue": "IPRA",
+    "doi": null,
+    "url": "https://www.ipra.org/member-services/code-of-conduct/",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "full_text",
+    "bibliographic_note": "原始 access_status: full_text"
+  },
+  {
+    "id": "S036",
+    "source_type": "primary_scholarship",
+    "title": "Defining Strategic Communication",
+    "authors_or_organization": [
+      "Kirk Hallahan",
+      "Derina Holtzhausen",
+      "Betteke van Ruler",
+      "Dejan Verčič",
+      "Krishnamurthy Sriramesh"
+    ],
+    "year": 2007,
+    "publisher_or_venue": "International Journal of Strategic Communication, 1(1), 3—35",
+    "doi": "10.1080/15531180701285244",
+    "url": "https://doi.org/10.1080/15531180701285244",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "abstract",
+    "bibliographic_note": "其他 URL: https://www.tandfonline.com/doi/abs/10.1080/15531180701285244；原始 access_status: abstract_and_metadata"
+  },
+  {
+    "id": "S037",
+    "source_type": "official_record",
+    "title": "PRSA Code of Ethics",
+    "authors_or_organization": [
+      "Public Relations Society of America"
+    ],
+    "year": null,
+    "publisher_or_venue": "PRSA",
+    "doi": null,
+    "url": "https://www.prsa.org/professional-development/prsa-resources/ethics",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "full_text",
+    "bibliographic_note": "原始 access_status: full_text；2026-09-11 已核 PRSA 页面中的专业价值与信息披露栏目。"
+  },
+  {
+    "id": "S038",
+    "source_type": "scholarly_synthesis",
+    "title": "Strategic communication theory: a systematic overview",
+    "authors_or_organization": [
+      "Axel Pfleger"
+    ],
+    "year": 2026,
+    "publisher_or_venue": "Annals of the International Communication Association, 50(1), 48—65",
+    "doi": "10.1093/anncom/wlaf025",
+    "url": "https://doi.org/10.1093/anncom/wlaf025",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "abstract",
+    "bibliographic_note": "其他 URL: https://academic.oup.com/anncom/article-abstract/50/1/48/8371958；原始 access_status: abstract_and_metadata"
+  },
+  {
+    "id": "S039",
+    "source_type": "official_record",
+    "title": "Barcelona Principles 4.0",
+    "authors_or_organization": [
+      "International Association for Measurement and Evaluation of Communication (AMEC)"
+    ],
+    "year": 2025,
+    "publisher_or_venue": "AMEC",
+    "doi": null,
+    "url": "https://amecorg.com/wp-content/uploads/2025/06/Barcelona-Principles-V4.0-Ebook-FINAL-Compressed.pdf",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "full_text",
+    "bibliographic_note": "原始 access_status: full_text_pdf"
+  },
+  {
+    "id": "S009",
+    "source_type": "primary_scholarship",
+    "title": "The Structure and Function of Communication in Society.",
+    "authors_or_organization": [
+      "Lasswell, Harold D"
+    ],
+    "year": 1948,
+    "publisher_or_venue": "In *The Communication of Ideas*, edited by Lyman Bryson. New York: Institute for Religious and Social Studies",
+    "doi": null,
+    "url": "https://www.worldradiohistory.com/BOOKSHELF-ARH/Education/Mass-Communications-Schramm-1960.pdf",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "metadata",
+    "bibliographic_note": "原始定位与用途: “The Act of Communication” 五问与研究分工；当前 URL 为重印版本合集，正式并表宜另存原书馆藏记录。；原始 access_status: table_entry"
+  },
+  {
+    "id": "S010",
+    "source_type": "primary_scholarship",
+    "title": "A Mathematical Theory of Communication.",
+    "authors_or_organization": [
+      "Shannon, Claude E"
+    ],
+    "year": 1948,
+    "publisher_or_venue": "*Bell System Technical Journal* 27(3): 379–423; 27(4): 623–656",
+    "doi": "10.1002/j.1538-7305.1948.tb01338.x",
+    "url": "https://doi.org/10.1002/j.1538-7305.1948.tb01338.x",
+    "language": "en",
+    "accessed_at": "2026-09-14",
+    "access_status": "full_text",
+    "bibliographic_note": "原始定位与用途: Introduction；Figure 1；noisy channel。支持工程范围、系统组件、噪声与容量。；原始 access_status: table_entry；其他 URL: https://doi.org/10.1002/j.1538-7305.1948.tb00917.x；2026-09-11 已核哈佛大学保存的 55 页校正版重印 PDF，Introduction 与 Figure 1 位于 PDF 1-2 页。2026-09-14 再核 https://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf 的第1页工程范围、语义边界与消息选择集合段落；本轮新增主张只依该页，不表示重读全文。"
+  },
+  {
+    "id": "S011",
+    "source_type": "primary_scholarship",
+    "title": "How Communication Works.",
+    "authors_or_organization": [
+      "Schramm, Wilbur"
+    ],
+    "year": 1954,
+    "publisher_or_venue": "In *The Process and Effects of Mass Communication*, edited by Wilbur Schramm, 3–26. Urbana: University of Illinois Press",
+    "doi": null,
+    "url": "https://books.google.com/books?id=9VpiAAAAMAAJ",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "metadata",
+    "bibliographic_note": "原始定位与用途: 章节目录及 source/message/destination、field of experience、feedback、多重渠道。；原始 access_status: table_entry"
+  },
+  {
+    "id": "S012",
+    "source_type": "primary_scholarship",
+    "title": "Communication as Culture: Essays on Media and Society",
+    "authors_or_organization": [
+      "Carey, James W"
+    ],
+    "year": 2009,
+    "publisher_or_venue": "Revised Edition. New York: Routledge",
+    "doi": null,
+    "url": "https://www.routledge.com/Communication-as-Culture-Revised-Edition-Essays-on-Media-and-Society/Carey/p/book/9780415989763",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "excerpt",
+    "bibliographic_note": "原始定位与用途: Part I, “A Cultural Approach to Communication”；transmission/ritual views。；原始 access_status: table_entry；2026-09-11 已核章节 PDF 的文内第 5 页片段；整章访问不稳定。"
+  },
+  {
+    "id": "S013",
+    "source_type": "primary_scholarship",
+    "title": "Toward a Theory of Network Gatekeeping: A Framework for Exploring Information Control.",
+    "authors_or_organization": [
+      "Barzilai-Nahon, Karine"
+    ],
+    "year": 2008,
+    "publisher_or_venue": "*Journal of the American Society for Information Science and Technology* 59(9): 1493–1512",
+    "doi": "10.1002/asi.20857",
+    "url": "https://doi.org/10.1002/asi.20857",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "abstract",
+    "bibliographic_note": "原始定位与用途: Abstract；identification、salience、gated 与四项属性。；原始 access_status: table_entry"
+  },
+  {
+    "id": "S014",
+    "source_type": "primary_scholarship",
+    "title": "Modelling Contemporary Gatekeeping: The Rise of Individuals, Algorithms and Platforms in Digital News Dissemination.",
+    "authors_or_organization": [
+      "Wallace, Julian"
+    ],
+    "year": 2018,
+    "publisher_or_venue": "*Digital Journalism* 6(3): 274–293",
+    "doi": "10.1080/21670811.2017.1343648",
+    "url": "https://doi.org/10.1080/21670811.2017.1343648",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "abstract",
+    "bibliographic_note": "原始定位与用途: Abstract；digital gatekeeping model 的三步构造。；原始 access_status: table_entry"
+  },
+  {
+    "id": "S015",
+    "source_type": "primary_scholarship",
+    "title": "Rethinking the Public Sphere: A Contribution to the Critique of Actually Existing Democracy.",
+    "authors_or_organization": [
+      "Fraser, Nancy"
+    ],
+    "year": 1990,
+    "publisher_or_venue": "*Social Text* 25/26: 56–80",
+    "doi": "10.2307/466240",
+    "url": "https://doi.org/10.2307/466240",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "full_text",
+    "bibliographic_note": "原始定位与用途: pp. 60–67；结论 p. 77。支持排斥、参与平等、多重公众与从属反公共。；原始 access_status: table_entry；2026-09-11 已核可检索全文，Social Text 25/26 (1990), pp.56-80。"
+  },
+  {
+    "id": "S016",
+    "source_type": "primary_scholarship",
+    "title": "What Is Platform Governance?",
+    "authors_or_organization": [
+      "Gorwa, Robert"
+    ],
+    "year": 2019,
+    "publisher_or_venue": "*Information, Communication & Society* 22(6): 854–871",
+    "doi": "10.1080/1369118X.2019.1573914",
+    "url": "https://doi.org/10.1080/1369118X.2019.1573914",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "abstract",
+    "bibliographic_note": "原始定位与用途: Abstract；多行动者、多层治理关系和研究议程。；原始 access_status: table_entry"
+  },
+  {
+    "id": "S017",
+    "source_type": "primary_scholarship",
+    "title": "Custodians of the Internet: Platforms, Content Moderation, and the Hidden Decisions That Shape Social Media",
+    "authors_or_organization": [
+      "Gillespie, Tarleton"
+    ],
+    "year": 2018,
+    "publisher_or_venue": "New Haven: Yale University Press",
+    "doi": null,
+    "url": "https://yalebooks.yale.edu/book/9780300235029/custodians-of-the-internet/",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "metadata",
+    "bibliographic_note": "原始定位与用途: 出版社内容简介；chapters 1–2。支持内容审核的中心性及公共后果。；原始 access_status: table_entry"
+  },
+  {
+    "id": "S018",
+    "source_type": "official_record",
+    "title": "网络信息内容生态治理规定",
+    "authors_or_organization": [
+      "国家互联网信息办公室：《网络信息内容生态治理规定》，国家互联网信息办公室令第 5 号，"
+    ],
+    "year": 2019,
+    "publisher_or_venue": "国家互联网信息办公室",
+    "doi": null,
+    "url": "https://www.cac.gov.cn/2019-12/20/c_1578375159509309.htm",
+    "language": "zh-CN",
+    "accessed_at": "2026-09-11",
+    "access_status": "full_text",
+    "bibliographic_note": "原始定位与用途: 第三章，第八至十七条；重点为平台主体责任和内部治理制度。；原始 access_status: table_entry；2026-09-11 已核国家互联网信息办公室正式全文。"
+  },
+  {
+    "id": "S019",
+    "source_type": "official_record",
+    "title": "互联网信息服务算法推荐管理规定",
+    "authors_or_organization": [
+      "国家互联网信息办公室、工业和信息化部、公安部、国家市场监督管理总局：《互联网信息服务算法推荐管理规定》，国家互联网信息办公室令第 9 号，"
+    ],
+    "year": 2021,
+    "publisher_or_venue": "国家互联网信息办公室、工业和信息化部、公安部、国家市场监督管理总局",
+    "doi": null,
+    "url": "https://www.cac.gov.cn/2022-01/04/c_1642894606364259.htm",
+    "language": "zh-CN",
+    "accessed_at": "2026-09-11",
+    "access_status": "full_text",
+    "bibliographic_note": "原始定位与用途: 第二、十二、十六至十八、二十四条。支持适用范围、透明度、用户权益与备案。；原始 access_status: table_entry；2026-09-11 已核国家互联网信息办公室正式全文。"
+  },
+  {
+    "id": "S020",
+    "source_type": "official_record",
+    "title": "Official Journal of the European Union",
+    "authors_or_organization": [
+      "European Parliament and Council of the European Union"
+    ],
+    "year": 2022,
+    "publisher_or_venue": "L 277: 1–102",
+    "doi": null,
+    "url": "https://eur-lex.europa.eu/eli/reg/2022/2065",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "metadata",
+    "bibliographic_note": "原始定位与用途: Articles 14, 17, 27, 34–35, 40。作为平台透明、理由说明、推荐系统和系统性风险的法域比较样本。；原始 access_status: table_entry"
+  },
+  {
+    "id": "S021",
+    "source_type": "scholarly_synthesis",
+    "title": "Qualitative Content Analysis in Practice",
+    "authors_or_organization": [
+      "Schreier, Margrit"
+    ],
+    "year": 2012,
+    "publisher_or_venue": "London: SAGE",
+    "doi": null,
+    "url": "https://us2.sagepub.com/en-us/nam/book/qualitative-content-analysis-practice",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "abstract",
+    "bibliographic_note": "原始定位与用途: “The Coding Frame”, “Segmentation and Units of Coding”, “Trying It Out”, “The Main Analysis Phase”。；原始 access_status: table_entry；2026-09-11 已核 SAGE 官方摘要、目录与预览中的章节起页；未核完整正文。"
+  },
+  {
+    "id": "S022",
+    "source_type": "scholarly_synthesis",
+    "title": "Taking Stock of the Toolkit: An Overview of Relevant Automated Content Analysis Approaches and Techniques for Digital Journalism Scholars.",
+    "authors_or_organization": [
+      "Boumans, Judith W., and Damian Trilling"
+    ],
+    "year": 2016,
+    "publisher_or_venue": "*Digital Journalism* 4(1): 8–23",
+    "doi": "10.1080/21670811.2015.1096598",
+    "url": "https://doi.org/10.1080/21670811.2015.1096598",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "abstract",
+    "bibliographic_note": "原始定位与用途: Abstract；词典法、监督学习与无监督学习综述。；原始 access_status: table_entry"
+  },
+  {
+    "id": "S023",
+    "source_type": "official_record",
+    "title": "网络信息内容生态治理规定",
+    "authors_or_organization": [
+      "中华人民共和国商务部全球法规网"
+    ],
+    "year": null,
+    "publisher_or_venue": "中华人民共和国商务部全球法规网",
+    "doi": null,
+    "url": "https://policy.mofcom.gov.cn/claw/clawContent.shtml?id=69871",
+    "language": "zh-CN",
+    "accessed_at": "2026-09-11",
+    "access_status": "excerpt",
+    "bibliographic_note": "原始定位与用途: 页面在本轮复核时标注“效力级别：部门规章；时效状态：现行有效”。只支持 2026-09-11 的状态核对。；原始 access_status: table_entry"
+  },
+  {
+    "id": "S024",
+    "source_type": "official_record",
+    "title": "互联网信息服务算法推荐管理规定",
+    "authors_or_organization": [
+      "中华人民共和国商务部全球法规网"
+    ],
+    "year": null,
+    "publisher_or_venue": "中华人民共和国商务部全球法规网",
+    "doi": null,
+    "url": "https://policy.mofcom.gov.cn/claw/clawContent.shtml?id=92262",
+    "language": "zh-CN",
+    "accessed_at": "2026-09-11",
+    "access_status": "excerpt",
+    "bibliographic_note": "原始定位与用途: 页面在本轮复核时标注“效力级别：部门规章；时效状态：现行有效”。只支持 2026-09-11 的状态核对。；原始 access_status: table_entry"
+  },
+  {
+    "id": "D01",
+    "source_type": "primary_scholarship",
+    "title": "De-westernizing Communication Studies: A Reassessment",
+    "authors_or_organization": [
+      "Silvio Waisbord",
+      "Claudia Mellado"
+    ],
+    "year": 2014,
+    "publisher_or_venue": "Communication Theory, 24(4), 361–372",
+    "doi": "10.1111/comt.12044",
+    "url": "https://www.researchgate.net/publication/267103499_De-westernizing_Communication_Studies_A_Reassessment",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "full_text",
+    "bibliographic_note": "本轮核读作者上传全文，核对期刊卷期页码与 DOI；主要定位为 pp. 361–370。该文是对争论的原始学术介入与重评，不是对所有地区的系统实证综述。"
+  },
+  {
+    "id": "D02",
+    "source_type": "scholarly_synthesis",
+    "title": "De-Westernization and Decolonization in Media Studies",
+    "authors_or_organization": [
+      "Antje Glück"
+    ],
+    "year": 2018,
+    "publisher_or_venue": "Oxford Research Encyclopedia of Communication",
+    "doi": "10.1093/acrefore/9780190228613.013.898",
+    "url": "https://eprints.bournemouth.ac.uk/34139/13/De-Westernization_acrefore-9780190228613-e-898.pdf",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "full_text",
+    "bibliographic_note": "本轮核读机构仓储中 29 页全文，核对发布日期 2018-12-20 与 DOI。条目为学术综述，用于术语边界、历史、区域差异和学术基础设施的综合；个别历史事实仍应回溯其所引原始文献。"
+  },
+  {
+    "id": "D03",
+    "source_type": "primary_scholarship",
+    "title": "Provincializing Hegemonic Histories of Media and Communication Studies: Toward a Genealogy of Epistemic Resistance in Africa",
+    "authors_or_organization": [
+      "Wendy Willems"
+    ],
+    "year": 2014,
+    "publisher_or_venue": "Communication Theory, 24(4), 415–434",
+    "doi": "10.1111/comt.12043",
+    "url": "https://doi.org/10.1111/comt.12043",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "abstract",
+    "bibliographic_note": "本轮通过期刊页面核对摘要、卷期页码、作者与 DOI；仅使用摘要明示的非洲学科史、知识生产与权力条件主张，未把摘要当作全文。"
+  },
+  {
+    "id": "T001",
+    "source_type": "teaching_resource",
+    "title": "Communication Theories",
+    "authors_or_organization": [
+      "University of Twente, Communication Science"
+    ],
+    "year": null,
+    "publisher_or_venue": "University of Twente",
+    "doi": null,
+    "url": "https://www.utwente.nl/en/com/com-theories/",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "full_text",
+    "bibliographic_note": "用户提供的 194 页 PDF 已逐页提取文本并定点核读。这是面向 Communication Science 学生的复合型教学综述，可作入门导读，不替代其所引原始研究。PDF 文档未显示可核实的出版年，因此 year 留空。"
+  },
+  {
+    "id": "S040",
+    "source_type": "primary_scholarship",
+    "title": "Framing: Toward Clarification of a Fractured Paradigm",
+    "authors_or_organization": [
+      "Robert M. Entman"
+    ],
+    "year": 1993,
+    "publisher_or_venue": "Journal of Communication, 43(4), 51–58",
+    "doi": "10.1111/j.1460-2466.1993.tb01304.x",
+    "url": "https://doi.org/10.1111/j.1460-2466.1993.tb01304.x",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "excerpt",
+    "bibliographic_note": "出版社页面核对作者、卷期页码与 DOI；本轮未在出版社端取得全文。节选主张与 Twente 教学 PDF 中的概述交叉使用，不将 excerpt 冒充全文核读。"
+  },
+  {
+    "id": "S041",
+    "source_type": "primary_scholarship",
+    "title": "The Mediatization of Society: A Theory of the Media as Agents of Social and Cultural Change",
+    "authors_or_organization": [
+      "Stig Hjarvard"
+    ],
+    "year": 2008,
+    "publisher_or_venue": "Nordicom Review, 29(2), 105–134",
+    "doi": "10.1515/nor-2017-0181",
+    "url": "https://www.nordicom.gu.se/sites/default/files/kapitel-pdf/269_hjarvard.pdf",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "full_text",
+    "bibliographic_note": "Nordicom 全文 PDF 已核读，主要定位为 pp. 105–110 及结论。DOI 为后续数字标识；年份与卷期按原文首页。"
+  },
+  {
+    "id": "S042",
+    "source_type": "primary_scholarship",
+    "title": "The Two-Step Flow of Communication: An Up-To-Date Report on an Hypothesis",
+    "authors_or_organization": [
+      "Elihu Katz"
+    ],
+    "year": 1957,
+    "publisher_or_venue": "Public Opinion Quarterly, 21(1), 61–78",
+    "doi": "10.1086/266687",
+    "url": "https://academic.oup.com/poq/article-abstract/21/1/61/1886822",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "abstract",
+    "bibliographic_note": "Oxford Academic 摘要页核对书目，摘要明示两级流动假说、后续研究的支持与修正，以及如何在调查中处理人际关系问题；未核全文。"
+  },
+  {
+    "id": "S043",
+    "source_type": "scholarly_synthesis",
+    "title": "Uses and Gratifications",
+    "authors_or_organization": [
+      "Elizabeth Perse"
+    ],
+    "year": 2014,
+    "publisher_or_venue": "Oxford Bibliographies in Communication",
+    "doi": "10.1093/obo/9780199756841-0132",
+    "url": "https://academic.oup.com/reference/62347/reference-article-abstract/554221635",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "excerpt",
+    "bibliographic_note": "Oxford Academic 公开 Introduction 已核读，用于受众转向、动机／所求满足、受众能动性为变量及“更像视角而非单一理论”的边界；未取得订阅部分。"
+  },
+  {
+    "id": "S044",
+    "source_type": "primary_scholarship",
+    "title": "Violence Profile 1967 Through 1988-89: Enduring Patterns",
+    "authors_or_organization": [
+      "George Gerbner Archive, Annenberg School for Communication, University of Pennsylvania"
+    ],
+    "year": null,
+    "publisher_or_venue": "George Gerbner Archive, University of Pennsylvania",
+    "doi": null,
+    "url": "https://web.asc.upenn.edu/gerbner/Asset.aspx?assetID=406",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "full_text",
+    "bibliographic_note": "宾大 Gerbner 档案全文页已定点核读 Cultivation Analysis 章节；它说明先做信息系统／内容分析，再以调查比较观看量不同者的现实观念，并提醒效应绝对量可能较小。精确出版年未在档案页核实，因此留空。"
+  },
+  {
+    "id": "S045",
+    "source_type": "scholarly_synthesis",
+    "title": "Two Decades of Cultivation Research: An Appraisal and Meta-Analysis",
+    "authors_or_organization": [
+      "Michael Morgan",
+      "James Shanahan"
+    ],
+    "year": 1997,
+    "publisher_or_venue": "Communication Yearbook, 20(1), 1–45",
+    "doi": "10.1080/23808985.1997.11678937",
+    "url": "https://academic.oup.com/anncom/article-abstract/20/1/1/7828663",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "abstract",
+    "bibliographic_note": "Oxford Academic 摘要页已核读：综述理论根源、批评与 20 年经验研究，报告平均涵化效应 .09；未取得全文，不对未出现在摘要中的调节机制做展开。"
+  },
+  {
+    "id": "S046",
+    "source_type": "official_record",
+    "title": "Claude E. Shannon",
+    "authors_or_organization": [
+      "IEEE Information Theory Society"
+    ],
+    "year": null,
+    "publisher_or_venue": "IEEE Information Theory Society",
+    "doi": null,
+    "url": "https://www.itsoc.org/about/shannon",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "full_text",
+    "bibliographic_note": "学会官方人物页，用于 Shannon 在 Bell Labs 的职业经历及 1948 年论文对信息论的学科地位；不用于人类传播的语义理论。"
+  },
+  {
+    "id": "S047",
+    "source_type": "primary_scholarship",
+    "title": "A Mathematical Theory of Communication",
+    "authors_or_organization": [
+      "Claude E. Shannon"
+    ],
+    "year": 1948,
+    "publisher_or_venue": "Bell System Technical Journal, 27, 379–423, 623–656",
+    "doi": "10.1002/j.1538-7305.1948.tb00917.x",
+    "url": "https://www.princeton.edu/~wbialek/rome/refs/shannon_48.pdf",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "full_text",
+    "bibliographic_note": "Princeton 教学站点保存的校正重印全文，书目与 DOI 由 Wiley 出版页交叉核对。原文把工程问题定为在另一点准确或近似重现所选消息，并明示语义层面与工程问题无关。"
+  },
+  {
+    "id": "S048",
+    "source_type": "primary_scholarship",
+    "title": "The Structure and Function of Communication in Society",
+    "authors_or_organization": [
+      "Harold D. Lasswell"
+    ],
+    "year": 1948,
+    "publisher_or_venue": "The Communication of Ideas, edited by Lyman Bryson",
+    "doi": null,
+    "url": "https://www.worldradiohistory.com/BOOKSHELF-ARH/Education/Mass-Communications-Schramm-1960.pdf",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "full_text",
+    "bibliographic_note": "核读 Wilbur Schramm 1960 年选集中经授权重印的全文，文前说明初版于 1948 年 The Communication of Ideas。用于 5W 问题与相应分析领域，不把后人画出的线性箭头当作原文图示。"
+  },
+  {
+    "id": "S049",
+    "source_type": "official_record",
+    "title": "Harold Dwight Lasswell Papers (MS 1043)",
+    "authors_or_organization": [
+      "Manuscripts and Archives, Yale University Library"
+    ],
+    "year": null,
+    "publisher_or_venue": "Yale University Library",
+    "doi": null,
+    "url": "https://ead-pdfs.library.yale.edu/4523.pdf",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "full_text",
+    "bibliographic_note": "耶鲁大学档案 finding aid，用于博士学历、War Communications Research 经历、耶鲁任职与政策科学兴趣。"
+  },
+  {
+    "id": "S050",
+    "source_type": "official_record",
+    "title": "Herbert Marshall McLuhan (1911–1980)",
+    "authors_or_organization": [
+      "University of Toronto"
+    ],
+    "year": null,
+    "publisher_or_venue": "Representative Poetry Online, University of Toronto Libraries",
+    "doi": null,
+    "url": "https://rpo.library.utoronto.ca/content/herbert-marshall-mcluhan-1911-1980",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "full_text",
+    "bibliographic_note": "多伦多大学人物资料，核对生卒年、学历、任职、文化与技术中心及主要著作。"
+  },
+  {
+    "id": "S051",
+    "source_type": "official_record",
+    "title": "In Memoriam: Maxwell McCombs",
+    "authors_or_organization": [
+      "School of Journalism and Media, The University of Texas at Austin"
+    ],
+    "year": 2024,
+    "publisher_or_venue": "The University of Texas at Austin",
+    "doi": null,
+    "url": "https://journalism.utexas.edu/news/memoriam-maxwell-mccombs",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "full_text",
+    "bibliographic_note": "所在学院纪念页，用于 McCombs 的议程设置贡献、与 Shaw 的合作、学历和任职。评价性引语不作为理论正确性证据。"
+  },
+  {
+    "id": "S052",
+    "source_type": "official_record",
+    "title": "CRC Fellows Mourn the Passing of Dr. Donald L. Shaw",
+    "authors_or_organization": [
+      "Communication Research Center, Boston University"
+    ],
+    "year": 2021,
+    "publisher_or_venue": "Boston University",
+    "doi": null,
+    "url": "https://sites.bu.edu/crc/2021/10/22/crc-fellows-mourn-the-passing-of-dr-donald-l-shaw/",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "full_text",
+    "bibliographic_note": "大学研究中心纪念页，用于 Shaw 的 UNC 职位、与 McCombs 的议程设置贡献及后续 agenda melding 工作。精确学历未由该页支持，因此不在结构化学历中填写。"
+  },
+  {
+    "id": "S053",
+    "source_type": "official_record",
+    "title": "The Gerbner Years (1964–1989)",
+    "authors_or_organization": [
+      "Annenberg School for Communication, University of Pennsylvania"
+    ],
+    "year": null,
+    "publisher_or_venue": "University of Pennsylvania",
+    "doi": null,
+    "url": "https://www.asc.upenn.edu/about/mission-and-history/gerbner-years-1964-1989",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "full_text",
+    "bibliographic_note": "学院官方历史页，用于 Gerbner 1964–1989 年任院长、USC 传播与教育博士学历及对 Annenberg 理论和研究导向的建设。"
+  },
+  {
+    "id": "S054",
+    "source_type": "scholarly_synthesis",
+    "title": "Jürgen Habermas",
+    "authors_or_organization": [
+      "Stanford Encyclopedia of Philosophy"
+    ],
+    "year": 2026,
+    "publisher_or_venue": "Stanford Encyclopedia of Philosophy",
+    "doi": null,
+    "url": "https://plato.stanford.edu/entries/habermas/",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "full_text",
+    "bibliographic_note": "2026 年更新的学术哲学百科条目，用于 Habermas 1929–2026 年生卒、公共领域著作、法律与民主论及与法兰克福学派的复杂关系。"
+  },
+  {
+    "id": "S055",
+    "source_type": "official_record",
+    "title": "郭庆光：荣休教师",
+    "authors_or_organization": [
+      "中国人民大学新闻学院"
+    ],
+    "year": null,
+    "publisher_or_venue": "中国人民大学新闻学院",
+    "doi": null,
+    "url": "https://jcr.ruc.edu.cn/zw/jzyg/rxjs/69869e118e8847af89b662c271d3ea87.htm",
+    "language": "zh-CN",
+    "accessed_at": "2026-09-11",
+    "access_status": "full_text",
+    "bibliographic_note": "学院官方教师页，用于教授身份、研究方向、任教课程、博士研究生学历层次、《传播学教程》及相关奖项。页面未提供毕业院校与年份，不予臆测。"
+  },
+  {
+    "id": "S056",
+    "source_type": "teaching_resource",
+    "title": "Research Methods",
+    "authors_or_organization": [
+      "OpenStax"
+    ],
+    "year": 2021,
+    "publisher_or_venue": "Introduction to Sociology 3e, OpenStax",
+    "doi": null,
+    "url": "https://openstax.org/books/introduction-sociology-3e/pages/2-2-research-methods",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "full_text",
+    "bibliographic_note": "开放教材章节，用于调查、访谈、观察、民族志及量化／质化资料的入门定位。不替代专门方法学文献。"
+  },
+  {
+    "id": "S057",
+    "source_type": "official_record",
+    "title": "Best Practices for Survey Research",
+    "authors_or_organization": [
+      "American Association for Public Opinion Research"
+    ],
+    "year": null,
+    "publisher_or_venue": "AAPOR",
+    "doi": null,
+    "url": "https://aapor.org/standards-and-ethics/best-practices/",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "full_text",
+    "bibliographic_note": "AAPOR 官方实践指南，已核读研究问题适配、抽样框、概率／非概率样本、问卷措辞、不回答风险与透明报告。"
+  },
+  {
+    "id": "S058",
+    "source_type": "teaching_resource",
+    "title": "Experiments",
+    "authors_or_organization": [
+      "Research Methods: Exploring the Social World in Canadian Context",
+      "MacEwan Open Books"
+    ],
+    "year": null,
+    "publisher_or_venue": "MacEwan Open Books",
+    "doi": null,
+    "url": "https://openbooks.macewan.ca/researchmethods/chapter/chapter-6-experiments/",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "full_text",
+    "bibliographic_note": "开放教材章节，用于随机分派、操纵、实验／对照组、内部与外部效度及其权衡。"
+  },
+  {
+    "id": "S059",
+    "source_type": "teaching_resource",
+    "title": "Introduction to Data Collection Techniques",
+    "authors_or_organization": [
+      "Introduction to Qualitative Research Methods",
+      "Oregon State University Open Textbook"
+    ],
+    "year": null,
+    "publisher_or_venue": "Oregon State University Open Textbook",
+    "doi": null,
+    "url": "https://open.oregonstate.education/qualresearchmethods/chapter/chapter-10-introduction-to-data-collection-techniques/",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "full_text",
+    "bibliographic_note": "开放质性方法教材，用于访谈、焦点小组、观察和文档审阅的资料类型及与研究传统的匹配。"
+  },
+  {
+    "id": "S060",
+    "source_type": "scholarly_synthesis",
+    "title": "Discourse Analysis of Archival Data",
+    "authors_or_organization": [
+      "Stanton Wortham",
+      "Angela Reyes"
+    ],
+    "year": 2015,
+    "publisher_or_venue": "Discourse Analysis beyond the Speech Event, Routledge",
+    "doi": null,
+    "url": "https://www.taylorfrancis.com/chapters/chapters/mono/10.4324/9781315735207-11/discourse-analysis-archival-data-stanton-wortham-angela-reyes",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "excerpt",
+    "bibliographic_note": "Routledge 章节摘要与预览，用于说明话语分析可扩展至档案与新媒介资料，且民族志、档案和新媒介数据不相互排斥。未核全章。"
+  },
+  {
+    "id": "S061",
+    "source_type": "scholarly_synthesis",
+    "title": "Computational Communication Science: A Methodological Catalyzer for a Maturing Discipline",
+    "authors_or_organization": [
+      "Martin Hilbert and collaborators"
+    ],
+    "year": 2019,
+    "publisher_or_venue": "International Journal of Communication, 13, 3913–934",
+    "doi": null,
+    "url": "https://escholarship.org/uc/item/8rf223qm",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "full_text",
+    "bibliographic_note": "UC eScholarship 开放全文，用于计算传播学将观察、理论／模拟和实验路径结合的方法论定位，并明示“数据是催化剂而非充要条件”。"
+  },
+  {
+    "id": "S062",
+    "source_type": "official_record",
+    "title": "Internet Research: Ethical Guidelines 3.0",
+    "authors_or_organization": [
+      "Association of Internet Researchers Ethics Working Committee"
+    ],
+    "year": 2019,
+    "publisher_or_venue": "Association of Internet Researchers",
+    "doi": null,
+    "url": "https://aoir.org/reports/ethics3.pdf",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "full_text",
+    "bibliographic_note": "AoIR 官方完整指南，用于网络研究的情境化伦理决策、可预见伤害、隐私期待、易受伤害群体与研究全生命周期思考。"
+  },
+  {
+    "id": "S063",
+    "source_type": "teaching_resource",
+    "title": "Research Design",
+    "authors_or_organization": [
+      "Research Methods for the Social Sciences",
+      "Social Sci LibreTexts"
+    ],
+    "year": null,
+    "publisher_or_venue": "Social Sci LibreTexts",
+    "doi": null,
+    "url": "https://socialsci.libretexts.org/Bookshelves/Sociology/Introduction_to_Research_Methods/Research_Methods_for_the_Social_Sciences_(Pelz)/01%3A_Chapters/1.05%3A_Chapter_5_Research_Design",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "full_text",
+    "bibliographic_note": "开放教材章节，用于构念效度、内部效度、外部效度和统计结论效度的研究设计框架。"
+  },
+  {
+    "id": "S064",
+    "source_type": "scholarly_synthesis",
+    "title": "Peirce’s Theory of Signs",
+    "authors_or_organization": [
+      "Stanford Encyclopedia of Philosophy"
+    ],
+    "year": 2022,
+    "publisher_or_venue": "Stanford Encyclopedia of Philosophy",
+    "doi": null,
+    "url": "https://plato.stanford.edu/entries/peirce-semiotics/",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "full_text",
+    "bibliographic_note": "同行评审哲学参考条目，用于皮尔斯符号理论的三元关系、解释项以及其理论在不同时期的演变。"
+  },
+  {
+    "id": "S065",
+    "source_type": "teaching_resource",
+    "title": "The Sign",
+    "authors_or_organization": [
+      "Reading Rhetorical Theory",
+      "University of Minnesota Libraries Publishing"
+    ],
+    "year": null,
+    "publisher_or_venue": "University of Minnesota Open Textbook Library",
+    "doi": null,
+    "url": "https://open.lib.umn.edu/rhetoricaltheory/chapter/the-sign/",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "full_text",
+    "bibliographic_note": "开放教材章节，用于索绪尔路线中能指、所指、任意性以及共时／历时的入门说明；不作为索绪尔原典替代品。"
+  },
+  {
+    "id": "S066",
+    "source_type": "scholarly_synthesis",
+    "title": "Aristotle’s Rhetoric",
+    "authors_or_organization": [
+      "Stanford Encyclopedia of Philosophy"
+    ],
+    "year": 2022,
+    "publisher_or_venue": "Stanford Encyclopedia of Philosophy",
+    "doi": null,
+    "url": "https://plato.stanford.edu/entries/aristotle-rhetoric/",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "full_text",
+    "bibliographic_note": "同行评审哲学参考条目，用于亚里士多德修辞学的技艺定义、三类技术性说服手段及其边界。"
+  },
+  {
+    "id": "S067",
+    "source_type": "official_record",
+    "title": "What is Communication?",
+    "authors_or_organization": [
+      "National Communication Association"
+    ],
+    "year": null,
+    "publisher_or_venue": "National Communication Association",
+    "doi": null,
+    "url": "https://www.natcom.org/about-nca/what-communication/",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "full_text",
+    "bibliographic_note": "美国传播学会官方学科说明，用于修辞传统与现代传播学、经验说服研究之间的历史层次区分。"
+  },
+  {
+    "id": "S068",
+    "source_type": "scholarly_synthesis",
+    "title": "Overview of the Political Economy of Communication",
+    "authors_or_organization": [
+      "Vincent Mosco"
+    ],
+    "year": 2009,
+    "publisher_or_venue": "The Political Economy of Communication, 2nd ed., SAGE",
+    "doi": null,
+    "url": "https://us.sagepub.com/sites/default/files/upm-binaries/26775_01_Mosco_Ch_01.pdf",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "full_text",
+    "bibliographic_note": "SAGE 提供的作者章节全文，用于传播政治经济学的定义、历史、社会总体、道德哲学、实践取向及内部多样性。"
+  },
+  {
+    "id": "S069",
+    "source_type": "scholarly_synthesis",
+    "title": "Media Effects: Theory and Research",
+    "authors_or_organization": [
+      "Patti M. Valkenburg",
+      "Jochen Peter",
+      "Joseph B. Walther"
+    ],
+    "year": 2016,
+    "publisher_or_venue": "Annual Review of Psychology, 67, 315–338",
+    "doi": "10.1146/annurev-psych-122414-033608",
+    "url": "https://www.dhi.ac.uk/san/waysofbeing/data/communities-murphy-valkenburg-2016.pdf",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "full_text",
+    "bibliographic_note": "综述全文，用于界定媒介效果、梳理效果理论的条件性与交易性转向，并防止把传播效果写成单一强效果理论。"
+  },
+  {
+    "id": "S070",
+    "source_type": "scholarly_synthesis",
+    "title": "政治传播史论研究笔谈",
+    "authors_or_organization": [
+      "刘海龙等"
+    ],
+    "year": 2023,
+    "publisher_or_venue": "新闻与传播评论，2023年第5期",
+    "doi": null,
+    "url": "https://xwcbpl.whu.edu.cn/e/public/DownFile/?classid=9&id=389",
+    "language": "zh-CN",
+    "accessed_at": "2026-09-11",
+    "access_status": "full_text",
+    "bibliographic_note": "期刊全文中的笔谈用于说明华夏传播是面向历史与传统的本土化研究取向，其与政治传播等领域边界存在交叠，并强调经验材料、多元史料与方法意识。"
+  },
+  {
+    "id": "S071",
+    "source_type": "other_material",
+    "title": "探索中国传播理论的可喜尝试——介绍《华夏传播论》",
+    "authors_or_organization": [
+      "孙旭培"
+    ],
+    "year": 1998,
+    "publisher_or_venue": "新闻学研究，第57期，229–238",
+    "doi": null,
+    "url": "https://toaj.stpi.niar.org.tw/index/journal/volume/article/4b1141f99823830a01985a10179017a9",
+    "language": "zh-TW",
+    "accessed_at": "2026-09-11",
+    "access_status": "metadata",
+    "bibliographic_note": "平台页可核作者、篇名、刊期与页码，但全文下载需验证码；仅用于确认1990年代已出现围绕《华夏传播论》的学术讨论，不用于支持细节性理论主张。"
+  },
+  {
+    "id": "S072",
+    "source_type": "official_record",
+    "title": "Communication as Social Construction Division",
+    "authors_or_organization": [
+      "National Communication Association"
+    ],
+    "year": null,
+    "publisher_or_venue": "National Communication Association",
+    "doi": null,
+    "url": "https://www.natcom.org/interest-group/communication-as-social-construction-division/",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "full_text",
+    "bibliographic_note": "NCA 学术分会官方页面，用于确认‘传播通过互动创造和再创造社会世界’是一条有组织的研究取向，同时不把它包装成单一理论。"
+  },
+  {
+    "id": "S073",
+    "source_type": "primary_scholarship",
+    "title": "Cybernetics: Or Control and Communication in the Animal and the Machine",
+    "authors_or_organization": [
+      "Norbert Wiener"
+    ],
+    "year": 1948,
+    "publisher_or_venue": "MIT Press Open Access",
+    "doi": "10.7551/mitpress/11810.001.0001",
+    "url": "https://mitpress.mit.edu/9780262537841/cybernetics-or-control-and-communication-in-the-animal-and-the-machine/",
+    "language": "en",
+    "accessed_at": "2026-09-19",
+    "access_status": "excerpt",
+    "bibliographic_note": "MIT Press官方书页可直接访问；出版社概述说明该书奠定控制论，研究含反馈回路的生物、机械、认知和社会系统中的信息流控制。开放版目录另列Part I Chapter IV ‘Feedback and Oscillation’（chapter DOI 10.7551/mitpress/11810.003.0009）。2026-09-19直接章节入口返回403，因此本轮只按出版社概述和章节目录登记excerpt，不冒充重新通读全文。"
+  },
+  {
+    "id": "S074",
+    "source_type": "primary_scholarship",
+    "title": "The Work of Representation",
+    "authors_or_organization": [
+      "Stuart Hall"
+    ],
+    "year": 1997,
+    "publisher_or_venue": "Representation: Cultural Representations and Signifying Practices, SAGE / Open University",
+    "doi": null,
+    "url": "https://uk.sagepub.com/sites/default/files/upm-assets/66880_book_item_66880.pdf",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "full_text",
+    "bibliographic_note": "出版社托管章节全文，用于表征、意义、语言、符号代码及从语言转向福柯式话语／权力的教学骨架。"
+  },
+  {
+    "id": "S075",
+    "source_type": "scholarly_synthesis",
+    "title": "Comparing Media Systems: Three Models of Media and Politics",
+    "authors_or_organization": [
+      "Daniel C. Hallin",
+      "Paolo Mancini"
+    ],
+    "year": 2004,
+    "publisher_or_venue": "Cambridge University Press",
+    "doi": "10.1017/CBO9780511790867",
+    "url": "https://www.cambridge.org/core/books/comparing-media-systems/99C421FD1DEBC29BDD74C7A9306D1D6C",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "metadata",
+    "bibliographic_note": "出版社书目与目录页，用于确认著作、三模型定位和比较媒介系统议程；具体维度不只靠此元数据页支持。"
+  },
+  {
+    "id": "S076",
+    "source_type": "scholarly_synthesis",
+    "title": "Introduction to Comparing Media Systems Beyond the Western World",
+    "authors_or_organization": [
+      "Daniel C. Hallin",
+      "Paolo Mancini"
+    ],
+    "year": 2012,
+    "publisher_or_venue": "Cambridge University Press",
+    "doi": "10.1017/CBO9781139005098.001",
+    "url": "https://www.cambridge.org/core/books/abs/comparing-media-systems-beyond-the-western-world/introduction/92747F001AD5F7E9D3C95C554F9EB9F1",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "excerpt",
+    "bibliographic_note": "出版社开放章节摘要，作者直接说明原研究的西方样本边界、反对普遍化套用，并将媒介系统视为特定历史条件下的具体社会形态。"
+  },
+  {
+    "id": "S077",
+    "source_type": "scholarly_synthesis",
+    "title": "Public Opinion",
+    "authors_or_organization": [
+      "Patricia Moy"
+    ],
+    "year": 2011,
+    "publisher_or_venue": "Oxford Bibliographies in Communication",
+    "doi": "10.1093/obo/9780199756841-0083",
+    "url": "https://academic.oup.com/reference/62347/reference-article-abstract/554216017",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "excerpt",
+    "bibliographic_note": "Oxford Bibliographies 可读导论，用于公共舆论研究的传播学视角、微观—中观—宏观层次与民主／非民主语境边界。"
+  },
+  {
+    "id": "S078",
+    "source_type": "scholarly_synthesis",
+    "title": "Antonio Gramsci",
+    "authors_or_organization": [
+      "Stanford Encyclopedia of Philosophy"
+    ],
+    "year": 2023,
+    "publisher_or_venue": "Stanford Encyclopedia of Philosophy",
+    "doi": null,
+    "url": "https://plato.stanford.edu/entries/gramsci/",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "full_text",
+    "bibliographic_note": "同行评审哲学参考条目，用于葛兰西霸权概念的领导／支配双重含义、国家—市民社会关系，以及反经济还原论边界。"
+  },
+  {
+    "id": "S079",
+    "source_type": "primary_scholarship",
+    "title": "Explicating Affordances: A Conceptual Framework for Understanding Affordances in Communication Research",
+    "authors_or_organization": [
+      "Sandra K. Evans",
+      "Katy E. Pearce",
+      "Jessica Vitak",
+      "Jeffrey W. Treem"
+    ],
+    "year": 2017,
+    "publisher_or_venue": "Journal of Computer-Mediated Communication, 22(1), 35–52",
+    "doi": "10.1111/jcc4.12180",
+    "url": "https://academic.oup.com/jcmc/article/22/1/35/3976924",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "full_text",
+    "bibliographic_note": "开放期刊论文，用于传播技术可供性的关系性定义、概念标准、常见类型与‘功能不等于可供性’的边界。"
+  },
+  {
+    "id": "S080",
+    "source_type": "official_record",
+    "title": "Group Communication Division",
+    "authors_or_organization": [
+      "National Communication Association"
+    ],
+    "year": null,
+    "publisher_or_venue": "National Communication Association",
+    "doi": null,
+    "url": "https://www.natcom.org/interest-group/group-communication-division/",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "full_text",
+    "bibliographic_note": "NCA 分会官方范围说明，用于群体传播的情境、过程与方法多样性。"
+  },
+  {
+    "id": "S081",
+    "source_type": "official_record",
+    "title": "Interpersonal Communication Division",
+    "authors_or_organization": [
+      "National Communication Association"
+    ],
+    "year": null,
+    "publisher_or_venue": "National Communication Association",
+    "doi": null,
+    "url": "https://www.natcom.org/interest-group/interpersonal-communication-division/",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "full_text",
+    "bibliographic_note": "NCA 分会官方页，用于确认人际互动与关系过程为该领域的核心对象；页面不是统一理论定义。"
+  },
+  {
+    "id": "S082",
+    "source_type": "official_record",
+    "title": "Organizational Communication Division",
+    "authors_or_organization": [
+      "National Communication Association"
+    ],
+    "year": null,
+    "publisher_or_venue": "National Communication Association",
+    "doi": null,
+    "url": "https://www.natcom.org/interest-group/organizational-communication-division/",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "full_text",
+    "bibliographic_note": "NCA 分会官方范围说明，用于‘传播使组织成为可能’、多类组织与多理论方法路径。"
+  },
+  {
+    "id": "S083",
+    "source_type": "official_record",
+    "title": "Mass Communication Division",
+    "authors_or_organization": [
+      "National Communication Association"
+    ],
+    "year": null,
+    "publisher_or_venue": "National Communication Association",
+    "doi": null,
+    "url": "https://www.natcom.org/interest-group/mass-communication-division/",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "full_text",
+    "bibliographic_note": "NCA 分会官方页，用于大众与媒介传播研究的内容、形式、结构、效果、过程及多方法范围。"
+  },
+  {
+    "id": "S084",
+    "source_type": "scholarly_synthesis",
+    "title": "Computer-Mediated Communication",
+    "authors_or_organization": [
+      "Eun-Ju Lee",
+      "Soo Youn Oh"
+    ],
+    "year": 2015,
+    "publisher_or_venue": "Oxford Bibliographies in Communication",
+    "doi": "10.1093/obo/9780199756841-0160",
+    "url": "https://academic.oup.com/reference/62347/reference-article-abstract/554218640",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "excerpt",
+    "bibliographic_note": "2024年复核的Oxford导论，用于CMC范围、同步／异步与从线索缺失走向能动适应、线上线下交织的理论转向。"
+  },
+  {
+    "id": "S085",
+    "source_type": "scholarly_synthesis",
+    "title": "Visual Rhetoric",
+    "authors_or_organization": [
+      "Zazil Reyes García"
+    ],
+    "year": 2021,
+    "publisher_or_venue": "Oxford Bibliographies in Communication",
+    "doi": "10.1093/obo/9780199756841-0258",
+    "url": "https://academic.oup.com/reference/62347/reference-article-abstract/554227344",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "excerpt",
+    "bibliographic_note": "Oxford导论用于视觉修辞的范围、对象和定义分歧；视觉与多模态传播的范围不被缩减为视觉修辞。"
+  },
+  {
+    "id": "S086",
+    "source_type": "scholarly_synthesis",
+    "title": "Media, Industries, Research: Problematizing the Field",
+    "authors_or_organization": [
+      "Paul McDonald"
+    ],
+    "year": 2021,
+    "publisher_or_venue": "The Routledge Companion to Media Industries",
+    "doi": "10.4324/9780429275340-1",
+    "url": "https://www.taylorfrancis.com/chapters/edit/10.4324/9780429275340-1/media-industries-research-paul-mcdonald",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "excerpt",
+    "bibliographic_note": "出版社章节摘要，用于产业结构、市场、商业模式、监管以及从生产条件向内容获取条件扩展的研究议程。"
+  },
+  {
+    "id": "S087",
+    "source_type": "primary_scholarship",
+    "title": "Platformisation",
+    "authors_or_organization": [
+      "Thomas Poell",
+      "David Nieborg",
+      "José van Dijck"
+    ],
+    "year": 2019,
+    "publisher_or_venue": "Internet Policy Review, 8(4)",
+    "doi": "10.14763/2019.4.1425",
+    "url": "https://policyreview.info/concepts/platformisation",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "full_text",
+    "bibliographic_note": "开放概念论文，用于平台基础设施、经济过程、治理框架进入社会领域并重组文化实践的定义。"
+  },
+  {
+    "id": "S088",
+    "source_type": "scholarly_synthesis",
+    "title": "Dual Process Models of Persuasion",
+    "authors_or_organization": [
+      "Oxford Research Encyclopedia of Psychology"
+    ],
+    "year": 2018,
+    "publisher_or_venue": "Oxford University Press",
+    "doi": null,
+    "url": "https://academic.oup.com/edited-volume/62246/chapter-abstract/550944903",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "abstract",
+    "bibliographic_note": "学术综述摘要，用于说服研究中的来源、信息、受众变量及动机／能力等条件性处理路径。"
+  },
+  {
+    "id": "S089",
+    "source_type": "scholarly_synthesis",
+    "title": "Audience Studies",
+    "authors_or_organization": [
+      "Philip Napoli",
+      "Steve Voorhees"
+    ],
+    "year": 2017,
+    "publisher_or_venue": "Oxford Bibliographies in Communication",
+    "doi": "10.1093/obo/9780199756841-0135",
+    "url": "https://academic.oup.com/reference/62347/reference-article-abstract/554218125",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "excerpt",
+    "bibliographic_note": "Oxford导论用于受众研究的多理论、多方法范围及其与媒介效果研究的区分。"
+  },
+  {
+    "id": "S090",
+    "source_type": "official_record",
+    "title": "Information Disorder: Toward an Interdisciplinary Framework for Research and Policy Making",
+    "authors_or_organization": [
+      "Claire Wardle",
+      "Hossein Derakhshan",
+      "Council of Europe"
+    ],
+    "year": 2017,
+    "publisher_or_venue": "Council of Europe",
+    "doi": null,
+    "url": "https://edoc.coe.int/en/media/7495-information-disorder-toward-an-interdisciplinary-framework-for-research-and-policy-making.html",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "full_text",
+    "bibliographic_note": "官方研究报告，用于区分misinformation、disinformation与malinformation，并建立行动者、信息和解释者三要素框架。"
+  },
+  {
+    "id": "S091",
+    "source_type": "scholarly_synthesis",
+    "title": "Journalism Studies",
+    "authors_or_organization": [
+      "Howard Tumber"
+    ],
+    "year": 2019,
+    "publisher_or_venue": "The International Encyclopedia of Journalism Studies",
+    "doi": "10.1002/9781118841570.iejs0003",
+    "url": "https://openaccess.city.ac.uk/id/eprint/21388/",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "full_text",
+    "bibliographic_note": "作者存档全文，用于新闻研究作为场域／学科的边界、实践与教育关系及规范—经验—社会学—全球比较—数字转向。"
+  },
+  {
+    "id": "S092",
+    "source_type": "scholarly_synthesis",
+    "title": "Political Communication: Then, Now, and Beyond",
+    "authors_or_organization": [
+      "Kathleen Hall Jamieson",
+      "Kate Kenski"
+    ],
+    "year": 2014,
+    "publisher_or_venue": "The Oxford Handbook of Political Communication",
+    "doi": "10.1093/oxfordhb/9780199793471.013.77",
+    "url": "https://academic.oup.com/edited-volume/34621/chapter-abstract/294940218",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "abstract",
+    "bibliographic_note": "手册导论摘要，用于政治传播定义的多样性、传播学与政治学交叉及场域形成。"
+  },
+  {
+    "id": "S093",
+    "source_type": "official_record",
+    "title": "Emergencies: Risk Communication",
+    "authors_or_organization": [
+      "World Health Organization"
+    ],
+    "year": 2020,
+    "publisher_or_venue": "World Health Organization",
+    "doi": null,
+    "url": "https://www.who.int/news-room/questions-and-answers/item/emergencies-risk-communication",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "full_text",
+    "bibliographic_note": "WHO官方说明，用于风险传播的实时双向交换、知情决策、信任与倾听边界。"
+  },
+  {
+    "id": "S094",
+    "source_type": "scholarly_synthesis",
+    "title": "The Handbook of Crisis Communication",
+    "authors_or_organization": [
+      "W. Timothy Coombs",
+      "Sherry J. Holladay"
+    ],
+    "year": 2022,
+    "publisher_or_venue": "Wiley",
+    "doi": "10.1002/9781119678953",
+    "url": "https://doi.org/10.1002/9781119678953",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "metadata",
+    "bibliographic_note": "出版社手册目录与说明，用于危机传播作为动态研究与实践领域及理论、伦理、组织和社交媒体范围。"
+  },
+  {
+    "id": "S095",
+    "source_type": "official_record",
+    "title": "Health Communication Division",
+    "authors_or_organization": [
+      "National Communication Association"
+    ],
+    "year": null,
+    "publisher_or_venue": "National Communication Association",
+    "doi": null,
+    "url": "https://www.natcom.org/interest-group/health-communication-division/",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "full_text",
+    "bibliographic_note": "NCA分会官方页，用于健康照护与健康促进中的人际和媒介传播、理论、研究、教学及应用范围。"
+  },
+  {
+    "id": "S096",
+    "source_type": "official_record",
+    "title": "Feminist and Gender Studies Division",
+    "authors_or_organization": [
+      "National Communication Association"
+    ],
+    "year": null,
+    "publisher_or_venue": "National Communication Association",
+    "doi": null,
+    "url": "https://www.natcom.org/interest-group/feminist-and-gender-studies-division/",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "full_text",
+    "bibliographic_note": "NCA分会官方范围，用于女性主义、性别、交叉权力与边缘化声音的研究定位。"
+  },
+  {
+    "id": "S097",
+    "source_type": "primary_scholarship",
+    "title": "Race as a Discourse of Power: Approaches for Communication Studies",
+    "authors_or_organization": [
+      "Lyndsey P. Beutin"
+    ],
+    "year": 2026,
+    "publisher_or_venue": "Communication, Culture and Critique, 19(2), 126–133",
+    "doi": "10.1093/ccc/tcag019",
+    "url": "https://academic.oup.com/ccc/article/19/2/126/8696120",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "full_text",
+    "bibliographic_note": "ICA期刊开放论文，用于将种族研究从再现准确性扩展到话语、制度、知识与权力结构。"
+  },
+  {
+    "id": "S098",
+    "source_type": "scholarly_synthesis",
+    "title": "Intercultural Communication: A Research Bibliography",
+    "authors_or_organization": [
+      "Christopher J. Jenks"
+    ],
+    "year": 2025,
+    "publisher_or_venue": "World Englishes",
+    "doi": "10.1111/weng.12719",
+    "url": "https://onlinelibrary.wiley.com/doi/full/10.1111/weng.12719",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "full_text",
+    "bibliographic_note": "开放研究书目，用于跨文化传播的跨学科历史、语言问题与关键词边界。"
+  },
+  {
+    "id": "S099",
+    "source_type": "scholarly_synthesis",
+    "title": "Communication, Globalization, and Cultural Identity",
+    "authors_or_organization": [
+      "Bloomsbury Academic"
+    ],
+    "year": null,
+    "publisher_or_venue": "Bloomsbury Academic book series",
+    "doi": null,
+    "url": "https://www.bloomsbury.com/uk/series/communication-globalization-and-cultural-identity/",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "metadata",
+    "bibliographic_note": "出版社系列说明，用于全球／地方联动、依附、世界体系、基层参与与社会变迁等议题范围；不支持具体因果命题。"
+  },
+  {
+    "id": "S100",
+    "source_type": "official_record",
+    "title": "关于加快推进媒体深度融合发展的意见",
+    "authors_or_organization": [
+      "中共中央办公厅",
+      "国务院办公厅"
+    ],
+    "year": 2020,
+    "publisher_or_venue": "中国网信网／新华社",
+    "doi": null,
+    "url": "https://www.cac.gov.cn/2020-09/26/c_1602682828352978.htm",
+    "language": "zh-CN",
+    "accessed_at": "2026-09-11",
+    "access_status": "full_text",
+    "bibliographic_note": "政策原文转载，用于中国媒体融合实践的政策目标、组织流程、技术、管理与运营边界；不能单独证明政策效果。"
+  },
+  {
+    "id": "S101",
+    "source_type": "official_record",
+    "title": "网络舆情的现状、特点及治理机制研究",
+    "authors_or_organization": [
+      "王雄军",
+      "国务院发展研究中心"
+    ],
+    "year": 2013,
+    "publisher_or_venue": "国务院发展研究中心调查研究报告",
+    "doi": null,
+    "url": "https://www.drc.gov.cn/DocView.aspx?chnid=386&docid=2875212&leafid=1339",
+    "language": "zh-CN",
+    "accessed_at": "2026-09-11",
+    "access_status": "full_text",
+    "bibliographic_note": "官方研究机构报告，用于网络舆情作为治理议题的中国语境；材料较早，动态判断需谨慎。"
+  },
+  {
+    "id": "S102",
+    "source_type": "official_record",
+    "title": "加强我国国际传播能力建设",
+    "authors_or_organization": [
+      "中国网络空间研究院"
+    ],
+    "year": 2022,
+    "publisher_or_venue": "中国网信网",
+    "doi": null,
+    "url": "https://www.cac.gov.cn/rootimages/uploadimg/1644713290720046/1644713290720046.pdf",
+    "language": "zh-CN",
+    "accessed_at": "2026-09-11",
+    "access_status": "full_text",
+    "bibliographic_note": "官方政策阐释材料，用于中国国际传播能力建设的政策目标与实践语境；不作为传播效果证明。"
+  },
+  {
+    "id": "S103",
+    "source_type": "scholarly_synthesis",
+    "title": "News Recommender Systems: A Programmatic Research Review",
+    "authors_or_organization": [
+      "Annals of the International Communication Association"
+    ],
+    "year": 2023,
+    "publisher_or_venue": "Annals of the International Communication Association, 47(1), 84–113",
+    "doi": "10.1080/23808985.2022.2142149",
+    "url": "https://doi.org/10.1080/23808985.2022.2142149",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "abstract",
+    "bibliographic_note": "研究综述摘要，用于推荐系统连接新闻供给、编辑实践、分发与用户需求的双侧研究范围。"
+  },
+  {
+    "id": "S104",
+    "source_type": "scholarly_synthesis",
+    "title": "Substance, Discourse, and Practice: A Review of Communication Research on Automation",
+    "authors_or_organization": [
+      "Annals of the International Communication Association"
+    ],
+    "year": 2023,
+    "publisher_or_venue": "Annals of the International Communication Association, 47(3), 261–284",
+    "doi": null,
+    "url": "https://academic.oup.com/anncom/article/47/3/261/7913142",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "full_text",
+    "bibliographic_note": "开放综述，用于区分数字化、数据化、机器能动性与自动化，并强调数据化并非中性。"
+  },
+  {
+    "id": "S105",
+    "source_type": "primary_scholarship",
+    "title": "Artificial Intelligence and Communication: A Human–Machine Communication Research Agenda",
+    "authors_or_organization": [
+      "Andrea L. Guzman",
+      "Seth C. Lewis"
+    ],
+    "year": 2020,
+    "publisher_or_venue": "New Media & Society, 22(1)",
+    "doi": "10.1177/1461444819858691",
+    "url": "https://journals.sagepub.com/doi/full/10.1177/1461444819858691",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "full_text",
+    "bibliographic_note": "开放论文，用于人机传播把机器作为沟通者而非仅作为人际渠道的研究议程。"
+  },
+  {
+    "id": "S106",
+    "source_type": "primary_scholarship",
+    "title": "AI-Mediated Communication: Definition, Research Agenda, and Ethical Considerations",
+    "authors_or_organization": [
+      "Jeffrey T. Hancock",
+      "Mor Naaman",
+      "Karen Levy"
+    ],
+    "year": 2020,
+    "publisher_or_venue": "Journal of Computer-Mediated Communication, 25(1), 89–100",
+    "doi": "10.1093/jcmc/zmz022",
+    "url": "https://doi.org/10.1093/jcmc/zmz022",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "full_text",
+    "bibliographic_note": "开放论文，用于AI中介传播的定义、设计、心理、语言、关系、政策与伦理议程。"
+  },
+  {
+    "id": "S107",
+    "source_type": "official_record",
+    "title": "United Nations Global Principles for Information Integrity",
+    "authors_or_organization": [
+      "United Nations"
+    ],
+    "year": 2024,
+    "publisher_or_venue": "United Nations",
+    "doi": null,
+    "url": "https://www.un.org/sites/un2.un.org/files/un-global-principles-for-information-integrity-en.pdf",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "full_text",
+    "bibliographic_note": "联合国原则文件，用于信息完整性的社会信任、韧性、独立媒体、透明度与公众赋权框架；规范性来源不等同于效果证据。"
+  },
+  {
+    "id": "S108",
+    "source_type": "primary_scholarship",
+    "title": "Situational Privacy: Theorizing Privacy as Communication and Media Practice",
+    "authors_or_organization": [
+      "Johanna E. Möller"
+    ],
+    "year": 2024,
+    "publisher_or_venue": "Communication Theory, 34(3), 130–142",
+    "doi": "10.1093/ct/qtae011",
+    "url": "https://academic.oup.com/ct/article/34/3/130/7699603",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "full_text",
+    "bibliographic_note": "开放理论论文，用于隐私的关系性、情境性和社会技术实践视角，及其与信任、规范和传播的关系。"
+  },
+  {
+    "id": "S109",
+    "source_type": "official_record",
+    "title": "Artificial Intelligence Risk Management Framework 1.0",
+    "authors_or_organization": [
+      "Elham Tabassi",
+      "National Institute of Standards and Technology"
+    ],
+    "year": 2023,
+    "publisher_or_venue": "NIST AI 100-1",
+    "doi": "10.6028/NIST.AI.100-1",
+    "url": "https://www.nist.gov/publications/artificial-intelligence-risk-management-framework-ai-rmf-10",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "full_text",
+    "bibliographic_note": "NIST官方框架，用于AI风险的治理、映射、测量、管理与全生命周期处理；属自愿框架，不是传播学理论。"
+  },
+  {
+    "id": "S110",
+    "source_type": "official_record",
+    "title": "Dr. Everett M. Rogers",
+    "authors_or_organization": [
+      "Diffusion Research Institute"
+    ],
+    "year": null,
+    "publisher_or_venue": "Diffusion Research Institute",
+    "doi": null,
+    "url": "https://diffusion-research.org/leadership_team/everett-rogers/",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "full_text",
+    "bibliographic_note": "人物机构页，用于 Rogers 的生平、任职和扩散研究贡献；引用量宣传不作为理论有效性的证据。"
+  },
+  {
+    "id": "S111",
+    "source_type": "official_record",
+    "title": "Elisabeth Noelle-Neumann: Her Life and Scientific Work",
+    "authors_or_organization": [
+      "Thomas Petersen",
+      "Private Archives Elisabeth Noelle"
+    ],
+    "year": 2022,
+    "publisher_or_venue": "noelle-neumann.de",
+    "doi": null,
+    "url": "https://noelle-neumann.de/home/",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "full_text",
+    "bibliographic_note": "专题档案站，用于确认人物年份、Allensbach 与美因茨传播研究机构的创建经历，以及沉默的螺旋研究线索。"
+  },
+  {
+    "id": "S112",
+    "source_type": "primary_scholarship",
+    "title": "The Elaboration Likelihood Model of Persuasion",
+    "authors_or_organization": [
+      "Richard E. Petty",
+      "John T. Cacioppo"
+    ],
+    "year": 1986,
+    "publisher_or_venue": "Advances in Experimental Social Psychology, 19, 123-205",
+    "doi": "10.1016/S0065-2601(08)60214-2",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0065260108602142",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "abstract",
+    "bibliographic_note": "出版社摘要明确概括两条说服路径及精细加工可能性的调节作用。"
+  },
+  {
+    "id": "S113",
+    "source_type": "primary_scholarship",
+    "title": "The Third-Person Effect in Communication",
+    "authors_or_organization": [
+      "W. Phillips Davison"
+    ],
+    "year": 1983,
+    "publisher_or_venue": "Public Opinion Quarterly, 47(1), 1-15",
+    "doi": "10.1086/268763",
+    "url": "https://doi.org/10.1086/268763",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "abstract",
+    "bibliographic_note": "原始论文的书目与摘要，用于第三人效果的基本命题、四项初步实验和行为后果边界。"
+  },
+  {
+    "id": "S114",
+    "source_type": "official_record",
+    "title": "Remembering Elihu Katz",
+    "authors_or_organization": [
+      "Michael X. Delli Carpini",
+      "Annenberg School for Communication at the University of Pennsylvania"
+    ],
+    "year": 2022,
+    "publisher_or_venue": "University of Pennsylvania",
+    "doi": null,
+    "url": "https://www.asc.upenn.edu/news-events/news/remembering-elihu-katz",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "full_text",
+    "bibliographic_note": "学院纪念页，用于 Katz 的学历、任职、合著与对受众、扩散、媒介事件等研究的贡献。"
+  },
+  {
+    "id": "S115",
+    "source_type": "official_record",
+    "title": "History of the Bureau for Applied Social Research",
+    "authors_or_organization": [
+      "Institute for Social and Economic Research and Policy",
+      "Columbia University"
+    ],
+    "year": null,
+    "publisher_or_venue": "Columbia University",
+    "doi": null,
+    "url": "https://iserp.columbia.edu/content/history",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "full_text",
+    "bibliographic_note": "哥伦比亚大学机构史，用于 Lazarsfeld、应用社会研究局与大众传播、民调及方法研究的关系。"
+  },
+  {
+    "id": "S116",
+    "source_type": "primary_scholarship",
+    "title": "Personal Influence: The Part Played by People in the Flow of Mass Communications",
+    "authors_or_organization": [
+      "Elihu Katz",
+      "Paul F. Lazarsfeld",
+      "Elmo Roper"
+    ],
+    "year": 1955,
+    "publisher_or_venue": "Free Press; Routledge anniversary edition",
+    "doi": null,
+    "url": "https://www.routledge.com/Personal-Influence-The-Part-Played-by-People-in-the-Flow-of-Mass-Commu/Katz-Lazarsfeld-Roper/p/book/9781412805070",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "excerpt",
+    "bibliographic_note": "出版社简介用于 Decatur 研究、意见领袖与人际网络中信息再解释的核心范围；不替代全文核读。"
+  },
+  {
+    "id": "S117",
+    "source_type": "primary_scholarship",
+    "title": "Mass Communication and Para-Social Interaction: Observations on Intimacy at a Distance",
+    "authors_or_organization": [
+      "Donald Horton",
+      "R. Richard Wohl"
+    ],
+    "year": 1956,
+    "publisher_or_venue": "Psychiatry, 19(3), 215-229",
+    "doi": "10.1080/00332747.1956.11023049",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/13359569/",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "metadata",
+    "bibliographic_note": "PubMed 书目记录与 DOI，用于确认术语原始文献；具体概念说明同时参考出版社页面摘要。"
+  },
+  {
+    "id": "S118",
+    "source_type": "primary_scholarship",
+    "title": "Designing Organizations for an Information-Rich World",
+    "authors_or_organization": [
+      "Herbert A. Simon"
+    ],
+    "year": 1971,
+    "publisher_or_venue": "Computers, Communications, and the Public Interest",
+    "doi": null,
+    "url": "https://iiif.library.cmu.edu/file/Simon_box00071_fld05479_bdl0001_doc0001/Simon_box00071_fld05479_bdl0001_doc0001.pdf",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "full_text",
+    "bibliographic_note": "卡内基梅隆大学档案 PDF，用于信息丰裕与注意稀缺的原始命题。"
+  },
+  {
+    "id": "S119",
+    "source_type": "primary_scholarship",
+    "title": "The People's Choice",
+    "authors_or_organization": [
+      "Paul F. Lazarsfeld",
+      "Bernard Berelson",
+      "Hazel Gaudet"
+    ],
+    "year": 1944,
+    "publisher_or_venue": "Columbia University Press",
+    "doi": null,
+    "url": "https://cup.columbia.edu/book/the-peoples-choice/9780231197953/",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "excerpt",
+    "bibliographic_note": "出版社页面提供作者身份、研究主题和章节结构，用于选择性接触与人际影响的历史入口；不将书介当作全部经验结论。"
+  },
+  {
+    "id": "S120",
+    "source_type": "primary_scholarship",
+    "title": "Mass Media Flow and Differential Growth in Knowledge",
+    "authors_or_organization": [
+      "Phillip J. Tichenor",
+      "George A. Donohue",
+      "Clarice N. Olien"
+    ],
+    "year": 1970,
+    "publisher_or_venue": "Public Opinion Quarterly, 34(2), 159-170",
+    "doi": "10.1086/267786",
+    "url": "https://doi.org/10.1086/267786",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "abstract",
+    "bibliographic_note": "知识沟假设的原始论文书目与摘要入口；用于核对假设表述，不把摘要外的细节写成已核事实。"
+  },
+  {
+    "id": "S121",
+    "source_type": "primary_scholarship",
+    "title": "Social Cognitive Theory of Mass Communication",
+    "authors_or_organization": [
+      "Albert Bandura"
+    ],
+    "year": 2001,
+    "publisher_or_venue": "Media Psychology, 3(3), 265-299",
+    "doi": "10.1207/S1532785XMEP0303_03",
+    "url": "https://www.tandfonline.com/doi/abs/10.1207/S1532785XMEP0303_03",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "abstract",
+    "bibliographic_note": "出版者页面的摘要直接说明能动性框架、符号传播的心理社会机制，以及直接与社会中介两条路径。"
+  },
+  {
+    "id": "S122",
+    "source_type": "official_record",
+    "title": "Albert Bandura, Leading Psychologist of Aggression, Dies at 95",
+    "authors_or_organization": [
+      "Stanford University"
+    ],
+    "year": 2021,
+    "publisher_or_venue": "Stanford Report",
+    "doi": null,
+    "url": "https://news.stanford.edu/stories/2021/07/psychology-professor-albert-bandura-dead-95",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "full_text",
+    "bibliographic_note": "斯坦福官方人物资料，用于生平、观察学习、自我效能和社会认知理论的贡献范围。"
+  },
+  {
+    "id": "S123",
+    "source_type": "primary_scholarship",
+    "title": "Some Explorations in Initial Interaction and Beyond: Toward a Developmental Theory of Interpersonal Communication",
+    "authors_or_organization": [
+      "Charles R. Berger",
+      "Richard J. Calabrese"
+    ],
+    "year": 1975,
+    "publisher_or_venue": "Human Communication Research, 1(2), 99-112",
+    "doi": "10.1111/j.1468-2958.1975.tb00258.x",
+    "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1468-2958.1975.tb00258.x",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "abstract",
+    "bibliographic_note": "不确定性降低理论的原始论文出版页，用于初次互动、七项公理与二十一项定理的原始范围。"
+  },
+  {
+    "id": "S124",
+    "source_type": "official_record",
+    "title": "In Memoriam: Professor Emeritus Chuck Berger",
+    "authors_or_organization": [
+      "University of California, Davis Department of Communication"
+    ],
+    "year": 2018,
+    "publisher_or_venue": "UC Davis",
+    "doi": null,
+    "url": "https://communication.ucdavis.edu/news/memoriam-professor-emeritus-chuck-berger",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "full_text",
+    "bibliographic_note": "加州大学戴维斯分校官方纪念页，用于确认 Berger 与不确定性降低理论、ICA 及编辑工作的关系。"
+  },
+  {
+    "id": "S125",
+    "source_type": "primary_scholarship",
+    "title": "A Dependency Model of Mass-Media Effects",
+    "authors_or_organization": [
+      "Sandra J. Ball-Rokeach",
+      "Melvin L. DeFleur"
+    ],
+    "year": 1976,
+    "publisher_or_venue": "Communication Research, 3(1), 3-21",
+    "doi": "10.1177/009365027600300101",
+    "url": "https://journals.sagepub.com/doi/10.1177/009365027600300101",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "abstract",
+    "bibliographic_note": "出版者摘要直接概括受众—媒介—社会三元关系、对信息资源的依赖与效果条件。"
+  },
+  {
+    "id": "S126",
+    "source_type": "official_record",
+    "title": "Ball-Rokeach Named ICA Fellow",
+    "authors_or_organization": [
+      "USC Annenberg School for Communication and Journalism"
+    ],
+    "year": 2014,
+    "publisher_or_venue": "University of Southern California",
+    "doi": null,
+    "url": "https://annenberg.usc.edu/news/around-usc-annenberg/ball-rokeach-named-ica-fellow",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "full_text",
+    "bibliographic_note": "南加州大学官方人物页，用于其传播流、网络与社区研究的人物背景；理论归属主要依据原始论文。"
+  },
+  {
+    "id": "S127",
+    "source_type": "primary_scholarship",
+    "title": "Organizational Information Requirements, Media Richness and Structural Design",
+    "authors_or_organization": [
+      "Richard L. Daft",
+      "Robert H. Lengel"
+    ],
+    "year": 1986,
+    "publisher_or_venue": "Management Science, 32(5), 554-571",
+    "doi": "10.1287/mnsc.32.5.554",
+    "url": "https://pubsonline.informs.org/doi/abs/10.1287/mnsc.32.5.554",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "abstract",
+    "bibliographic_note": "出版者摘要用于不确定性、模棱两可性、信息丰富度与组织设计的原始问题范围。"
+  },
+  {
+    "id": "S128",
+    "source_type": "scholarly_synthesis",
+    "title": "Social Presence in CMC and VR",
+    "authors_or_organization": [
+      "Katelyn Y. A. McKenna",
+      "Amie S. Green"
+    ],
+    "year": 2017,
+    "publisher_or_venue": "Cambridge University Press, Social Signal Processing",
+    "doi": null,
+    "url": "https://www.cambridge.org/core/books/abs/social-signal-processing/social-presence-in-cmc-and-vr/80246272826E4B9D683A1ACD6018D1E3",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "excerpt",
+    "bibliographic_note": "学术著作章节用于确认 Short、Williams 与 Christie 在 1976 年引入社会临场感概念及其在 CMC/VR 中的演变。"
+  },
+  {
+    "id": "S129",
+    "source_type": "official_record",
+    "title": "New Fund Honors Former College of Media Dean and ICR Director James W. Carey",
+    "authors_or_organization": [
+      "University of Illinois College of Media"
+    ],
+    "year": 2022,
+    "publisher_or_venue": "University of Illinois Urbana-Champaign",
+    "doi": null,
+    "url": "https://www.media.illinois.edu/new-fund-honors-former-college-of-media-dean-and-icr-director-james-w-carey/",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "full_text",
+    "bibliographic_note": "伊利诺伊大学媒体学院官方人物资料，用于 Carey 的学术贡献、传播仪式观及学术制度背景。"
+  },
+  {
+    "id": "S130",
+    "source_type": "scholarly_synthesis",
+    "title": "George Herbert Mead",
+    "authors_or_organization": [
+      "Mitchell Aboulafia",
+      "Stanford Encyclopedia of Philosophy"
+    ],
+    "year": 2022,
+    "publisher_or_venue": "Stanford Encyclopedia of Philosophy",
+    "doi": null,
+    "url": "https://plato.stanford.edu/entries/mead/",
+    "language": "en",
+    "accessed_at": "2026-09-11",
+    "access_status": "full_text",
+    "bibliographic_note": "经同行审订的哲学百科条目，用于 Mead 的生平、实用主义语境、通过传播形成自我的理论，并保留他未使用“符号互动论”名称的历史边界。"
+  },
+  {
+    "id": "H01",
+    "source_type": "primary_scholarship",
+    "title": "The Structure and Function of Communication in Society（2007 年重印选载）",
+    "authors_or_organization": [
+      "Harold D. Lasswell"
+    ],
+    "year": 2007,
+    "publisher_or_venue": "İletişim kuram ve araştırma dergisi, 24: 215–228",
+    "doi": null,
+    "url": "https://pracownik.kul.pl/files/37108/public/Lasswell.pdf",
+    "language": "en",
+    "accessed_at": "2026-09-14",
+    "access_status": "excerpt",
+    "bibliographic_note": "KUL大学教师网站托管PDF；本轮核读印刷pp.215–216（PDF第1–2页）。首页注明原作载于Bryson编1948年The Communication of Ideas，选载来源为Schramm与Roberts编1971年The Process and Effects of Mass Communication pp.84–99。只以2007选载p.216支持五问与研究分工，不声称核读1948原版；不保存或再发布PDF。"
+  },
+  {
+    "id": "H02",
+    "source_type": "scholarly_synthesis",
+    "title": "Social Data: Biases, Methodological Pitfalls, and Ethical Boundaries",
+    "authors_or_organization": [
+      "Alexandra Olteanu",
+      "Carlos Castillo",
+      "Fernando Diaz",
+      "Emre Kıcıman"
+    ],
+    "year": 2019,
+    "publisher_or_venue": "Frontiers in Big Data, 2:13",
+    "doi": "10.3389/fdata.2019.00013",
+    "url": "https://www.frontiersin.org/journals/big-data/articles/10.3389/fdata.2019.00013/full",
+    "language": "en",
+    "accessed_at": "2026-09-14",
+    "access_status": "excerpt",
+    "bibliographic_note": "官方开放全文可访问，本轮定点核读§3.2、§3.6、§5.1和§5.2，以正文支持社会平台语料的代表性、时间流失及采集查询偏差；不将2019示例当作2026平台规则。页面标明CC BY；项目仅保存书目、定位与自行概述。"
+  },
+  {
+    "id": "P01",
+    "source_type": "primary_scholarship",
+    "title": "Morphing McLuhan: Medium Theory for a New Millennium",
+    "authors_or_organization": [
+      "Joshua Meyrowitz"
+    ],
+    "year": 2001,
+    "publisher_or_venue": "Proceedings of the Media Ecology Association, Volume 2, pp. 8–22",
+    "doi": null,
+    "url": "https://www.media-ecology.net/publications/MEA_proceedings/v2/Meyrowitz02.pdf",
+    "language": "en",
+    "accessed_at": "2026-09-14",
+    "access_status": "excerpt",
+    "bibliographic_note": "学会官方托管15页原文；首页标明2001年6月15–16日第二届MEA年会主题演讲，页眉为Volume 2, 2001，版权行另为2001–2006。本轮核读印刷pp.8–10、17–20；关系只依pp.8–10与20。作者直接说明McLuhan的媒介形式取向与medium theory的关联，并主张超越单一作者；不是以参考文献共现推导谱系。只保留链接与概述，不再发布PDF。"
+  },
+  {
+    "id": "P02",
+    "source_type": "primary_scholarship",
+    "title": "A ‘Hotbed’ of Digital Empowerment? Media Criticism in Kenya Between Playful Engagement and Co-Option",
+    "authors_or_organization": [
+      "Toussaint Nothias",
+      "David Cheruiyot"
+    ],
+    "year": 2019,
+    "publisher_or_venue": "International Journal of Communication, 13, pp. 136–159",
+    "doi": null,
+    "url": "https://ijoc.org/index.php/ijoc/article/download/8847/2526/35595",
+    "language": "en",
+    "accessed_at": "2026-09-14",
+    "access_status": "excerpt",
+    "bibliographic_note": "期刊官方开放PDF24页；本轮核读pp.136–143、151–154。p.142交代殖民根源的种族化媒介叙事，p.151明确联系postcolonial critique，pp.153–154讨论肯尼亚受众反叙事与本地权力的双重性。只用于该案例所展示的研究关系，不概括整个非洲或全部去殖民路径。期刊卷年为2019，未采用首页疑似遗留的Copyright 2010年份；PDF标明CC BY-NC-ND，项目不镜像或改写发布原文。"
+  },
+  {
+    "id": "P03",
+    "source_type": "primary_scholarship",
+    "title": "From Platform Capitalism to Digital China: The Path, Governance, and Geopolitics",
+    "authors_or_organization": [
+      "Jingyan Elaine Yuan",
+      "Lin Zhang"
+    ],
+    "year": 2025,
+    "publisher_or_venue": "Social Media + Society, 11(1), pp. 1–9",
+    "doi": "10.1177/20563051251323030",
+    "url": "https://journals.sagepub.com/doi/pdf/10.1177/20563051251323030",
+    "language": "en",
+    "accessed_at": "2026-09-14",
+    "access_status": "excerpt",
+    "bibliographic_note": "SAGE官方9页PDF及作者网站副本均实际可打开；本轮定点核读pp.1、4–5、7。作为特刊导论的原始问题建构，明确以政治经济取向分析中国平台治理中的国家、资本、劳动及制度关系；不是独立效果评估或当前法规状态证明。PDF标明CC BY-NC 4.0；作者副本：https://linzhangweb.org/wp-content/uploads/2025/04/yuan-and-zhang-2025-from-platform-capitalism-to-digital-china-the-path-governance-and-geopolitics.pdf。"
+  },
+  {
+    "id": "N01",
+    "source_type": "primary_scholarship",
+    "title": "Cultural Studies: Two Paradigms (1991 reader reprint; electronic reserve text)",
+    "authors_or_organization": [
+      "Stuart Hall"
+    ],
+    "year": 1991,
+    "publisher_or_venue": "Contemporary Literary Criticism: Literary and Cultural Studies, ed. Robert Con Davis and Ronald Schleifer; Longman; electronic reserve hosted by Michigan Technological University",
+    "doi": null,
+    "url": "https://pages.mtu.edu/~rlstrick/rsvtxt/hall1.htm",
+    "language": "en",
+    "accessed_at": "2026-09-14",
+    "access_status": "excerpt",
+    "bibliographic_note": "2026-09-14实际打开机构电子保留读物HTML，页面头部说明据1991年Longman选本重印。连续核读网页页码标记[616]至[622]的范式比较及[625]结论；使用网页段落起句定位，不能套用1980年期刊pp.57–72页码。网页有OCR拼写错误及省略符号，未与期刊影印件逐字校勘，故登记excerpt而非full_text。G24仍是1980原刊的独立版本记录，两者不计为两项独立研究。仅支持本批文化研究两条主张，不自动关闭任何关系待核；未再发布全文或页面图。"
+  },
+  {
+    "id": "P101",
+    "source_type": "official_record",
+    "title": "中国人民大学新闻学院传播学硕士专业项目介绍",
+    "authors_or_organization": [
+      "中国人民大学新闻学院"
+    ],
+    "year": null,
+    "publisher_or_venue": "中国人民大学新闻学院",
+    "doi": null,
+    "url": "https://jcr.ruc.edu.cn/jxxm/ss/ss_zyjxmjs/10cfe10387b649c8a0fdd75c1a9c22b4.htm",
+    "language": "zh-CN",
+    "accessed_at": "2026-09-15",
+    "access_status": "excerpt",
+    "bibliographic_note": "学院项目介绍的搜索索引片段记载张隆栋20世纪50年代在《国际新闻界》介绍传播学，以及20世纪80年代初开设传播学课程等院系史线索。页面本轮直接打开超时，故仅登记excerpt，不用来支持页面片段以外的细节。"
+  },
+  {
+    "id": "P102",
+    "source_type": "scholarly_synthesis",
+    "title": "理论谱系与本土探索：新中国传播学理论研究70年（1949—2019）",
+    "authors_or_organization": [
+      "刘涛"
+    ],
+    "year": 2019,
+    "publisher_or_venue": "《新闻与传播研究》2019年第10期；中国社会科学网全文转载",
+    "doi": null,
+    "url": "https://www.cssn.cn/xwcbx/__deleted_2022.12.31_13.46.18__xwcbx_xkqy/202208/t20220802_5440270.shtml",
+    "language": "zh-CN",
+    "accessed_at": "2026-09-15",
+    "access_status": "full_text",
+    "bibliographic_note": "本轮核读全文的理论译介、控制论传统、社会心理学传统等段落。它是学术史综合材料，可支持作者对张隆栋、邵培仁、祝建华、潘忠党等学术史位置的概括，但不能替代各学者原作。"
+  },
+  {
+    "id": "P103",
+    "source_type": "official_record",
+    "title": "张国良",
+    "authors_or_organization": [
+      "上海交通大学智能传播研究院"
+    ],
+    "year": 2024,
+    "publisher_or_venue": "上海交通大学",
+    "doi": null,
+    "url": "https://ici.sjtu.edu.cn/news/show-501.html",
+    "language": "zh-CN",
+    "accessed_at": "2026-09-15",
+    "access_status": "full_text",
+    "bibliographic_note": "机构顾问页列出教育经历、历任职务、2002年发起成立中国传播学会及部分代表作。机构评价和数量性荣誉不直接转写为学术结论。"
+  },
+  {
+    "id": "P104",
+    "source_type": "official_record",
+    "title": "范敬宜新闻教育奖历届资料",
+    "authors_or_organization": [
+      "清华大学新闻与传播学院"
+    ],
+    "year": null,
+    "publisher_or_venue": "清华大学新闻与传播学院",
+    "doi": null,
+    "url": "https://qxcm.tsjc.tsinghua.edu.cn/pc/folder124",
+    "language": "zh-CN",
+    "accessed_at": "2026-09-15",
+    "access_status": "full_text",
+    "bibliographic_note": "页面列有张国良、邵培仁、童兵等历届新闻教育良师奖资料入口；只用于确认奖项记录和教育者线索。"
+  },
+  {
+    "id": "P105",
+    "source_type": "scholarly_synthesis",
+    "title": "中国传播学领域的先行者和开拓者——邵培仁传播学研究成果述评",
+    "authors_or_organization": [
+      "林凯"
+    ],
+    "year": 2020,
+    "publisher_or_venue": "《东南传播》2020年第3期；浙江传媒学院新闻传播研究院转载",
+    "doi": null,
+    "url": "https://rijc.cuz.edu.cn/info/1029/1521.htm",
+    "language": "zh-CN",
+    "accessed_at": "2026-09-15",
+    "access_status": "full_text",
+    "bibliographic_note": "全文按阶段梳理邵培仁的传播学教材、媒介经营管理、本土化及华夏传播研究。属于成果述评，不将文中的褒奖性评价作为独立事实。"
+  },
+  {
+    "id": "P106",
+    "source_type": "scholarly_synthesis",
+    "title": "新闻学家——童兵",
+    "authors_or_organization": [
+      "涵奋"
+    ],
+    "year": 1999,
+    "publisher_or_venue": "《中国人民大学学报》1999年第5期",
+    "doi": null,
+    "url": "https://xuebao.ruc.edu.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=10275",
+    "language": "zh-CN",
+    "accessed_at": "2026-09-15",
+    "access_status": "full_text",
+    "bibliographic_note": "两页人物述评，核读其关于马克思主义新闻思想与新闻传播原理研究的概括；人物评价需与具体论点分开。"
+  },
+  {
+    "id": "P107",
+    "source_type": "official_record",
+    "title": "《理论新闻传播学导论》馆藏书目记录",
+    "authors_or_organization": [
+      "中国人民大学图书馆"
+    ],
+    "year": 2011,
+    "publisher_or_venue": "中国人民大学中文学术资源发现平台",
+    "doi": null,
+    "url": "https://lib.ruc.edu.cn/docs/2023-11/a90b6d224bb04407b144f04ccc4e9595.pdf",
+    "language": "zh-CN",
+    "accessed_at": "2026-09-15",
+    "access_status": "metadata",
+    "bibliographic_note": "书目记录列作者、版本、出版社、ISBN和内容摘要；只作为教材范围与版本入口，不冒充全书核读。"
+  },
+  {
+    "id": "P108",
+    "source_type": "official_record",
+    "title": "陈力丹：荣休教师",
+    "authors_or_organization": [
+      "中国人民大学新闻学院"
+    ],
+    "year": null,
+    "publisher_or_venue": "中国人民大学新闻学院",
+    "doi": null,
+    "url": "https://jcr.ruc.edu.cn/zw/jzyg/rxjs/df55c95316b14224ada5ed31bd94e458.htm",
+    "language": "zh-CN",
+    "accessed_at": "2026-09-15",
+    "access_status": "full_text",
+    "bibliographic_note": "学院荣休教师页列出研究方向、教育背景和《精神交往论》等代表作。当前职务表述按访问日记录，不外推未来状态。"
+  },
+  {
+    "id": "P109",
+    "source_type": "official_record",
+    "title": "单波：师资力量",
+    "authors_or_organization": [
+      "武汉大学新闻与传播学院"
+    ],
+    "year": null,
+    "publisher_or_venue": "武汉大学新闻与传播学院",
+    "doi": null,
+    "url": "https://journal.whu.edu.cn/intro/faculty/shanb",
+    "language": "zh-CN",
+    "accessed_at": "2026-09-15",
+    "access_status": "full_text",
+    "bibliographic_note": "学院教师页列出比较新闻学、跨文化传播研究方向及《跨文化传播的问题与可能性》等成果；历史兼职保留页面所示时间范围。"
+  },
+  {
+    "id": "P110",
+    "source_type": "primary_scholarship",
+    "title": "跨文化传播的问题域",
+    "authors_or_organization": [
+      "单波"
+    ],
+    "year": 2020,
+    "publisher_or_venue": "武汉大学新闻传播评论",
+    "doi": null,
+    "url": "https://xwcbpl.whu.edu.cn/xljy/2020-10-02/142.html",
+    "language": "zh-CN",
+    "accessed_at": "2026-09-15",
+    "access_status": "full_text",
+    "bibliographic_note": "用于呈现作者如何以问题域组织跨文化传播研究；不由单篇文本概括其全部学术贡献。"
+  },
+  {
+    "id": "P111",
+    "source_type": "official_record",
+    "title": "Zhongdang Pan",
+    "authors_or_organization": [
+      "University of Wisconsin–Madison Department of Communication Arts"
+    ],
+    "year": null,
+    "publisher_or_venue": "University of Wisconsin–Madison",
+    "doi": null,
+    "url": "https://commarts.wisc.edu/staff/pan-zhongdang/",
+    "language": "en",
+    "accessed_at": "2026-09-15",
+    "access_status": "full_text",
+    "bibliographic_note": "院系教师页列出教育经历、传播科学方向、框架、公共讨论、媒介效果及中国传媒研究等主题。动态研究项目按访问日理解。"
+  },
+  {
+    "id": "P112",
+    "source_type": "primary_scholarship",
+    "title": "Framing Analysis: An Approach to News Discourse",
+    "authors_or_organization": [
+      "Zhongdang Pan",
+      "Gerald M. Kosicki"
+    ],
+    "year": 1993,
+    "publisher_or_venue": "Political Communication, 10(1), 55–75",
+    "doi": "10.1080/10584609.1993.9962963",
+    "url": "https://doi.org/10.1080/10584609.1993.9962963",
+    "language": "en",
+    "accessed_at": "2026-09-15",
+    "access_status": "abstract",
+    "bibliographic_note": "本轮核到期刊书目与摘要；只支持其把新闻话语分析置于来源、记者、受众和共享文化参与的社会认知过程之中，不声称已核全文全部分析维度。"
+  },
+  {
+    "id": "P113",
+    "source_type": "official_record",
+    "title": "Jian Hua Jonathan Zhu",
+    "authors_or_organization": [
+      "City University of Hong Kong"
+    ],
+    "year": null,
+    "publisher_or_venue": "CityUHK Scholars",
+    "doi": null,
+    "url": "https://scholars.cityu.edu.hk/en/persons/enjhzhu/",
+    "language": "en",
+    "accessed_at": "2026-09-15",
+    "access_status": "full_text",
+    "bibliographic_note": "机构学者档案列出计算传播、纵向研究、新媒体理论和定量方法等教学研究线索及成果目录。动态成果按访问日记录。"
+  },
+  {
+    "id": "P114",
+    "source_type": "official_record",
+    "title": "刘海龙",
+    "authors_or_organization": [
+      "中国人民大学新闻学院"
+    ],
+    "year": null,
+    "publisher_or_venue": "中国人民大学新闻学院",
+    "doi": null,
+    "url": "https://jcr.ruc.edu.cn/jszy/899fd1e5eb5e4de2aee3cd9fb8c1fc0d.htm",
+    "language": "zh-CN",
+    "accessed_at": "2026-09-15",
+    "access_status": "full_text",
+    "bibliographic_note": "教师页列出传播思想史、政治传播、传媒文化等研究方向、课程与代表作。职务按访问日记录，评价性内容不直接采用。"
+  },
+  {
+    "id": "P115",
+    "source_type": "official_record",
+    "title": "传播学专业介绍",
+    "authors_or_organization": [
+      "刘海龙",
+      "中国人民大学新闻学院"
+    ],
+    "year": null,
+    "publisher_or_venue": "中国人民大学新闻学院",
+    "doi": null,
+    "url": "https://jcr.ruc.edu.cn/jxxm/bk/bk_zyjs/b3523107112943929e0f4715a1d21bba.htm",
+    "language": "zh-CN",
+    "accessed_at": "2026-09-15",
+    "access_status": "full_text",
+    "bibliographic_note": "学院本科专业介绍由刘海龙署名，用于理解其如何面向学生解释传播学问题与专业视野；属于教学说明，不替代学术原作。"
+  },
+  {
+    "id": "P201",
+    "source_type": "official_record",
+    "title": "Public Opinion, by Walter Lippmann",
+    "authors_or_organization": [
+      "University of Pennsylvania Libraries"
+    ],
+    "year": 1922,
+    "publisher_or_venue": "The Online Books Page",
+    "doi": null,
+    "url": "https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp70373",
+    "language": "en",
+    "accessed_at": "2026-09-15",
+    "access_status": "metadata",
+    "bibliographic_note": "大学图书馆书目记录作者、1922年初版信息与主题；作为原作入口，不声称已在本站核读全书。"
+  },
+  {
+    "id": "P202",
+    "source_type": "official_record",
+    "title": "Public Opinion",
+    "authors_or_organization": [
+      "Walter Lippmann",
+      "Simon & Schuster / Free Press"
+    ],
+    "year": 1997,
+    "publisher_or_venue": "Free Press",
+    "doi": null,
+    "url": "https://www.simonandschuster.com/books/Public-Opinion/Walter-Lippmann/9780684833279",
+    "language": "en",
+    "accessed_at": "2026-09-15",
+    "access_status": "excerpt",
+    "bibliographic_note": "出版社页面提供作者说明、内容简介与版本信息；用于确认该书在公众舆论、信息与传播问题中的定位。"
+  },
+  {
+    "id": "P203",
+    "source_type": "official_record",
+    "title": "Schramm, Wilbur Lang",
+    "authors_or_organization": [
+      "University of Iowa Press",
+      "University of Iowa Libraries"
+    ],
+    "year": null,
+    "publisher_or_venue": "The Biographical Dictionary of Iowa",
+    "doi": null,
+    "url": "https://uipress.lib.uiowa.edu/bdi/DetailsPage.aspx?id=331",
+    "language": "en",
+    "accessed_at": "2026-09-15",
+    "access_status": "full_text",
+    "bibliographic_note": "大学出版社人物词典记录其教育经历、伊利诺伊和斯坦福传播研究机构工作及学科建设。"
+  },
+  {
+    "id": "P204",
+    "source_type": "official_record",
+    "title": "Kurt Lewin Award",
+    "authors_or_organization": [
+      "American Psychological Association",
+      "Society for the Psychological Study of Social Issues"
+    ],
+    "year": null,
+    "publisher_or_venue": "American Psychological Association",
+    "doi": null,
+    "url": "https://www.apa.org/about/awards/div-9-lewin",
+    "language": "en",
+    "accessed_at": "2026-09-15",
+    "access_status": "full_text",
+    "bibliographic_note": "APA页面把Lewin记为群体动力科学先驱和SPSSI创建者；仅用于学术角色范围。"
+  },
+  {
+    "id": "P205",
+    "source_type": "official_record",
+    "title": "Guide to the Carl Iver Hovland Papers",
+    "authors_or_organization": [
+      "Yale University Library"
+    ],
+    "year": 2025,
+    "publisher_or_venue": "Yale University Library Manuscripts and Archives",
+    "doi": null,
+    "url": "https://ead-pdfs.library.yale.edu/3652.pdf",
+    "language": "en",
+    "accessed_at": "2026-09-15",
+    "access_status": "full_text",
+    "bibliographic_note": "档案指南含人物小传、耶鲁传播研究项目、二战训练影片研究及说服与态度改变材料范围。"
+  },
+  {
+    "id": "P206",
+    "source_type": "official_record",
+    "title": "Communication and Persuasion: Psychological Studies of Opinion Change",
+    "authors_or_organization": [
+      "Carl I. Hovland",
+      "Irving L. Janis",
+      "Harold H. Kelley"
+    ],
+    "year": 1953,
+    "publisher_or_venue": "Yale University Press; U.S. Government document repository copy",
+    "doi": null,
+    "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D305-PURL-LPS83014/pdf/GOVPUB-D305-PURL-LPS83014.pdf",
+    "language": "en",
+    "accessed_at": "2026-09-15",
+    "access_status": "metadata",
+    "bibliographic_note": "政府文献库文件确认作者、书名、出版社与年份；本轮不将其登记为全书核读。"
+  },
+  {
+    "id": "P207",
+    "source_type": "official_record",
+    "title": "Robert King Merton",
+    "authors_or_organization": [
+      "Columbia University"
+    ],
+    "year": null,
+    "publisher_or_venue": "Columbia University",
+    "doi": null,
+    "url": "https://www.c250.columbia.edu/c250_celebrates/remarkable_columbians/robert_king_merton.html",
+    "language": "en",
+    "accessed_at": "2026-09-15",
+    "access_status": "full_text",
+    "bibliographic_note": "校方人物页记录其大众传播、焦点小组、与Lazarsfeld合作及应用社会研究局经历。"
+  },
+  {
+    "id": "P208",
+    "source_type": "scholarly_synthesis",
+    "title": "Robert K. Merton",
+    "authors_or_organization": [
+      "Oxford Bibliographies in Communication"
+    ],
+    "year": 2016,
+    "publisher_or_venue": "Oxford University Press",
+    "doi": null,
+    "url": "https://academic.oup.com/reference/62347/reference-article-abstract/554220993?login=false",
+    "language": "en",
+    "accessed_at": "2026-09-15",
+    "access_status": "abstract",
+    "bibliographic_note": "学术工具书摘要说明Merton与Lazarsfeld合作及其对理论引导、方法严谨的经验传播研究的影响。"
+  },
+  {
+    "id": "P209",
+    "source_type": "official_record",
+    "title": "John Dewey Bio",
+    "authors_or_organization": [
+      "University of Michigan Department of Philosophy"
+    ],
+    "year": null,
+    "publisher_or_venue": "University of Michigan",
+    "doi": null,
+    "url": "https://prod.lsa.umich.edu/philosophy/graduates/opportunities/prizes/dewey/john-dewey-bio.html",
+    "language": "en",
+    "accessed_at": "2026-09-15",
+    "access_status": "full_text",
+    "bibliographic_note": "校方人物页记录其教育、实用主义、民主与公共知识取向。"
+  },
+  {
+    "id": "P210",
+    "source_type": "teaching_resource",
+    "title": "Communication and Participation",
+    "authors_or_organization": [
+      "University of Cologne Dewey Center"
+    ],
+    "year": null,
+    "publisher_or_venue": "University of Cologne",
+    "doi": null,
+    "url": "https://www.hf.uni-koeln.de/31679",
+    "language": "en",
+    "accessed_at": "2026-09-15",
+    "access_status": "full_text",
+    "bibliographic_note": "大学Dewey中心按标准版本定位其传播、共同体、参与和民主论述；属于教学性整理。"
+  },
+  {
+    "id": "P211",
+    "source_type": "official_record",
+    "title": "Robert E. Park (1864–1944): Sociology",
+    "authors_or_organization": [
+      "University of Chicago Library"
+    ],
+    "year": null,
+    "publisher_or_venue": "University of Chicago Centennial Catalogues",
+    "doi": null,
+    "url": "https://www.lib.uchicago.edu/collex/exhibits/university-chicago-centennial-catalogues/university-chicago-faculty-centennial-view/robert-e-park-1864-1944-sociology/",
+    "language": "en",
+    "accessed_at": "2026-09-15",
+    "access_status": "full_text",
+    "bibliographic_note": "大学图书馆展览页记录其新闻记者经历、公共舆论设想、芝加哥学派、城市与集体行为研究。"
+  },
+  {
+    "id": "P212",
+    "source_type": "official_record",
+    "title": "The City",
+    "authors_or_organization": [
+      "Robert E. Park",
+      "Ernest W. Burgess",
+      "University of Chicago Press"
+    ],
+    "year": 1925,
+    "publisher_or_venue": "University of Chicago Press",
+    "doi": null,
+    "url": "https://press.uchicago.edu/ucp/books/book/chicago/C/bo38823801.html",
+    "language": "en",
+    "accessed_at": "2026-09-15",
+    "access_status": "excerpt",
+    "bibliographic_note": "出版社页确认原作、作者与城市民族志／社会理论定位；不替代全书阅读。"
+  },
+  {
+    "id": "P213",
+    "source_type": "scholarly_synthesis",
+    "title": "Erving Goffman",
+    "authors_or_organization": [
+      "Oxford Bibliographies in Sociology"
+    ],
+    "year": 2019,
+    "publisher_or_venue": "Oxford University Press",
+    "doi": null,
+    "url": "https://academic.oup.com/reference/62417/reference-article-abstract/561735799",
+    "language": "en",
+    "accessed_at": "2026-09-15",
+    "access_status": "abstract",
+    "bibliographic_note": "学术工具书摘要定位互动秩序、自我呈现、面子工作与其学术生涯。"
+  },
+  {
+    "id": "P214",
+    "source_type": "primary_scholarship",
+    "title": "The Interaction Order",
+    "authors_or_organization": [
+      "Erving Goffman"
+    ],
+    "year": 1983,
+    "publisher_or_venue": "American Sociological Review, 48(1), 1–17; CSUN hosted copy",
+    "doi": null,
+    "url": "https://www.csun.edu/~snk1966/Erving%20Goffman%20The%20Interaction%20Order.pdf",
+    "language": "en",
+    "accessed_at": "2026-09-15",
+    "access_status": "full_text",
+    "bibliographic_note": "可访问的ASA主席演讲全文，用于理解共在互动构成的分析领域。"
+  },
+  {
+    "id": "P215",
+    "source_type": "official_record",
+    "title": "Biography and publications: Roland Barthes",
+    "authors_or_organization": [
+      "Collège de France"
+    ],
+    "year": null,
+    "publisher_or_venue": "Collège de France",
+    "doi": null,
+    "url": "https://www.college-de-france.fr/en/chair/roland-barthes-literary-semiology-statutory-chair/biography",
+    "language": "en",
+    "accessed_at": "2026-09-15",
+    "access_status": "full_text",
+    "bibliographic_note": "法兰西公学院人物与著作页，用于确认其文学符号学教席、学术经历与作品范围。"
+  },
+  {
+    "id": "P216",
+    "source_type": "official_record",
+    "title": "Biographie et publications: Michel Foucault",
+    "authors_or_organization": [
+      "Collège de France"
+    ],
+    "year": null,
+    "publisher_or_venue": "Collège de France",
+    "doi": null,
+    "url": "https://www.college-de-france.fr/fr/chaire/michel-foucault-histoire-des-systemes-de-pensee-chaire-statutaire/biography",
+    "language": "fr",
+    "accessed_at": "2026-09-15",
+    "access_status": "full_text",
+    "bibliographic_note": "法兰西公学院人物页记录其思想体系史教席及话语、纪律、权力和治理研究脉络。"
+  },
+  {
+    "id": "P217",
+    "source_type": "official_record",
+    "title": "Michel Foucault: History of systems of thought",
+    "authors_or_organization": [
+      "Collège de France"
+    ],
+    "year": null,
+    "publisher_or_venue": "Collège de France",
+    "doi": null,
+    "url": "https://www.college-de-france.fr/en/chair/michel-foucault-history-of-systems-of-thought-statutory-chair",
+    "language": "en",
+    "accessed_at": "2026-09-15",
+    "access_status": "full_text",
+    "bibliographic_note": "英文教席页概括《话语的秩序》对话语控制、权力、知识与抵抗的研究。"
+  },
+  {
+    "id": "P218",
+    "source_type": "official_record",
+    "title": "About Raymond Williams",
+    "authors_or_organization": [
+      "Swansea University"
+    ],
+    "year": null,
+    "publisher_or_venue": "Swansea University Centre for Research into the English Literature and Language of Wales",
+    "doi": null,
+    "url": "https://www.swansea.ac.uk/culture-communication/research/crew/raymond-williams/about-raymond-williams/",
+    "language": "en",
+    "accessed_at": "2026-09-15",
+    "access_status": "full_text",
+    "bibliographic_note": "大学研究中心人物页记录其成人教育、《文化与社会》、情感结构及文化唯物主义相关工作。"
+  },
+  {
+    "id": "P219",
+    "source_type": "official_record",
+    "title": "Dallas Smythe Memorial Lecture",
+    "authors_or_organization": [
+      "Simon Fraser University School of Communication"
+    ],
+    "year": 2024,
+    "publisher_or_venue": "Simon Fraser University",
+    "doi": null,
+    "url": "https://www.sfu.ca/davidlamcentre/news-events/past-events/2024/2024-Dallas-Smythe-Memorial-Lecture.html",
+    "language": "en",
+    "accessed_at": "2026-09-15",
+    "access_status": "full_text",
+    "bibliographic_note": "校方页面说明纪念讲座自1993年起致敬传播政治经济学批判学者，并记载Smythe在SFU任教。"
+  },
+  {
+    "id": "P220",
+    "source_type": "scholarly_synthesis",
+    "title": "Blindspots and Blurred Lines: Dallas Smythe, the Audience Commodity, and the Transformation of Labor in the Digital Age",
+    "authors_or_organization": [
+      "Brian Dolber"
+    ],
+    "year": 2016,
+    "publisher_or_venue": "Sociology Compass",
+    "doi": "10.1111/soc4.12387",
+    "url": "https://doi.org/10.1111/soc4.12387",
+    "language": "en",
+    "accessed_at": "2026-09-15",
+    "access_status": "abstract",
+    "bibliographic_note": "摘要把受众商品概念定位为传播政治经济学的重要起点，并说明其在数字劳动研究中的延展和争议。"
+  },
+  {
+    "id": "P221",
+    "source_type": "official_record",
+    "title": "UCSD Communication: The Story of LCHC",
+    "authors_or_organization": [
+      "University of California San Diego"
+    ],
+    "year": null,
+    "publisher_or_venue": "UC San Diego",
+    "doi": null,
+    "url": "https://lchcautobio.ucsd.edu/ucsd-communication/",
+    "language": "en",
+    "accessed_at": "2026-09-15",
+    "access_status": "full_text",
+    "bibliographic_note": "校史材料把Herbert Schiller列为推动UCSD传播学从项目发展为正式系科的重要学者之一。"
+  },
+  {
+    "id": "P222",
+    "source_type": "official_record",
+    "title": "Innis History",
+    "authors_or_organization": [
+      "Innis College, University of Toronto"
+    ],
+    "year": null,
+    "publisher_or_venue": "University of Toronto",
+    "doi": null,
+    "url": "https://innis.utoronto.ca/about-innis/history/",
+    "language": "en",
+    "accessed_at": "2026-09-15",
+    "access_status": "full_text",
+    "bibliographic_note": "多伦多大学页面将Harold Innis定位为传播研究先驱，并记录其政治经济学身份及媒介与传播理论著作。"
+  },
+  {
+    "id": "P223",
+    "source_type": "scholarly_synthesis",
+    "title": "Theodor W. Adorno",
+    "authors_or_organization": [
+      "Stanford Encyclopedia of Philosophy"
+    ],
+    "year": 2024,
+    "publisher_or_venue": "Metaphysics Research Lab, Stanford University",
+    "doi": null,
+    "url": "https://plato.stanford.edu/entries/adorno/",
+    "language": "en",
+    "accessed_at": "2026-09-15",
+    "access_status": "full_text",
+    "bibliographic_note": "学术哲学百科全文，用于阿多诺生平、与Lazarsfeld及Princeton Radio Project的联系，以及文化工业概念的范围和后续争论。"
+  },
+  {
+    "id": "P224",
+    "source_type": "primary_scholarship",
+    "title": "The Culture Industry: Enlightenment as Mass Deception",
+    "authors_or_organization": [
+      "Theodor W. Adorno",
+      "Max Horkheimer"
+    ],
+    "year": 1944,
+    "publisher_or_venue": "Chapter from Dialectic of Enlightenment; Marxists Internet Archive transcription",
+    "doi": null,
+    "url": "https://www.marxists.org/reference/archive/adorno/1944/culture-industry.htm",
+    "language": "en",
+    "accessed_at": "2026-09-19",
+    "access_status": "excerpt",
+    "bibliographic_note": "可访问页面明确说明收录《启蒙辩证法》相应章节的大部分内容，而非完整正式版本；本项目仅用网页中实际可见的电影、广播、杂志、系统、标准化与商品化段落，不据此引用正式版页码。"
+  },
+  {
+    "id": "Q301",
+    "source_type": "primary_scholarship",
+    "title": "Organizing and the Process of Sensemaking",
+    "authors_or_organization": [
+      "Karl E. Weick",
+      "Kathleen M. Sutcliffe",
+      "David Obstfeld"
+    ],
+    "year": 2005,
+    "publisher_or_venue": "Organization Science, 16(4), 409–421",
+    "doi": "10.1287/orsc.1050.0133",
+    "url": "https://pubsonline.informs.org/doi/abs/10.1287/orsc.1050.0133",
+    "language": "en",
+    "accessed_at": "2026-09-15",
+    "access_status": "abstract",
+    "bibliographic_note": "已打开 INFORMS 文章页并核对摘要。摘要将 sensemaking 说明为把情境转化为可用语言明确理解、并可导向行动的情境；同时指出意义在其中形成并影响身份与行动。未将摘要外的八项属性当作已核实结论。"
+  },
+  {
+    "id": "Q302",
+    "source_type": "primary_scholarship",
+    "title": "Parasocial Interaction and Parasocial Relationship: Conceptual Clarification and a Critical Assessment of Measures",
+    "authors_or_organization": [
+      "Jayson L. Dibble",
+      "Tilo Hartmann",
+      "Sarah F. Rosaen"
+    ],
+    "year": 2016,
+    "publisher_or_venue": "Human Communication Research, 42(1), 21–44",
+    "doi": "10.1111/hcre.12063",
+    "url": "https://academic.oup.com/hcr/article-abstract/42/1/21/4067693",
+    "language": "en",
+    "accessed_at": "2026-09-15",
+    "access_status": "abstract",
+    "bibliographic_note": "已打开 Oxford Academic 页面并核对摘要。研究指出 PSI 与 PSR 常被概念和方法混用；在 N=383 的视频实验中，EPSI 量表较 PSI-Scale 更能测量被界定为观看期间相互觉知的 PSI。"
+  },
+  {
+    "id": "Q303",
+    "source_type": "scholarly_synthesis",
+    "title": "The Attention Economy and the Net",
+    "authors_or_organization": [
+      "Michael H. Goldhaber"
+    ],
+    "year": 1997,
+    "publisher_or_venue": "First Monday, 2(4)",
+    "doi": "10.5210/fm.v2i4.519",
+    "url": "https://firstmonday.org/ojs/index.php/fm/article/download/519/440?inline=1",
+    "language": "en",
+    "accessed_at": "2026-09-15",
+    "access_status": "full_text",
+    "bibliographic_note": "已打开全文并核对“New Natural Economy”与“Wealth and Property Take New Forms, Too”部分。作者将网络信息的丰裕与注意的内在稀缺相对照，并将“获得注意”作为其理论框架中的持久财富/财产；这是作者的概念性论证，不是当代平台指标的经验验证。"
+  },
+  {
+    "id": "Q304",
+    "source_type": "primary_scholarship",
+    "title": "Groupthink",
+    "authors_or_organization": [
+      "Irving L. Janis"
+    ],
+    "year": 1971,
+    "publisher_or_venue": "Psychology Today, November 1971; later developed in Victims of Groupthink (1972)",
+    "doi": null,
+    "url": "https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Group_Dynamics/Janis_Groupthink.pdf",
+    "language": "en",
+    "accessed_at": "2026-09-15",
+    "access_status": "full_text",
+    "bibliographic_note": "已打开 MIT 托管的 8 页原始文章 PDF 并核对其开篇论述。Janis 将案例中的问题归于他称为 groupthink 的现象，并将其与凝聚群体中对异议和替代方案的社会压力联系起来。该 PDF 是原始期刊文重印，页面未提供完整卷期页码，故不补写未经核实的卷期。"
+  },
+  {
+    "id": "Q305",
+    "source_type": "scholarly_synthesis",
+    "title": "Beyond Fiasco: A Reappraisal of the Groupthink Phenomenon and a New Model of Group Decision Processes",
+    "authors_or_organization": [
+      "Ramon J. Aldag",
+      "Sally Riggs Fuller"
+    ],
+    "year": 1993,
+    "publisher_or_venue": "Psychological Bulletin, 113(3), 533–552",
+    "doi": "10.1037/0033-2909.113.3.533",
+    "url": "https://web.mit.edu/writing/2012/Grad_Summary_Readings/beyond_fiasco_final.pdf",
+    "language": "en",
+    "accessed_at": "2026-09-15",
+    "access_status": "full_text",
+    "bibliographic_note": "已打开 20 页全文 PDF 并核对第 534 页的论证。作者认为 Janis 模型建立于较小且受限的样本、被广泛泛化，并未获得一致的经验支持；同时承认它对群体问题解决研究具有启发价值。"
+  },
+  {
+    "id": "Q306",
+    "source_type": "scholarly_synthesis",
+    "title": "Feeling Validated Versus Being Correct: A Meta-Analysis of Selective Exposure to Information",
+    "authors_or_organization": [
+      "William Hart",
+      "Dolores Albarracín",
+      "Alice H. Eagly",
+      "Inge Brechan",
+      "Matthew J. Lindberg",
+      "Lisa Merrill"
+    ],
+    "year": 2009,
+    "publisher_or_venue": "Psychological Bulletin, 135(4), 555–588",
+    "doi": "10.1037/a0015701",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4797953/",
+    "language": "en",
+    "accessed_at": "2026-09-15",
+    "access_status": "abstract",
+    "bibliographic_note": "已核对 PMC 返回的论文摘要；直接打开时页面返回访问验证，故不把正文定位标作已访问。摘要报告对态度一致信息的中等偏好（d = 0.36），并指出防御与准确性动机会调节该偏好；与当前目标相关时可出现对不一致信息的偏好。"
+  },
+  {
+    "id": "Q307",
+    "source_type": "scholarly_synthesis",
+    "title": "The Selective Exposure Self- and Affect-Management (SESAM) Model: Applications in the Realms of Race, Politics, and Health",
+    "authors_or_organization": [
+      "Silvia Knobloch-Westerwick"
+    ],
+    "year": 2015,
+    "publisher_or_venue": "Communication Research, 42(7), 959–985",
+    "doi": "10.1177/0093650214539173",
+    "url": "https://journals.sagepub.com/doi/10.1177/0093650214539173",
+    "language": "en",
+    "accessed_at": "2026-09-15",
+    "access_status": "abstract",
+    "bibliographic_note": "已打开 SAGE 页面并核对摘要。文章把选择性接触的理论和方法讨论组织为 self、affect、motivations、time 等要素，并以种族、政治与健康讯息说明应用；摘要不支持对任一具体平台的效果断言。"
+  },
+  {
+    "id": "Q321",
+    "source_type": "primary_scholarship",
+    "title": "The Platformization of the Web: Making Web Data Platform Ready",
+    "authors_or_organization": [
+      "Anne Helmond"
+    ],
+    "year": 2015,
+    "publisher_or_venue": "Social Media + Society",
+    "doi": "10.1177/2056305115603080",
+    "url": "https://journals.sagepub.com/doi/pdf/10.1177/2056305115603080",
+    "language": "en",
+    "accessed_at": "2026-09-15",
+    "access_status": "full_text",
+    "bibliographic_note": "SAGE 开放论文全文。用于核对网页平台化的物质—技术定义：平台功能借 API 等接口外延，外部数据同时被重新集中并格式化为‘平台就绪’数据。"
+  },
+  {
+    "id": "Q322",
+    "source_type": "primary_scholarship",
+    "title": "When does public diplomacy work? Evidence from China's 'wolf warrior' diplomats",
+    "authors_or_organization": [
+      "Daniel C. Mattingly",
+      "James Sundquist"
+    ],
+    "year": 2023,
+    "publisher_or_venue": "Political Science Research and Methods, 11(4), 921–929",
+    "doi": "10.1017/psrm.2022.41",
+    "url": "https://www.cambridge.org/core/journals/political-science-research-and-methods/article/when-does-public-diplomacy-work-evidence-from-chinas-wolf-warrior-diplomats/7C36B5891C2A1A7769F936D5F389A9F6",
+    "language": "en",
+    "accessed_at": "2026-09-15",
+    "access_status": "full_text",
+    "bibliographic_note": "Cambridge Core 开放全文；2022 年在线首发，2023 年卷期出版。研究使用 2020 年两波印度居民调查实验与真实中国外交官推文；样本为配额抽样且不具全印度代表性，不能外推为全球效果。"
+  },
+  {
+    "id": "Q323",
+    "source_type": "scholarly_synthesis",
+    "title": "理论谱系与本土探索：新中国传播学理论研究70年（1949—2019）",
+    "authors_or_organization": [
+      "刘涛"
+    ],
+    "year": 2019,
+    "publisher_or_venue": "《新闻与传播研究》2019年第10期；中国社会科学网全文转载",
+    "doi": null,
+    "url": "https://www.cssn.cn/xwcbx/__deleted_2022.12.31_13.46.18__xwcbx_xkqy/202208/t20220802_5440270.shtml",
+    "language": "zh-CN",
+    "accessed_at": "2026-09-15",
+    "access_status": "full_text",
+    "bibliographic_note": "中国社会科学网可读全文，页面标明原载《新闻与传播研究》2019年第10期。用于核对少数民族传播研究的中国学术谱系、地方个案路径及从个案建构理论框架的待解问题。"
+  },
+  {
+    "id": "Q324",
+    "source_type": "primary_scholarship",
+    "title": "Localizing the Global: Exploring the Transnational Ties That Bind in New Immigrant Communities",
+    "authors_or_organization": [
+      "Wan-Ying Lin",
+      "Hayeon Song",
+      "Sandra Ball-Rokeach"
+    ],
+    "year": 2010,
+    "publisher_or_venue": "Journal of Communication, 60(2), 205–229",
+    "doi": "10.1111/j.1460-2466.2010.01480.x",
+    "url": "https://www.sjsu.edu/people/kathrine.richardson/courses/GS179GEO199/s1/Lin-Localizing-the-Global.pdf",
+    "language": "en",
+    "accessed_at": "2026-09-15",
+    "access_status": "full_text",
+    "bibliographic_note": "圣何塞州立大学课程页所存期刊论文全文，已与 DOI 及 Oxford Academic 元数据交叉核对。数据来自 1998—1999 年洛杉矶四个移民社区，包含 Greater Monterey Park 的华人样本与华文族裔报纸；不代表当代全球海外华文媒体。"
+  },
+  {
+    "id": "Q325",
+    "source_type": "primary_scholarship",
+    "title": "On the Democratic Role of News Recommenders",
+    "authors_or_organization": [
+      "Natali Helberger"
+    ],
+    "year": 2019,
+    "publisher_or_venue": "Digital Journalism, 7(8), 993–1012",
+    "doi": "10.1080/21670811.2019.1623700",
+    "url": "https://pure.uva.nl/ws/files/42634237/On_the_Democratic_Role_of_News_Recommenders.pdf",
+    "language": "en",
+    "accessed_at": "2026-09-15",
+    "access_status": "full_text",
+    "bibliographic_note": "阿姆斯特丹大学 UvA-DARE 保存的期刊定稿全文。用于核对新闻推荐可优化的多种目标、民主理论下的多元价值以及目标之间不存在单一‘黄金标准’的规范性争议。"
+  },
+  {
+    "id": "Q341",
+    "source_type": "primary_scholarship",
+    "title": "The Two-Step Flow of Communication: An Up-To-Date Report on an Hypothesis",
+    "authors_or_organization": [
+      "Elihu Katz"
+    ],
+    "year": 1957,
+    "publisher_or_venue": "Public Opinion Quarterly, 21(1), 61–78",
+    "doi": "10.1086/266687",
+    "url": "https://repository.upenn.edu/server/api/core/bitstreams/0071f2b9-cd77-4bd3-a5ce-8a2a29ea1d4e/content",
+    "language": "en",
+    "accessed_at": "2026-09-15",
+    "access_status": "full_text",
+    "bibliographic_note": "已直接下载并逐页提取宾夕法尼亚大学 ScholarlyCommons 托管的 11 页开放 PDF。PDF 第 1 页的摘要与开篇给出假说、连续研究及其对调查设计中人际关系的处理；第 3 页明确区分个人影响、个人影响流动、意见领袖与媒体三项；第 10 页概括后续研究的精炼。该来源支持经典研究及其历史证据范围，不支持对当代平台网络的实时外推。"
+  },
+  {
+    "id": "Q342",
+    "source_type": "primary_scholarship",
+    "title": "Modelling Contemporary Gatekeeping: The Rise of Individuals, Algorithms and Platforms in Digital News Dissemination",
+    "authors_or_organization": [
+      "Wallace, Julian"
+    ],
+    "year": 2018,
+    "publisher_or_venue": "Digital Journalism, 6(3), 274–293",
+    "doi": "10.1080/21670811.2017.1343648",
+    "url": "https://mediachange.ch/media/pdf/publications/Wallace2017_Digital_Gatekeeping.pdf",
+    "language": "en",
+    "accessed_at": "2026-09-15",
+    "access_status": "full_text",
+    "bibliographic_note": "University of Zurich Media Change & Innovation 站点提供的作者 postprint，共 20 页；正文与 DOI、作者、题名及期刊版本相符。已核读 PDF pp. 1–15 的引言、数字把关者类型、平台机制、模型与结论。论文提出理论模型并明确仍需后续实证检验，不能用来证明特定平台的现实效果或规范正当性。"
+  },
+  {
+    "id": "Q343",
+    "source_type": "scholarly_synthesis",
+    "title": "Issues and Best Practices in Content Analysis",
+    "authors_or_organization": [
+      "Stephen Lacy",
+      "Brendan R. Watson",
+      "Daniel Riffe",
+      "Jennette Lovejoy"
+    ],
+    "year": 2015,
+    "publisher_or_venue": "Journalism & Mass Communication Quarterly, 92(4), pp. 791–811",
+    "doi": "10.1177/1077699015607338",
+    "url": "https://www.researchgate.net/publication/282307144_Issues_and_Best_Practices_in_Content_Analysis",
+    "language": "en",
+    "accessed_at": "2026-09-15",
+    "access_status": "full_text",
+    "bibliographic_note": "ResearchGate 页面标示 Public Full-text，且全文由合著者 Jennette Lovejoy 于 2016-05-23 上传；本轮在页面实际核读 pp. 1、10–12、13–18。用于内容分析的报告、抽样、人工编码一致性与自动文本分析的验证／可复现建议。文章明确是作者团队提出的 best practices，且承认部分标准仍在争论中；不把它当作全领域统一流程或实时平台证据。页面提示内容可能受版权保护；项目仅登记书目信息、可定位范围与自行概述。"
+  },
+  {
+    "id": "Q345",
+    "source_type": "scholarly_synthesis",
+    "title": "Feeling Validated Versus Being Correct: A Meta-Analysis of Selective Exposure to Information",
+    "authors_or_organization": [
+      "William Hart",
+      "Dolores Albarracín",
+      "Alice H. Eagly",
+      "Inge Brechan",
+      "Matthew J. Lindberg",
+      "Lisa Merrill"
+    ],
+    "year": 2009,
+    "publisher_or_venue": "Psychological Bulletin, 135(4), 555–588",
+    "doi": "10.1037/a0015701",
+    "url": "https://socialactionlab.org/wp-content/uploads/2024/01/Hart_Feeling-Validated-Versus-Being-Correct-A-Meta-Analysis-of-Selective-Exposure-to-Information_2009.pdf",
+    "language": "en",
+    "accessed_at": "2026-09-16",
+    "access_status": "full_text",
+    "bibliographic_note": "已直接打开并核读作者 Dolores Albarracín 的 Social Action Lab 出版物页所链接的 34 页全文 PDF；题名、作者、期刊卷期页码与 DOI 均与发表记录一致。已核读 PDF pp. 1–7、21–29 的研究范围、方法、总体效应、调节分析、讨论与限制。全文支持总体一致信息偏好及信息相对效用较高时可能出现反向偏好；不支持把选择性接触视为人人恒定的特质，也不能用元分析中的跨研究相关性调节结果证明所有情境中的个体因果效应。"
+  },
+  {
+    "id": "Q347",
+    "source_type": "primary_scholarship",
+    "title": "Organizing and the Process of Sensemaking",
+    "authors_or_organization": [
+      "Karl E. Weick",
+      "Kathleen M. Sutcliffe",
+      "David Obstfeld"
+    ],
+    "year": 2005,
+    "publisher_or_venue": "Organization Science, 16(4), 409–421",
+    "doi": "10.1287/orsc.1050.0133",
+    "url": "https://scispace.com/pdf/organizing-and-the-process-of-sensemaking-4qk2e6f9y9.pdf",
+    "language": "en",
+    "accessed_at": "2026-09-16",
+    "access_status": "full_text",
+    "bibliographic_note": "已实际打开并核读可访问的 13 页出版社排版全文，题名、作者、期刊卷期页码和 DOI 均与正式记录一致。正文印刷页 409–410 将 sensemaking 描述为持续、回顾性地形成可行解释：行动者在社会情境中从进行中的情境提取线索，以语言把组织情境形成可明确理解且可导向行动的 situation；同处说明意义在这里形成并影响、约束身份与行动。正文同时把显性的 sensemaking 限定在预期与现实不一致、行动路径不明显或经验流变得难以理解等中断情境，并强调行动、解释、语言与交流的联动；不能据此把任何一般性的理解、信息接收或个体认知都称为 sensemaking。"
+  },
+  {
+    "id": "Q348",
+    "source_type": "primary_scholarship",
+    "title": "Social Cognitive Theory of Mass Communication",
+    "authors_or_organization": [
+      "Albert Bandura"
+    ],
+    "year": 2001,
+    "publisher_or_venue": "Media Effects: Advances in Theory and Research (2nd ed.), pp. 121–153, chapter manuscript",
+    "doi": null,
+    "url": "https://techofcomm.wordpress.com/wp-content/uploads/2015/09/bandura-sct-of-mass-communication.pdf",
+    "language": "en",
+    "accessed_at": "2026-09-16",
+    "access_status": "full_text",
+    "bibliographic_note": "已直接打开并核读 28 页全文手稿。首页署名 Albert Bandura、Stanford University，并自载 Bandura（2001）收录于 Media Effects: Advances in Theory and Research 第2版、pp. 121–153 的书目信息；题名、作者及核心文本与出版社所载同题 Media Psychology 论文摘要和 CiteSeerX 机构索引文本相符。已核读 PDF pp. 2–20 的理论框架、观察学习机制、媒介与人际来源、双路径及社会扩散章节。当前可读副本由第三方教学站点托管，不是作者或出版社库；因此来源支持正文内容与页码定位，但不据此声称该站点具有正式出版者身份，也不将理论性综合当作特定媒介效果的独立实证检验。"
+  },
+  {
+    "id": "Q349",
+    "source_type": "primary_scholarship",
+    "title": "The Third-Person Effect in Communication",
+    "authors_or_organization": [
+      "W. Phillips Davison"
+    ],
+    "year": 1983,
+    "publisher_or_venue": "Public Opinion Quarterly, 47(1), 1–15",
+    "doi": "10.1086/268763",
+    "url": "https://www.romolocapuano.com/wp-content/uploads/2013/07/Davison-Third-Person-Effect.pdf",
+    "language": "en",
+    "accessed_at": "2026-09-16",
+    "access_status": "full_text",
+    "bibliographic_note": "已直接下载并核读可访问的原刊版扫描 PDF（16 个 PDF 页面，含 1 页 JSTOR 封面；原刊正文 pp. 1–15；SHA-256: c6c400fc9edaa9474ae328f4427d8aee2e95a376f2cd94bf7a5e6253db614a38）。题名、作者、卷期页码和 DOI 与 Oxford Academic 记录一致。原刊 p. 3 分别提出感知差距与可能的行动后果；pp. 4–7 报告检验自他影响估计的非正式小样本实验；pp. 9–10、13–14 提供投票、捐款、市场行动与审查的行为例证或推测。正文明确称实验规模小且条件非正式，行为案例亦多需额外假设，不能据此宣称感知差距已被证明会导致特定行为。PDF 托管于第三方个人学术站点而非作者或机构库，来源归属已用出版社记录交叉核对，但长期可用性弱于机构仓储。"
+  },
+  {
+    "id": "Q350",
+    "source_type": "primary_scholarship",
+    "title": "The Elaboration Likelihood Model of Persuasion",
+    "authors_or_organization": [
+      "Richard E. Petty",
+      "John T. Cacioppo"
+    ],
+    "year": 1986,
+    "publisher_or_venue": "Advances in Experimental Social Psychology, 19, 123–205",
+    "doi": "10.1016/S0065-2601(08)60214-2",
+    "url": "https://www.researchgate.net/publication/229068356_The_Elaboration_Likelihood_Model_of_Persuasion",
+    "language": "en",
+    "accessed_at": "2026-09-16",
+    "access_status": "full_text",
+    "bibliographic_note": "ResearchGate 页面提供由 Richard E. Petty 本人上传的完整章节正文，并标示为 Author content；题名、作者、卷册、页码与 DOI 均和出版社记录一致。已实际核读印刷页 125–129 的两条路径与精细加工连续体、132–136 的论据／线索及变量影响加工方式、183 和 186–191 的变量多重作用与总结。正文把中央和外周路径界定为精细加工连续体的两个锚点，取决于受众动机、能力和当时的加工过程；同一来源、信息、受众或情境变量可在不同条件下作为简单线索、改变论据审视程度或进入论据评价，不能把路径误写为两类固定信息、固定媒介内容或固定人群。"
+  },
+  {
+    "id": "R401",
+    "source_type": "official_record",
+    "title": "Professor Emeritus Claude Shannon, founder of digital communications, dies at 84",
+    "authors_or_organization": [
+      "MIT News Office"
+    ],
+    "year": 2001,
+    "publisher_or_venue": "MIT News, Massachusetts Institute of Technology",
+    "doi": null,
+    "url": "https://news.mit.edu/2001/shannon",
+    "language": "en",
+    "accessed_at": "2026-09-16",
+    "access_status": "full_text",
+    "bibliographic_note": "MIT 官方讣闻直接记录：Shannon 于 1936 年在 University of Michigan 获数学与电气工程两个 B.S.，并于 1940 年在 MIT 获电气工程 S.M. 与数学 Ph.D.。页面同时展示 MIT Museum 肖像，但未给出可复用许可，因此该页只用于学历，不作为肖像许可来源。"
+  },
+  {
+    "id": "R402",
+    "source_type": "other_material",
+    "title": "File:ClaudeShannon MFO3807.jpg",
+    "authors_or_organization": [
+      "Konrad Jacobs",
+      "Mathematisches Forschungsinstitut Oberwolfach",
+      "Wikimedia Commons"
+    ],
+    "year": 2015,
+    "publisher_or_venue": "Wikimedia Commons / Oberwolfach Photo Collection",
+    "doi": null,
+    "url": "https://commons.wikimedia.org/wiki/File:ClaudeShannon_MFO3807.jpg",
+    "language": "en",
+    "accessed_at": "2026-09-16",
+    "access_status": "full_text",
+    "bibliographic_note": "文件页标明作者 Konrad Jacobs、版权方 MFO，并以 CC BY-SA 2.0 DE 发布；Wikimedia VRT 已核验权利人许可，ticket #2008042410024381。原图可直接访问 https://upload.wikimedia.org/wikipedia/commons/9/99/ClaudeShannon_MFO3807.jpg；使用时须署名、链接许可，改编时遵守相同方式共享。"
+  },
+  {
+    "id": "R403",
+    "source_type": "official_record",
+    "title": "Stuart Hall 1932-2014",
+    "authors_or_organization": [
+      "Merton College, University of Oxford"
+    ],
+    "year": 2014,
+    "publisher_or_venue": "Merton College, University of Oxford",
+    "doi": null,
+    "url": "https://www.merton.ox.ac.uk/news/stuart-hall-1932-2014",
+    "language": "en",
+    "accessed_at": "2026-09-16",
+    "access_status": "full_text",
+    "bibliographic_note": "学院讣闻直接记录 Hall 于 1951 年凭 Rhodes Scholarship 到 Merton College 学习 English，完成 B.A. 后开展关于 Henry James 的博士研究，并在 1956 或 1957 年中止。页面图片未给出开放许可，本记录不作为肖像许可依据。"
+  },
+  {
+    "id": "R404",
+    "source_type": "other_material",
+    "title": "Donald Shaw Obituary (1936–2021)",
+    "authors_or_organization": [
+      "The News & Observer"
+    ],
+    "year": 2021,
+    "publisher_or_venue": "The News & Observer / Legacy.com",
+    "doi": null,
+    "url": "https://www.legacy.com/us/obituaries/newsobserver/name/donald-shaw-obituary?id=31091163",
+    "language": "en",
+    "accessed_at": "2026-09-16",
+    "access_status": "full_text",
+    "bibliographic_note": "公开讣告逐项记录 Shaw 于 1957 年在 Mars Hill College 获 associate's degree、1959 与 1960 年在 UNC-Chapel Hill 分别获 bachelor's 与 master's degree、1966 年在 University of Wisconsin 获 doctorate。页面未直接说明各学位专业，也未给肖像开放许可；节点不推断专业、不复用页面照片。"
+  },
+  {
+    "id": "R405",
+    "source_type": "other_material",
+    "title": "Mead, George Herbert (1863-1931)",
+    "authors_or_organization": [
+      "Jane Addams Digital Edition",
+      "Ramapo College of New Jersey"
+    ],
+    "year": null,
+    "publisher_or_venue": "Jane Addams Digital Edition, Ramapo College of New Jersey",
+    "doi": null,
+    "url": "https://digital.janeaddams.ramapo.edu/items/show/886",
+    "language": "en",
+    "accessed_at": "2026-09-16",
+    "access_status": "full_text",
+    "bibliographic_note": "学术数字版人物记录明确把所示 George Herbert Mead 图片标记为 Public domain，并注明图片来自 University of Chicago Centennial Catalogues。页面所载出生日期疑有录入错误，故本项目只采用其肖像、来源与权利字段，不采用出生日期。原图可直接访问 https://s3.amazonaws.com/omeka-janeaddams/original/59a3cf77c0503365c395ce894f705f9f.jpg。"
+  },
+  {
+    "id": "R411",
+    "source_type": "official_record",
+    "title": "University Studies",
+    "authors_or_organization": [
+      "Thomas Petersen",
+      "Private Archives Elisabeth Noelle"
+    ],
+    "year": 2015,
+    "publisher_or_venue": "Elisabeth Noelle-Neumann: Her Life and Scientific Work",
+    "doi": null,
+    "url": "https://noelle-neumann.de/biography/biography-university-studies/",
+    "language": "en",
+    "accessed_at": "2026-09-16",
+    "access_status": "full_text",
+    "bibliographic_note": "专题档案站学业总页：直接记录1935年起在柏林、柯尼斯堡、慕尼黑和密苏里大学哥伦比亚分校学习新闻学、历史与哲学，并1940年在柏林以美国政治与报刊大规模调查论文取得博士学位。页面的机构性质是私人档案专题站，不等同于大学学籍证明。"
+  },
+  {
+    "id": "R412",
+    "source_type": "other_material",
+    "title": "University Studies Picture Gallery",
+    "authors_or_organization": [
+      "Private Archives Elisabeth Noelle"
+    ],
+    "year": 2015,
+    "publisher_or_venue": "Elisabeth Noelle-Neumann: Her Life and Scientific Work",
+    "doi": null,
+    "url": "https://noelle-neumann.de/biographie-galerien/studium/",
+    "language": "de",
+    "accessed_at": "2026-09-16",
+    "access_status": "full_text",
+    "bibliographic_note": "图库页的图片来源栏明确写为‘Alle Bilder: © Privatarchiv Elisabeth Noelle’。可作肖像线索，但未给出网站外公开展示或再利用许可，因此本轮不接入 portrait。"
+  },
+  {
+    "id": "R413",
+    "source_type": "official_record",
+    "title": "Paul Felix Lazarsfeld, Univ.-Prof. Dr.",
+    "authors_or_organization": [
+      "University of Vienna"
+    ],
+    "year": 2024,
+    "publisher_or_venue": "650 plus – History of the University of Vienna",
+    "doi": null,
+    "url": "https://geschichte.univie.ac.at/de/personen/paul-felix-lazarsfeld",
+    "language": "de",
+    "accessed_at": "2026-09-16",
+    "access_status": "full_text",
+    "bibliographic_note": "维也纳大学官方学校史人物页，直接记录拉扎斯菲尔德在该校学习数学并完成博士论文；页面未在该句给出学位年份。"
+  },
+  {
+    "id": "R414",
+    "source_type": "other_material",
+    "title": "File:Lazarsfeld1941 Lge.jpg",
+    "authors_or_organization": [
+      "Miremahe",
+      "Wikimedia Commons"
+    ],
+    "year": 2016,
+    "publisher_or_venue": "Wikimedia Commons",
+    "doi": null,
+    "url": "https://commons.wikimedia.org/wiki/File:Lazarsfeld1941_Lge.jpg",
+    "language": "en",
+    "accessed_at": "2026-09-16",
+    "access_status": "full_text",
+    "bibliographic_note": "文件页记录上传者为 Miremahe，并由著作权持有人以 CC BY-SA 4.0 发布；需保留署名、许可链接和改动说明。本仓已有 /portraits/lazarsfeld.jpg，本轮仅复核许可记录。"
+  },
+  {
+    "id": "R415",
+    "source_type": "scholarly_synthesis",
+    "title": "Carl Iver Hovland",
+    "authors_or_organization": [
+      "Roger N. Shepard",
+      "National Academy of Sciences"
+    ],
+    "year": 1998,
+    "publisher_or_venue": "Biographical Memoirs, Volume 73, National Academies Press",
+    "doi": "10.17226/9650",
+    "url": "https://www.nationalacademies.org/read/9650/chapter/13",
+    "language": "en",
+    "accessed_at": "2026-09-16",
+    "access_status": "full_text",
+    "bibliographic_note": "美国国家科学院传记回忆录。Professional History 部分直接记录西北大学 A.B. 1932、A.M. 1933，以及耶鲁大学 Ph.D. 1936。页内肖像没有可与整页版权分离的再利用许可，不接入 portrait。"
+  },
+  {
+    "id": "R416",
+    "source_type": "official_record",
+    "title": "Innis Library",
+    "authors_or_organization": [
+      "McMaster University Libraries"
+    ],
+    "year": null,
+    "publisher_or_venue": "McMaster University",
+    "doi": null,
+    "url": "https://library.mcmaster.ca/spaces/innis",
+    "language": "en",
+    "accessed_at": "2026-09-16",
+    "access_status": "full_text",
+    "bibliographic_note": "麦马士达大学图书馆官方页将伊尼斯列为校友，明确列出 B.A. 1916、M.A. 1918（及名誉 L.L.D. 1945，本轮不将名誉学位写入学业训练）。"
+  },
+  {
+    "id": "R417",
+    "source_type": "official_record",
+    "title": "A Feast of Thought: U of T's 20 Greatest Thinkers and Intellectuals",
+    "authors_or_organization": [
+      "Brad Faught",
+      "University of Toronto Magazine"
+    ],
+    "year": 2002,
+    "publisher_or_venue": "University of Toronto Magazine",
+    "doi": null,
+    "url": "https://magazine.utoronto.ca/people/faculty-staff/u-of-t-20-greatest-thinkers-and-intellectuals/",
+    "language": "en",
+    "accessed_at": "2026-09-16",
+    "access_status": "full_text",
+    "bibliographic_note": "多伦多大学官方杂志人物专题，直接记录伊尼斯一战后赴芝加哥大学攻读政治经济学博士，并1919年撰写加拿大太平洋铁路史博士论文。"
+  },
+  {
+    "id": "R418",
+    "source_type": "official_record",
+    "title": "A young Harold Innis",
+    "authors_or_organization": [
+      "University of Toronto Archives & Records Management Services"
+    ],
+    "year": null,
+    "publisher_or_venue": "Collections U of T",
+    "doi": null,
+    "url": "https://collections.library.utoronto.ca/view/utarmsIB:2006-23-38MS",
+    "language": "en",
+    "accessed_at": "2026-09-16",
+    "access_status": "full_text",
+    "bibliographic_note": "大学档案肖像记录，创作者未知，馆藏号 B1972-0003/034 (56) 0001，数字图像号 2006-23-38MS。权利栏明确标注‘Public Domain - Image is clear for use, no permission required. Please credit.’，要求署名 University of Toronto Archives。本轮受‘只创建三个候选文件’限制，未下载、转码或接入图像资产。"
+  },
+  {
+    "id": "R421",
+    "source_type": "official_record",
+    "title": "Native Iowan Returns to State to Discuss Technology Diffusion and the ICN",
+    "authors_or_organization": [
+      "Iowa State University News Service"
+    ],
+    "year": 1997,
+    "publisher_or_venue": "Iowa State University",
+    "doi": null,
+    "url": "https://archive.news.iastate.edu/oldreleases/97/IDLA.html",
+    "language": "en",
+    "accessed_at": "2026-09-16",
+    "access_status": "full_text",
+    "bibliographic_note": "爱荷华州立大学新闻档案直接记载Rogers在该校获得农业学B.S.及社会学硕士、博士学位；页面未列后两个学位的正式英文缩写和年份。"
+  },
+  {
+    "id": "R422",
+    "source_type": "official_record",
+    "title": "Wilbur Schramm (2)",
+    "authors_or_organization": [
+      "University of Illinois Archives",
+      "University of Illinois at Urbana-Champaign Photographic Services"
+    ],
+    "year": 1947,
+    "publisher_or_venue": "University of Illinois Archives",
+    "doi": null,
+    "url": "https://archon.library.illinois.edu/archives/?id=4226&p=digitallibrary/digitalcontent",
+    "language": "en",
+    "accessed_at": "2026-09-16",
+    "access_status": "full_text",
+    "bibliographic_note": "档案页确认这是1947年的Wilbur Schramm肖像，并明确声明图像版权由University of Illinois持有，高清副本需联系购买；未获网站展示许可，仅列为候选，不接入portrait。"
+  },
+  {
+    "id": "R423",
+    "source_type": "official_record",
+    "title": "75. Todestag von Kurt Lewin",
+    "authors_or_organization": [
+      "Universitätsarchiv der Humboldt-Universität zu Berlin"
+    ],
+    "year": 2023,
+    "publisher_or_venue": "Universitätsbibliothek der Humboldt-Universität zu Berlin",
+    "doi": null,
+    "url": "https://www.ub.hu-berlin.de/de/standorte/archiv/gedaechtnis-der-universitaet/75-todestag-von-kurt-lewin",
+    "language": "de",
+    "accessed_at": "2026-09-16",
+    "access_status": "full_text",
+    "bibliographic_note": "柏林洪堡大学档案馆依学籍与学位档案记载Lewin于1910年由慕尼黑转入当时的柏林腓特烈·威廉大学，1916年晋升博士，1921年取得大学授课资格。"
+  },
+  {
+    "id": "R424",
+    "source_type": "other_material",
+    "title": "Sculpture of Kurt Lewin, 2011",
+    "authors_or_organization": [
+      "Pko",
+      "Wikimedia Commons"
+    ],
+    "year": 2011,
+    "publisher_or_venue": "Wikimedia Commons",
+    "doi": null,
+    "url": "https://commons.wikimedia.org/wiki/File:Sculpture_of_Kurt_Lewin,_2011.jpg",
+    "language": "en",
+    "accessed_at": "2026-09-16",
+    "access_status": "full_text",
+    "bibliographic_note": "文件页标明摄影者为Pko，内容是莫吉尔诺纪念牌上的Kurt Lewin肖像雕塑，以CC BY-SA 4.0发布；可公开展示，需保留署名、许可链接和修改说明。"
+  },
+  {
+    "id": "R425",
+    "source_type": "official_record",
+    "title": "Professor Erving Goffman",
+    "authors_or_organization": [
+      "University College, University of Toronto"
+    ],
+    "year": null,
+    "publisher_or_venue": "University of Toronto",
+    "doi": null,
+    "url": "https://www.uc.utoronto.ca/alumni-influence/professor-erving-goffman",
+    "language": "en",
+    "accessed_at": "2026-09-16",
+    "access_status": "full_text",
+    "bibliographic_note": "多伦多大学University College校友页记载Goffman于1945年获B.A.，本科学习社会学与人类学，随后赴芝加哥大学完成博士学位。页面配肖像但页脚是站点All rights reserved，没有单独图像授权，不接入portrait。"
+  },
+  {
+    "id": "R426",
+    "source_type": "official_record",
+    "title": "Who’s the deviant here?",
+    "authors_or_organization": [
+      "Carrie Golus",
+      "The University of Chicago Magazine"
+    ],
+    "year": 2015,
+    "publisher_or_venue": "University of Chicago",
+    "doi": null,
+    "url": "https://mag.uchicago.edu/law-policy-society/whos-deviant-here",
+    "language": "en",
+    "accessed_at": "2026-09-16",
+    "access_status": "full_text",
+    "bibliographic_note": "芝加哥大学校刊在讨论芝加哥社会学系研究生群体时，以校友学位缩写标明Goffman的A.M.为1949年、Ph.D.为1953年。"
+  },
+  {
+    "id": "R427",
+    "source_type": "other_material",
+    "title": "Erving Goffman circa 1940",
+    "authors_or_organization": [
+      "Unknown photographer",
+      "Wikimedia Commons"
+    ],
+    "year": 1940,
+    "publisher_or_venue": "Wikimedia Commons",
+    "doi": null,
+    "url": "https://commons.wikimedia.org/wiki/File:Erving_Goffman_circa_1940.jpg",
+    "language": "en",
+    "accessed_at": "2026-09-16",
+    "access_status": "full_text",
+    "bibliographic_note": "文件页称其为Goffman约1940年在温尼伯中学时的照片，但作者未知，只标记为加拿大公共领域；页面警告尚需补充美国公版标签，且在部分其他法域可能仍受保护，因此仅列候选、不接入portrait。"
+  },
+  {
+    "id": "Q351",
+    "source_type": "scholarly_synthesis",
+    "title": "Development Communication Sourcebook: Broadening the Boundaries of Communication",
+    "authors_or_organization": [
+      "Paolo Mefalopulos",
+      "World Bank"
+    ],
+    "year": 2008,
+    "publisher_or_venue": "World Bank",
+    "doi": "10.1596/978-0-8213-7522-8",
+    "url": "https://documents.worldbank.org/curated/en/752011468314090450/pdf/446360Dev0Comm1ns0handbook01PUBLIC1.pdf",
+    "language": "en",
+    "accessed_at": "2026-09-19",
+    "access_status": "full_text",
+    "bibliographic_note": "世界银行公开全文。本项目使用PDF pp.41–52对monologic/diffusion与dialogic/participatory两种模式的区分，以及PDF pp.76–78、94对扩散与参与的历史边界、张力和组合方式；不把机构手册当成领域唯一共识。"
+  },
+  {
+    "id": "Q352",
+    "source_type": "official_record",
+    "title": "Communication for Development (ComDev)",
+    "authors_or_organization": [
+      "Food and Agriculture Organization of the United Nations"
+    ],
+    "year": null,
+    "publisher_or_venue": "FAO",
+    "doi": null,
+    "url": "https://www.fao.org/communication-for-development/en",
+    "language": "en",
+    "accessed_at": "2026-09-19",
+    "access_status": "full_text",
+    "bibliographic_note": "FAO当前项目页把发展传播界定为结果导向且参与式的方法，强调知情决策、知识分享、利益相关者参与、农村传播服务、参与式视频与农村广播；适合证明该机构的实践范围，不用于声称所有项目效果。"
+  },
+  {
+    "id": "Q353",
+    "source_type": "official_record",
+    "title": "Participatory Communication Research Section",
+    "authors_or_organization": [
+      "International Association for Media and Communication Research"
+    ],
+    "year": null,
+    "publisher_or_venue": "IAMCR",
+    "doi": null,
+    "url": "https://mail.iamcr.org/s-wg/section/pcr",
+    "language": "en",
+    "accessed_at": "2026-09-19",
+    "access_status": "full_text",
+    "bibliographic_note": "IAMCR研究分会页面说明参与不是单一定义，研究社区成员与其他利益相关者在社会变迁过程中的传播，议题涵盖民主、传播权、可持续发展、社区媒体、参与式行动研究及参与、赋权与性别关系。"
+  },
+  {
+    "id": "Q354",
+    "source_type": "official_record",
+    "title": "Participatory Rural Communication Appraisal: Communication for Development in Action",
+    "authors_or_organization": [
+      "Food and Agriculture Organization of the United Nations"
+    ],
+    "year": 2004,
+    "publisher_or_venue": "FAO",
+    "doi": null,
+    "url": "https://www.fao.org/4/y5793e/y5793e03.htm",
+    "language": "en",
+    "accessed_at": "2026-09-19",
+    "access_status": "full_text",
+    "bibliographic_note": "FAO手册第1章完整网页。1.3.1–1.3.2界定发展传播与参与的作用；1.4列规划阶段；1.5.1说明PRCA使用现场可视化、访谈和小组工作，并借鉴定量、质化与民族志。属于机构方法手册，不用于证明参与自动带来平等或项目成功。"
+  }
+]

@@ -1,0 +1,85 @@
+[
+  {
+    "id": "Q321",
+    "source_type": "primary_scholarship",
+    "title": "The Platformization of the Web: Making Web Data Platform Ready",
+    "authors_or_organization": [
+      "Anne Helmond"
+    ],
+    "year": 2015,
+    "publisher_or_venue": "Social Media + Society",
+    "doi": "10.1177/2056305115603080",
+    "url": "https://journals.sagepub.com/doi/pdf/10.1177/2056305115603080",
+    "language": "en",
+    "accessed_at": "2026-09-15",
+    "access_status": "full_text",
+    "bibliographic_note": "SAGE 开放论文全文。用于核对网页平台化的物质—技术定义：平台功能借 API 等接口外延，外部数据同时被重新集中并格式化为‘平台就绪’数据。"
+  },
+  {
+    "id": "Q322",
+    "source_type": "primary_scholarship",
+    "title": "When does public diplomacy work? Evidence from China's 'wolf warrior' diplomats",
+    "authors_or_organization": [
+      "Daniel C. Mattingly",
+      "James Sundquist"
+    ],
+    "year": 2023,
+    "publisher_or_venue": "Political Science Research and Methods, 11(4), 921–929",
+    "doi": "10.1017/psrm.2022.41",
+    "url": "https://www.cambridge.org/core/journals/political-science-research-and-methods/article/when-does-public-diplomacy-work-evidence-from-chinas-wolf-warrior-diplomats/7C36B5891C2A1A7769F936D5F389A9F6",
+    "language": "en",
+    "accessed_at": "2026-09-15",
+    "access_status": "full_text",
+    "bibliographic_note": "Cambridge Core 开放全文；2022 年在线首发，2023 年卷期出版。研究使用 2020 年两波印度居民调查实验与真实中国外交官推文；样本为配额抽样且不具全印度代表性，不能外推为全球效果。"
+  },
+  {
+    "id": "Q323",
+    "source_type": "scholarly_synthesis",
+    "title": "理论谱系与本土探索：新中国传播学理论研究70年（1949—2019）",
+    "authors_or_organization": [
+      "刘涛"
+    ],
+    "year": 2019,
+    "publisher_or_venue": "《新闻与传播研究》2019年第10期；中国社会科学网全文转载",
+    "doi": null,
+    "url": "https://www.cssn.cn/xwcbx/__deleted_2022.12.31_13.46.18__xwcbx_xkqy/202208/t20220802_5440270.shtml",
+    "language": "zh-CN",
+    "accessed_at": "2026-09-15",
+    "access_status": "full_text",
+    "bibliographic_note": "中国社会科学网可读全文，页面标明原载《新闻与传播研究》2019年第10期。用于核对少数民族传播研究的中国学术谱系、地方个案路径及从个案建构理论框架的待解问题。"
+  },
+  {
+    "id": "Q324",
+    "source_type": "primary_scholarship",
+    "title": "Localizing the Global: Exploring the Transnational Ties That Bind in New Immigrant Communities",
+    "authors_or_organization": [
+      "Wan-Ying Lin",
+      "Hayeon Song",
+      "Sandra Ball-Rokeach"
+    ],
+    "year": 2010,
+    "publisher_or_venue": "Journal of Communication, 60(2), 205–229",
+    "doi": "10.1111/j.1460-2466.2010.01480.x",
+    "url": "https://www.sjsu.edu/people/kathrine.richardson/courses/GS179GEO199/s1/Lin-Localizing-the-Global.pdf",
+    "language": "en",
+    "accessed_at": "2026-09-15",
+    "access_status": "full_text",
+    "bibliographic_note": "圣何塞州立大学课程页所存期刊论文全文，已与 DOI 及 Oxford Academic 元数据交叉核对。数据来自 1998—1999 年洛杉矶四个移民社区，包含 Greater Monterey Park 的华人样本与华文族裔报纸；不代表当代全球海外华文媒体。"
+  },
+  {
+    "id": "Q325",
+    "source_type": "primary_scholarship",
+    "title": "On the Democratic Role of News Recommenders",
+    "authors_or_organization": [
+      "Natali Helberger"
+    ],
+    "year": 2019,
+    "publisher_or_venue": "Digital Journalism, 7(8), 993–1012",
+    "doi": "10.1080/21670811.2019.1623700",
+    "url": "https://pure.uva.nl/ws/files/42634237/On_the_Democratic_Role_of_News_Recommenders.pdf",
+    "language": "en",
+    "accessed_at": "2026-09-15",
+    "access_status": "full_text",
+    "bibliographic_note": "阿姆斯特丹大学 UvA-DARE 保存的期刊定稿全文。用于核对新闻推荐可优化的多种目标、民主理论下的多元价值以及目标之间不存在单一‘黄金标准’的规范性争议。"
+  }
+]

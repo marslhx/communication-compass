@@ -1,0 +1,48 @@
+[
+  {
+    "id": "p-harold-innis",
+    "slug": "harold-innis",
+    "record_level": "complete",
+    "type": "person",
+    "subtype": "scholar",
+    "name_zh": "哈罗德·伊尼斯",
+    "name_original": "Harold Adams Innis",
+    "aliases": [{"name":"哈罗德·亚当斯·伊尼斯","kind":"common_name","note":"含中间名的全译。"}],
+    "summary": "哈罗德·伊尼斯是加拿大政治经济学家和传播研究先驱，以媒介的时间／空间倾向及知识与帝国问题影响媒介理论。",
+    "why_it_matters": "他让学生在分析媒介内容之外，追问媒介的物质特征、时空组织、知识垄断与政治经济结构。",
+    "roles": ["政治经济学家", "传播研究先驱", "媒介史与媒介理论学者"],
+    "communication_relevance": "将媒介特征、知识的时空传播、文化环境和权力结构放在同一历史分析中。",
+    "key_points": [
+      {"id":"phi-k1","statement":"多伦多大学将伊尼斯定位为传播研究先驱，并将媒介与传播理论列为其奠基性著作领域。","evidence_status":"direct","evidence":[{"source_id":"P222","locator":"Innis History及Harold Innis Foundation段落","support_note":"大学页面直接支持人物身份、先驱定位和著作范围。","support_role":"supports"}]},
+      {"id":"phi-k2","statement":"伊尼斯从媒介特征、知识在时间与空间中的传播及具体文化环境考察媒介影响。","evidence_status":"direct","evidence":[{"source_id":"S003","locator":"p. 457，开篇段落","support_note":"已核开篇直接提出媒介特征、知识时空传播与文化环境问题。","support_role":"supports"}]}
+    ],
+    "limits_or_debates": [{"id":"phi-l1","statement":"伊尼斯的媒介偏向视角不应被简化为技术自动决定社会；应同时考察历史、制度、经济与使用情境。","evidence_status":"interpretive","evidence":[{"source_id":"S003","locator":"p. 457，开篇段落","support_note":"开篇支持文化环境中的媒介分析；反对单因果化是本站教学限定。","support_role":"qualifies"}]}],
+    "area_memberships": [{"area_id":"media_society","is_primary":true,"rationale":"其核心问题是媒介形式、知识与社会组织。"},{"area_id":"power_culture","is_primary":false,"rationale":"其历史分析涉及知识垄断、帝国和权力。"}],
+    "learning_resources": [{"title":"Innis History","source_id":"P222","purpose":"定位伊尼斯的学科史位置与著作范围。","level":"introductory","locator":"Innis History与Harold Innis Foundation"},{"title":"The Bias of Communication","source_id":"S003","purpose":"从已核开篇理解媒介、时空传播与文化环境。","level":"intermediate","locator":"p. 457开篇；不声称已核全文"}],
+    "learning_links": [{"target_id":"r3-medium-theory","reason":"进入伊尼斯与麦克卢汉所在的媒介理论传统。","sequence_hint":"after"},{"target_id":"p-mcluhan","reason":"比较两人对媒介形式的历史性与修辞性处理。","sequence_hint":"compare"},{"target_id":"r3-political-economy","reason":"将媒介偏向放回知识、制度、帝国与经济权力中考察。","sequence_hint":"after"}],
+    "temporal_profile":"relatively_stable","last_evidence_check":"2026-09-15","controversy_status":"contested","controversy_note":"其理论与技术决定论的关系、历史概括尺度以及时间／空间偏向的解释方式长期受到讨论。","review_status":"ready_for_review","created_at":"2026-09-15","updated_at":"2026-09-15","reviewed_at":null
+  },
+  {
+    "id": "p-theodor-adorno",
+    "slug": "theodor-adorno",
+    "record_level": "complete",
+    "type": "person",
+    "subtype": "scholar",
+    "name_zh": "西奥多·阿多诺",
+    "name_original": "Theodor W. Adorno",
+    "aliases": [{"name":"特奥多尔·阿多诺","kind":"alternate_translation","note":"另一常见中文译名。"}],
+    "summary": "西奥多·阿多诺是法兰克福学派的核心理论家，其文化工业、大众文化与权威主义研究成为批判传播和媒介研究的基础资源。",
+    "why_it_matters": "他帮助学生把电影、广播、音乐和杂志放进标准化生产、商品交换、主体形成与社会支配的关系中理解。",
+    "roles": ["哲学家", "社会理论家", "批判媒介与文化研究先驱"],
+    "communication_relevance": "通过文化工业、广播音乐和大众文化批判，连接媒介生产、商品化、意识形态与受众经验。",
+    "key_points": [
+      {"id":"pta-k1","statement":"阿多诺曾参与拉扎斯菲尔德的普林斯顿广播研究项目，并在美国时期发展了对广播音乐、大众文化与文化工业的批判。","evidence_status":"direct","evidence":[{"source_id":"P223","locator":"Biography及4.2 Culture","support_note":"SEP条目直接记录项目关系与美国时期的大众文化研究。","support_role":"supports"}]},
+      {"id":"pta-k2","statement":"阿多诺与霍克海默在“文化工业”章节中把电影、广播和杂志视为相互配合的系统，并将其标准化与商品化放进社会权力关系中批判。","evidence_status":"direct","evidence":[{"source_id":"P224","locator":"章节开头及标准化、市场与商品化段落","support_note":"可访问的原章节转录直接支持媒介系统、标准化和经济权力批判。","support_role":"supports"}]}
+    ],
+    "limits_or_debates": [{"id":"pta-l1","statement":"文化工业批判不应被当作“受众必然被动”的简单公式；后续研究持续讨论其受众观、大众文化判断和历史适用性。","evidence_status":"direct","evidence":[{"source_id":"P223","locator":"4.2 Culture，后续评论者对受众接受与文化条件的修订","support_note":"SEP明确记录后续评论对消费者接受的认知与心理复杂性所做阐发。","support_role":"qualifies"}]}],
+    "area_memberships": [{"area_id":"power_culture","is_primary":true,"rationale":"其核心贡献连接文化、商品化、主体性和社会支配。"},{"area_id":"media_society","is_primary":false,"rationale":"其对广播、电影、杂志与音乐产业的分析直接进入媒介研究。"}],
+    "learning_resources": [{"title":"Theodor W. Adorno","source_id":"P223","purpose":"建立其学术生涯、广播研究和文化工业理论的全景。","level":"introductory","locator":"Biography与4.2 Culture"},{"title":"The Culture Industry: Enlightenment as Mass Deception","source_id":"P224","purpose":"核对媒介系统、标准化与商品化批判的原文范围。","level":"advanced","locator":"页面所载大部分章节；正式引用需回到出版版本"}],
+    "learning_links": [{"target_id":"r3-political-economy","reason":"进入媒介商品化、产业与权力分析。","sequence_hint":"after"},{"target_id":"r6-cultural-studies","reason":"比较文化工业批判与后续文化研究对受众和文本的不同处理。","sequence_hint":"compare"},{"target_id":"r3-media-industries","reason":"将标准化、生产组织与主体经验放回媒介产业分析。","sequence_hint":"after"}],
+    "temporal_profile":"relatively_stable","last_evidence_check":"2026-09-15","controversy_status":"contested","controversy_note":"精英主义指责、受众能动性、对大众文化的价值判断和概念在当代平台环境中的适用性均有持续争论。","review_status":"ready_for_review","created_at":"2026-09-15","updated_at":"2026-09-15","reviewed_at":null
+  }
+]

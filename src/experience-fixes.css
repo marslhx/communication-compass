@@ -1,0 +1,29 @@
+/* First interaction pass: make the page teach before it asks the student to filter. */
+.search-guidance{display:grid;grid-template-columns:minmax(0,1.5fr) minmax(160px,.5fr);gap:1px;margin-top:1.2rem;border:1px solid var(--line-strong);background:var(--line);box-shadow:0 18px 44px var(--shadow)}
+.search-guidance>div:first-child,.search-guidance>aside,.search-suggestions{padding:1.35rem;background:var(--surface)}
+.search-guidance h2{margin:.2rem 0 .6rem;font:clamp(1.55rem,3vw,2.4rem)/1.35 var(--display)}
+.search-guidance p{margin:0;color:var(--muted)}
+.search-guidance>aside{display:flex;flex-direction:column;justify-content:center;background:linear-gradient(145deg,color-mix(in srgb,var(--cyan,#75cce1) 12%,var(--surface)),var(--surface))}
+.search-guidance>aside span,.search-suggestions h3{color:var(--orange);font:9px var(--mono);letter-spacing:.12em;text-transform:uppercase}
+.search-guidance>aside p{margin-top:.5rem;color:var(--ink);font:1.05rem/1.8 var(--display)}
+.search-suggestions{grid-column:1/-1;display:grid;grid-template-columns:1fr repeat(3,minmax(0,1fr));gap:0;border-top:1px solid var(--line)}
+.search-suggestions h3{align-self:center;margin:0;padding-right:1rem;font-size:.72rem}
+.search-suggestions a{position:relative;display:flex;flex-direction:column;min-height:62px;padding:.6rem .8rem;border-left:1px solid var(--line);background:color-mix(in srgb,var(--surface-strong) 42%,transparent)}
+.search-suggestions a:hover{background:color-mix(in srgb,var(--orange) 10%,var(--surface));text-decoration:none}.search-suggestions span{color:var(--muted);font:8px var(--mono)}.search-suggestions b{font:.96rem var(--display)}.search-suggestions i{position:absolute;right:.7rem;top:.7rem;color:var(--orange);font-style:normal}
+
+/* Relationship canvases should use the density of the current node, not a fixed poster height. */
+.relation-orbit{height:var(--relation-height,560px)!important;min-height:0!important;transition:height .2s ease}.relation-orbit.count-0{height:260px!important}.relation-orbit.count-1 .relation-core{width:132px;height:132px;font-size:1.12rem}.relation-orbit.count-2 .relation-core,.relation-orbit.count-3 .relation-core{width:142px;height:142px}.learning-reasons{display:grid;gap:.6rem;margin:.8rem 0;padding:0;list-style:none}.learning-reasons li{display:grid;gap:.15rem;padding:.65rem .75rem;border-left:2px solid var(--orange);background:color-mix(in srgb,var(--orange) 7%,transparent)}.learning-reasons b{font-size:.78rem}.learning-reasons span{color:var(--muted);font-size:.82rem;line-height:1.6}
+
+/* The central copy is a label, not part of the compass needle. */
+.compass-center-copy{z-index:8!important;width:92px;min-height:56px;place-content:center;padding:.25rem .4rem;border:1px solid color-mix(in srgb,var(--orange) 48%,var(--line));border-radius:50%;background:radial-gradient(circle,color-mix(in srgb,var(--surface-strong) 94%,transparent),color-mix(in srgb,var(--surface) 82%,transparent));box-shadow:0 0 0 5px color-mix(in srgb,var(--surface) 75%,transparent),0 0 22px color-mix(in srgb,var(--orange) 22%,transparent)}
+.compass-center-copy b{font-size:1.08rem;text-shadow:0 1px 3px var(--surface)}.compass-center-copy span{margin-top:.1rem;font-size:6px;color:var(--muted)}
+
+/* Full atlas keeps labels legible at the highest density. */
+.atlas-node{width:138px;min-height:62px}.atlas-node>b{font-size:.81rem;line-height:1.45}.atlas-node>span{font-size:8.5px;font-weight:600}.atlas-orbit.density-all .atlas-node{width:124px;min-height:58px;padding:.38rem .48rem}.atlas-orbit.density-all .atlas-node>b{font-size:.75rem;line-height:1.36}.atlas-orbit.density-all .atlas-node>span{font-size:7.5px}.atlas-stage>header h2{font-size:1.3rem}
+
+@media(max-width:700px){.search-guidance{grid-template-columns:1fr}.search-guidance>aside{display:block}.search-suggestions{grid-template-columns:1fr}.search-suggestions h3{padding:.1rem 0 .6rem}.search-suggestions a{border-left:0;border-top:1px solid var(--line)}.relation-orbit{height:300px!important}.relation-orbit.count-0{height:220px!important}.compass-center-copy{width:82px;min-height:50px}.atlas-orbit.density-all .atlas-node>b{font-size:.68rem}}
+@media(prefers-reduced-motion:reduce){.relation-orbit{transition:none}}
+
+/* The third relationship lens is present, but deliberately marked as an interpretation. */
+.relation-explainer{grid-template-columns:repeat(3,minmax(0,1fr))}.comparison-explainer{border-top:3px solid #ba8ed8}.comparison-explainer b{color:#c49adb!important}.relation-orbit.comparison .orbit-relation>span{color:#d1addf}.relation-evidence-heading{margin:1rem 0 .35rem;color:#d1addf;font:1rem var(--display)}.comparison-boundary{margin:.35rem 0 1rem;padding:.7rem .8rem;border-left:2px solid #c49adb;background:color-mix(in srgb,#c49adb 10%,var(--surface));color:var(--muted);font-size:.83rem;line-height:1.65}
+@media(max-width:900px){.relation-explainer{grid-template-columns:1fr}.comparison-explainer{border-top:0;border-left:3px solid #ba8ed8}}

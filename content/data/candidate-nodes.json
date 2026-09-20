@@ -1,0 +1,3248 @@
+[
+  {
+    "id": "r1-communication-world",
+    "slug": "r1-communication-world",
+    "record_level": "candidate",
+    "type": "concept",
+    "subtype": "meta",
+    "name_zh": "传播建构社会世界",
+    "name_original": "Communication constructs social worlds",
+    "candidate_note": "作为学科入口命题，不写成单一理论",
+    "candidate_evidence_status": "direct",
+    "source_leads": [
+      "G01",
+      "G02"
+    ],
+    "aliases": [],
+    "area_memberships": [
+      {
+        "area_id": "communication",
+        "is_primary": true,
+        "rationale": "作为学科入口命题，不写成单一理论"
+      },
+      {
+        "area_id": "meaning",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      },
+      {
+        "area_id": "power_culture",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      }
+    ],
+    "temporal_profile": "relatively_stable",
+    "controversy_status": "not_assessed",
+    "review_status": "draft",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-11",
+    "reviewed_at": null
+  },
+  {
+    "id": "r1-process",
+    "slug": "r1-process",
+    "record_level": "candidate",
+    "type": "concept",
+    "subtype": null,
+    "name_zh": "传播过程与基本要素",
+    "name_original": "Communication process and elements",
+    "candidate_note": "包含传播者、信息、媒介、受众与情境",
+    "candidate_evidence_status": "interpretive",
+    "source_leads": [
+      "G11",
+      "G12",
+      "C03",
+      "C14"
+    ],
+    "aliases": [],
+    "area_memberships": [
+      {
+        "area_id": "communication",
+        "is_primary": true,
+        "rationale": "包含传播者、信息、媒介、受众与情境"
+      },
+      {
+        "area_id": "effects",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      },
+      {
+        "area_id": "research_application",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      }
+    ],
+    "temporal_profile": "relatively_stable",
+    "controversy_status": "not_assessed",
+    "review_status": "draft",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-11",
+    "reviewed_at": null
+  },
+  {
+    "id": "r1-feedback-noise",
+    "slug": "r1-feedback-noise",
+    "record_level": "candidate",
+    "type": "concept",
+    "subtype": null,
+    "name_zh": "反馈与噪音",
+    "name_original": "Feedback and noise",
+    "candidate_note": "需补信息论原典及其进入人类传播研究的历史",
+    "candidate_evidence_status": "pending",
+    "source_leads": [
+      "G12"
+    ],
+    "aliases": [],
+    "area_memberships": [
+      {
+        "area_id": "communication",
+        "is_primary": true,
+        "rationale": "需补信息论原典及其进入人类传播研究的历史"
+      },
+      {
+        "area_id": "digital_ai",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      }
+    ],
+    "temporal_profile": "relatively_stable",
+    "controversy_status": "not_assessed",
+    "review_status": "draft",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-11",
+    "reviewed_at": null
+  },
+  {
+    "id": "r1-interpersonal",
+    "slug": "r1-interpersonal",
+    "record_level": "candidate",
+    "type": "research_topic",
+    "subtype": "field",
+    "name_zh": "人际传播",
+    "name_original": "Interpersonal communication",
+    "candidate_note": "领域节点",
+    "candidate_evidence_status": "direct",
+    "source_leads": [
+      "G03",
+      "G08",
+      "G12",
+      "C08",
+      "C11"
+    ],
+    "aliases": [],
+    "area_memberships": [
+      {
+        "area_id": "communication",
+        "is_primary": true,
+        "rationale": "领域节点"
+      },
+      {
+        "area_id": "meaning",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      },
+      {
+        "area_id": "effects",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      },
+      {
+        "area_id": "institutions",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      }
+    ],
+    "temporal_profile": "relatively_stable",
+    "controversy_status": "not_assessed",
+    "review_status": "draft",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-11",
+    "reviewed_at": null
+  },
+  {
+    "id": "r1-group",
+    "slug": "r1-group",
+    "record_level": "candidate",
+    "type": "research_topic",
+    "subtype": "field",
+    "name_zh": "群体传播",
+    "name_original": "Group communication",
+    "candidate_note": "需与组织传播区分",
+    "candidate_evidence_status": "direct",
+    "source_leads": [
+      "G02",
+      "C14"
+    ],
+    "aliases": [],
+    "area_memberships": [
+      {
+        "area_id": "communication",
+        "is_primary": true,
+        "rationale": "需与组织传播区分"
+      },
+      {
+        "area_id": "effects",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      },
+      {
+        "area_id": "institutions",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      }
+    ],
+    "temporal_profile": "relatively_stable",
+    "controversy_status": "not_assessed",
+    "review_status": "draft",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-11",
+    "reviewed_at": null
+  },
+  {
+    "id": "r1-organizational",
+    "slug": "r1-organizational",
+    "record_level": "candidate",
+    "type": "research_topic",
+    "subtype": "field",
+    "name_zh": "组织传播",
+    "name_original": "Organizational communication",
+    "candidate_note": "跨区应用",
+    "candidate_evidence_status": "direct",
+    "source_leads": [
+      "G03",
+      "G04",
+      "G08",
+      "G12",
+      "C08"
+    ],
+    "aliases": [],
+    "area_memberships": [
+      {
+        "area_id": "communication",
+        "is_primary": true,
+        "rationale": "跨区应用"
+      },
+      {
+        "area_id": "institutions",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      },
+      {
+        "area_id": "research_application",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      }
+    ],
+    "temporal_profile": "relatively_stable",
+    "controversy_status": "not_assessed",
+    "review_status": "draft",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-11",
+    "reviewed_at": null
+  },
+  {
+    "id": "r1-mass",
+    "slug": "r1-mass",
+    "record_level": "candidate",
+    "type": "research_topic",
+    "subtype": "field",
+    "name_zh": "大众传播",
+    "name_original": "Mass communication",
+    "candidate_note": "不作为全部传播学的同义词",
+    "candidate_evidence_status": "direct",
+    "source_leads": [
+      "G03",
+      "G11",
+      "C14"
+    ],
+    "aliases": [],
+    "area_memberships": [
+      {
+        "area_id": "communication",
+        "is_primary": true,
+        "rationale": "不作为全部传播学的同义词"
+      },
+      {
+        "area_id": "media_society",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      },
+      {
+        "area_id": "effects",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      },
+      {
+        "area_id": "institutions",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      }
+    ],
+    "temporal_profile": "relatively_stable",
+    "controversy_status": "not_assessed",
+    "review_status": "draft",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-11",
+    "reviewed_at": null
+  },
+  {
+    "id": "r1-cmc",
+    "slug": "r1-cmc",
+    "record_level": "candidate",
+    "type": "research_topic",
+    "subtype": "field",
+    "name_zh": "计算机中介传播",
+    "name_original": "Computer-mediated communication",
+    "candidate_note": "需补经典文献",
+    "candidate_evidence_status": "direct",
+    "source_leads": [
+      "G08"
+    ],
+    "aliases": [],
+    "area_memberships": [
+      {
+        "area_id": "communication",
+        "is_primary": true,
+        "rationale": "需补经典文献"
+      },
+      {
+        "area_id": "digital_ai",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      }
+    ],
+    "temporal_profile": "relatively_stable",
+    "controversy_status": "not_assessed",
+    "review_status": "draft",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-11",
+    "reviewed_at": null
+  },
+  {
+    "id": "r1-china-introduction",
+    "slug": "r1-china-introduction",
+    "record_level": "candidate",
+    "type": "research_topic",
+    "subtype": "history",
+    "name_zh": "传播学在中国大陆的再引进与学科化",
+    "name_original": "Reintroduction and institutionalization of communication studies in mainland China",
+    "candidate_note": "学术史节点；改名以避免“改革开放前中国没有传播研究”的错误暗示；1982 年会议的具体名称、参会者与原始文件仍待补一手档案。",
+    "candidate_evidence_status": "direct",
+    "source_leads": [
+      "C16",
+      "C17"
+    ],
+    "aliases": [],
+    "area_memberships": [
+      {
+        "area_id": "communication",
+        "is_primary": true,
+        "rationale": "学术史节点；改名以避免“改革开放前中国没有传播研究”的错误暗示；1982 年会议的具体名称、参会者与原始文件仍待补一手档案。"
+      },
+      {
+        "area_id": "power_culture",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      },
+      {
+        "area_id": "research_application",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      }
+    ],
+    "temporal_profile": "evolving",
+    "controversy_status": "not_assessed",
+    "review_status": "draft",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-11",
+    "reviewed_at": null,
+    "as_of": null,
+    "last_evidence_check": null,
+    "next_review_due": null
+  },
+  {
+    "id": "r2-semiotics",
+    "slug": "r2-semiotics",
+    "record_level": "candidate",
+    "type": "tradition",
+    "subtype": null,
+    "name_zh": "符号学",
+    "name_original": "Semiotics",
+    "candidate_note": "需区分索绪尔与皮尔斯传统",
+    "candidate_evidence_status": "direct",
+    "source_leads": [
+      "G08",
+      "G09",
+      "C12"
+    ],
+    "aliases": [],
+    "area_memberships": [
+      {
+        "area_id": "meaning",
+        "is_primary": true,
+        "rationale": "需区分索绪尔与皮尔斯传统"
+      },
+      {
+        "area_id": "power_culture",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      },
+      {
+        "area_id": "research_application",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      }
+    ],
+    "temporal_profile": "relatively_stable",
+    "controversy_status": "not_assessed",
+    "review_status": "draft",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-11",
+    "reviewed_at": null
+  },
+  {
+    "id": "r2-representation",
+    "slug": "r2-representation",
+    "record_level": "candidate",
+    "type": "concept",
+    "subtype": null,
+    "name_zh": "表征",
+    "name_original": "Representation",
+    "candidate_note": "需补权威定义与Hall相关原典",
+    "candidate_evidence_status": "direct",
+    "source_leads": [
+      "G02",
+      "G08"
+    ],
+    "aliases": [],
+    "area_memberships": [
+      {
+        "area_id": "meaning",
+        "is_primary": true,
+        "rationale": "需补权威定义与Hall相关原典"
+      },
+      {
+        "area_id": "power_culture",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      }
+    ],
+    "temporal_profile": "relatively_stable",
+    "controversy_status": "not_assessed",
+    "review_status": "draft",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-11",
+    "reviewed_at": null
+  },
+  {
+    "id": "r2-encoding-decoding",
+    "slug": "r2-encoding-decoding",
+    "record_level": "candidate",
+    "type": "theory_model",
+    "subtype": "theory",
+    "name_zh": "编码与解码",
+    "name_original": "Encoding and decoding",
+    "candidate_note": "需补Hall原典与受众位置",
+    "candidate_evidence_status": "pending",
+    "source_leads": [
+      "G02",
+      "G11"
+    ],
+    "aliases": [],
+    "area_memberships": [
+      {
+        "area_id": "meaning",
+        "is_primary": true,
+        "rationale": "需补Hall原典与受众位置"
+      },
+      {
+        "area_id": "effects",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      },
+      {
+        "area_id": "power_culture",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      }
+    ],
+    "temporal_profile": "relatively_stable",
+    "controversy_status": "not_assessed",
+    "review_status": "draft",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-11",
+    "reviewed_at": null
+  },
+  {
+    "id": "r2-discourse",
+    "slug": "r2-discourse",
+    "record_level": "candidate",
+    "type": "concept",
+    "subtype": null,
+    "name_zh": "话语",
+    "name_original": "Discourse",
+    "candidate_note": "不能把不同话语理论合并为单一学说",
+    "candidate_evidence_status": "direct",
+    "source_leads": [
+      "G04",
+      "G13"
+    ],
+    "aliases": [],
+    "area_memberships": [
+      {
+        "area_id": "meaning",
+        "is_primary": true,
+        "rationale": "不能把不同话语理论合并为单一学说"
+      },
+      {
+        "area_id": "institutions",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      },
+      {
+        "area_id": "power_culture",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      },
+      {
+        "area_id": "research_application",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      }
+    ],
+    "temporal_profile": "relatively_stable",
+    "controversy_status": "not_assessed",
+    "review_status": "draft",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-11",
+    "reviewed_at": null
+  },
+  {
+    "id": "r2-framing",
+    "slug": "r2-framing",
+    "record_level": "candidate",
+    "type": "theory_model",
+    "subtype": "theory",
+    "name_zh": "框架与框架化",
+    "name_original": "Framing and frame analysis",
+    "candidate_note": "需区分社会学框架分析、新闻框架与框架效果",
+    "candidate_evidence_status": "pending",
+    "source_leads": [
+      "G08",
+      "C08"
+    ],
+    "aliases": [],
+    "area_memberships": [
+      {
+        "area_id": "meaning",
+        "is_primary": true,
+        "rationale": "需区分社会学框架分析、新闻框架与框架效果"
+      },
+      {
+        "area_id": "effects",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      },
+      {
+        "area_id": "institutions",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      }
+    ],
+    "temporal_profile": "relatively_stable",
+    "controversy_status": "not_assessed",
+    "review_status": "draft",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-11",
+    "reviewed_at": null
+  },
+  {
+    "id": "r2-visual",
+    "slug": "r2-visual",
+    "record_level": "candidate",
+    "type": "research_topic",
+    "subtype": "field",
+    "name_zh": "视觉与多模态传播",
+    "name_original": "Visual and multimodal communication",
+    "candidate_note": "包含视觉分析但不等同于方法节点",
+    "candidate_evidence_status": "direct",
+    "source_leads": [
+      "G03",
+      "G04",
+      "C08"
+    ],
+    "aliases": [],
+    "area_memberships": [
+      {
+        "area_id": "meaning",
+        "is_primary": true,
+        "rationale": "包含视觉分析但不等同于方法节点"
+      },
+      {
+        "area_id": "power_culture",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      },
+      {
+        "area_id": "research_application",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      }
+    ],
+    "temporal_profile": "relatively_stable",
+    "controversy_status": "not_assessed",
+    "review_status": "draft",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-11",
+    "reviewed_at": null
+  },
+  {
+    "id": "r2-rhetoric",
+    "slug": "r2-rhetoric",
+    "record_level": "candidate",
+    "type": "tradition",
+    "subtype": null,
+    "name_zh": "修辞与说服",
+    "name_original": "Rhetoric and persuasion",
+    "candidate_note": "修辞传统与经验说服研究需区分",
+    "candidate_evidence_status": "direct",
+    "source_leads": [
+      "G12",
+      "C08"
+    ],
+    "aliases": [],
+    "area_memberships": [
+      {
+        "area_id": "meaning",
+        "is_primary": true,
+        "rationale": "修辞传统与经验说服研究需区分"
+      },
+      {
+        "area_id": "effects",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      },
+      {
+        "area_id": "institutions",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      }
+    ],
+    "temporal_profile": "relatively_stable",
+    "controversy_status": "not_assessed",
+    "review_status": "draft",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-11",
+    "reviewed_at": null
+  },
+  {
+    "id": "r2-huaxia",
+    "slug": "r2-huaxia",
+    "record_level": "candidate",
+    "type": "tradition",
+    "subtype": null,
+    "name_zh": "华夏传播",
+    "name_original": "Huaxia communication",
+    "candidate_note": "本土探索；展示争议与成熟度限制；原始稳定性为 forming：表示该条目仍处于形成中的本土/学术探索，需保留成熟度限制并持续核验。",
+    "candidate_evidence_status": "pending",
+    "source_leads": [
+      "C16"
+    ],
+    "aliases": [],
+    "area_memberships": [
+      {
+        "area_id": "meaning",
+        "is_primary": true,
+        "rationale": "本土探索；展示争议与成熟度限制；原始稳定性为 forming：表示该条目仍处于形成中的本土/学术探索，需保留成熟度限制并持续核验。"
+      },
+      {
+        "area_id": "power_culture",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      }
+    ],
+    "temporal_profile": "evolving",
+    "controversy_status": "contested",
+    "review_status": "draft",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-11",
+    "reviewed_at": null,
+    "as_of": null,
+    "last_evidence_check": null,
+    "next_review_due": null
+  },
+  {
+    "id": "r3-medium-theory",
+    "slug": "r3-medium-theory",
+    "record_level": "candidate",
+    "type": "tradition",
+    "subtype": null,
+    "name_zh": "媒介理论",
+    "name_original": "Medium theory",
+    "candidate_note": "需区分Innis、McLuhan等理论",
+    "candidate_evidence_status": "pending",
+    "source_leads": [
+      "G11",
+      "C08"
+    ],
+    "aliases": [],
+    "area_memberships": [
+      {
+        "area_id": "media_society",
+        "is_primary": true,
+        "rationale": "需区分Innis、McLuhan等理论"
+      },
+      {
+        "area_id": "digital_ai",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      }
+    ],
+    "temporal_profile": "relatively_stable",
+    "controversy_status": "not_assessed",
+    "review_status": "draft",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-11",
+    "reviewed_at": null
+  },
+  {
+    "id": "r3-mediatization",
+    "slug": "r3-mediatization",
+    "record_level": "candidate",
+    "type": "theory_model",
+    "subtype": "theory",
+    "name_zh": "媒介化",
+    "name_original": "Mediatization",
+    "candidate_note": "需核译名、理论传统及适用范围",
+    "candidate_evidence_status": "pending",
+    "source_leads": [
+      "G11"
+    ],
+    "aliases": [],
+    "area_memberships": [
+      {
+        "area_id": "media_society",
+        "is_primary": true,
+        "rationale": "需核译名、理论传统及适用范围"
+      },
+      {
+        "area_id": "institutions",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      },
+      {
+        "area_id": "digital_ai",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      }
+    ],
+    "temporal_profile": "relatively_stable",
+    "controversy_status": "not_assessed",
+    "review_status": "draft",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-11",
+    "reviewed_at": null
+  },
+  {
+    "id": "r3-media-systems",
+    "slug": "r3-media-systems",
+    "record_level": "candidate",
+    "type": "concept",
+    "subtype": null,
+    "name_zh": "媒介系统",
+    "name_original": "Media systems",
+    "candidate_note": "跨国比较需说明制度语境",
+    "candidate_evidence_status": "direct",
+    "source_leads": [
+      "G05",
+      "G06",
+      "G08"
+    ],
+    "aliases": [],
+    "area_memberships": [
+      {
+        "area_id": "media_society",
+        "is_primary": true,
+        "rationale": "跨国比较需说明制度语境"
+      },
+      {
+        "area_id": "institutions",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      },
+      {
+        "area_id": "power_culture",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      }
+    ],
+    "temporal_profile": "relatively_stable",
+    "controversy_status": "not_assessed",
+    "review_status": "draft",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-11",
+    "reviewed_at": null
+  },
+  {
+    "id": "r3-media-institutions",
+    "slug": "r3-media-institutions",
+    "record_level": "candidate",
+    "type": "concept",
+    "subtype": null,
+    "name_zh": "媒介制度",
+    "name_original": "Media institutions",
+    "candidate_note": "制度与组织节点相连",
+    "candidate_evidence_status": "direct",
+    "source_leads": [
+      "G05",
+      "G06",
+      "G11"
+    ],
+    "aliases": [],
+    "area_memberships": [
+      {
+        "area_id": "media_society",
+        "is_primary": true,
+        "rationale": "制度与组织节点相连"
+      },
+      {
+        "area_id": "institutions",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      },
+      {
+        "area_id": "power_culture",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      }
+    ],
+    "temporal_profile": "relatively_stable",
+    "controversy_status": "not_assessed",
+    "review_status": "draft",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-11",
+    "reviewed_at": null
+  },
+  {
+    "id": "r3-media-industries",
+    "slug": "r3-media-industries",
+    "record_level": "candidate",
+    "type": "research_topic",
+    "subtype": "field",
+    "name_zh": "媒介产业",
+    "name_original": "Media industries",
+    "candidate_note": "包含产业结构与文化生产",
+    "candidate_evidence_status": "direct",
+    "source_leads": [
+      "G03",
+      "G05",
+      "G11",
+      "C08"
+    ],
+    "aliases": [],
+    "area_memberships": [
+      {
+        "area_id": "media_society",
+        "is_primary": true,
+        "rationale": "包含产业结构与文化生产"
+      },
+      {
+        "area_id": "institutions",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      },
+      {
+        "area_id": "digital_ai",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      }
+    ],
+    "temporal_profile": "relatively_stable",
+    "controversy_status": "not_assessed",
+    "review_status": "draft",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-11",
+    "reviewed_at": null
+  },
+  {
+    "id": "r3-political-economy",
+    "slug": "r3-political-economy",
+    "record_level": "candidate",
+    "type": "tradition",
+    "subtype": null,
+    "name_zh": "传播政治经济学",
+    "name_original": "Political economy of communication",
+    "candidate_note": "需补核心原典与不同传统",
+    "candidate_evidence_status": "direct",
+    "source_leads": [
+      "G04",
+      "G11",
+      "C08"
+    ],
+    "aliases": [],
+    "area_memberships": [
+      {
+        "area_id": "media_society",
+        "is_primary": true,
+        "rationale": "需补核心原典与不同传统"
+      },
+      {
+        "area_id": "institutions",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      },
+      {
+        "area_id": "power_culture",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      }
+    ],
+    "temporal_profile": "relatively_stable",
+    "controversy_status": "not_assessed",
+    "review_status": "draft",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-11",
+    "reviewed_at": null
+  },
+  {
+    "id": "r3-platformization",
+    "slug": "r3-platformization",
+    "record_level": "candidate",
+    "type": "research_topic",
+    "subtype": "frontier",
+    "name_zh": "平台化与数字经济",
+    "name_original": "Platformization and digital economy",
+    "candidate_note": "需设复核期限",
+    "candidate_evidence_status": "direct",
+    "source_leads": [
+      "G07",
+      "G08"
+    ],
+    "aliases": [],
+    "area_memberships": [
+      {
+        "area_id": "media_society",
+        "is_primary": true,
+        "rationale": "需设复核期限"
+      },
+      {
+        "area_id": "digital_ai",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      }
+    ],
+    "temporal_profile": "evolving",
+    "controversy_status": "not_assessed",
+    "review_status": "draft",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-11",
+    "reviewed_at": null,
+    "as_of": null,
+    "last_evidence_check": null,
+    "next_review_due": null
+  },
+  {
+    "id": "r3-china-convergence",
+    "slug": "r3-china-convergence",
+    "record_level": "candidate",
+    "type": "application",
+    "subtype": null,
+    "name_zh": "中国媒体融合",
+    "name_original": "Media convergence in China",
+    "candidate_note": "政策、组织变革和实践对象需分层",
+    "candidate_evidence_status": "direct",
+    "source_leads": [
+      "C04",
+      "C08"
+    ],
+    "aliases": [],
+    "area_memberships": [
+      {
+        "area_id": "media_society",
+        "is_primary": true,
+        "rationale": "政策、组织变革和实践对象需分层"
+      },
+      {
+        "area_id": "institutions",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      },
+      {
+        "area_id": "digital_ai",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      }
+    ],
+    "temporal_profile": "evolving",
+    "controversy_status": "not_assessed",
+    "review_status": "draft",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-11",
+    "reviewed_at": null,
+    "as_of": null,
+    "last_evidence_check": null,
+    "next_review_due": null
+  },
+  {
+    "id": "r4-effects",
+    "slug": "r4-effects",
+    "record_level": "candidate",
+    "type": "tradition",
+    "subtype": null,
+    "name_zh": "传播效果",
+    "name_original": "Communication effects",
+    "candidate_note": "不是单一强效果理论",
+    "candidate_evidence_status": "direct",
+    "source_leads": [
+      "G05",
+      "G06",
+      "G08",
+      "G11",
+      "C03",
+      "C14"
+    ],
+    "aliases": [],
+    "area_memberships": [
+      {
+        "area_id": "effects",
+        "is_primary": true,
+        "rationale": "不是单一强效果理论"
+      },
+      {
+        "area_id": "media_society",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      },
+      {
+        "area_id": "institutions",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      }
+    ],
+    "temporal_profile": "relatively_stable",
+    "controversy_status": "not_assessed",
+    "review_status": "draft",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-11",
+    "reviewed_at": null
+  },
+  {
+    "id": "r4-agenda-setting",
+    "slug": "r4-agenda-setting",
+    "record_level": "candidate",
+    "type": "theory_model",
+    "subtype": "theory",
+    "name_zh": "议程设置",
+    "name_original": "Agenda-setting theory",
+    "candidate_note": "人物和提出关系需补原典",
+    "candidate_evidence_status": "direct",
+    "source_leads": [
+      "G08",
+      "C14"
+    ],
+    "aliases": [],
+    "area_memberships": [
+      {
+        "area_id": "effects",
+        "is_primary": true,
+        "rationale": "人物和提出关系需补原典"
+      },
+      {
+        "area_id": "institutions",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      }
+    ],
+    "temporal_profile": "relatively_stable",
+    "controversy_status": "not_assessed",
+    "review_status": "draft",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-11",
+    "reviewed_at": null
+  },
+  {
+    "id": "r4-two-step",
+    "slug": "r4-two-step",
+    "record_level": "candidate",
+    "type": "theory_model",
+    "subtype": "theory",
+    "name_zh": "两级传播与意见领袖",
+    "name_original": "Two-step flow and opinion leadership",
+    "candidate_note": "需补Lazarsfeld与Katz相关原典",
+    "candidate_evidence_status": "pending",
+    "source_leads": [
+      "G11",
+      "C14"
+    ],
+    "aliases": [],
+    "area_memberships": [
+      {
+        "area_id": "effects",
+        "is_primary": true,
+        "rationale": "需补Lazarsfeld与Katz相关原典"
+      },
+      {
+        "area_id": "communication",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      },
+      {
+        "area_id": "institutions",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      }
+    ],
+    "temporal_profile": "relatively_stable",
+    "controversy_status": "not_assessed",
+    "review_status": "draft",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-11",
+    "reviewed_at": null
+  },
+  {
+    "id": "r4-uses-gratifications",
+    "slug": "r4-uses-gratifications",
+    "record_level": "candidate",
+    "type": "theory_model",
+    "subtype": "theory",
+    "name_zh": "使用与满足",
+    "name_original": "Uses and gratifications",
+    "candidate_note": "需核谱系与主要命题",
+    "candidate_evidence_status": "pending",
+    "source_leads": [
+      "G11",
+      "C14"
+    ],
+    "aliases": [],
+    "area_memberships": [
+      {
+        "area_id": "effects",
+        "is_primary": true,
+        "rationale": "需核谱系与主要命题"
+      },
+      {
+        "area_id": "communication",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      },
+      {
+        "area_id": "digital_ai",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      }
+    ],
+    "temporal_profile": "relatively_stable",
+    "controversy_status": "not_assessed",
+    "review_status": "draft",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-11",
+    "reviewed_at": null
+  },
+  {
+    "id": "r4-cultivation",
+    "slug": "r4-cultivation",
+    "record_level": "candidate",
+    "type": "theory_model",
+    "subtype": "theory",
+    "name_zh": "涵化理论",
+    "name_original": "Cultivation theory",
+    "candidate_note": "需补Gerbner原典",
+    "candidate_evidence_status": "pending",
+    "source_leads": [
+      "G11"
+    ],
+    "aliases": [],
+    "area_memberships": [
+      {
+        "area_id": "effects",
+        "is_primary": true,
+        "rationale": "需补Gerbner原典"
+      },
+      {
+        "area_id": "media_society",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      },
+      {
+        "area_id": "institutions",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      }
+    ],
+    "temporal_profile": "relatively_stable",
+    "controversy_status": "not_assessed",
+    "review_status": "draft",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-11",
+    "reviewed_at": null
+  },
+  {
+    "id": "r4-persuasion",
+    "slug": "r4-persuasion",
+    "record_level": "candidate",
+    "type": "research_topic",
+    "subtype": "field",
+    "name_zh": "说服与态度改变",
+    "name_original": "Persuasion and attitude change",
+    "candidate_note": "连接修辞传统与经验研究",
+    "candidate_evidence_status": "direct",
+    "source_leads": [
+      "G05",
+      "G07",
+      "G08",
+      "C08"
+    ],
+    "aliases": [],
+    "area_memberships": [
+      {
+        "area_id": "effects",
+        "is_primary": true,
+        "rationale": "连接修辞传统与经验研究"
+      },
+      {
+        "area_id": "meaning",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      },
+      {
+        "area_id": "institutions",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      }
+    ],
+    "temporal_profile": "relatively_stable",
+    "controversy_status": "not_assessed",
+    "review_status": "draft",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-11",
+    "reviewed_at": null
+  },
+  {
+    "id": "r4-audience",
+    "slug": "r4-audience",
+    "record_level": "candidate",
+    "type": "research_topic",
+    "subtype": "field",
+    "name_zh": "受众与接受研究",
+    "name_original": "Audience and reception studies",
+    "candidate_note": "区分受众测量与文化接受研究",
+    "candidate_evidence_status": "direct",
+    "source_leads": [
+      "G04",
+      "G11",
+      "G13",
+      "C03",
+      "C08"
+    ],
+    "aliases": [],
+    "area_memberships": [
+      {
+        "area_id": "effects",
+        "is_primary": true,
+        "rationale": "区分受众测量与文化接受研究"
+      },
+      {
+        "area_id": "meaning",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      },
+      {
+        "area_id": "power_culture",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      },
+      {
+        "area_id": "research_application",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      }
+    ],
+    "temporal_profile": "relatively_stable",
+    "controversy_status": "not_assessed",
+    "review_status": "draft",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-11",
+    "reviewed_at": null
+  },
+  {
+    "id": "r4-info-disorder",
+    "slug": "r4-info-disorder",
+    "record_level": "candidate",
+    "type": "research_topic",
+    "subtype": "frontier",
+    "name_zh": "虚假信息、极化与信任",
+    "name_original": "Information disorder polarization and trust",
+    "candidate_note": "动态问题簇，发布前可继续拆分",
+    "candidate_evidence_status": "direct",
+    "source_leads": [
+      "G07",
+      "G08",
+      "G14",
+      "G15"
+    ],
+    "aliases": [],
+    "area_memberships": [
+      {
+        "area_id": "effects",
+        "is_primary": true,
+        "rationale": "动态问题簇，发布前可继续拆分"
+      },
+      {
+        "area_id": "institutions",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      },
+      {
+        "area_id": "digital_ai",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      }
+    ],
+    "temporal_profile": "evolving",
+    "controversy_status": "not_assessed",
+    "review_status": "draft",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-11",
+    "reviewed_at": null,
+    "as_of": null,
+    "last_evidence_check": null,
+    "next_review_due": null
+  },
+  {
+    "id": "r4-online-opinion",
+    "slug": "r4-online-opinion",
+    "record_level": "candidate",
+    "type": "application",
+    "subtype": null,
+    "name_zh": "网络舆情与舆情治理",
+    "name_original": "Online public opinion and governance",
+    "candidate_note": "中国应用域；不替代一般舆论理论",
+    "candidate_evidence_status": "direct",
+    "source_leads": [
+      "C07",
+      "C12"
+    ],
+    "aliases": [],
+    "area_memberships": [
+      {
+        "area_id": "effects",
+        "is_primary": true,
+        "rationale": "中国应用域；不替代一般舆论理论"
+      },
+      {
+        "area_id": "institutions",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      },
+      {
+        "area_id": "digital_ai",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      }
+    ],
+    "temporal_profile": "evolving",
+    "controversy_status": "not_assessed",
+    "review_status": "draft",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-11",
+    "reviewed_at": null,
+    "as_of": null,
+    "last_evidence_check": null,
+    "next_review_due": null
+  },
+  {
+    "id": "r5-journalism",
+    "slug": "r5-journalism",
+    "record_level": "candidate",
+    "type": "research_topic",
+    "subtype": "field",
+    "name_zh": "新闻学与新闻研究",
+    "name_original": "Journalism and journalism studies",
+    "candidate_note": "包含规范、制度、文本和实践研究",
+    "candidate_evidence_status": "direct",
+    "source_leads": [
+      "G03",
+      "G04",
+      "G06",
+      "G09",
+      "C03",
+      "C08"
+    ],
+    "aliases": [],
+    "area_memberships": [
+      {
+        "area_id": "institutions",
+        "is_primary": true,
+        "rationale": "包含规范、制度、文本和实践研究"
+      },
+      {
+        "area_id": "media_society",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      },
+      {
+        "area_id": "power_culture",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      },
+      {
+        "area_id": "research_application",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      }
+    ],
+    "temporal_profile": "relatively_stable",
+    "controversy_status": "not_assessed",
+    "review_status": "draft",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-11",
+    "reviewed_at": null
+  },
+  {
+    "id": "r5-gatekeeping",
+    "slug": "r5-gatekeeping",
+    "record_level": "candidate",
+    "type": "theory_model",
+    "subtype": "theory",
+    "name_zh": "把关理论",
+    "name_original": "Gatekeeping theory",
+    "candidate_note": "需区分Lewin概念与White新闻研究",
+    "candidate_evidence_status": "pending",
+    "source_leads": [
+      "G11",
+      "C14"
+    ],
+    "aliases": [],
+    "area_memberships": [
+      {
+        "area_id": "institutions",
+        "is_primary": true,
+        "rationale": "需区分Lewin概念与White新闻研究"
+      },
+      {
+        "area_id": "communication",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      },
+      {
+        "area_id": "media_society",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      },
+      {
+        "area_id": "effects",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      }
+    ],
+    "temporal_profile": "relatively_stable",
+    "controversy_status": "not_assessed",
+    "review_status": "draft",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-11",
+    "reviewed_at": null
+  },
+  {
+    "id": "r5-public-sphere",
+    "slug": "r5-public-sphere",
+    "record_level": "candidate",
+    "type": "theory_model",
+    "subtype": "theory",
+    "name_zh": "公共领域",
+    "name_original": "Public sphere",
+    "candidate_note": "需补Habermas原典及批评传统",
+    "candidate_evidence_status": "pending",
+    "source_leads": [
+      "G01",
+      "G04"
+    ],
+    "aliases": [],
+    "area_memberships": [
+      {
+        "area_id": "institutions",
+        "is_primary": true,
+        "rationale": "需补Habermas原典及批评传统"
+      },
+      {
+        "area_id": "power_culture",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      }
+    ],
+    "temporal_profile": "relatively_stable",
+    "controversy_status": "not_assessed",
+    "review_status": "draft",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-11",
+    "reviewed_at": null
+  },
+  {
+    "id": "r5-public-opinion",
+    "slug": "r5-public-opinion",
+    "record_level": "candidate",
+    "type": "concept",
+    "subtype": null,
+    "name_zh": "公共舆论",
+    "name_original": "Public opinion",
+    "candidate_note": "与网络舆情保持层级区别",
+    "candidate_evidence_status": "direct",
+    "source_leads": [
+      "G04",
+      "G08",
+      "C03",
+      "C08"
+    ],
+    "aliases": [],
+    "area_memberships": [
+      {
+        "area_id": "institutions",
+        "is_primary": true,
+        "rationale": "与网络舆情保持层级区别"
+      },
+      {
+        "area_id": "effects",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      },
+      {
+        "area_id": "power_culture",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      }
+    ],
+    "temporal_profile": "relatively_stable",
+    "controversy_status": "not_assessed",
+    "review_status": "draft",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-11",
+    "reviewed_at": null
+  },
+  {
+    "id": "r5-pr",
+    "slug": "r5-pr",
+    "record_level": "candidate",
+    "type": "application",
+    "subtype": null,
+    "name_zh": "公共关系与战略传播",
+    "name_original": "Public relations and strategic communication",
+    "candidate_note": "兼顾组织、公众与伦理",
+    "candidate_evidence_status": "direct",
+    "source_leads": [
+      "G03",
+      "G08",
+      "G10",
+      "C08",
+      "C12"
+    ],
+    "aliases": [],
+    "area_memberships": [
+      {
+        "area_id": "institutions",
+        "is_primary": true,
+        "rationale": "兼顾组织、公众与伦理"
+      },
+      {
+        "area_id": "communication",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      },
+      {
+        "area_id": "effects",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      },
+      {
+        "area_id": "research_application",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      }
+    ],
+    "temporal_profile": "relatively_stable",
+    "controversy_status": "not_assessed",
+    "review_status": "draft",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-11",
+    "reviewed_at": null
+  },
+  {
+    "id": "r5-political",
+    "slug": "r5-political",
+    "record_level": "candidate",
+    "type": "research_topic",
+    "subtype": "field",
+    "name_zh": "政治传播",
+    "name_original": "Political communication",
+    "candidate_note": "领域节点",
+    "candidate_evidence_status": "direct",
+    "source_leads": [
+      "G03",
+      "G04",
+      "G06",
+      "C08"
+    ],
+    "aliases": [],
+    "area_memberships": [
+      {
+        "area_id": "institutions",
+        "is_primary": true,
+        "rationale": "领域节点"
+      },
+      {
+        "area_id": "effects",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      },
+      {
+        "area_id": "power_culture",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      }
+    ],
+    "temporal_profile": "relatively_stable",
+    "controversy_status": "not_assessed",
+    "review_status": "draft",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-11",
+    "reviewed_at": null
+  },
+  {
+    "id": "r5-crisis",
+    "slug": "r5-crisis",
+    "record_level": "candidate",
+    "type": "application",
+    "subtype": null,
+    "name_zh": "风险与危机传播",
+    "name_original": "Risk and crisis communication",
+    "candidate_note": "风险与危机可在后续版本拆分",
+    "candidate_evidence_status": "direct",
+    "source_leads": [
+      "G07",
+      "G08",
+      "G10",
+      "C08"
+    ],
+    "aliases": [],
+    "area_memberships": [
+      {
+        "area_id": "institutions",
+        "is_primary": true,
+        "rationale": "风险与危机可在后续版本拆分"
+      },
+      {
+        "area_id": "effects",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      },
+      {
+        "area_id": "research_application",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      }
+    ],
+    "temporal_profile": "relatively_stable",
+    "controversy_status": "not_assessed",
+    "review_status": "draft",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-11",
+    "reviewed_at": null
+  },
+  {
+    "id": "r5-health",
+    "slug": "r5-health",
+    "record_level": "candidate",
+    "type": "application",
+    "subtype": null,
+    "name_zh": "健康传播",
+    "name_original": "Health communication",
+    "candidate_note": "领域与应用双重属性",
+    "candidate_evidence_status": "direct",
+    "source_leads": [
+      "G03",
+      "G07",
+      "G08",
+      "G12",
+      "C08",
+      "C12"
+    ],
+    "aliases": [],
+    "area_memberships": [
+      {
+        "area_id": "institutions",
+        "is_primary": true,
+        "rationale": "领域与应用双重属性"
+      },
+      {
+        "area_id": "effects",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      },
+      {
+        "area_id": "research_application",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      }
+    ],
+    "temporal_profile": "relatively_stable",
+    "controversy_status": "not_assessed",
+    "review_status": "draft",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-11",
+    "reviewed_at": null
+  },
+  {
+    "id": "r5-marxist-journalism",
+    "slug": "r5-marxist-journalism",
+    "record_level": "candidate",
+    "type": "tradition",
+    "subtype": null,
+    "name_zh": "马克思主义新闻观",
+    "name_original": "Marxist view of journalism",
+    "candidate_note": "规范性和理论性内容需分别呈现",
+    "candidate_evidence_status": "direct",
+    "source_leads": [
+      "C03",
+      "C04",
+      "C08",
+      "C13"
+    ],
+    "aliases": [],
+    "area_memberships": [
+      {
+        "area_id": "institutions",
+        "is_primary": true,
+        "rationale": "规范性和理论性内容需分别呈现"
+      },
+      {
+        "area_id": "power_culture",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      },
+      {
+        "area_id": "research_application",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      }
+    ],
+    "temporal_profile": "relatively_stable",
+    "controversy_status": "not_assessed",
+    "review_status": "draft",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-11",
+    "reviewed_at": null
+  },
+  {
+    "id": "r5-china-history",
+    "slug": "r5-china-history",
+    "record_level": "candidate",
+    "type": "research_topic",
+    "subtype": "history",
+    "name_zh": "中国新闻传播史",
+    "name_original": "History of journalism and communication in China",
+    "candidate_note": "历史范围节点",
+    "candidate_evidence_status": "direct",
+    "source_leads": [
+      "C03",
+      "C08",
+      "C15"
+    ],
+    "aliases": [],
+    "area_memberships": [
+      {
+        "area_id": "institutions",
+        "is_primary": true,
+        "rationale": "历史范围节点"
+      },
+      {
+        "area_id": "power_culture",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      },
+      {
+        "area_id": "research_application",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      }
+    ],
+    "temporal_profile": "relatively_stable",
+    "controversy_status": "not_assessed",
+    "review_status": "draft",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-11",
+    "reviewed_at": null
+  },
+  {
+    "id": "r6-cultural-studies",
+    "slug": "r6-cultural-studies",
+    "record_level": "candidate",
+    "type": "tradition",
+    "subtype": null,
+    "name_zh": "文化研究",
+    "name_original": "Cultural studies",
+    "candidate_note": "需展示跨学科来源",
+    "candidate_evidence_status": "direct",
+    "source_leads": [
+      "G02",
+      "G08",
+      "G09",
+      "G11"
+    ],
+    "aliases": [],
+    "area_memberships": [
+      {
+        "area_id": "power_culture",
+        "is_primary": true,
+        "rationale": "需展示跨学科来源"
+      },
+      {
+        "area_id": "meaning",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      },
+      {
+        "area_id": "media_society",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      },
+      {
+        "area_id": "institutions",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      }
+    ],
+    "temporal_profile": "relatively_stable",
+    "controversy_status": "not_assessed",
+    "review_status": "draft",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-11",
+    "reviewed_at": null
+  },
+  {
+    "id": "r6-hegemony",
+    "slug": "r6-hegemony",
+    "record_level": "candidate",
+    "type": "concept",
+    "subtype": null,
+    "name_zh": "意识形态与霸权",
+    "name_original": "Ideology and hegemony",
+    "candidate_note": "不把两个概念混为同义词",
+    "candidate_evidence_status": "direct",
+    "source_leads": [
+      "G09",
+      "G11"
+    ],
+    "aliases": [],
+    "area_memberships": [
+      {
+        "area_id": "power_culture",
+        "is_primary": true,
+        "rationale": "不把两个概念混为同义词"
+      },
+      {
+        "area_id": "meaning",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      },
+      {
+        "area_id": "media_society",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      }
+    ],
+    "temporal_profile": "relatively_stable",
+    "controversy_status": "not_assessed",
+    "review_status": "draft",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-11",
+    "reviewed_at": null
+  },
+  {
+    "id": "r6-gender",
+    "slug": "r6-gender",
+    "record_level": "candidate",
+    "type": "research_topic",
+    "subtype": "field",
+    "name_zh": "女性主义、性别与酷儿传播",
+    "name_original": "Feminist gender and queer communication",
+    "candidate_note": "可在后续拆分",
+    "candidate_evidence_status": "direct",
+    "source_leads": [
+      "G03",
+      "G04",
+      "C08"
+    ],
+    "aliases": [],
+    "area_memberships": [
+      {
+        "area_id": "power_culture",
+        "is_primary": true,
+        "rationale": "可在后续拆分"
+      },
+      {
+        "area_id": "meaning",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      },
+      {
+        "area_id": "institutions",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      }
+    ],
+    "temporal_profile": "relatively_stable",
+    "controversy_status": "not_assessed",
+    "review_status": "draft",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-11",
+    "reviewed_at": null
+  },
+  {
+    "id": "r6-race",
+    "slug": "r6-race",
+    "record_level": "candidate",
+    "type": "research_topic",
+    "subtype": "field",
+    "name_zh": "种族、族群与媒介表征",
+    "name_original": "Race ethnicity and media representation",
+    "candidate_note": "需避免美国经验代表全球",
+    "candidate_evidence_status": "direct",
+    "source_leads": [
+      "G03",
+      "G08"
+    ],
+    "aliases": [],
+    "area_memberships": [
+      {
+        "area_id": "power_culture",
+        "is_primary": true,
+        "rationale": "需避免美国经验代表全球"
+      },
+      {
+        "area_id": "meaning",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      },
+      {
+        "area_id": "institutions",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      }
+    ],
+    "temporal_profile": "relatively_stable",
+    "controversy_status": "not_assessed",
+    "review_status": "draft",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-11",
+    "reviewed_at": null
+  },
+  {
+    "id": "r6-decolonial",
+    "slug": "r6-decolonial",
+    "record_level": "candidate",
+    "type": "tradition",
+    "subtype": null,
+    "name_zh": "后殖民与去殖民传播",
+    "name_original": "Postcolonial and decolonial communication",
+    "candidate_note": "超越西方经典是要求，不是单一理论；原始稳定性为 forming：表示该条目仍处于形成中的本土/学术探索，需保留成熟度限制并持续核验。",
+    "candidate_evidence_status": "direct",
+    "source_leads": [
+      "G02",
+      "G08",
+      "G09"
+    ],
+    "aliases": [],
+    "area_memberships": [
+      {
+        "area_id": "power_culture",
+        "is_primary": true,
+        "rationale": "超越西方经典是要求，不是单一理论；原始稳定性为 forming：表示该条目仍处于形成中的本土/学术探索，需保留成熟度限制并持续核验。"
+      },
+      {
+        "area_id": "meaning",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      },
+      {
+        "area_id": "media_society",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      },
+      {
+        "area_id": "research_application",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      }
+    ],
+    "temporal_profile": "evolving",
+    "controversy_status": "not_assessed",
+    "review_status": "draft",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-11",
+    "reviewed_at": null,
+    "as_of": null,
+    "last_evidence_check": null,
+    "next_review_due": null
+  },
+  {
+    "id": "r6-intercultural",
+    "slug": "r6-intercultural",
+    "record_level": "candidate",
+    "type": "research_topic",
+    "subtype": "field",
+    "name_zh": "跨文化传播",
+    "name_original": "Intercultural communication",
+    "candidate_note": "连接文化差异与国际传播",
+    "candidate_evidence_status": "direct",
+    "source_leads": [
+      "G03",
+      "G08",
+      "C03",
+      "C08"
+    ],
+    "aliases": [],
+    "area_memberships": [
+      {
+        "area_id": "power_culture",
+        "is_primary": true,
+        "rationale": "连接文化差异与国际传播"
+      },
+      {
+        "area_id": "communication",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      },
+      {
+        "area_id": "institutions",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      }
+    ],
+    "temporal_profile": "relatively_stable",
+    "controversy_status": "not_assessed",
+    "review_status": "draft",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-11",
+    "reviewed_at": null
+  },
+  {
+    "id": "r6-social-change",
+    "slug": "r6-social-change",
+    "record_level": "candidate",
+    "type": "research_topic",
+    "subtype": "field",
+    "name_zh": "全球传播与社会变迁",
+    "name_original": "Global communication and social change",
+    "candidate_note": "包含发展、参与式和社区传播",
+    "candidate_evidence_status": "direct",
+    "source_leads": [
+      "G03",
+      "G04",
+      "G08"
+    ],
+    "aliases": [],
+    "area_memberships": [
+      {
+        "area_id": "power_culture",
+        "is_primary": true,
+        "rationale": "包含发展、参与式和社区传播"
+      },
+      {
+        "area_id": "institutions",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      },
+      {
+        "area_id": "research_application",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      }
+    ],
+    "temporal_profile": "relatively_stable",
+    "controversy_status": "not_assessed",
+    "review_status": "draft",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-11",
+    "reviewed_at": null
+  },
+  {
+    "id": "r6-china-global",
+    "slug": "r6-china-global",
+    "record_level": "candidate",
+    "type": "application",
+    "subtype": null,
+    "name_zh": "中国国际传播实践",
+    "name_original": "International communication practice in China",
+    "candidate_note": "区分政策目标、实践案例与解释理论",
+    "candidate_evidence_status": "direct",
+    "source_leads": [
+      "C04",
+      "C08",
+      "C10"
+    ],
+    "aliases": [],
+    "area_memberships": [
+      {
+        "area_id": "power_culture",
+        "is_primary": true,
+        "rationale": "区分政策目标、实践案例与解释理论"
+      },
+      {
+        "area_id": "institutions",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      },
+      {
+        "area_id": "digital_ai",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      }
+    ],
+    "temporal_profile": "evolving",
+    "controversy_status": "not_assessed",
+    "review_status": "draft",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-11",
+    "reviewed_at": null,
+    "as_of": null,
+    "last_evidence_check": null,
+    "next_review_due": null
+  },
+  {
+    "id": "r6-chinese-minority",
+    "slug": "r6-chinese-minority",
+    "record_level": "candidate",
+    "type": "research_topic",
+    "subtype": "field",
+    "name_zh": "少数民族与海外华文传播",
+    "name_original": "Ethnic minority and overseas Chinese media",
+    "candidate_note": "后续可拆为两个节点",
+    "candidate_evidence_status": "direct",
+    "source_leads": [
+      "C12",
+      "C15"
+    ],
+    "aliases": [],
+    "area_memberships": [
+      {
+        "area_id": "power_culture",
+        "is_primary": true,
+        "rationale": "后续可拆为两个节点"
+      },
+      {
+        "area_id": "institutions",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      }
+    ],
+    "temporal_profile": "relatively_stable",
+    "controversy_status": "not_assessed",
+    "review_status": "draft",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-11",
+    "reviewed_at": null
+  },
+  {
+    "id": "r7-affordance",
+    "slug": "r7-affordance",
+    "record_level": "candidate",
+    "type": "concept",
+    "subtype": null,
+    "name_zh": "技术可供性",
+    "name_original": "Technological affordance",
+    "candidate_note": "需补传播学应用的核心文献",
+    "candidate_evidence_status": "direct",
+    "source_leads": [
+      "G12"
+    ],
+    "aliases": [],
+    "area_memberships": [
+      {
+        "area_id": "digital_ai",
+        "is_primary": true,
+        "rationale": "需补传播学应用的核心文献"
+      },
+      {
+        "area_id": "communication",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      },
+      {
+        "area_id": "media_society",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      }
+    ],
+    "temporal_profile": "relatively_stable",
+    "controversy_status": "not_assessed",
+    "review_status": "draft",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-11",
+    "reviewed_at": null
+  },
+  {
+    "id": "r7-algorithm",
+    "slug": "r7-algorithm",
+    "record_level": "candidate",
+    "type": "research_topic",
+    "subtype": "frontier",
+    "name_zh": "算法与推荐系统",
+    "name_original": "Algorithms and recommender systems",
+    "candidate_note": "必须标明更新时间",
+    "candidate_evidence_status": "direct",
+    "source_leads": [
+      "G06",
+      "G07",
+      "G08",
+      "C10"
+    ],
+    "aliases": [],
+    "area_memberships": [
+      {
+        "area_id": "digital_ai",
+        "is_primary": true,
+        "rationale": "必须标明更新时间"
+      },
+      {
+        "area_id": "media_society",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      },
+      {
+        "area_id": "effects",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      }
+    ],
+    "temporal_profile": "evolving",
+    "controversy_status": "not_assessed",
+    "review_status": "draft",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-11",
+    "reviewed_at": null,
+    "as_of": null,
+    "last_evidence_check": null,
+    "next_review_due": null
+  },
+  {
+    "id": "r7-platform-governance",
+    "slug": "r7-platform-governance",
+    "record_level": "candidate",
+    "type": "research_topic",
+    "subtype": "frontier",
+    "name_zh": "平台治理",
+    "name_original": "Platform governance",
+    "candidate_note": "加入中国平台案例但不设单独理论",
+    "candidate_evidence_status": "direct",
+    "source_leads": [
+      "G06",
+      "G08",
+      "C07",
+      "C10"
+    ],
+    "aliases": [],
+    "area_memberships": [
+      {
+        "area_id": "digital_ai",
+        "is_primary": true,
+        "rationale": "加入中国平台案例但不设单独理论"
+      },
+      {
+        "area_id": "media_society",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      },
+      {
+        "area_id": "institutions",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      },
+      {
+        "area_id": "power_culture",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      }
+    ],
+    "temporal_profile": "evolving",
+    "controversy_status": "not_assessed",
+    "review_status": "draft",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-11",
+    "reviewed_at": null,
+    "as_of": null,
+    "last_evidence_check": null,
+    "next_review_due": null
+  },
+  {
+    "id": "r7-datafication",
+    "slug": "r7-datafication",
+    "record_level": "candidate",
+    "type": "research_topic",
+    "subtype": "frontier",
+    "name_zh": "数据化与自动化",
+    "name_original": "Datafication and automation",
+    "candidate_note": "需补核心原著",
+    "candidate_evidence_status": "direct",
+    "source_leads": [
+      "G08",
+      "G13"
+    ],
+    "aliases": [],
+    "area_memberships": [
+      {
+        "area_id": "digital_ai",
+        "is_primary": true,
+        "rationale": "需补核心原著"
+      },
+      {
+        "area_id": "media_society",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      },
+      {
+        "area_id": "research_application",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      }
+    ],
+    "temporal_profile": "evolving",
+    "controversy_status": "not_assessed",
+    "review_status": "draft",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-11",
+    "reviewed_at": null,
+    "as_of": null,
+    "last_evidence_check": null,
+    "next_review_due": null
+  },
+  {
+    "id": "r7-hmc",
+    "slug": "r7-hmc",
+    "record_level": "candidate",
+    "type": "research_topic",
+    "subtype": "field",
+    "name_zh": "人机传播",
+    "name_original": "Human-machine communication",
+    "candidate_note": "区分研究领域与具体理论",
+    "candidate_evidence_status": "direct",
+    "source_leads": [
+      "G03",
+      "C10"
+    ],
+    "aliases": [],
+    "area_memberships": [
+      {
+        "area_id": "digital_ai",
+        "is_primary": true,
+        "rationale": "区分研究领域与具体理论"
+      },
+      {
+        "area_id": "communication",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      },
+      {
+        "area_id": "effects",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      }
+    ],
+    "temporal_profile": "evolving",
+    "controversy_status": "not_assessed",
+    "review_status": "draft",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-11",
+    "reviewed_at": null,
+    "as_of": null,
+    "last_evidence_check": null,
+    "next_review_due": null
+  },
+  {
+    "id": "r7-ai-mediated",
+    "slug": "r7-ai-mediated",
+    "record_level": "candidate",
+    "type": "research_topic",
+    "subtype": "frontier",
+    "name_zh": "AI中介传播",
+    "name_original": "AI-mediated communication",
+    "candidate_note": "当前课程证据充分，理论稳定性有限",
+    "candidate_evidence_status": "direct",
+    "source_leads": [
+      "G08",
+      "C10"
+    ],
+    "aliases": [],
+    "area_memberships": [
+      {
+        "area_id": "digital_ai",
+        "is_primary": true,
+        "rationale": "当前课程证据充分，理论稳定性有限"
+      },
+      {
+        "area_id": "communication",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      },
+      {
+        "area_id": "effects",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      },
+      {
+        "area_id": "institutions",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      }
+    ],
+    "temporal_profile": "evolving",
+    "controversy_status": "not_assessed",
+    "review_status": "draft",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-11",
+    "reviewed_at": null,
+    "as_of": null,
+    "last_evidence_check": null,
+    "next_review_due": null
+  },
+  {
+    "id": "r7-integrity",
+    "slug": "r7-integrity",
+    "record_level": "candidate",
+    "type": "research_topic",
+    "subtype": "frontier",
+    "name_zh": "信息完整性与深度伪造",
+    "name_original": "Information integrity and deepfakes",
+    "candidate_note": "问题域节点",
+    "candidate_evidence_status": "direct",
+    "source_leads": [
+      "G07",
+      "G08",
+      "G14",
+      "G15"
+    ],
+    "aliases": [],
+    "area_memberships": [
+      {
+        "area_id": "digital_ai",
+        "is_primary": true,
+        "rationale": "问题域节点"
+      },
+      {
+        "area_id": "effects",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      },
+      {
+        "area_id": "institutions",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      },
+      {
+        "area_id": "power_culture",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      }
+    ],
+    "temporal_profile": "evolving",
+    "controversy_status": "not_assessed",
+    "review_status": "draft",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-11",
+    "reviewed_at": null,
+    "as_of": null,
+    "last_evidence_check": null,
+    "next_review_due": null
+  },
+  {
+    "id": "r7-privacy",
+    "slug": "r7-privacy",
+    "record_level": "candidate",
+    "type": "research_topic",
+    "subtype": "frontier",
+    "name_zh": "隐私、监视、偏见与信任",
+    "name_original": "Privacy surveillance bias and trust",
+    "candidate_note": "后续根据内容密度拆分",
+    "candidate_evidence_status": "direct",
+    "source_leads": [
+      "G07",
+      "G08",
+      "G14"
+    ],
+    "aliases": [],
+    "area_memberships": [
+      {
+        "area_id": "digital_ai",
+        "is_primary": true,
+        "rationale": "后续根据内容密度拆分"
+      },
+      {
+        "area_id": "media_society",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      },
+      {
+        "area_id": "effects",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      },
+      {
+        "area_id": "power_culture",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      }
+    ],
+    "temporal_profile": "evolving",
+    "controversy_status": "not_assessed",
+    "review_status": "draft",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-11",
+    "reviewed_at": null,
+    "as_of": null,
+    "last_evidence_check": null,
+    "next_review_due": null
+  },
+  {
+    "id": "r8-quant",
+    "slug": "r8-quant",
+    "record_level": "candidate",
+    "type": "method",
+    "subtype": null,
+    "name_zh": "量化研究设计与统计推断",
+    "name_original": "Quantitative research design and statistical inference",
+    "candidate_note": "方法节点需写适用问题和局限",
+    "candidate_evidence_status": "direct",
+    "source_leads": [
+      "G02",
+      "G05",
+      "G06",
+      "G07",
+      "G08",
+      "C03",
+      "C08"
+    ],
+    "aliases": [],
+    "area_memberships": [
+      {
+        "area_id": "research_application",
+        "is_primary": true,
+        "rationale": "方法节点需写适用问题和局限"
+      },
+      {
+        "area_id": "effects",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      }
+    ],
+    "temporal_profile": "relatively_stable",
+    "controversy_status": "not_assessed",
+    "review_status": "draft",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-11",
+    "reviewed_at": null
+  },
+  {
+    "id": "r8-qual",
+    "slug": "r8-qual",
+    "record_level": "candidate",
+    "type": "method",
+    "subtype": null,
+    "name_zh": "质化研究设计与解释",
+    "name_original": "Qualitative research design and interpretation",
+    "candidate_note": "方法节点需写研究者位置与反思",
+    "candidate_evidence_status": "direct",
+    "source_leads": [
+      "G02",
+      "G05",
+      "G07",
+      "G08",
+      "C08"
+    ],
+    "aliases": [],
+    "area_memberships": [
+      {
+        "area_id": "research_application",
+        "is_primary": true,
+        "rationale": "方法节点需写研究者位置与反思"
+      },
+      {
+        "area_id": "meaning",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      },
+      {
+        "area_id": "power_culture",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      }
+    ],
+    "temporal_profile": "relatively_stable",
+    "controversy_status": "not_assessed",
+    "review_status": "draft",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-11",
+    "reviewed_at": null
+  },
+  {
+    "id": "r8-survey",
+    "slug": "r8-survey",
+    "record_level": "candidate",
+    "type": "method",
+    "subtype": null,
+    "name_zh": "调查研究",
+    "name_original": "Survey research",
+    "candidate_note": "含抽样、测量和误差",
+    "candidate_evidence_status": "direct",
+    "source_leads": [
+      "G05",
+      "G07",
+      "G08",
+      "C03",
+      "C08"
+    ],
+    "aliases": [],
+    "area_memberships": [
+      {
+        "area_id": "research_application",
+        "is_primary": true,
+        "rationale": "含抽样、测量和误差"
+      },
+      {
+        "area_id": "effects",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      }
+    ],
+    "temporal_profile": "relatively_stable",
+    "controversy_status": "not_assessed",
+    "review_status": "draft",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-11",
+    "reviewed_at": null
+  },
+  {
+    "id": "r8-experiment",
+    "slug": "r8-experiment",
+    "record_level": "candidate",
+    "type": "method",
+    "subtype": null,
+    "name_zh": "实验法",
+    "name_original": "Experimental method",
+    "candidate_note": "需说明因果推断与外部效度",
+    "candidate_evidence_status": "direct",
+    "source_leads": [
+      "G05",
+      "G07",
+      "G08"
+    ],
+    "aliases": [],
+    "area_memberships": [
+      {
+        "area_id": "research_application",
+        "is_primary": true,
+        "rationale": "需说明因果推断与外部效度"
+      },
+      {
+        "area_id": "effects",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      }
+    ],
+    "temporal_profile": "relatively_stable",
+    "controversy_status": "not_assessed",
+    "review_status": "draft",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-11",
+    "reviewed_at": null
+  },
+  {
+    "id": "r8-content-analysis",
+    "slug": "r8-content-analysis",
+    "record_level": "candidate",
+    "type": "method",
+    "subtype": null,
+    "name_zh": "内容分析",
+    "name_original": "Content analysis",
+    "candidate_note": "区分人工编码和计算内容分析",
+    "candidate_evidence_status": "direct",
+    "source_leads": [
+      "G05",
+      "G07",
+      "G08",
+      "G13"
+    ],
+    "aliases": [],
+    "area_memberships": [
+      {
+        "area_id": "research_application",
+        "is_primary": true,
+        "rationale": "区分人工编码和计算内容分析"
+      },
+      {
+        "area_id": "meaning",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      },
+      {
+        "area_id": "effects",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      }
+    ],
+    "temporal_profile": "relatively_stable",
+    "controversy_status": "not_assessed",
+    "review_status": "draft",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-11",
+    "reviewed_at": null
+  },
+  {
+    "id": "r8-ethnography",
+    "slug": "r8-ethnography",
+    "record_level": "candidate",
+    "type": "method",
+    "subtype": null,
+    "name_zh": "访谈、焦点小组与民族志",
+    "name_original": "Interviews focus groups and ethnography",
+    "candidate_note": "首版方法簇，后续可拆",
+    "candidate_evidence_status": "direct",
+    "source_leads": [
+      "G02",
+      "G05",
+      "G08",
+      "C08"
+    ],
+    "aliases": [],
+    "area_memberships": [
+      {
+        "area_id": "research_application",
+        "is_primary": true,
+        "rationale": "首版方法簇，后续可拆"
+      },
+      {
+        "area_id": "communication",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      },
+      {
+        "area_id": "meaning",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      },
+      {
+        "area_id": "power_culture",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      }
+    ],
+    "temporal_profile": "relatively_stable",
+    "controversy_status": "not_assessed",
+    "review_status": "draft",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-11",
+    "reviewed_at": null
+  },
+  {
+    "id": "r8-interpretive-methods",
+    "slug": "r8-interpretive-methods",
+    "record_level": "candidate",
+    "type": "method",
+    "subtype": null,
+    "name_zh": "文本、话语、视觉与档案分析",
+    "name_original": "Text discourse visual and archival analysis",
+    "candidate_note": "首版方法簇",
+    "candidate_evidence_status": "direct",
+    "source_leads": [
+      "G02",
+      "G05",
+      "G09",
+      "G13"
+    ],
+    "aliases": [],
+    "area_memberships": [
+      {
+        "area_id": "research_application",
+        "is_primary": true,
+        "rationale": "首版方法簇"
+      },
+      {
+        "area_id": "meaning",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      },
+      {
+        "area_id": "institutions",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      },
+      {
+        "area_id": "power_culture",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      }
+    ],
+    "temporal_profile": "relatively_stable",
+    "controversy_status": "not_assessed",
+    "review_status": "draft",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-11",
+    "reviewed_at": null
+  },
+  {
+    "id": "r8-computational",
+    "slug": "r8-computational",
+    "record_level": "candidate",
+    "type": "method",
+    "subtype": null,
+    "name_zh": "计算传播、网络分析与文本挖掘",
+    "name_original": "Computational communication network analysis and text mining",
+    "candidate_note": "动态方法簇",
+    "candidate_evidence_status": "direct",
+    "source_leads": [
+      "G03",
+      "G05",
+      "G08",
+      "G13",
+      "C08",
+      "C10",
+      "C11"
+    ],
+    "aliases": [],
+    "area_memberships": [
+      {
+        "area_id": "research_application",
+        "is_primary": true,
+        "rationale": "动态方法簇"
+      },
+      {
+        "area_id": "media_society",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      },
+      {
+        "area_id": "effects",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      },
+      {
+        "area_id": "digital_ai",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      }
+    ],
+    "temporal_profile": "evolving",
+    "controversy_status": "not_assessed",
+    "review_status": "draft",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-11",
+    "reviewed_at": null,
+    "as_of": null,
+    "last_evidence_check": null,
+    "next_review_due": null
+  },
+  {
+    "id": "r8-ethics",
+    "slug": "r8-ethics",
+    "record_level": "candidate",
+    "type": "method",
+    "subtype": null,
+    "name_zh": "研究伦理与数据保护",
+    "name_original": "Research ethics and data protection",
+    "candidate_note": "不仅是法规清单",
+    "candidate_evidence_status": "direct",
+    "source_leads": [
+      "G02",
+      "G14",
+      "C08",
+      "C10"
+    ],
+    "aliases": [],
+    "area_memberships": [
+      {
+        "area_id": "research_application",
+        "is_primary": true,
+        "rationale": "不仅是法规清单"
+      },
+      {
+        "area_id": "institutions",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      },
+      {
+        "area_id": "power_culture",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      },
+      {
+        "area_id": "digital_ai",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      }
+    ],
+    "temporal_profile": "relatively_stable",
+    "controversy_status": "not_assessed",
+    "review_status": "draft",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-11",
+    "reviewed_at": null
+  },
+  {
+    "id": "p-shannon",
+    "slug": "p-shannon",
+    "record_level": "candidate",
+    "type": "person",
+    "subtype": null,
+    "name_zh": "克劳德·香农",
+    "name_original": "Claude Shannon",
+    "candidate_note": "需补原著与信息论进入传播研究的边界",
+    "candidate_evidence_status": "pending",
+    "source_leads": [
+      "G11"
+    ],
+    "aliases": [],
+    "area_memberships": [
+      {
+        "area_id": "communication",
+        "is_primary": true,
+        "rationale": "需补原著与信息论进入传播研究的边界"
+      },
+      {
+        "area_id": "digital_ai",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      },
+      {
+        "area_id": "research_application",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      }
+    ],
+    "temporal_profile": "relatively_stable",
+    "controversy_status": "not_assessed",
+    "review_status": "draft",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-11",
+    "reviewed_at": null
+  },
+  {
+    "id": "p-lasswell",
+    "slug": "p-lasswell",
+    "record_level": "candidate",
+    "type": "person",
+    "subtype": null,
+    "name_zh": "哈罗德·拉斯韦尔",
+    "name_original": "Harold Lasswell",
+    "candidate_note": "需补5W原文和政治传播关系",
+    "candidate_evidence_status": "pending",
+    "source_leads": [
+      "G11"
+    ],
+    "aliases": [],
+    "area_memberships": [
+      {
+        "area_id": "communication",
+        "is_primary": true,
+        "rationale": "需补5W原文和政治传播关系"
+      },
+      {
+        "area_id": "effects",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      },
+      {
+        "area_id": "institutions",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      }
+    ],
+    "temporal_profile": "relatively_stable",
+    "controversy_status": "not_assessed",
+    "review_status": "draft",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-11",
+    "reviewed_at": null
+  },
+  {
+    "id": "p-hall",
+    "slug": "p-hall",
+    "record_level": "candidate",
+    "type": "person",
+    "subtype": null,
+    "name_zh": "斯图亚特·霍尔",
+    "name_original": "Stuart Hall",
+    "candidate_note": "需补编码解码与表征原典",
+    "candidate_evidence_status": "pending",
+    "source_leads": [
+      "G02",
+      "G11"
+    ],
+    "aliases": [],
+    "area_memberships": [
+      {
+        "area_id": "meaning",
+        "is_primary": true,
+        "rationale": "需补编码解码与表征原典"
+      },
+      {
+        "area_id": "effects",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      },
+      {
+        "area_id": "power_culture",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      }
+    ],
+    "temporal_profile": "relatively_stable",
+    "controversy_status": "not_assessed",
+    "review_status": "draft",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-11",
+    "reviewed_at": null
+  },
+  {
+    "id": "p-mcluhan",
+    "slug": "p-mcluhan",
+    "record_level": "candidate",
+    "type": "person",
+    "subtype": null,
+    "name_zh": "马歇尔·麦克卢汉",
+    "name_original": "Marshall McLuhan",
+    "candidate_note": "需补媒介理论原著",
+    "candidate_evidence_status": "pending",
+    "source_leads": [
+      "G11"
+    ],
+    "aliases": [],
+    "area_memberships": [
+      {
+        "area_id": "media_society",
+        "is_primary": true,
+        "rationale": "需补媒介理论原著"
+      },
+      {
+        "area_id": "digital_ai",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      }
+    ],
+    "temporal_profile": "relatively_stable",
+    "controversy_status": "not_assessed",
+    "review_status": "draft",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-11",
+    "reviewed_at": null
+  },
+  {
+    "id": "p-mccombs",
+    "slug": "p-mccombs",
+    "record_level": "candidate",
+    "type": "person",
+    "subtype": null,
+    "name_zh": "马克斯韦尔·麦库姆斯",
+    "name_original": "Maxwell McCombs",
+    "candidate_note": "需补议程设置原典与档案",
+    "candidate_evidence_status": "pending",
+    "source_leads": [
+      "G08"
+    ],
+    "aliases": [],
+    "area_memberships": [
+      {
+        "area_id": "effects",
+        "is_primary": true,
+        "rationale": "需补议程设置原典与档案"
+      },
+      {
+        "area_id": "institutions",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      }
+    ],
+    "temporal_profile": "relatively_stable",
+    "controversy_status": "not_assessed",
+    "review_status": "draft",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-11",
+    "reviewed_at": null
+  },
+  {
+    "id": "p-shaw",
+    "slug": "p-shaw",
+    "record_level": "candidate",
+    "type": "person",
+    "subtype": null,
+    "name_zh": "唐纳德·肖",
+    "name_original": "Donald Shaw",
+    "candidate_note": "需补议程设置原典与档案",
+    "candidate_evidence_status": "pending",
+    "source_leads": [
+      "G08"
+    ],
+    "aliases": [],
+    "area_memberships": [
+      {
+        "area_id": "effects",
+        "is_primary": true,
+        "rationale": "需补议程设置原典与档案"
+      },
+      {
+        "area_id": "institutions",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      }
+    ],
+    "temporal_profile": "relatively_stable",
+    "controversy_status": "not_assessed",
+    "review_status": "draft",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-11",
+    "reviewed_at": null
+  },
+  {
+    "id": "p-gerbner",
+    "slug": "p-gerbner",
+    "record_level": "candidate",
+    "type": "person",
+    "subtype": null,
+    "name_zh": "乔治·格伯纳",
+    "name_original": "George Gerbner",
+    "candidate_note": "需补涵化原典",
+    "candidate_evidence_status": "pending",
+    "source_leads": [
+      "G11"
+    ],
+    "aliases": [],
+    "area_memberships": [
+      {
+        "area_id": "effects",
+        "is_primary": true,
+        "rationale": "需补涵化原典"
+      },
+      {
+        "area_id": "media_society",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      },
+      {
+        "area_id": "institutions",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      }
+    ],
+    "temporal_profile": "relatively_stable",
+    "controversy_status": "not_assessed",
+    "review_status": "draft",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-11",
+    "reviewed_at": null
+  },
+  {
+    "id": "p-habermas",
+    "slug": "p-habermas",
+    "record_level": "candidate",
+    "type": "person",
+    "subtype": null,
+    "name_zh": "于尔根·哈贝马斯",
+    "name_original": "Jürgen Habermas",
+    "candidate_note": "需补公共领域原著与批评",
+    "candidate_evidence_status": "pending",
+    "source_leads": [
+      "G04"
+    ],
+    "aliases": [],
+    "area_memberships": [
+      {
+        "area_id": "institutions",
+        "is_primary": true,
+        "rationale": "需补公共领域原著与批评"
+      },
+      {
+        "area_id": "power_culture",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      }
+    ],
+    "temporal_profile": "relatively_stable",
+    "controversy_status": "not_assessed",
+    "review_status": "draft",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-11",
+    "reviewed_at": null
+  },
+  {
+    "id": "p-fang",
+    "slug": "p-fang",
+    "record_level": "candidate",
+    "type": "person",
+    "subtype": null,
+    "name_zh": "方汉奇",
+    "name_original": "Fang Hanqi",
+    "candidate_note": "已有人物线索；需补机构档案、代表作和学术评价",
+    "candidate_evidence_status": "pending",
+    "source_leads": [
+      "C12",
+      "C15"
+    ],
+    "aliases": [],
+    "area_memberships": [
+      {
+        "area_id": "institutions",
+        "is_primary": true,
+        "rationale": "已有人物线索；需补机构档案、代表作和学术评价"
+      },
+      {
+        "area_id": "power_culture",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      },
+      {
+        "area_id": "research_application",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      }
+    ],
+    "temporal_profile": "relatively_stable",
+    "controversy_status": "not_assessed",
+    "review_status": "draft",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-11",
+    "reviewed_at": null
+  },
+  {
+    "id": "p-guo",
+    "slug": "p-guo",
+    "record_level": "candidate",
+    "type": "person",
+    "subtype": null,
+    "name_zh": "郭庆光",
+    "name_original": "Guo Qingguang",
+    "candidate_note": "教材使用只是线索；需补正式身份与学术评价",
+    "candidate_evidence_status": "pending",
+    "source_leads": [
+      "C14"
+    ],
+    "aliases": [],
+    "area_memberships": [
+      {
+        "area_id": "communication",
+        "is_primary": true,
+        "rationale": "教材使用只是线索；需补正式身份与学术评价"
+      },
+      {
+        "area_id": "effects",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      },
+      {
+        "area_id": "research_application",
+        "is_primary": false,
+        "rationale": "次级导航入口；具体归属理由将在完整节点审核时补充。"
+      }
+    ],
+    "temporal_profile": "relatively_stable",
+    "controversy_status": "not_assessed",
+    "review_status": "draft",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-11",
+    "reviewed_at": null
+  }
+]

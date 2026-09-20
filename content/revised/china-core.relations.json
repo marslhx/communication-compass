@@ -1,0 +1,74 @@
+[
+  {
+    "id": "rel-china-introduction-contrasts-china-history",
+    "source_id": "r1-china-introduction",
+    "target_id": "r5-china-history",
+    "relation_type": "contrasts_with",
+    "statement_zh": "传播学再引进与学科化知识点观察1978年前后的知识译介和学术建制，中国新闻传播史知识点则以新闻媒介、制度与实践的长时段变化为对象；两者有交叉，但研究对象和时间尺度不同。",
+    "scope_note": "这是对两个导览知识点范围的编辑比较，不声称两个研究领域在学理上对立；对称关系仅保存此一条。",
+    "evidence_status": "interpretive",
+    "evidence": [
+      {
+        "source_id": "C17",
+        "locator": "改革开放后传播学发展相关段落",
+        "support_note": "支持传播学知识译介与学科建制的学术史范围。",
+        "support_role": "supports"
+      },
+      {
+        "source_id": "C15",
+        "locator": "绪论及第一章至第十三章目录",
+        "support_note": "支持所引新闻传播史教材的长时段新闻事业范围。",
+        "support_role": "supports"
+      }
+    ],
+    "controversy_note": null,
+    "review_status": "ready_for_review",
+    "reviewed_at": null
+  },
+  {
+    "id": "rel-marxist-journalism-addresses-journalism",
+    "source_id": "r5-marxist-journalism",
+    "target_id": "r5-journalism",
+    "relation_type": "addresses",
+    "statement_zh": "2019年《马克思主义新闻观十二讲》围绕新闻事实与真实、新闻事业性质、权利责任及法治道德等问题组织该规范性与理论性传统，因而为新闻学与新闻研究的相关问题提供一个特定教学入口。",
+    "scope_note": "关系限定为2019年该教材所组织的问题范围；不声称其规范性回答已获经验验证，也不覆盖全部新闻研究。",
+    "evidence_status": "direct",
+    "evidence": [
+      {
+        "source_id": "C19",
+        "locator": "第二讲至第十讲目录",
+        "support_note": "目录直接显示该教材以新闻事实、真实、事业性质、权利责任和法治道德等问题组织内容。",
+        "support_role": "supports"
+      }
+    ],
+    "controversy_note": null,
+    "review_status": "ready_for_review",
+    "reviewed_at": null
+  },
+  {
+    "id": "rel-china-history-contrasts-marxist-journalism",
+    "source_id": "r5-china-history",
+    "target_id": "r5-marxist-journalism",
+    "relation_type": "contrasts_with",
+    "statement_zh": "中国新闻传播史知识点以史料重建不同时期的新闻制度与实践，马克思主义新闻观知识点则组织规范性与理论性命题；这是知识点任务的比较，不意味着两者学术对立或史学没有解释立场。",
+    "scope_note": "只比较历史重建与规范／理论组织两种页面任务；规范文本不替代历史事实证据。",
+    "evidence_status": "interpretive",
+    "evidence": [
+      {
+        "source_id": "C15",
+        "locator": "全书目录，尤其第十二章第一节“新闻传播观念更新与马克思主义新闻观教育”",
+        "support_note": "教材把新闻观教育置于具体历史阶段中，显示历史对象与规范传统的交点。",
+        "support_role": "supports"
+      },
+      {
+        "source_id": "C19",
+        "locator": "全书简介与目录",
+        "support_note": "支持马克思主义新闻观知识点的规范性、理论性组织方式。",
+        "support_role": "supports"
+      }
+    ],
+    "controversy_note": null,
+    "review_status": "ready_for_review",
+    "reviewed_at": null
+  }
+]

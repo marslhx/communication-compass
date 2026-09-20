@@ -1,0 +1,383 @@
+[
+  {
+    "id": "p-fang",
+    "slug": "fang-hanqi",
+    "record_level": "complete",
+    "type": "person",
+    "subtype": "scholar",
+    "name_zh": "方汉奇",
+    "name_original": "Fang Hanqi",
+    "aliases": [],
+    "summary": "中国新闻史学者、教育者和研究组织者；曾在北京大学任教，后长期从事中国人民大学新闻史教学研究，代表性工作包括《中国近代报刊史》以及多卷本《中国新闻事业通史》等项目。",
+    "why_it_matters": "这一人物知识点让学生从教学、史料积累、通史协作和人才培养几个层面理解新闻史学科建设，同时认识到大型通史是可由新史料和新问题继续修正的阶段性成果。",
+    "key_points": [
+      {
+        "id": "p-fang-kp1",
+        "statement": "据2017年中国人民大学校方刊载的2009年口述自述，方汉奇1951年开始讲授新闻史，1953年进入北京大学中文系新闻专业，1958年随该专业并入中国人民大学新闻系。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "C20",
+            "locator": "“早年工作经历及见闻”，含1951年教学、1953年到北大和1958年院系合并的前两段",
+            "support_note": "校方页面刊载的口述自述直接列出讲授新闻史和两次机构变动的时间。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "p-fang-kp2",
+        "statement": "现有校方资料和可访问的治学答问将《中国近代报刊史》、多卷本《中国新闻事业通史》和《中国新闻事业编年史》列为方汉奇的代表性著述或主编项目。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "C20",
+            "locator": "正文以“这算是改革开放以后我的第一个成果”开头的段落及前段",
+            "support_note": "校方刊载的口述访谈列出了相关著作和主编项目。",
+            "support_role": "supports"
+          },
+          {
+            "source_id": "S028",
+            "locator": "第98页作者简介及关于《中国新闻事业通史》的问答",
+            "support_note": "治学答问列出主要著作，并说明《通史》的集体编写性质。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "p-fang-kp3",
+        "statement": "方汉奇在2015年口述访谈中强调史料积累、第一手材料和个案研究；这里记录的是其本人的方法主张，而不是对该方法影响强度的独立测量。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S028",
+            "locator": "第104页",
+            "support_note": "访谈直接记录方汉奇本人的治学主张。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "p-fang-kp4",
+        "statement": "2022年专著《学人与学科：以方汉奇影响力为中心》的书目介绍显示，已有研究把方汉奇作为“学人与学科”关系的个案，讨论其影响的层次、范围、对象和形式；当前记录只核到书目和内容简介。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S029",
+            "locator": "图书内容简介",
+            "support_note": "出版资料的内容简介直接说明该书的研究对象与讨论范围，但不支持对全书论证的进一步概括。",
+            "support_role": "supports"
+          },
+          {
+            "source_id": "S033",
+            "locator": "“新闻传播学术学科史”段对该书的概括",
+            "support_note": "年度综述记载了该专著的讨论方向；它围绕同一部专著，不作为第二次独立实证。",
+            "support_role": "qualifies"
+          }
+        ]
+      }
+    ],
+    "limits_or_debates": [
+      {
+        "id": "p-fang-limit1",
+        "statement": "2017年校方刊载的2009年口述自述可支持相应履历和著述记录，不应单独承担“最高水平”“公认权威”或当前在职状态等判断。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "C20",
+            "locator": "开头人物说明及口述访谈正文",
+            "support_note": "该页面为机构刊载的口述访谈，本人自述、编辑说明与校方评价需分开使用。",
+            "support_role": "qualifies"
+          }
+        ]
+      },
+      {
+        "id": "p-fang-limit2",
+        "statement": "方汉奇本人把《中国新闻事业通史》视为受当时条件限制、需后人补充的阶段性成果；人物贡献不应被写成已经终结中国新闻史研究。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S028",
+            "locator": "第103页",
+            "support_note": "访谈中直接说明通史的时代局限与待补充之处。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "p-fang-limit3",
+        "statement": "2017年校方人物简介记载方汉奇原名方汉迁，2005年获该校首批荣誉教授称号、2009年获首批荣誉一级教授称号，并将中国新闻史学会会长列为曾任职务；本条只报告该页历史记载。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "C20",
+            "locator": "文末‘人物简介’第一、二段",
+            "support_note": "2026-09-14实际打开校方页面，逐项核对本条列出的原名、两项称号及曾任职务；不外推当前任职，不把其他未逐项核验的荣誉或职务一并收录。",
+            "support_role": "supports"
+          }
+        ]
+      }
+    ],
+    "area_memberships": [
+      {
+        "area_id": "institutions",
+        "is_primary": true,
+        "rationale": "其研究对象与学科工作集中于新闻事业史、新闻史教学和研究组织。"
+      },
+      {
+        "area_id": "power_culture",
+        "is_primary": false,
+        "rationale": "新闻史研究需要处理新闻事业与政治、社会及文化的历史关系。"
+      },
+      {
+        "area_id": "research_application",
+        "is_primary": false,
+        "rationale": "其对史料、个案和大型协作的论述展示历史研究如何落地。"
+      }
+    ],
+    "learning_resources": [
+      {
+        "title": "方汉奇：新闻研究应该始终坚持历史唯物主义",
+        "source_id": "C20",
+        "purpose": "核对基本履历、著述和本人治学表述，同时识别机构人物材料的评价边界。",
+        "level": "introductory",
+        "locator": "开头人物说明及口述访谈正文"
+      },
+      {
+        "title": "中国新闻史研究的回顾与展望——方汉奇先生治学答问",
+        "source_id": "S028",
+        "purpose": "理解方汉奇本人对史料、个案研究、通史协作及局限的反思。",
+        "level": "intermediate",
+        "locator": "第98—104页"
+      },
+      {
+        "title": "学人与学科：以方汉奇影响力为中心",
+        "source_id": "S029",
+        "purpose": "了解一部专门以方汉奇为个案讨论学人与学科关系的研究；当前只可使用书目与内容简介。",
+        "level": "advanced",
+        "locator": "图书内容简介"
+      }
+    ],
+    "learning_links": [
+      {
+        "target_id": "r5-china-history",
+        "reason": "回到其主要贡献所在的中国新闻传播史领域，检验人物、著作、方法与史学问题的关系。",
+        "sequence_hint": "after"
+      },
+      {
+        "target_id": "r8-interpretive-methods",
+        "reason": "延伸学习报刊原件、档案和其他史料的分析与批判。",
+        "sequence_hint": "after"
+      }
+    ],
+    "temporal_profile": "relatively_stable",
+    "last_evidence_check": "2026-09-11",
+    "controversy_status": "none_identified",
+    "controversy_note": "本轮未发现需新增到人物卡的已定位争议；这不表示其史学框架或具体判断没有争论。",
+    "positions": [],
+    "review_status": "ready_for_review",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-14",
+    "reviewed_at": null,
+    "roles": [
+      "新闻史学者",
+      "新闻史教育者",
+      "新闻史研究组织者"
+    ],
+    "communication_relevance": "其主要贡献集中于中国新闻史的教学、史料整理、通史编纂和研究组织，不因其方法表述而自动归入某一具体新闻观传统。"
+  },
+  {
+    "id": "r5-pr",
+    "slug": "public-relations-and-strategic-communication",
+    "record_level": "complete",
+    "type": "application",
+    "subtype": "organizational_communication_practice",
+    "name_zh": "公共关系与战略传播",
+    "name_original": "Public Relations and Strategic Communication",
+    "aliases": [
+      {
+        "name": "公关与战略传播",
+        "kind": "common_name",
+        "note": "中文简称；不表示公共关系与战略传播在所有文献中完全同义。"
+      }
+    ],
+    "summary": "一个把组织目标、公众与利益相关者、情境研究、沟通实施与结果评估联系起来的应用领域。本知识点分别使用 PRSA 的职业定义和 Hallahan 等人（2007）的战略传播定义作为入门，不把二者写成无争议的固定层级。",
+    "why_it_matters": "这个应用页把传播理论、研究、伦理判断和组织决策联系起来。学生不仅要会制作内容和组织活动，还要学会识别利益相关者、设定可评估目标，并检查透明度、准确性和权力后果。",
+    "key_points": [
+      {
+        "id": "r5-pr-kp1",
+        "statement": "PRSA 将公共关系界定为在组织与其公众之间建立互利关系的战略传播过程，并在职责列表中包含研究、咨询、实施与评估；这是职业协会定义，不是唯一学术定义。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S034",
+            "locator": "“About Public Relations”定义段及职责列表",
+            "support_note": "PRSA 官方页面直接给出关系导向定义并列出相关职责。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r5-pr-kp2",
+        "statement": "Hallahan 等人（2007）提出的一种定义是：战略传播是组织为实现使命而有目的地使用传播，并横跨公共关系、管理、营销和政治传播等多个专业领域。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S036",
+            "locator": "摘要",
+            "support_note": "论文摘要直接给出该定义并列出六个相关专业领域；本记录不外推摘要之外的论证。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r5-pr-kp4",
+        "statement": "所引 IPRA 2011年行为守则和 PRSA 会员伦理准则要求诚实、准确、透明披露所代表的组织与利益，并避免利益冲突和不当影响；它们是职业规范，不是法律或现实遵守程度的经验证据。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S035",
+            "locator": "IPRA Code of Conduct 前言及第2—14条",
+            "support_note": "IPRA 规范直接规定诚信、透明、准确、冲突披露与不得施加不当影响。",
+            "support_role": "supports"
+          },
+          {
+            "source_id": "S037",
+            "locator": "“PRSA Member Statement of Professional Values”及“Disclosure of Information”",
+            "support_note": "PRSA 准则支持诚实、公平、独立、公共利益和信息披露要求，但其适用对象与执行力度有限。",
+            "support_role": "qualifies"
+          }
+        ]
+      }
+    ],
+    "limits_or_debates": [
+      {
+        "id": "r5-pr-limit1",
+        "statement": "公共关系、战略传播和传播管理的边界并不统一；Hallahan等人（2007）的定义是本知识点采用的一个入门框架，不能显示为当下学界的唯一共识。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S036",
+            "locator": "摘要",
+            "support_note": "支持2007年论文的特定定义与跨专业范围。",
+            "support_role": "supports"
+          },
+          {
+            "source_id": "S038",
+            "locator": "摘要",
+            "support_note": "2026年系统综述摘要指出战略传播理论存在跨学科碎片化、概念不一致与可推广性限制。",
+            "support_role": "qualifies"
+          }
+        ]
+      },
+      {
+        "id": "r5-pr-limit2",
+        "statement": "组织目标与公共利益是实践中需要持续检查的伦理问题；职业守则能证明相关规则被倡议，但不能单独证明风险的实际频率或行业的现实合规程度。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "S035",
+            "locator": "IPRA Code of Conduct 前言及第2—14条",
+            "support_note": "条文支持所倡议的行为标准；从规范到实际风险的判断是编辑提出的检查问题。",
+            "support_role": "qualifies"
+          }
+        ]
+      },
+      {
+        "id": "r5-pr-limit3",
+        "statement": "AMEC 2025年 Barcelona Principles 4.0 是传播测量与评估的行业框架；它可作为学习资源，但不足以单独证明“量化研究设计与统计推断”或“质化研究设计与解释”整个方法簇对本应用领域的具体适用方式。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "S039",
+            "locator": "Barcelona Principles 4.0，原则1—7",
+            "support_note": "该文件直接呈现行业测量与评估原则；对完整学术方法簇的适用性判断超出这一来源的支持范围。",
+            "support_role": "qualifies"
+          }
+        ]
+      }
+    ],
+    "area_memberships": [
+      {
+        "area_id": "institutions",
+        "is_primary": true,
+        "rationale": "核心任务发生在组织与公众、利益相关者、媒体和制度环境之间。"
+      },
+      {
+        "area_id": "communication",
+        "is_primary": false,
+        "rationale": "实践需分析传播者、公众、信息、渠道、反馈与情境。"
+      },
+      {
+        "area_id": "effects",
+        "is_primary": false,
+        "rationale": "活动评估需区分传播产出、结果与更广影响。"
+      },
+      {
+        "area_id": "research_application",
+        "is_primary": false,
+        "rationale": "情境研究、目标设定、过程检查和结果评估是负责任实践的组成部分。"
+      }
+    ],
+    "learning_resources": [
+      {
+        "title": "About Public Relations",
+        "source_id": "S034",
+        "purpose": "识别 PRSA 的公共关系定义、职责范围及职业组织来源边界。",
+        "level": "introductory",
+        "locator": "定义段及职责列表"
+      },
+      {
+        "title": "Defining Strategic Communication",
+        "source_id": "S036",
+        "purpose": "阅读 Hallahan 等人（2007）提出的特定定义，并区分其与公共关系的范围。",
+        "level": "intermediate",
+        "locator": "摘要"
+      },
+      {
+        "title": "IPRA Code of Conduct",
+        "source_id": "S035",
+        "purpose": "用2011年版职业条文检查诚信、准确、透明、利益冲突和不当影响。",
+        "level": "intermediate",
+        "locator": "前言及第2—14条"
+      },
+      {
+        "title": "Barcelona Principles 4.0",
+        "source_id": "S039",
+        "purpose": "了解一份2025年行业测量评估框架，同时识别行业原则与完整学术方法证据之间的边界。",
+        "level": "advanced",
+        "locator": "原则1—7"
+      }
+    ],
+    "learning_links": [
+      {
+        "target_id": "r5-public-opinion",
+        "reason": "作为后续学习入口，区分公共舆论概念与组织实践中的公众意见分析；当前不建立学术应用边。",
+        "sequence_hint": "after"
+      },
+      {
+        "target_id": "r5-crisis",
+        "reason": "把一般的利益相关者沟通放入高风险、时间压力与不确定情境。",
+        "sequence_hint": "after"
+      },
+      {
+        "target_id": "r8-quant",
+        "reason": "后续学习如何区分传播产出、结果和影响；当前行业原则不足以支持方法到应用的学术关系边。",
+        "sequence_hint": "after"
+      },
+      {
+        "target_id": "r8-qual",
+        "reason": "后续补充理解利益相关者经验与情境的研究方法；当前不用行业规范替代学术方法证据。",
+        "sequence_hint": "after"
+      }
+    ],
+    "temporal_profile": "relatively_stable",
+    "last_evidence_check": "2026-09-11",
+    "controversy_status": "contested",
+    "controversy_note": "公共关系、战略传播与传播管理的概念边界，以及组织目标、职业倡议与公共利益之间的关系，均需继续呈现不同文献和经验研究。",
+    "positions": [],
+    "review_status": "ready_for_review",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-11",
+    "reviewed_at": null
+  }
+]

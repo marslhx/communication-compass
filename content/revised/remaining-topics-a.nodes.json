@@ -1,0 +1,156 @@
+[
+  {
+    "id":"r1-interpersonal","slug":"interpersonal-communication","record_level":"complete","type":"research_topic","subtype":null,"name_zh":"人际传播","name_original":"Interpersonal communication","aliases":[],
+    "summary":"人际传播研究人们如何在具体关系与互动中生产、解释和回应信息，并形成身份、亲密、冲突、支持与关系变化。研究对象不由‘只有两个人’机械决定，而由互动与关系过程界定。",
+    "why_it_matters":"它把传播学落实到学生每天经历的关系协商，也为健康、家庭、组织和数字互动提供微观基础。",
+    "key_points":[
+      {"id":"r1ip-k1","statement":"NCA把人际传播的核心学术贡献概括为对沟通、互动和关系过程的研究。","evidence_status":"direct","evidence":[{"source_id":"S081","locator":"division overview and Mark L. Knapp Award description","support_note":"官方分会页面直接并列communication、interaction与relational processes。","support_role":"supports"}]},
+      {"id":"r1ip-k2","statement":"人际传播可采用社会科学、解释与批判等多种方法，不能等同于社交技巧培训。","evidence_status":"interpretive","evidence":[{"source_id":"S067","locator":"discipline definition and multiple forms of inquiry","support_note":"NCA学科定义强调人文、社会科学与审美探究；据此限定研究主题不等于技能课。","support_role":"qualifies"}]}
+    ],
+    "limits_or_debates":[{"id":"r1ip-l1","statement":"关系类别、文化与权力会改变互动意义；从大学生或亲密伴侣样本所得结论不能无条件推广。","evidence_status":"interpretive","evidence":[{"source_id":"S081","locator":"division overview","support_note":"分会页确认领域开放且多样，本条据研究外推的一般证据规范形成限制。","support_role":"qualifies"}]}],
+    "area_memberships":[{"area_id":"communication","is_primary":true,"rationale":"以互动和关系过程解释传播如何发生。"},{"area_id":"meaning","is_primary":false,"rationale":"关系意义通过解释与协商形成。"}],
+    "learning_resources":[{"title":"Interpersonal Communication Division","source_id":"S081","purpose":"先了解领域机构化范围，再选择关系、冲突或支持等专题。","level":"introductory","locator":"overview"},{"title":"Some Explorations in Initial Interaction and Beyond","source_id":"S123","purpose":"用一项具体理论观察初次互动、信息搜寻与关系过程怎样被研究。","level":"intermediate","locator":"Abstract; pp. 99-112"}],
+    "learning_links":[{"target_id":"r1-communication-world","reason":"理解关系现实如何由互动共同建构。","sequence_hint":"before"},{"target_id":"r1-cmc","reason":"比较面对面与网络化关系过程。","sequence_hint":"after"},{"target_id":"r1-uncertainty-reduction","reason":"以初次互动中的不确定性问题进入一项具体人际传播理论。","sequence_hint":"after"}],
+    "temporal_profile":"relatively_stable","last_evidence_check":"2026-09-11","controversy_status":"contested","controversy_note":"关系边界、文化普适性与数字媒介条件持续引发讨论。","review_status":"ready_for_review","created_at":"2026-09-11","updated_at":"2026-09-11","reviewed_at":null
+  },
+  {
+    "id":"r1-group","slug":"group-communication","record_level":"complete","type":"research_topic","subtype":null,"name_zh":"群体传播","name_original":"Group communication","aliases":[],
+    "summary":"群体传播研究三个或更多行动者如何在团队、家庭、课堂、公共会议、社会运动和虚拟环境中协商目标、角色、身份与决定。群体不是个人效果的简单相加。",
+    "why_it_matters":"它帮助学生理解协作为什么成功或失败，以及领导、冲突、技术和结构如何共同影响集体判断。",
+    "key_points":[
+      {"id":"r1grp-k1","statement":"群体传播覆盖工作团队、家庭、教育、宗教、社会运动、虚拟环境与公共会议等多种情境。","evidence_status":"direct","evidence":[{"source_id":"S080","locator":"division overview","support_note":"NCA分会直接列出群体情境范围。","support_role":"supports"}]},
+      {"id":"r1grp-k2","statement":"核心过程包括决策、审议、协调、身份、协作、冲突与领导，可用实验和田野方法研究。","evidence_status":"direct","evidence":[{"source_id":"S080","locator":"division overview","support_note":"官方页面直接列出过程和实验／田野方法。","support_role":"supports"}]}
+    ],
+    "limits_or_debates":[{"id":"r1grp-l1","statement":"实验室小组的可控结果与真实组织、家庭或运动情境的长期过程不可直接互换。","evidence_status":"interpretive","evidence":[{"source_id":"S080","locator":"laboratory and field methodologies","support_note":"来源并列两类方法，支持强调情境与外推差异。","support_role":"qualifies"}]}],
+    "area_memberships":[{"area_id":"communication","is_primary":true,"rationale":"研究互动如何产生集体结构与决定。"},{"area_id":"institutions","is_primary":false,"rationale":"团队和公共会议常嵌入组织制度。"}],
+    "learning_resources":[{"title":"Group Communication Division","source_id":"S080","purpose":"用情境—过程—方法三层建立研究地图。","level":"introductory","locator":"overview"},{"title":"Communication Theories：Groupthink","source_id":"T001","purpose":"用群体迷思作为具体案例，辨认高凝聚群体中的决策风险与预防思路。","level":"introductory","locator":"Groupthink 条目"}],
+    "learning_links":[{"target_id":"r1-interpersonal","reason":"比较关系互动与群体层次涌现过程。","sequence_hint":"compare"},{"target_id":"r1-organizational","reason":"观察群体如何嵌入复杂组织。","sequence_hint":"after"},{"target_id":"c-groupthink","reason":"用群体迷思检验凝聚力、异议表达与决策质量之间的条件关系。","sequence_hint":"after"}],
+    "temporal_profile":"relatively_stable","last_evidence_check":"2026-09-11","controversy_status":"contested","controversy_note":"群体边界、层次推断和实验室—田野外推需说明。","review_status":"ready_for_review","created_at":"2026-09-11","updated_at":"2026-09-11","reviewed_at":null
+  },
+  {
+    "id":"r1-organizational","slug":"organizational-communication","record_level":"complete","type":"research_topic","subtype":null,"name_zh":"组织传播","name_original":"Organizational communication","aliases":[],
+    "summary":"组织传播研究意义生产、信息处理和消息实践如何使组织得以形成、协调与改变。它既研究组织中的传播，也研究组织如何由传播构成。",
+    "why_it_matters":"它把会议、制度文本、领导、技术、劳动和文化放进同一组织过程，适用于企业、政府、学校、公益组织及非正式协作。",
+    "key_points":[
+      {"id":"r1org-k1","statement":"NCA组织传播分会把意义创造、消息生产和信息处理视为使组织成为可能的传播过程。","evidence_status":"direct","evidence":[{"source_id":"S082","locator":"division overview","support_note":"官方页面直接给出该定位。","support_role":"supports"}]},
+      {"id":"r1org-k2","statement":"领域同时覆盖营利／非营利、付薪／非付薪劳动，以及工作、家庭与社会的交叉，并容纳多种理论方法。","evidence_status":"direct","evidence":[{"source_id":"S082","locator":"division overview","support_note":"官方页面直接列出组织类型、劳动范围和方法多样性。","support_role":"supports"}]}
+    ],
+    "limits_or_debates":[{"id":"r1org-l1","statement":"将组织传播缩减为内部宣传或管理者提升效率，会遗漏劳动、权力、身份、伦理与抵抗。","evidence_status":"interpretive","evidence":[{"source_id":"S082","locator":"division overview, diverse issues and inclusive practices","support_note":"领域官方范围显著超出管理工具，据此形成边界。","support_role":"qualifies"}]}],
+    "area_memberships":[{"area_id":"communication","is_primary":true,"rationale":"组织被视为持续发生的传播与协调过程。"},{"area_id":"institutions","is_primary":false,"rationale":"组织规则、角色和问责直接连接制度。"}],
+    "learning_resources":[{"title":"Organizational Communication Division","source_id":"S082","purpose":"理解‘组织中的传播’与‘传播构成组织’的双重入口。","level":"introductory","locator":"overview"}],
+    "learning_links":[{"target_id":"r1-group","reason":"先理解团队层互动，再进入复杂组织。","sequence_hint":"before"},{"target_id":"r3-media-institutions","reason":"连接组织实践与制度规则。","sequence_hint":"after"}],
+    "temporal_profile":"relatively_stable","last_evidence_check":"2026-09-11","controversy_status":"contested","controversy_note":"工具性、解释性、批判与构成性取向对组织和传播的关系理解不同。","review_status":"ready_for_review","created_at":"2026-09-11","updated_at":"2026-09-11","reviewed_at":null
+  },
+  {
+    "id":"r1-mass","slug":"mass-communication","record_level":"complete","type":"research_topic","subtype":null,"name_zh":"大众传播","name_original":"Mass communication","aliases":[],
+    "summary":"大众传播研究媒介化消息如何由组织生产、跨较大规模公众分发并产生文化与社会后果。数字平台模糊了生产者与受众、单向与互动的旧边界，但没有使大规模媒介结构消失。",
+    "why_it_matters":"它提供连接内容、产业、制度、受众与效果的经典中轴，也帮助学生把传统媒体与平台传播放在连续而非替代关系中理解。",
+    "key_points":[
+      {"id":"r1mass-k1","statement":"当代大众传播研究同时考察传统与新媒体的内容、形式、结构、效果和过程。","evidence_status":"direct","evidence":[{"source_id":"S083","locator":"division overview","support_note":"NCA分会直接列出这些研究维度。","support_role":"supports"}]},
+      {"id":"r1mass-k2","statement":"领域内部并存量化、质化、批判／解释方法以及效果、政治经济和文化研究传统。","evidence_status":"direct","evidence":[{"source_id":"S083","locator":"division overview","support_note":"官方页面直接说明方法与理论传统多样性。","support_role":"supports"}]}
+    ],
+    "limits_or_debates":[{"id":"r1mass-l1","statement":"不能只用受众人数定义大众传播；组织化生产、分发结构、公共可见性和跨层次后果同样重要。","evidence_status":"interpretive","evidence":[{"source_id":"S083","locator":"content, form, structures, effects and processes","support_note":"据领域的多维范围形成概念边界。","support_role":"qualifies"}]}],
+    "area_memberships":[{"area_id":"communication","is_primary":true,"rationale":"提供大规模媒介化传播的过程层入口。"},{"area_id":"media_society","is_primary":false,"rationale":"媒介结构与社会后果不可分。"}],
+    "learning_resources":[{"title":"Mass Communication Division","source_id":"S083","purpose":"从内容、形式、结构、效果和过程五个维度进入。","level":"introductory","locator":"overview"}],
+    "learning_links":[{"target_id":"r3-media-industries","reason":"理解组织化生产与分发。","sequence_hint":"after"},{"target_id":"r4-effects","reason":"进入媒介效果的条件性研究。","sequence_hint":"after"},{"target_id":"r1-cmc","reason":"比较大规模媒介与网络互动边界。","sequence_hint":"compare"}],
+    "temporal_profile":"relatively_stable","last_evidence_check":"2026-09-11","controversy_status":"contested","controversy_note":"数字平台使‘大众’、生产者和分发边界更流动。","review_status":"ready_for_review","created_at":"2026-09-11","updated_at":"2026-09-11","reviewed_at":null
+  },
+  {
+    "id":"r1-cmc","slug":"computer-mediated-communication","record_level":"complete","type":"research_topic","subtype":null,"name_zh":"计算机中介传播","name_original":"Computer-mediated communication","aliases":[{"name":"CMC","kind":"abbreviation","note":null}],
+    "summary":"计算机中介传播是经联网计算机发生的人类传播总称，可同步或异步，覆盖一对一、一对多与多对多的文字、音频和视频互动。其研究已从‘缺少面对面线索’转向用户适应、策略使用和线上线下交织。",
+    "why_it_matters":"它是理解社交媒体、远程协作、网络关系和平台互动的基础，同时为AI中介传播与人机传播提供比较基线。",
+    "key_points":[
+      {"id":"r1cmc-k1","statement":"CMC覆盖同步／异步、一对一／一对多／多对多以及文本、音频与视频等多种形式。","evidence_status":"direct","evidence":[{"source_id":"S084","locator":"Introduction extract, first sentence","support_note":"Oxford导论直接界定范围。","support_role":"supports"}]},
+      {"id":"r1cmc-k2","statement":"研究从早期强调社会情境线索不足，逐步转向用户主动适应媒介限制以及线上与线下边界的流动。","evidence_status":"direct","evidence":[{"source_id":"S084","locator":"Introduction extract, theory development paragraphs","support_note":"导论直接概括理论转向。","support_role":"supports"}]}
+    ],
+    "limits_or_debates":[{"id":"r1cmc-l1","statement":"把所有数字互动视为同一种‘CMC效果’会遗漏平台功能、关系阶段、时间、文化与使用者策略。","evidence_status":"interpretive","evidence":[{"source_id":"S084","locator":"Introduction, contexts and theory shifts","support_note":"来源显示范围与条件高度多样，据此形成边界。","support_role":"qualifies"}]}],
+    "area_memberships":[{"area_id":"communication","is_primary":true,"rationale":"研究技术中介如何改变互动过程。"},{"area_id":"digital_ai","is_primary":false,"rationale":"是平台与AI传播研究的重要前史。"}],
+    "learning_resources":[{"title":"Computer-Mediated Communication","source_id":"S084","purpose":"建立范围与理论转向，再进入具体平台或关系问题。","level":"introductory","locator":"Introduction"}],
+    "learning_links":[{"target_id":"r1-interpersonal","reason":"比较媒介化与面对面关系过程。","sequence_hint":"compare"},{"target_id":"r7-ai-mediated","reason":"观察AI如何进一步参与人际消息生产。","sequence_hint":"after"},{"target_id":"r7-hmc","reason":"区分‘机器作渠道’与‘机器作沟通者’。","sequence_hint":"compare"}],
+    "temporal_profile":"evolving","as_of":"2026-09-11","last_evidence_check":"2026-09-11","next_review_due":"2027-03-01","controversy_status":"contested","controversy_note":"技术类别、线上线下边界和经典理论的适用条件持续变化。","review_status":"ready_for_review","created_at":"2026-09-11","updated_at":"2026-09-11","reviewed_at":null
+  },
+  {
+    "id":"r2-visual","slug":"visual-multimodal-communication","record_level":"complete","type":"research_topic","subtype":null,"name_zh":"视觉与多模态传播","name_original":"Visual and multimodal communication","aliases":[],
+    "summary":"视觉与多模态传播研究图像、文字、声音、空间、身体和界面如何组合产生意义与行动。视觉修辞、符号学和多模态话语分析是相邻路径，但没有一个单一路线代表整个主题。",
+    "why_it_matters":"学生身处短视频、数据可视化、表情包与界面化传播环境，需要分析不同模态如何分工、互补或冲突。",
+    "key_points":[
+      {"id":"r2vis-k1","statement":"视觉修辞广义上分析视觉物的传播与说服力量，对象可从照片、地图和影视扩展到空间、身体与纪念物。","evidence_status":"direct","evidence":[{"source_id":"S085","locator":"Introduction extract","support_note":"Oxford导论直接列出范围与对象。","support_role":"supports"}]},
+      {"id":"r2vis-k2","statement":"视觉研究借用符号学、美学和文化研究等多种传统，领域并无统一定义。","evidence_status":"direct","evidence":[{"source_id":"S085","locator":"Introduction extract","support_note":"导论明确说明定义分歧和跨学科来源。","support_role":"supports"}]}
+    ],
+    "limits_or_debates":[{"id":"r2vis-l1","statement":"只描述画面元素或猜测象征意义不构成充分分析；需要说明模态关系、语境、材料选择与解释程序。","evidence_status":"interpretive","evidence":[{"source_id":"S085","locator":"methods and scope overview","support_note":"来源强调多种分析方法与对象，据此形成方法透明度要求。","support_role":"qualifies"}]}],
+    "area_memberships":[{"area_id":"meaning","is_primary":true,"rationale":"关注多种符号模态如何共同生成意义。"},{"area_id":"research_application","is_primary":false,"rationale":"对应视觉修辞、符号学和多模态分析方法。"}],
+    "learning_resources":[{"title":"Visual Rhetoric","source_id":"S085","purpose":"以视觉修辞为一个入口，同时保留多模态研究的更大范围。","level":"introductory","locator":"Introduction and contents"}],
+    "learning_links":[{"target_id":"r2-semiotics","reason":"先掌握符号关系。","sequence_hint":"before"},{"target_id":"r2-representation","reason":"分析视觉如何参与文化表征。","sequence_hint":"after"},{"target_id":"r8-interpretive-methods","reason":"把理论词汇转成可说明的分析步骤。","sequence_hint":"after"}],
+    "temporal_profile":"evolving","as_of":"2026-09-11","last_evidence_check":"2026-09-11","next_review_due":"2027-03-01","controversy_status":"contested","controversy_note":"视觉修辞、社会符号学与多模态分析的对象和方法边界不同。","review_status":"ready_for_review","created_at":"2026-09-11","updated_at":"2026-09-11","reviewed_at":null
+  },
+  {
+    "id":"r3-media-industries","slug":"media-industries","record_level":"complete","type":"research_topic","subtype":null,"name_zh":"媒介产业","name_original":"Media industries","aliases":[],
+    "summary":"媒介产业研究内容生产、融资、劳动、分发、聚合、市场与监管如何共同塑造可见的文化产品。数字化使研究重心同时延伸到平台、流媒体和内容获取条件。",
+    "why_it_matters":"它让学生从作品与流量背后看到商业模式、创意劳动、所有权和分发权，并理解产业条件如何影响内容而非机械决定内容。",
+    "key_points":[
+      {"id":"r3ind-k1","statement":"产业结构、市场动态、商业模式和监管框架都是媒介产业研究的核心对象。","evidence_status":"direct","evidence":[{"source_id":"S086","locator":"chapter abstract","support_note":"出版社摘要直接列出这些对象。","support_role":"supports"}]},
+      {"id":"r3ind-k2","statement":"研究议程已从内容生产条件扩展到流媒体等系统塑造内容获取的条件。","evidence_status":"direct","evidence":[{"source_id":"S086","locator":"chapter abstract","support_note":"摘要直接概括这一议程变化。","support_role":"supports"}]}
+    ],
+    "limits_or_debates":[{"id":"r3ind-l1","statement":"企业案例和市场数据不能独自解释文化结果；需要连接劳动、技术、政策、分发和受众。","evidence_status":"interpretive","evidence":[{"source_id":"S086","locator":"field problematization abstract","support_note":"来源以多种条件界定领域，据此反对单变量解释。","support_role":"qualifies"}]}],
+    "area_memberships":[{"area_id":"media_society","is_primary":true,"rationale":"产业连接媒介生产与社会资源结构。"},{"area_id":"institutions","is_primary":false,"rationale":"组织、监管和职业实践是主要层面。"}],
+    "learning_resources":[{"title":"Media, Industries, Research","source_id":"S086","purpose":"建立结构—市场—商业模式—监管—获取的分析清单。","level":"intermediate","locator":"chapter abstract"},{"title":"Overview of the Political Economy of Communication","source_id":"S068","purpose":"补充所有权、资源、劳动与权力关系的产业分析维度。","level":"intermediate","locator":"pp. 1–4"}],
+    "learning_links":[{"target_id":"r3-political-economy","reason":"用权力与资源关系解释产业结构。","sequence_hint":"before"},{"target_id":"r3-platformization","reason":"观察平台如何重组生产、分发和变现。","sequence_hint":"after"},{"target_id":"r3-media-institutions","reason":"把市场与商业模式放进制度、监管和历史语境中比较。","sequence_hint":"after"}],
+    "temporal_profile":"evolving","as_of":"2026-09-11","last_evidence_check":"2026-09-11","next_review_due":"2027-03-01","controversy_status":"contested","controversy_note":"行业边界、平台依赖、创意自主与全球不平等持续变化。","review_status":"ready_for_review","created_at":"2026-09-11","updated_at":"2026-09-11","reviewed_at":null
+  },
+  {
+    "id":"r3-platformization","slug":"platformization","record_level":"complete","type":"research_topic","subtype":null,"name_zh":"平台化与数字经济","name_original":"Platformization and digital economy","aliases":[],
+    "summary":"平台化指数字平台的基础设施、经济过程和治理框架渗入不同社会领域，并围绕平台重组文化实践与想象。它不是简单的‘把业务搬到App上’，而是制度与权力关系的再组织。",
+    "why_it_matters":"它帮助学生把推荐、数据、接口、市场和规则放在同一分析中，理解新闻、娱乐、劳动、教育与公共服务为何越来越依赖少数平台。",
+    "key_points":[
+      {"id":"r3plat-k1","statement":"Poell等把平台化定义为平台基础设施、经济过程与治理框架进入社会领域，并重组文化实践和想象。","evidence_status":"direct","evidence":[{"source_id":"S087","locator":"definition and introduction","support_note":"开放概念论文直接给出定义。","support_role":"supports"}]},
+      {"id":"r3plat-k2","statement":"平台化研究需要同时处理技术、市场与治理，不能只分析界面功能或用户行为。","evidence_status":"interpretive","evidence":[{"source_id":"S087","locator":"definition and app-store example","support_note":"定义的三部分结构支持跨层次分析要求。","support_role":"supports"}]}
+    ],
+    "limits_or_debates":[{"id":"r3plat-l1","statement":"不同国家、行业和平台的制度路径不同，‘平台逻辑’不能被写成无差别的全球单一力量。","evidence_status":"interpretive","evidence":[{"source_id":"S087","locator":"full concept article","support_note":"论文把平台化用于具体部门与文化实践，支持情境化比较。","support_role":"qualifies"}]}],
+    "area_memberships":[{"area_id":"media_society","is_primary":true,"rationale":"平台化重组产业、制度和社会领域。"},{"area_id":"digital_ai","is_primary":false,"rationale":"数据、算法与平台基础设施彼此联动。"}],
+    "learning_resources":[{"title":"Platformisation","source_id":"S087","purpose":"用基础设施—市场—治理三层框架分析一个具体平台。","level":"intermediate","locator":"full text"}],
+    "learning_links":[{"target_id":"r3-media-industries","reason":"先掌握生产、分发和商业模式。","sequence_hint":"before"},{"target_id":"r7-platform-governance","reason":"进一步分析规则、问责与公共价值。","sequence_hint":"after"},{"target_id":"r7-datafication","reason":"理解平台如何把活动转为可计算数据。","sequence_hint":"after"}],
+    "temporal_profile":"evolving","as_of":"2026-09-11","last_evidence_check":"2026-09-11","next_review_due":"2027-03-01","controversy_status":"contested","controversy_note":"平台概念、地区差异、基础设施权力与监管边界持续变化。","review_status":"ready_for_review","created_at":"2026-09-11","updated_at":"2026-09-11","reviewed_at":null
+  },
+  {
+    "id":"r4-persuasion","slug":"persuasion-attitude-change","record_level":"complete","type":"research_topic","subtype":null,"name_zh":"说服与态度改变","name_original":"Persuasion and attitude change","aliases":[],
+    "summary":"说服与态度改变研究信息如何在来源、内容、受众和情境条件下改变评价、信念、意向或行为。双加工模型强调，同一线索在不同动机和处理能力下可能通过不同机制起作用。",
+    "why_it_matters":"它让学生超越‘哪个话术最有效’，转而明确态度对象、处理过程、测量时间、行为转化与伦理边界。",
+    "key_points":[
+      {"id":"r4per-k1","statement":"说服研究长期考察来源、信息和受众特征如何影响态度改变。","evidence_status":"direct","evidence":[{"source_id":"S088","locator":"abstract, early persuasion variables","support_note":"综述摘要直接列出三类变量。","support_role":"supports"}]},
+      {"id":"r4per-k2","statement":"ELM等双加工模型把受众思考动机和能力视为决定信息特征如何改变态度的重要条件。","evidence_status":"direct","evidence":[{"source_id":"S088","locator":"abstract, ELM discussion","support_note":"综述直接概括模型的条件性主张。","support_role":"supports"}]}
+    ],
+    "limits_or_debates":[{"id":"r4per-l1","statement":"态度变化不自动等于行为变化；短期实验中的说服结果也未必在现实环境持续。","evidence_status":"interpretive","evidence":[{"source_id":"S088","locator":"abstract, attitudes and conditions","support_note":"来源聚焦态度及条件，本条明确结果层次和外推边界。","support_role":"qualifies"}]}],
+    "area_memberships":[{"area_id":"effects","is_primary":true,"rationale":"关注信息对评价、态度和行为的条件性影响。"},{"area_id":"meaning","is_primary":false,"rationale":"论证与修辞也影响受众解释。"}],
+    "learning_resources":[{"title":"Dual Process Models of Persuasion","source_id":"S088","purpose":"从条件和处理机制理解说服，而非背诵固定技巧。","level":"intermediate","locator":"abstract and model overview"}],
+    "learning_links":[{"target_id":"r2-rhetoric","reason":"比较修辞批评与经验效果研究。","sequence_hint":"compare"},{"target_id":"r8-experiment","reason":"理解说服效果的因果识别与外部效度。","sequence_hint":"after"}],
+    "temporal_profile":"relatively_stable","last_evidence_check":"2026-09-11","controversy_status":"contested","controversy_note":"加工路径、态度—行为关系、跨文化适用与数字个性化仍有争论。","review_status":"ready_for_review","created_at":"2026-09-11","updated_at":"2026-09-11","reviewed_at":null
+  },
+  {
+    "id":"r4-audience","slug":"audience-reception","record_level":"complete","type":"research_topic","subtype":null,"name_zh":"受众与接受研究","name_original":"Audience and reception studies","aliases":[],
+    "summary":"受众与接受研究考察人们为何、如何接触媒介并解释内容，以及媒介—受众关系的政治、文化和经济后果。它包含量化与质化、行为与文化等多种传统，不是单一‘主动受众论’。",
+    "why_it_matters":"它把受众从效果模型的终点变成有选择、解释和社会位置的行动者，同时保留平台、产业与权力对选择的限制。",
+    "key_points":[
+      {"id":"r4aud-k1","statement":"受众研究是多理论、多方法领域，共同关心受众如何以及为何与媒介互动。","evidence_status":"direct","evidence":[{"source_id":"S089","locator":"Introduction extract","support_note":"Oxford导论直接界定领域范围。","support_role":"supports"}]},
+      {"id":"r4aud-k2","statement":"它与媒介效果研究相邻但不同：受众研究更广泛处理媒介—受众关系及政治、文化和经济含义。","evidence_status":"direct","evidence":[{"source_id":"S089","locator":"Introduction extract, distinction from media effects","support_note":"导论直接作出领域区分。","support_role":"supports"}]}
+    ],
+    "limits_or_debates":[{"id":"r4aud-l1","statement":"强调受众能动性不能忽略平台可见性、经济资源、社会身份与制度环境对选择和解释的限制。","evidence_status":"interpretive","evidence":[{"source_id":"S089","locator":"debates on oppositional interpretation and political-economic implications","support_note":"导论呈现能动性争论与更广结构含义。","support_role":"qualifies"}]}],
+    "area_memberships":[{"area_id":"effects","is_primary":true,"rationale":"与媒介使用和结果相邻，同时强调选择与解释。"},{"area_id":"meaning","is_primary":false,"rationale":"接受研究关注意义如何被情境化理解。"}],
+    "learning_resources":[{"title":"Audience Studies","source_id":"S089","purpose":"先认识领域多样性及其与效果研究的边界。","level":"introductory","locator":"Introduction"}],
+    "learning_links":[{"target_id":"r4-uses-gratifications","reason":"进入受众需求与媒介选择。","sequence_hint":"after"},{"target_id":"r2-encoding-decoding","reason":"进入意义生产与接受位置。","sequence_hint":"after"},{"target_id":"r4-effects","reason":"比较受众关系研究与效果传统。","sequence_hint":"compare"}],
+    "temporal_profile":"relatively_stable","last_evidence_check":"2026-09-11","controversy_status":"contested","controversy_note":"能动性与结构、质化与量化以及受众定义长期存在分歧。","review_status":"ready_for_review","created_at":"2026-09-11","updated_at":"2026-09-11","reviewed_at":null
+  },
+  {
+    "id":"r4-info-disorder","slug":"information-disorder-polarization-trust","record_level":"complete","type":"research_topic","subtype":null,"name_zh":"虚假信息、极化与信任","name_original":"Information disorder, polarization and trust","aliases":[],
+    "summary":"该主题研究错误、欺骗或伤害性信息如何被生产、分发、解释与治理，以及它们同群体极化、制度信任和平台环境的关系。‘假新闻’不是足以覆盖全部现象的精确总称。",
+    "why_it_matters":"它帮助学生区分内容真假、传播者意图、伤害方式和受众解释，避免把复杂信息生态化约成真假二分或单一平台问题。",
+    "key_points":[
+      {"id":"r4id-k1","statement":"Council of Europe报告区分错误信息、虚假信息与恶意信息，以分别处理虚假性、欺骗意图和伤害。","evidence_status":"direct","evidence":[{"source_id":"S090","locator":"executive summary and conceptual framework","support_note":"官方报告直接提出三分框架。","support_role":"supports"}]},
+      {"id":"r4id-k2","statement":"信息失序研究需要同时考察行动者、信息本身和解释者，而不能只做内容真假识别。","evidence_status":"direct","evidence":[{"source_id":"S090","locator":"three elements and phases framework","support_note":"报告明确提出agent、message、interpreter及创造—生产—分发阶段。","support_role":"supports"}]}
+    ],
+    "limits_or_debates":[{"id":"r4id-l1","statement":"错误信息、极化和信任彼此相关但不是同一变量；关于因果方向和平台效应必须依靠具体设计。","evidence_status":"interpretive","evidence":[{"source_id":"S090","locator":"interdisciplinary framework and recommendations","support_note":"报告把问题拆为多要素与多阶段，据此限制概念合并。","support_role":"qualifies"}]}],
+    "area_memberships":[{"area_id":"effects","is_primary":true,"rationale":"研究信息暴露、认知、态度、行为与信任后果。"},{"area_id":"digital_ai","is_primary":false,"rationale":"平台分发与生成式AI改变生产和扩散条件。"}],
+    "learning_resources":[{"title":"Information Disorder","source_id":"S090","purpose":"用三类信息、三要素和三阶段建立研究问题。","level":"introductory","locator":"executive summary and framework"}],
+    "learning_links":[{"target_id":"r2-framing","reason":"分析问题如何被选择和组织，不把框架等同于虚假。","sequence_hint":"compare"},{"target_id":"r7-integrity","reason":"进入信息生态韧性与合成媒体治理。","sequence_hint":"after"},{"target_id":"r8-computational","reason":"理解大规模检测与传播分析的方法及偏差。","sequence_hint":"after"}],
+    "temporal_profile":"evolving","as_of":"2026-09-11","last_evidence_check":"2026-09-11","next_review_due":"2027-03-01","controversy_status":"contested","controversy_note":"定义、意图测量、平台因果、干预效果与言论权利持续争论。","review_status":"ready_for_review","created_at":"2026-09-11","updated_at":"2026-09-11","reviewed_at":null
+  }
+]

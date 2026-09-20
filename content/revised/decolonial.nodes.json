@@ -1,0 +1,258 @@
+[
+  {
+    "id": "r6-decolonial",
+    "slug": "r6-decolonial",
+    "record_level": "complete",
+    "type": "tradition",
+    "subtype": null,
+    "name_zh": "后殖民与去殖民传播",
+    "name_original": "Postcolonial and decolonial communication",
+    "aliases": [
+      {
+        "name": "传播学去西方化",
+        "kind": "common_name",
+        "note": "去西方化与后殖民、去殖民路径有重叠，但关注重点和历史语境不完全相同，不作严格同义词使用。"
+      }
+    ],
+    "summary": "后殖民与去殖民传播是一组相互交叉、内部多样且仍在发展的批判性研究传统，不是一个拥有单一命题的理论。它把殖民史、当代传播结构与学术知识生产联系起来，追问谁的经验、概念、语言和方法被当作普遍标准，以及如何让地方、原住民和边缘化知识作为理论与问题来源进入传播研究。",
+    "why_it_matters": "它帮助学生在使用经典理论时同时检查知识生产位置、历史条件和外推边界，并把媒介制度、表征、发展话语与全球学术资源的不平等放在同一问题链中。这并不意味着凡是西方来源的理论都无效，而是要求用具体情境、本地历史与多地证据检验其解释力。",
+    "central_questions": [
+      "殖民统治、奴隶制、帝国关系和形式独立后的制度遗产如何影响媒介结构、表征与传播概念？",
+      "传播理论的概念、样本、方法、语言和发表规则在何种知识生产位置中形成，又如何被普遍化？",
+      "如何在引入地方、原住民和全球南方知识时，避免把“西方”或“非西方”各自想象成纯粹、固定、同质的整体？"
+    ],
+    "internal_differences": [
+      {
+        "id": "r6-decolonial-i1",
+        "statement": "去西方化、后殖民与去殖民的关注重点不完全相同：去西方化主要反思欧美中心的概念、证据和学术结构；后殖民路径常分析表征、离散、混杂性与殖民历史；去殖民路径更直接追问形式独立后仍持续的制度、资源与认识权力。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "D02",
+            "locator": "PDF pp. 2–6，“Why to De-Westernize and Decolonize Media Studies”与“The Foundations of the Decolonization Discourse”",
+            "support_note": "全文分别交代去西方化的欧美中心批评、去殖民的制度与认识遗产，以及后殖民路径对表征、混杂性和离散叙事的关注；三分法是编辑性概括。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r6-decolonial-i2",
+        "statement": "去西方化可以从研究对象、证据范围、理论与方法框架、学术文化四个层面推进；不同方案对“应扩展多地证据、重建概念，还是改变知识生产制度”的回答并不一致。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "D01",
+            "locator": "pp. 363–370，“What to de-westernize?”至结论前",
+            "support_note": "全文依次展开 subject of study、body of evidence、theoretical perspectives 与 academic cultures 四个维度，并说明它们可导向不同的研究重心。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r6-decolonial-i3",
+        "statement": "“全球南方”、“非西方”与各大洲都不是单一知识共同体；区域内部的语言、宗教、阶级、性别、种族、国家历史和学术制度差异必须另行分析。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "D01",
+            "locator": "pp. 367–368，关于二元化、本质主义与地缘文化标签的讨论",
+            "support_note": "作者直接质疑把“西方”与“非西方”组织为同质对立，并特别指出非洲、亚洲文化及宗教解释的异质性。",
+            "support_role": "supports"
+          },
+          {
+            "source_id": "D02",
+            "locator": "PDF pp. 8、13–14，去西方化批评与“Africa: Ubuntuism, Afriethics, Oramedia”开头",
+            "support_note": "综述明确指出西方和非西方社会都非同质整体，并以非洲的语言、信仰、生活方式与区域分类差异作为具体限定。",
+            "support_role": "supports"
+          }
+        ]
+      }
+    ],
+    "naming_boundary": "本知识点是 COMMPASS 为教学导航将后殖民、去殖民与去西方化讨论放在一起的伞形入口，不是学界公认的单一理论、学派或地理分类。“后殖民”不意味着殖民权力已经结束；“去殖民”也不等于删除全部西方理论。“全球南方”在此主要标记权力与知识生产位置，不是对国家、大洲或文化的同质化名单。",
+    "key_points": [
+      {
+        "id": "r6-decolonial-k1",
+        "statement": "这一传统首先要反思知识从哪里生产：研究对象与问题会受学者所在社会和学术制度影响，因此被主流理论忽略的地方现实和历史应成为概念与研究问题的来源。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "D01",
+            "locator": "pp. 363–364，“The subject of study”",
+            "support_note": "作者直接说明分析对象与研究问题反映知识生产所在社会，并主张把西方研究视野之外的议题纳入传播学。",
+            "support_role": "supports"
+          },
+          {
+            "source_id": "D03",
+            "locator": "Abstract",
+            "support_note": "Willems 以非洲媒介与传播研究史为例，指出知识生产受特定社会、政治与经济利益驱动和约束，并批评后来的“国际化／去西方化”叙事遮蔽更早的非西方学术谱系。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r6-decolonial-k2",
+        "statement": "只从少数地点或社会情境产生的论据，不应未经检验就作为普遍规律；多地证据的作用不是“补国家名单”，而是检验概念和论证能否跨情境成立。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "D01",
+            "locator": "pp. 364–365，“The body of evidence”",
+            "support_note": "作者直接要求以不同设置的证据检验普遍化主张，并说明只有国别合集而没有共同问题与比较分析，不等于去西方化。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r6-decolonial-k3",
+        "statement": "传播与媒介的当代结构需要放回殖民与后殖民历史中理解：形式上的政治独立并不自动清除旧有制度、知识分类和不平等的延续影响。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "D02",
+            "locator": "PDF pp. 2–6，去殖民概述、历史基础及媒介结构讨论",
+            "support_note": "综述明确区分政治独立与制度、知识遗产的持续，并主张以殖民历史和不平等权力关系解释媒介结构与表征。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r6-decolonial-k4",
+        "statement": "去殖民不只是更换书目或增加案例；它还要检查谁能发表、何种语言被重视、谁拥有研究资源，以及全球南方是否只被当作验证北方理论的案例产地。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "D02",
+            "locator": "PDF pp. 17–21，“Access to Resources and Networks”、“Publishing and the Politics of Citing”及结论",
+            "support_note": "全文具体讨论资源、会议、语言、出版与引证不平等，并批评把非西方设置仅当作验证西方概念的案例。",
+            "support_role": "supports"
+          }
+        ]
+      }
+    ],
+    "limits_or_debates": [
+      {
+        "id": "r6-decolonial-l1",
+        "statement": "把所有“西方理论”或所有“非西方知识”视为统一、纯粹而不变的整体，会以新的地域本质主义重复旧有二分法。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "D01",
+            "locator": "pp. 366–368，对 essentialism、Western/non-Western binary 与地域性知识的批评",
+            "support_note": "作者直接警告去西方化可能把多样思想漫画成两个同质阵营，并主张以混杂、开放和动态的知识观取代纯粹地域边界。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r6-decolonial-l2",
+        "statement": "增加非西方作者、国别个案或英语译本只是可能的起点；若研究问题、比较设计、概念权力和学术基础设施不变，纳入更多案例仍可与主流理论平行分隔。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "D01",
+            "locator": "pp. 364–365、369–370，国别“world tours”批评与结论",
+            "support_note": "作者直接说明多国案例的并置不自动构成去西方化，并警告它可能只成为与主流领域隔离的新专题。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r6-decolonial-l3",
+        "statement": "以全球南方为名只聚焦中国、印度、南非等地区强国，或让精英机构代表全部社群，会再次遮蔽区域内部的边缘人群与权力差异。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "D02",
+            "locator": "PDF pp. 19–20，结论对新兴强国、贫困行动者与知识来源的讨论",
+            "support_note": "综述明确警告只研究中国、印度或南非等强大行动者会重复忽略弱势者的旧问题。",
+            "support_role": "supports"
+          }
+        ]
+      }
+    ],
+    "area_memberships": [
+      {
+        "area_id": "power_culture",
+        "is_primary": true,
+        "rationale": "核心问题是殖民性、代表权、知识等级与文化差异如何进入传播。"
+      },
+      {
+        "area_id": "meaning",
+        "is_primary": false,
+        "rationale": "后殖民分析关注表征、命名、混杂性与边缘主体如何生产意义。"
+      },
+      {
+        "area_id": "media_society",
+        "is_primary": false,
+        "rationale": "殖民史与后殖民制度遗产是理解媒介结构、跨境流动与全球不平等的重要条件。"
+      },
+      {
+        "area_id": "research_application",
+        "is_primary": false,
+        "rationale": "这一传统直接要求检查研究问题、样本、方法、语言、引证与发表制度的权力后果。"
+      }
+    ],
+    "learning_resources": [
+      {
+        "title": "De-westernizing Communication Studies: A Reassessment",
+        "source_id": "D01",
+        "purpose": "用四个维度理解去西方化并学会检验外推，同时阅读对二元化和本质主义的自我批评。",
+        "level": "introductory",
+        "locator": "pp. 363–370"
+      },
+      {
+        "title": "De-Westernization and Decolonization in Media Studies",
+        "source_id": "D02",
+        "purpose": "比较去西方化、后殖民与去殖民的历史和问题范围，再阅读各区域案例及学术基础设施争议。",
+        "level": "intermediate",
+        "locator": "PDF pp. 2–8、13–21"
+      },
+      {
+        "title": "Provincializing Hegemonic Histories of Media and Communication Studies: Toward a Genealogy of Epistemic Resistance in Africa",
+        "source_id": "D03",
+        "purpose": "从非洲媒介与传播学的历史切入，反思谁被写入学科起源及知识生产如何受权力条件限制；本轮只核到摘要，详读前应获取正文。",
+        "level": "advanced",
+        "locator": "Abstract；正文页码 415–434 待读"
+      },
+      {
+        "title": "Undergraduate Courses",
+        "source_id": "G09",
+        "purpose": "观察开普敦大学影视与媒介研究中心如何把南非媒介、非洲电影、媒介与权力放入本科课程；课程列表只证明教学位置，不用来证明理论命题。",
+        "level": "introductory",
+        "locator": "页面“Undergraduate Courses”：FAM2003S、FAM3000F、FAM3005F"
+      }
+    ],
+    "learning_links": [
+      {
+        "target_id": "r6-cultural-studies",
+        "reason": "先比较文化研究中的表征、霸权与离散问题，再辨认后殖民和去殖民路径对殖民史与知识制度的额外追问。",
+        "sequence_hint": "before"
+      },
+      {
+        "target_id": "r6-race",
+        "reason": "继续学习殖民种族分类如何在媒介表征、国家叙事和平台可见性中延续或遭到挑战。",
+        "sequence_hint": "after"
+      },
+      {
+        "target_id": "r6-social-change",
+        "reason": "把去殖民的知识批判带入发展传播、参与、社会变迁与全球权力关系的具体讨论。",
+        "sequence_hint": "after"
+      },
+      {
+        "target_id": "r8-interpretive-methods",
+        "reason": "进一步检查档案、话语、视觉与文本分析如何选择材料、处理翻译并反思研究者位置。",
+        "sequence_hint": "after"
+      }
+    ],
+    "temporal_profile": "evolving",
+    "as_of": "2026-09-11",
+    "last_evidence_check": "2026-09-11",
+    "next_review_due": "2027-03-11",
+    "controversy_status": "contested",
+    "controversy_note": "争议包括去西方化、后殖民与去殖民的术语边界，是优先扩充样本、重建概念还是改造学术制度，以及如何避免反欧美中心论滑向新的文化本质主义。",
+    "review_status": "ready_for_review",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-11",
+    "reviewed_at": null
+  }
+]

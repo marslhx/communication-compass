@@ -1,0 +1,44 @@
+[
+  {
+    "id": "P01",
+    "source_type": "primary_scholarship",
+    "title": "Morphing McLuhan: Medium Theory for a New Millennium",
+    "authors_or_organization": ["Joshua Meyrowitz"],
+    "year": 2001,
+    "publisher_or_venue": "Proceedings of the Media Ecology Association, Volume 2, pp. 8–22",
+    "doi": null,
+    "url": "https://www.media-ecology.net/publications/MEA_proceedings/v2/Meyrowitz02.pdf",
+    "language": "en",
+    "accessed_at": "2026-09-14",
+    "access_status": "excerpt",
+    "bibliographic_note": "学会官方托管15页原文；首页标明2001年6月15–16日第二届MEA年会主题演讲，页眉为Volume 2, 2001，版权行另为2001–2006。本轮核读印刷pp.8–10、17–20；关系只依pp.8–10与20。作者直接说明McLuhan的媒介形式取向与medium theory的关联，并主张超越单一作者；不是以参考文献共现推导谱系。只保留链接与概述，不再发布PDF。"
+  },
+  {
+    "id": "P02",
+    "source_type": "primary_scholarship",
+    "title": "A ‘Hotbed’ of Digital Empowerment? Media Criticism in Kenya Between Playful Engagement and Co-Option",
+    "authors_or_organization": ["Toussaint Nothias", "David Cheruiyot"],
+    "year": 2019,
+    "publisher_or_venue": "International Journal of Communication, 13, pp. 136–159",
+    "doi": null,
+    "url": "https://ijoc.org/index.php/ijoc/article/download/8847/2526/35595",
+    "language": "en",
+    "accessed_at": "2026-09-14",
+    "access_status": "excerpt",
+    "bibliographic_note": "期刊官方开放PDF24页；本轮核读pp.136–143、151–154。p.142交代殖民根源的种族化媒介叙事，p.151明确联系postcolonial critique，pp.153–154讨论肯尼亚受众反叙事与本地权力的双重性。只用于该案例所展示的研究关系，不概括整个非洲或全部去殖民路径。期刊卷年为2019，未采用首页疑似遗留的Copyright 2010年份；PDF标明CC BY-NC-ND，项目不镜像或改写发布原文。"
+  },
+  {
+    "id": "P03",
+    "source_type": "primary_scholarship",
+    "title": "From Platform Capitalism to Digital China: The Path, Governance, and Geopolitics",
+    "authors_or_organization": ["Jingyan Elaine Yuan", "Lin Zhang"],
+    "year": 2025,
+    "publisher_or_venue": "Social Media + Society, 11(1), pp. 1–9",
+    "doi": "10.1177/20563051251323030",
+    "url": "https://journals.sagepub.com/doi/pdf/10.1177/20563051251323030",
+    "language": "en",
+    "accessed_at": "2026-09-14",
+    "access_status": "excerpt",
+    "bibliographic_note": "SAGE官方9页PDF及作者网站副本均实际可打开；本轮定点核读pp.1、4–5、7。作为特刊导论的原始问题建构，明确以政治经济取向分析中国平台治理中的国家、资本、劳动及制度关系；不是独立效果评估或当前法规状态证明。PDF标明CC BY-NC 4.0；作者副本：https://linzhangweb.org/wp-content/uploads/2025/04/yuan-and-zhang-2025-from-platform-capitalism-to-digital-china-the-path-governance-and-geopolitics.pdf。"
+  }
+]

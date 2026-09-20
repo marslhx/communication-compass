@@ -1,0 +1,443 @@
+[
+  {
+    "id": "r8-content-analysis",
+    "slug": "content-analysis",
+    "record_level": "complete",
+    "type": "method",
+    "subtype": null,
+    "name_zh": "内容分析",
+    "name_original": "Content analysis",
+    "aliases": [
+      {
+        "name": "内容分析法",
+        "kind": "common_name",
+        "note": null
+      }
+    ],
+    "summary": "内容分析依据明确研究问题，对传播材料进行取样、单元化、编码并作有限推论。人工与自动化是可组合的执行方式；解释型文本研究是相邻方法取向。G20 目录与 S021 官方摘要、目录只闭合了步骤骨架；下列 data_requirements 与 typical_procedure 是据此扩展的编辑性练习安排，具体细则出处仍待核对，不能显示为原著已经核实的统一流程。",
+    "why_it_matters": "内容分析把“我觉得媒体经常这样说”转化为可检查的材料、单位、类别与推论。学生需要同时说明抽样、测量、多人编码时的一致性、效度和语境边界，并判断自动化分类是否真正测到了研究概念。",
+    "key_points": [
+      {
+        "id": "r8-content-analysis-k1",
+        "statement": "SAGE 的第四版书目将内容分析的方法逻辑联系到把传播视为社会使用语境中的文本并作解释；该书具体定义与程序仍待正文复核。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "G20",
+            "locator": "SAGE 第四版书目与内容简介",
+            "support_note": "出版社页面支持文本、传播和社会使用语境的方法范围，但不支持未核读的章节细节。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r8-content-analysis-k2",
+        "statement": "G20 的目录把单元化、抽样、记录／编码、可靠性和效度列为方法结构；S021 的官方摘要与目录依次列出建立编码框架、划分单位、试用和评估编码框架以及主编码。两者只支持步骤骨架，不证明所有研究须机械遵循同一顺序。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "G20",
+            "locator": "目录 Chapters 5–7、12–14；SAGE 术语索引 5.3、12.2.3 及 Chapters 6–7",
+            "support_note": "目录与术语索引支持单元化、抽样、记录／编码及评估的章节骨架，不代替逐页操作细则。",
+            "support_role": "supports"
+          },
+          {
+            "source_id": "S021",
+            "locator": "SAGE 官方摘要；目录 Chapters 4、7–10；预览起页 58、126、146、166、194",
+            "support_note": "官方摘要与目录支持质性内容分析从编码框架到主编码的步骤骨架，不证明统一固定顺序。",
+            "support_role": "supports"
+          },
+          {
+            "source_id": "Q343",
+            "locator": "pp. 1、14–18，Abstract、Best Practices 与 Conclusion",
+            "support_note": "作者上传的全文直接把内容分析的可复现报告、抽样与编码实践列为方法问题，并以可评估、可复制为报告要求；这补强步骤与报告层，不把建议写成所有设计必须遵循的固定顺序。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r8-content-analysis-k3",
+        "statement": "多人独立作出分类编码判断时，应评估并报告编码者间一致性；指标选择须结合变量和研究设计，不设脱离情境、适用于所有研究的统一指标或合格阈值。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "G25",
+            "locator": "期刊正式摘要；作者配套说明 Sections 2、4、5",
+            "support_note": "正式摘要支持一致性的评估与报告；作者配套说明支持多名独立编码者、依变量选择指标及不存在通用指标或阈值。未声称已核期刊全文页码。",
+            "support_role": "supports"
+          },
+          {
+            "source_id": "Q343",
+            "locator": "pp. 13–17，Best Practices B3–B11",
+            "support_note": "全文直接讨论多人独立编码、逐变量一致性检查、样本说明、编码过程与结果报告。该文作者提出具体建议；“无普适指标或阈值”的较强限定仍仅由既有 G25 配套说明承担。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r8-content-analysis-k4",
+        "statement": "自动内容分析综述把词典法、监督学习和无监督学习列为数字新闻研究的主要工具类型。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S022",
+            "locator": "Abstract",
+            "support_note": "摘要直接概括自动内容分析工具，并按词典、监督与无监督路径组织综述。",
+            "support_role": "supports"
+          },
+          {
+            "source_id": "Q343",
+            "locator": "pp. 10–12、18，algorithmic text analysis 与 ATA as a Complementary Method",
+            "support_note": "全文直接说明自动文本分析的数据清理、验证与算法公开要求，并将其与人工编码的过程差异区分；词典、监督与无监督三类工具的具体分类仍只由 S022 摘要支持。",
+            "support_role": "supports"
+          }
+        ]
+      }
+    ],
+    "limits_or_debates": [
+      {
+        "id": "r8-content-analysis-l1",
+        "statement": "编码者间一致性只适用于存在多名编码者且需比较分类判断的设计；它是质量信息，但高一致性不自动证明分类有效或理论解释正确。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "G25",
+            "locator": "期刊正式摘要；作者配套说明 Sections 2、4、5",
+            "support_note": "摘要支持一致性的评估与报告，作者配套说明把 reliability 与 validity 区分；此处仍以 qualifies 标记方法边界，未声称核读期刊全文。",
+            "support_role": "qualifies"
+          }
+        ]
+      },
+      {
+        "id": "r8-content-analysis-l2",
+        "statement": "只统计显性词项可能遗漏反讽、隐喻、视觉语法和语境意义；单位与语境设定会限制可作出的推论。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "G20",
+            "locator": "SAGE 第四版书目与内容简介",
+            "support_note": "来源支持文本—语境推论的重要性；具体例子是用于说明边界的编辑展开。",
+            "support_role": "qualifies"
+          }
+        ]
+      },
+      {
+        "id": "r8-content-analysis-l3",
+        "statement": "自动化扩大处理规模，不自动带来解释力；数据、预处理、词典或模型、训练与验证范围需要透明记录。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "S022",
+            "locator": "Abstract",
+            "support_note": "摘要支持自动化工具和规模问题；透明记录与验证要求是防止过度推论的编辑规范。",
+            "support_role": "qualifies"
+          }
+        ]
+      },
+      {
+        "id": "r8-content-analysis-l4",
+        "statement": "内容材料可以描述表达和表征，却通常不能单独证明受众效果、生产者意图或因果机制。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "G20",
+            "locator": "SAGE 第四版书目所列文本—语境推论范围",
+            "support_note": "从方法对象与推论范围区分内容证据和效果、意图或因果证据，是编辑限定。",
+            "support_role": "qualifies"
+          }
+        ]
+      }
+    ],
+    "area_memberships": [
+      {
+        "area_id": "research_application",
+        "is_primary": true,
+        "rationale": "这是把传播问题转化为系统材料分析的研究方法。"
+      },
+      {
+        "area_id": "meaning",
+        "is_primary": false,
+        "rationale": "编码类别与语境推论涉及表征和意义，但不替代解释型细读。"
+      },
+      {
+        "area_id": "effects",
+        "is_primary": false,
+        "rationale": "内容特征可描述刺激或信息材料，但内容分析本身通常不能证明效果。"
+      },
+      {
+        "area_id": "digital_ai",
+        "is_primary": false,
+        "rationale": "自动内容分析可处理大规模数字材料并使用机器学习工具。"
+      }
+    ],
+    "learning_resources": [
+      {
+        "title": "Content Analysis: An Introduction to Its Methodology, Fourth Edition",
+        "source_id": "G20",
+        "purpose": "先按文本—语境—推论理解方法逻辑；具体程序须在取得正文后学习。",
+        "level": "intermediate",
+        "locator": "当前为 SAGE 书目入口；预定核读 Chapter 2.1"
+      },
+      {
+        "title": "Qualitative Content Analysis in Practice",
+        "source_id": "S021",
+        "purpose": "依据官方摘要与目录了解编码框架、分段、试编码、评估与主编码的步骤骨架；细节仍待正文。",
+        "level": "intermediate",
+        "locator": "SAGE 官方摘要；目录 Chapters 4、7–10；预览起页 58、126、146、166、194"
+      },
+      {
+        "title": "Taking Stock of the Toolkit",
+        "source_id": "S022",
+        "purpose": "比较词典、监督学习与无监督学习在数字新闻研究中的用途。",
+        "level": "intermediate",
+        "locator": "Abstract；具体工具部分待取得全文"
+      },
+      {
+        "title": "Social Data: Biases, Methodological Pitfalls, and Ethical Boundaries",
+        "source_id": "H02",
+        "purpose": "检查平台语料的总体覆盖、时间流失及采集查询偏差，并据此限定研究推论。",
+        "level": "intermediate",
+        "locator": "§3.2、§3.6、§5.1、§5.2；本轮为定点正文核读"
+      },
+      {
+        "title": "Issues and Best Practices in Content Analysis",
+        "source_id": "Q343",
+        "purpose": "核读抽样、人工编码一致性检查、自动文本分析验证和可复现报告的具体建议；这是作者团队的最佳实践，不是全领域唯一阈值或程序。",
+        "level": "advanced",
+        "locator": "pp. 1、10–12、13–18"
+      }
+    ],
+    "learning_links": [
+      {
+        "target_id": "r8-interpretive-methods",
+        "reason": "比较规则化编码与语境化细读的推论逻辑；二者可组合，但不是同一方法内部的并列类型。",
+        "sequence_hint": "compare"
+      },
+      {
+        "target_id": "r8-computational",
+        "reason": "把自动内容分析作为计算传播方法簇中的一条路径学习，不把整个计算传播写成内容分析的后继。",
+        "sequence_hint": "after"
+      },
+      {
+        "target_id": "r5-journalism",
+        "reason": "在新闻材料中练习抽样、分类和有限推论，并核对所能回答的问题。",
+        "sequence_hint": "after"
+      }
+    ],
+    "temporal_profile": "relatively_stable",
+    "as_of": null,
+    "last_evidence_check": "2026-09-15",
+    "next_review_due": null,
+    "controversy_status": "contested",
+    "controversy_note": "争议主要涉及定量与质性边界、显性与潜在意义、可靠性与效度的区分，以及自动化扩大规模是否牺牲语境解释。",
+    "suitable_questions": [
+      "某类媒体在给定时期如何呈现人物、议题、责任、情绪或立场？",
+      "不同媒体、平台、国家或时期的内容特征是否存在可描述、可比较的差异？",
+      "大规模数字文本中有哪些可验证的词汇、主题、分类或关系模式？"
+    ],
+    "data_requirements": [
+      "与研究总体和时间范围相匹配、来源与采集规则可追溯的传播材料。",
+      "明确抽样单位、编码单位和语境单位；必要时保存版本、链接、时间戳与去重记录。",
+      "可执行的编码框架或代码本以及训练或试编码材料；自动化路径还需记录词典、标注集、模型版本与验证集。",
+      "涉及人员、平台数据或受限内容时，说明研究伦理、使用条款与数据保护边界。"
+    ],
+    "typical_procedure": [
+      "把概念性问题转成可由传播材料回答的研究问题，并界定总体、时期和语境。",
+      "制定抽样方案，区分抽样单位、编码单位和语境单位，保存纳入与排除规则。",
+      "建立理论驱动、资料驱动或混合编码框架，明确类别定义、例子与边界。",
+      "试编码并修订代码本；多人分类编码时评估并报告编码者间一致性。",
+      "完成人工编码，或训练和应用自动化方法并记录验证范围、版本与错误分析。",
+      "把结果放回传播语境作有限推论，报告抽样、测量、可靠性、效度与可复现限制。"
+    ],
+    "limitations": [
+      {
+        "id": "r8-content-analysis-method-l1",
+        "statement": "人工与自动化是执行方式，质性内容分析是一种规则化分析路径；不能把它们与解释型文本研究混成同层的三种内容分析。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "S021",
+            "locator": "书目所列编码框架、分段、试编码与主分析章节；正文待核",
+            "support_note": "来源目录显示质性内容分析也有系统编码流程；分类层级是编辑整理。",
+            "support_role": "qualifies"
+          },
+          {
+            "source_id": "S022",
+            "locator": "Abstract",
+            "support_note": "来源支持自动内容分析的工具路径；不把工具方式等同于完整认识论分类。",
+            "support_role": "qualifies"
+          }
+        ]
+      },
+      {
+        "id": "r8-content-analysis-method-l2",
+        "statement": "平台 API 的获取限制、查询与排序规则，以及删除、隐私设置和资料随时间流失，会改变研究者可取得的语料；据此，无法说明样本覆盖哪个总体时，应限制概括范围。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "H02",
+            "locator": "§3.2 Population Biases；§3.6 Temporal Biases 末段；§5.1 Data Acquisition；§5.2 Data Querying",
+            "support_note": "已核正文分别讨论总体代表性、删除与重建缺口、API获取限制和查询选择偏差。末句为据这些偏差对外部效度的影响作出的教学建议；不据2019综述声称某平台2026年的具体接口规则。",
+            "support_role": "qualifies"
+          }
+        ]
+      }
+    ],
+    "review_status": "ready_for_review",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-15",
+    "reviewed_at": null,
+    "current_evidence_state": "截至 2026-09-15，Q343 是作者上传且可读取的完整方法论文，定点核读其 pp. 1、10–12、14–18，直接支持内容分析的可复现报告、人工编码一致性检查和自动文本分析的验证／透明度要求。它提供的是作者团队的最佳实践建议而非全领域唯一程序；G20、G25、S021 与 S022 的既有元数据／摘要来源仍不因本篇而升级。"
+  },
+  {
+    "id": "r4-media-dependency",
+    "slug": "media-system-dependency",
+    "record_level": "complete",
+    "type": "theory_model",
+    "subtype": "media_effects_theory",
+    "name_zh": "媒介系统依赖理论",
+    "name_original": "Media System Dependency Theory",
+    "aliases": [
+      {
+        "name": "媒介依赖理论",
+        "kind": "common_name",
+        "note": "易与个人使用成瘾混淆；本知识点强调系统关系。"
+      }
+    ],
+    "summary": "媒介系统依赖理论将媒介效果放进受众、媒介与社会的三元关系中：人们越依赖某媒介的信息资源实现目标，该媒介影响认知、情感或行为的潜力越大。",
+    "why_it_matters": "它把个人需求、媒介资源控制与社会变动连在一起，特别适合思考危机、冲突和快速变迁时的信息依赖。",
+    "questions_explained": [
+      "媒介影响为何会随受众、媒介和社会关系而变？",
+      "社会变动或冲突为何可能增加信息依赖？"
+    ],
+    "propositions": [
+      {
+        "id": "msd-p1",
+        "statement": "媒介效果应由受众—媒介—社会的三元依赖关系来分析。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S125",
+            "locator": "Abstract",
+            "support_note": "原文摘要明确以 tripartite audience-media-society relationship 解释效果。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "msd-p2",
+        "statement": "当媒介承担更多核心信息功能，或社会快速变动、广泛冲突时，受众依赖可能更高。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S125",
+            "locator": "Abstract",
+            "support_note": "原文摘要直接列出信息功能、快速变动与普遍冲突这些条件。",
+            "support_role": "supports"
+          }
+        ]
+      }
+    ],
+    "conditions": [
+      "“依赖”指向目标与信息资源的关系，不等于使用时长或成瘾。",
+      "需同时说明社会情境、媒介系统和个人目标。"
+    ],
+    "key_points": [
+      {
+        "id": "msd-k1",
+        "statement": "依赖是一种关系性条件，不是媒介自身固有的效果强度。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S125",
+            "locator": "Abstract",
+            "support_note": "原文把依赖定义为受众对媒介信息资源的交互条件。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "msd-k2",
+        "statement": "理论跨越宏观社会结构和微观认知、情感、行为效果。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S125",
+            "locator": "Abstract",
+            "support_note": "摘要同时列出社会关系和 cognitive, affective, behavioral effects。",
+            "support_role": "supports"
+          }
+        ]
+      }
+    ],
+    "limits_or_debates": [
+      {
+        "id": "msd-l1",
+        "statement": "平台时代的信息资源由多个媒介、社群和算法分配，不能直接把经典“大众媒介”单一化。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "S125",
+            "locator": "Original mass-media scope",
+            "support_note": "原文的大众媒介范围支持将平台扩展标为需重新建模的问题。",
+            "support_role": "qualifies"
+          }
+        ]
+      }
+    ],
+    "area_memberships": [
+      {
+        "area_id": "media_society",
+        "is_primary": true,
+        "rationale": "将媒介效果定位于媒介与社会系统关系。"
+      },
+      {
+        "area_id": "effects",
+        "is_primary": false,
+        "rationale": "解释认知、情感与行为效果的条件。"
+      }
+    ],
+    "learning_resources": [
+      {
+        "title": "A Dependency Model of Mass-Media Effects",
+        "source_id": "S125",
+        "purpose": "核对三元关系、依赖条件和效果范围。",
+        "level": "intermediate",
+        "locator": "Abstract; pp. 3-21"
+      },
+      {
+        "title": "Communication Theories",
+        "source_id": "T001",
+        "purpose": "将依赖理论与使用与满足、效果研究对照。",
+        "level": "introductory",
+        "locator": "Dependency Theory 条目"
+      }
+    ],
+    "learning_links": [
+      {
+        "target_id": "p-sandra-ball-rokeach",
+        "reason": "了解依赖模型与传播网络研究的人物脉络。",
+        "sequence_hint": "after"
+      },
+      {
+        "target_id": "r3-media-systems",
+        "reason": "先建立媒介系统与社会机构的基本视角。",
+        "sequence_hint": "before"
+      },
+      {
+        "target_id": "r4-uses-gratifications",
+        "reason": "比较目标导向的媒介使用与关系性依赖。",
+        "sequence_hint": "compare"
+      }
+    ],
+    "temporal_profile": "relatively_stable",
+    "last_evidence_check": "2026-09-15",
+    "controversy_status": "contested",
+    "controversy_note": "数字平台下的多媒介依赖、算法中介与效果测量仍需另行建模。",
+    "review_status": "ready_for_review",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-15",
+    "reviewed_at": null,
+    "current_evidence_state": "截至 2026-09-15，S125 的出版者摘要仍直接支持三元受众—媒介—社会关系、信息资源依赖、社会变动／冲突条件及认知—情感—行为效果的理论概述。本轮检索到的原文网页为出版社预览，课程镜像又无法稳定打开；未能核验可定位、持续可访问的完整正文，故不以 Q344 重复登记或把摘要升级为全文。现有 S125 不能证明数字平台条件下的依赖强度、算法作用或实时效果。"
+  }
+]

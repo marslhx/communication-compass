@@ -1,0 +1,44 @@
+[
+  {
+    "id": "P222",
+    "source_type": "official_record",
+    "title": "Innis History",
+    "authors_or_organization": ["Innis College, University of Toronto"],
+    "year": null,
+    "publisher_or_venue": "University of Toronto",
+    "doi": null,
+    "url": "https://innis.utoronto.ca/about-innis/history/",
+    "language": "en",
+    "accessed_at": "2026-09-15",
+    "access_status": "full_text",
+    "bibliographic_note": "多伦多大学页面将Harold Innis定位为传播研究先驱，并记录其政治经济学身份及媒介与传播理论著作。"
+  },
+  {
+    "id": "P223",
+    "source_type": "scholarly_synthesis",
+    "title": "Theodor W. Adorno",
+    "authors_or_organization": ["Stanford Encyclopedia of Philosophy"],
+    "year": 2024,
+    "publisher_or_venue": "Metaphysics Research Lab, Stanford University",
+    "doi": null,
+    "url": "https://plato.stanford.edu/entries/adorno/",
+    "language": "en",
+    "accessed_at": "2026-09-15",
+    "access_status": "full_text",
+    "bibliographic_note": "学术哲学百科全文，用于阿多诺生平、与Lazarsfeld及Princeton Radio Project的联系，以及文化工业概念的范围和后续争论。"
+  },
+  {
+    "id": "P224",
+    "source_type": "primary_scholarship",
+    "title": "The Culture Industry: Enlightenment as Mass Deception",
+    "authors_or_organization": ["Theodor W. Adorno", "Max Horkheimer"],
+    "year": 1944,
+    "publisher_or_venue": "Chapter from Dialectic of Enlightenment; Marxists Internet Archive transcription",
+    "doi": null,
+    "url": "https://www.marxists.org/reference/archive/adorno/1944/culture-industry.htm",
+    "language": "en",
+    "accessed_at": "2026-09-15",
+    "access_status": "full_text",
+    "bibliographic_note": "可访问的章节转录，页面明示为《启蒙辩证法》相应章节的大部分；用于核对电影、广播、杂志的系统性及标准化、商品化批判，不代替正式版本的页码引用。"
+  }
+]

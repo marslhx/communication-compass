@@ -1,0 +1,28 @@
+{
+  "reviewed_at": "2026-09-11",
+  "reviewed_eligible": [
+    "r2-encoding-decoding",
+    "r3-medium-theory",
+    "r4-agenda-setting",
+    "r5-public-sphere",
+    "r5-pr",
+    "r5-china-history",
+    "r6-decolonial",
+    "r7-platform-governance",
+    "p-hall",
+    "r6-cultural-studies",
+    "p-fang",
+    "r1-information-cybernetics",
+    "r1-pragmatism-chicago",
+    "r6-frankfurt-critical-theory",
+    "r8-development-communication"
+  ],
+  "reviewed_at_by_id": {
+    "r6-cultural-studies": "2026-09-14",
+    "p-fang": "2026-09-14",
+    "r1-information-cybernetics": "2026-09-19",
+    "r1-pragmatism-chicago": "2026-09-19",
+    "r6-frankfurt-critical-theory": "2026-09-19",
+    "r8-development-communication": "2026-09-19"
+  }
+}

@@ -1,0 +1,596 @@
+[
+  {
+    "id": "r1-china-introduction",
+    "slug": "communication-reintroduction-and-institutionalization-in-mainland-china",
+    "record_level": "complete",
+    "type": "research_topic",
+    "subtype": "history",
+    "name_zh": "传播学在中国大陆的再引进与学科化",
+    "name_original": "Reintroduction and institutionalization of communication studies in mainland China",
+    "aliases": [],
+    "summary": "以1978年前后的知识译介、1982年座谈会的后出记述、课程教材及学科建制等线索，观察传播学在中国大陆的再引进与学科化。",
+    "why_it_matters": "这一学术史入口帮助学生分辨现代学科建制、更长时段的传播研究与本土化讨论，避免把改革开放写成中国传播思想的绝对起点。",
+    "core_questions": [
+      "为什么本知识点采用“再引进”，而不把1978年写成中国传播研究的绝对起点？",
+      "后出学术史如何记述1982年座谈会及“十六字方针”？",
+      "译介、课程、研究与学位建制如何共同构成学科化的观察线索？"
+    ],
+    "current_evidence_state": "现有摘要、学术史综述与机构刊载文章支持1978年前后的再引进、改革开放后的教育与建制变化；1982年会议的正式名称、原始纪要和表述仍未由一手档案闭环核验。",
+    "key_points": [
+      {
+        "id": "r1ci-k1",
+        "statement": "本知识点采用“再引进”，用以区分1978年前后的现代学科译介与中国更长时段的传播概念和传播研究。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "S025",
+            "locator": "摘要",
+            "support_note": "摘要把1978年作为传播学引进节点，同时指出此前已有传播概念与更长的传播研究脉络；“再引进”是据此作出的编辑限定。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r1ci-k2",
+        "statement": "C16与C17的后出学术史记述称，1982年的一次全国传播学座谈会提出“系统了解、分析研究、批判吸收、自主创造”；这是对后出记述的报告，不是对会议原始记录的亲核。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "C17",
+            "locator": "正文以“传播学在中国真正成为显学”开头的段落",
+            "support_note": "该文直接记述1982年座谈会与十六字表述，但它是后出学术史文章。",
+            "support_role": "supports"
+          },
+          {
+            "source_id": "C16",
+            "locator": "四、理论创新：中国传播学的本土化探索，首段",
+            "support_note": "另一项后出学术史综述记录了同一线索，不替代会议原件。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r1ci-k3",
+        "statement": "所引学术史把改革开放后的教育规模扩展、理论与概念译介、学术活动以及1997年“新闻传播学”一级学科建制等作为学科发展的不同线索。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S026",
+            "locator": "第二部分“改革开放至新世纪：呈现出规模化、专业化、开放化的面貌”",
+            "support_note": "文章将教育规模、专业化、理论体系、学术活动和对外译介并列为发展线索。",
+            "support_role": "supports"
+          },
+          {
+            "source_id": "C17",
+            "locator": "正文记录1997年学位目录的段落",
+            "support_note": "支持1997年建制节点；文中截至2019年的统计不外推为当前数量。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r1ci-k4",
+        "statement": "所引的2019年综述仍把本土主体性和原创理论成果的建设视为需要继续推进的问题，因而不能由“自主创造”的规范表述推出目标已经实现。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "C16",
+            "locator": "正文末段，以“回顾中国传播学理论70年的发展历程”开头",
+            "support_note": "作者将突破外来问题框架、形成本土思想成果表述为仍需推进的任务。",
+            "support_role": "supports"
+          },
+          {
+            "source_id": "S026",
+            "locator": "第二部分末“本土性有待提升”及第四部分“双主体”",
+            "support_note": "作者把中国新闻传播学主体性建构视为尚待推进的问题。",
+            "support_role": "supports"
+          }
+        ]
+      }
+    ],
+    "limits_or_debates": [
+      {
+        "id": "r1ci-l1",
+        "statement": "1978年不是中国传播思想、传播实践或传播研究的“零年”；本知识点仅聚焦现代学科意义上的再引进与建制。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S025",
+            "locator": "摘要",
+            "support_note": "摘要区分较新的传播学学科与更长的传播研究历史。",
+            "support_role": "qualifies"
+          }
+        ]
+      },
+      {
+        "id": "r1ci-l2",
+        "statement": "“本土化”与“自主创造”的含义和实现程度不能由方针本身裁定；当前页面只呈现所引文献共同覆盖的有限叙述。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "C16",
+            "locator": "正文末段，以“回顾中国传播学理论70年的发展历程”开头",
+            "support_note": "作者将形成本土成果写成仍需推进的任务，支持对“已经完成”的推断作出限定。",
+            "support_role": "qualifies"
+          }
+        ]
+      }
+    ],
+    "area_memberships": [
+      {
+        "area_id": "communication",
+        "is_primary": true,
+        "rationale": "它解释中国大陆学生今天所学的传播学知识体系由何种学术史过程形成。"
+      },
+      {
+        "area_id": "power_culture",
+        "is_primary": false,
+        "rationale": "知识译介与本土化涉及外来理论、价值立场与学术主体性。"
+      },
+      {
+        "area_id": "research_application",
+        "is_primary": false,
+        "rationale": "学科化线索涉及研究、课程、机构与人才培养建制。"
+      }
+    ],
+    "learning_resources": [
+      {
+        "title": "中国传播学70年：知识、技术与学术网络",
+        "source_id": "S025",
+        "purpose": "先从摘要理解传播学学科与更长传播研究历史的区别。",
+        "level": "introductory",
+        "locator": "摘要"
+      },
+      {
+        "title": "构建新时代中国新闻传播学",
+        "source_id": "C17",
+        "purpose": "核对后出学术史对1982年座谈会、十六字表述与学科建制的记述。",
+        "level": "introductory",
+        "locator": "改革开放后传播学发展相关段落"
+      },
+      {
+        "title": "理论谱系与本土探索：新中国传播学理论研究70年",
+        "source_id": "C16",
+        "purpose": "追踪译介、理论批判与本土主体性问题，并保留后出综述的证据边界。",
+        "level": "intermediate",
+        "locator": "正文末段，以“回顾中国传播学理论70年的发展历程”开头；四、理论创新：中国传播学的本土化探索，首段"
+      }
+    ],
+    "learning_links": [
+      {
+        "target_id": "r1-process",
+        "reason": "识别译介过程中出现的传播、信息、受众与效果等概念；这是学习顺序，不构成学术承继边。",
+        "sequence_hint": "after"
+      },
+      {
+        "target_id": "r2-huaxia",
+        "reason": "比较现代学科建制与从中国思想和历史经验中重构传播传统的不同问题设置。",
+        "sequence_hint": "compare"
+      }
+    ],
+    "temporal_profile": "evolving",
+    "as_of": "2026-09-11",
+    "last_evidence_check": "2026-09-11",
+    "next_review_due": "2027-09-11",
+    "controversy_status": "contested",
+    "controversy_note": "“再引进”的起点、外来理论与本土主体性的关系存在不同解释；当前只呈现所引文献共同覆盖的有限叙述，冷战与现代化语境仅作为待继续核验的问题。",
+    "review_status": "ready_for_review",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-14",
+    "reviewed_at": null
+  },
+  {
+    "id": "r5-marxist-journalism",
+    "slug": "marxist-view-of-journalism",
+    "record_level": "complete",
+    "type": "tradition",
+    "subtype": "normative-journalism-tradition",
+    "name_zh": "马克思主义新闻观",
+    "name_original": "Marxist view of journalism",
+    "aliases": [],
+    "summary": "在中国新闻实践与教育中持续发展的规范性与理论性传统，讨论新闻事实与真实、新闻事业性质、党性与人民性、舆论导向、权利责任和职业规范等问题。",
+    "why_it_matters": "学生需要区分“应当怎样办新闻”的规范要求、对新闻规律的理论论述，以及媒体实践是否达到要求的经验判断，避免由规范文本直接推断现实表现。",
+    "central_questions": [
+      "新闻报道如何处理事实、立场与真实性？",
+      "新闻事业的党性、人民性和社会责任如何被界定？",
+      "新闻舆论工作如何面对政治使命、传播规律、职业道德与技术变迁？"
+    ],
+    "internal_differences": [
+      {
+        "id": "r5mj-i1",
+        "statement": "2019年《马克思主义新闻观十二讲》将经典作家论述、中国化发展与当代教学主题编入同一体系；本知识点把它们视为不同历史与材料层次，不把一本当代教材等同于全部传统。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "C19",
+            "locator": "第一讲第三节“马克思主义新闻观的中国化发展”及全书目录",
+            "support_note": "目录呈现历史发展和多主题结构；材料层次的区分是编辑限定。",
+            "support_role": "qualifies"
+          }
+        ]
+      },
+      {
+        "id": "r5mj-i2",
+        "statement": "理论论述、政策规范、职业伦理和案例教学是不同类型的材料，各自只能支持与其性质匹配的主张。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "C19",
+            "locator": "全书简介与目录",
+            "support_note": "教材呈现理论与规范主题。",
+            "support_role": "supports"
+          },
+          {
+            "source_id": "C13",
+            "locator": "页面“中国新闻传播大讲堂”简介及2020—2023年课程说明",
+            "support_note": "页面记录案例教学实践；不替代理论原著或经验效果证据。",
+            "support_role": "qualifies"
+          }
+        ]
+      }
+    ],
+    "naming_boundary": "本知识点采用中国高校课程与教材中通行的“马克思主义新闻观”。它不是单一作者在单一著作中一次提出的封闭理论，也不等同于全部社会主义国家的新闻理论或任一中国媒体的实际表现。“马克思主义新闻思想”和“马克思主义新闻理论”范围有所重叠，但未在本记录中作为严格别名。",
+    "key_points": [
+      {
+        "id": "r5mj-k1",
+        "statement": "2019年《马克思主义新闻观十二讲》以新闻事实与真实、传播规律、新闻事业性质、党性与人民性、舆论导向、权利责任、法治道德、新技术和国际传播等组织教学内容。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "C19",
+            "locator": "图书简介；第一讲至第十二讲目录",
+            "support_note": "教材目录直接列出这些教学主题；只证明2019年该教材的组织范围，不代表当前全国高校课程的统一范围。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r5mj-k2",
+        "statement": "朱至刚（2020）将陆定一1943年《我们对于新闻学的基本观点》的理论结构理解为“从新闻出发”，并以此分析新闻事实观与认识论问题；这是对该学者解释的报告，不是本轮对陆定一原文的亲核。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S027",
+            "locator": "摘要；参考文献第1项",
+            "support_note": "摘要直接呈现朱至刚的解释；原载信息来自其参考文献，原始报纸正文尚待入库。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r5mj-k3",
+        "statement": "在所引2019年教材的规范框架中，党性与人民性相统一、坚持新闻真实、履行社会责任和遵守法治道德作为应然要求呈现；这不裁定“真实性”在全部传播研究中的概念性质。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "C19",
+            "locator": "第五讲、第八讲、第九讲、第十讲目录",
+            "support_note": "目录直接显示这些规范主题；不支持对具体媒体实现程度的推断。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r5mj-k4",
+        "statement": "中国传媒大学的C13页面记录了2020—2023年“中国新闻传播大讲堂”课程说明与一线案例进课堂的教学方式；这是特定课程的记录，不代表全国高校的常态做法。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "C13",
+            "locator": "页面“中国新闻传播大讲堂”简介及2020—2023年课程说明",
+            "support_note": "页面支持该课程的组织与案例教学方式，对于较宽的全国性判断不提供证据。",
+            "support_role": "supports"
+          }
+        ]
+      }
+    ],
+    "limits_or_debates": [
+      {
+        "id": "r5mj-l1",
+        "statement": "任何一本当代教材都不能单独代表跨越经典作家、政党新闻实践、政策文本和高校教学的全部传统。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "C19",
+            "locator": "第一讲第三节及全书目录",
+            "support_note": "教材自身将该传统呈现为历史发展过程和多主题体系，支持对单一文本代表性的限定。",
+            "support_role": "qualifies"
+          }
+        ]
+      },
+      {
+        "id": "r5mj-l2",
+        "statement": "在本知识点所引教材与规范框架中，党性、人民性、真实性与舆论导向等作为应然要求呈现；检验具体媒体是否实现这些要求，须另行使用经验材料与研究设计。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "C19",
+            "locator": "第五讲至第十讲目录",
+            "support_note": "目录只支持这些要求被规范性提出，不支持任何具体媒体的实现程度。",
+            "support_role": "qualifies"
+          }
+        ]
+      }
+    ],
+    "area_memberships": [
+      {
+        "area_id": "institutions",
+        "is_primary": true,
+        "rationale": "它直接讨论新闻事业性质、新闻舆论工作的职责与制度角色。"
+      },
+      {
+        "area_id": "power_culture",
+        "is_primary": false,
+        "rationale": "党性、人民性、舆论导向与社会责任涉及权力、公共利益和价值立场。"
+      },
+      {
+        "area_id": "research_application",
+        "is_primary": false,
+        "rationale": "该传统既是研究对象，也是中国新闻教育、职业训练与案例反思的框架。"
+      }
+    ],
+    "learning_resources": [
+      {
+        "title": "马克思主义新闻观十二讲",
+        "source_id": "C19",
+        "purpose": "识别2019年该教材的主题范围与规范层次，不将其等同于当前全国课程全貌。",
+        "level": "introductory",
+        "locator": "图书简介；第一讲至第十二讲目录"
+      },
+      {
+        "title": "“我们”为何以“新闻”为起点——试析《我们对于新闻学的基本观点》的理论构造",
+        "source_id": "S027",
+        "purpose": "从一项2020年学术解释进入经典文本，并注意当前只核到摘要与参考文献。",
+        "level": "intermediate",
+        "locator": "摘要；参考文献第1项"
+      },
+      {
+        "title": "中国新闻传播大讲堂",
+        "source_id": "C13",
+        "purpose": "观察C13页面所记特定年份案例课程如何连接一线实践。",
+        "level": "introductory",
+        "locator": "2020—2023年课程说明"
+      }
+    ],
+    "learning_links": [
+      {
+        "target_id": "r5-journalism",
+        "reason": "将这一规范性与理论性传统放回更广的新闻学与新闻研究问题域。",
+        "sequence_hint": "before"
+      },
+      {
+        "target_id": "r5-china-history",
+        "reason": "沿历史材料考察该传统在不同时期的形成、变化与实践条件。",
+        "sequence_hint": "after"
+      },
+      {
+        "target_id": "r5-political",
+        "reason": "比较本传统对新闻传播政治维度的规范讨论与政治传播领域的更广研究对象；不因此建立宽泛的学术关系边。",
+        "sequence_hint": "compare"
+      }
+    ],
+    "temporal_profile": "relatively_stable",
+    "last_evidence_check": "2026-09-11",
+    "controversy_status": "contested",
+    "controversy_note": "概念边界、经典文本的学术解释，以及规范要求与职业实践如何协调，都需在具体文献与经验材料中分别判断。",
+    "review_status": "ready_for_review",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-14",
+    "reviewed_at": null
+  },
+  {
+    "id": "r5-china-history",
+    "slug": "history-of-journalism-and-communication-in-china",
+    "record_level": "complete",
+    "type": "research_topic",
+    "subtype": "history",
+    "name_zh": "中国新闻传播史",
+    "name_original": "History of journalism and communication in China",
+    "aliases": [
+      {
+        "name": "中国新闻史",
+        "kind": "common_name",
+        "note": "传统课程与研究中的常用名称，范围未必与更宽的“中国新闻传播史”完全一致。"
+      },
+      {
+        "name": "中国新闻事业史",
+        "kind": "common_name",
+        "note": "历史上常用的课程或著作名称，更偏重新闻事业，不作为无条件同义词。"
+      }
+    ],
+    "summary": "以历史材料研究中国新闻媒介、制度、人物、技术、文本、职业实践及其社会关系的演变；首版是依据有限教材与史学研究建立的跨时期导览，不以单一线性叙事概括全部中国传播历史。",
+    "why_it_matters": "新闻传播的制度、职业、技术和公共角色都有具体历史条件。本知识点帮助学生把当下媒介现象放入长时段变化，并训练对史料、分期与叙事框架的辨别。",
+    "core_questions": [
+      "不同时期的新闻媒介、组织、技术与职业实践怎样形成和变化？",
+      "新闻传播活动如何与政治、经济、文化、地方社会及跨区域流动相互作用？",
+      "研究者如何使用报刊原件、档案、口述、图像与数字资料建构并修正历史叙事？"
+    ],
+    "current_evidence_state": "当前样本主要依据C15所引2021版本的教材目录建立课程骨架，并以S030—S032支持对若干史学路径的入门说明。少数民族新闻传播、跨国华文传播及台港澳不同历史阶段尚未形成充分材料覆盖；本知识点不承载未经逐条核验的具体历史事件结论。",
+    "key_points": [
+      {
+        "id": "r5ch-k1",
+        "statement": "所引2021版本教材《中国新闻传播史》的目录从古代报纸与近代新闻事业缘起展开，覆盖晚清、民国、革命新闻事业、中华人民共和国成立后各阶段，并列入1949年以来台港澳新闻事业；这是该教材的课程范围，不是对各项史实的原始证明。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "C15",
+            "locator": "图书目录“绪论”、第一章至第十三章",
+            "support_note": "高等教育出版社正式目录直接支持该教材的时期与地域范围，不替代具体历史主张的一手史料。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r5ch-k2",
+        "statement": "C15目录的第七至第十二章还纳入新闻教育、新闻法制、媒体经营管理、新媒体与媒体融合等主题，显示该教材的历史叙事不只列举报刊与人物。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "C15",
+            "locator": "第七至第十二章中“新闻教育”“新闻法制”“媒体经营管理”“新媒体”“媒体融合”等目录项",
+            "support_note": "目录直接支持该教材纳入制度、教育、经营和技术主题。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r5ch-k3",
+        "statement": "蔡斐（2018）在摘要中概括了媒介生态史、口述史和城市史等书写路径；本知识点将它们作为通史骨架之外的入门方向，不把它们写成取代早期多样方法的单线“转向”。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S030",
+            "locator": "摘要",
+            "support_note": "摘要直接概括媒介生态史、口述史和城市史等路径；本知识点未由此推断整个史学的线性发展。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r5ch-k4",
+        "statement": "李杰琼（2019）反思改革开放以来新闻史的主导范式，孙藜与罗喆（2023）则讨论内容中心、单一国家分析单位和线性专业化叙事的限制；这些是特定学者的史学反思，不是所有研究者共同接受的结论。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S031",
+            "locator": "摘要",
+            "support_note": "摘要直接呈现李杰琼对主导范式的反思。",
+            "support_role": "supports"
+          },
+          {
+            "source_id": "S032",
+            "locator": "“走向‘媒介实践’的新进路”及结语",
+            "support_note": "作者具体讨论内容中心、国家单一分析单位和线性专业化叙事的限制。",
+            "support_role": "supports"
+          }
+        ]
+      }
+    ],
+    "limits_or_debates": [
+      {
+        "id": "r5ch-l1",
+        "statement": "当前样本主要依据C15目录，对少数民族新闻传播、跨国华文传播及台港澳不同历史阶段的材料覆盖仍不充分；C12只能证明存在少数民族与海外华文研究分支，不能补出具体地域史实。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "C15",
+            "locator": "全书目录，尤其第十三章“1949年以来台港澳新闻事业”",
+            "support_note": "目录界定当前主要教材样本的覆盖范围，对未覆盖时段与主题作出限定。",
+            "support_role": "qualifies"
+          },
+          {
+            "source_id": "C12",
+            "locator": "中国新闻史学会分支机构列表中的少数民族与海外华文研究分支",
+            "support_note": "只支持这些研究方向存在，不支持未经核验的具体历史事件。",
+            "support_role": "qualifies"
+          }
+        ]
+      },
+      {
+        "id": "r5ch-l2",
+        "statement": "“中国新闻传播史”不等于中国全部传播史；C15以新闻事业为主轴，礼仪、口传、艺术和日常交往等更广对象不能由该教材目录自动代表。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "C15",
+            "locator": "全书目录",
+            "support_note": "目录显示叙事主轴为新闻事业，支持对知识点范围作出限定。",
+            "support_role": "qualifies"
+          }
+        ]
+      },
+      {
+        "id": "r5ch-l3",
+        "statement": "通史教材提供入门骨架而不是最终历史；方汉奇在2015年访谈中把《中国新闻事业通史》视为受条件限制、待后人补充的阶段性成果。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S028",
+            "locator": "pp. 102—103，尤其p. 103回顾《中国新闻事业通史》局限与后续补充的问答",
+            "support_note": "访谈中将该通史说明为有局限、待继续填补与开拓的阶段性成果。",
+            "support_role": "qualifies"
+          }
+        ]
+      },
+      {
+        "id": "r5ch-l4",
+        "statement": "革命史、现代化、专业化和媒介实践等框架是解释路径而非历史事实；对其收益与遮蔽的判断应归于具体学者。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "S031",
+            "locator": "摘要",
+            "support_note": "李杰琼反思特定主导范式，不能外推为全体学者共识。",
+            "support_role": "qualifies"
+          },
+          {
+            "source_id": "S032",
+            "locator": "“走向‘媒介实践’的新进路”",
+            "support_note": "孙藜与罗喆比较不同叙事框架的限制，支持对框架层次的标注。",
+            "support_role": "qualifies"
+          }
+        ]
+      }
+    ],
+    "area_memberships": [
+      {
+        "area_id": "institutions",
+        "is_primary": true,
+        "rationale": "新闻组织、职业、教育、法制、经营与制度变迁构成这一知识点的主轴。"
+      },
+      {
+        "area_id": "power_culture",
+        "is_primary": false,
+        "rationale": "新闻史研究涉及新闻事业与政治、社会、文化之间的历史关系。"
+      },
+      {
+        "area_id": "research_application",
+        "is_primary": false,
+        "rationale": "史料批判、档案研究、口述史与媒介实践进路展示历史知识如何被生产。"
+      }
+    ],
+    "learning_resources": [
+      {
+        "title": "中国新闻传播史",
+        "source_id": "C15",
+        "purpose": "获得跨时期、跨地区的课程骨架，同时识别少数民族、跨国华文及台港澳时段的覆盖缺口。",
+        "level": "introductory",
+        "locator": "绪论及第一至第十三章目录"
+      },
+      {
+        "title": "中国新闻史研究的回顾与展望——方汉奇先生治学答问",
+        "source_id": "S028",
+        "purpose": "理解史料积累、通史协作及阶段性成果的自我限定。",
+        "level": "intermediate",
+        "locator": "pp. 102—103，尤其p. 103关于《中国新闻事业通史》局限与后续补充的说明"
+      },
+      {
+        "title": "“新闻”在何处？新闻史书写的“媒介实践”新进路",
+        "source_id": "S032",
+        "purpose": "辨认媒介物质性、地方情境与叙事框架问题，并将其限定为特定学者的史学主张。",
+        "level": "advanced",
+        "locator": "“走向‘媒介实践’的新进路”及结语"
+      }
+    ],
+    "learning_links": [
+      {
+        "target_id": "p-fang",
+        "reason": "通过一位新闻史学者理解通史、史料积累与学科组织之间的关系；这是学习推荐，不声称整个领域承接于单一人物。",
+        "sequence_hint": "after"
+      },
+      {
+        "target_id": "r8-interpretive-methods",
+        "reason": "延伸学习档案、文本、话语与视觉材料如何支持历史主张。",
+        "sequence_hint": "after"
+      }
+    ],
+    "temporal_profile": "relatively_stable",
+    "last_evidence_check": "2026-09-11",
+    "controversy_status": "contested",
+    "controversy_note": "具体分期、叙事中心、地域边界、史料可见性与研究范式可以有不同解释；页面将这些框架标作特定学者的解释路径，不把全部具体史实说成任意可争。",
+    "review_status": "ready_for_review",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-11",
+    "reviewed_at": null
+  }
+]

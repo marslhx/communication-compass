@@ -1,0 +1,81 @@
+node_id,name_zh,name_original,type,subtype,primary_area,secondary_areas,temporal_profile,controversy_status,record_level,evidence_status,source_leads,editorial_note
+r1-communication-world,传播建构社会世界,Communication constructs social worlds,concept,meta,communication,meaning|power_culture,relatively_stable,not_assessed,candidate,direct,G01|G02,作为学科入口命题，不写成单一理论
+r1-process,传播过程与基本要素,Communication process and elements,concept,"",communication,effects|research_application,relatively_stable,not_assessed,candidate,interpretive,G11|G12|C03|C14,包含传播者、信息、媒介、受众与情境
+r1-feedback-noise,反馈与噪音,Feedback and noise,concept,"",communication,digital_ai,relatively_stable,not_assessed,candidate,pending,G12,需补信息论原典及其进入人类传播研究的历史
+r1-interpersonal,人际传播,Interpersonal communication,research_topic,field,communication,meaning|effects|institutions,relatively_stable,not_assessed,candidate,direct,G03|G08|G12|C08|C11,领域节点
+r1-group,群体传播,Group communication,research_topic,field,communication,effects|institutions,relatively_stable,not_assessed,candidate,direct,G02|C14,需与组织传播区分
+r1-organizational,组织传播,Organizational communication,research_topic,field,communication,institutions|research_application,relatively_stable,not_assessed,candidate,direct,G03|G04|G08|G12|C08,跨区应用
+r1-mass,大众传播,Mass communication,research_topic,field,communication,media_society|effects|institutions,relatively_stable,not_assessed,candidate,direct,G03|G11|C14,不作为全部传播学的同义词
+r1-cmc,计算机中介传播,Computer-mediated communication,research_topic,field,communication,digital_ai,relatively_stable,not_assessed,candidate,direct,G08,需补经典文献
+r1-china-introduction,传播学在中国大陆的再引进与学科化,Reintroduction and institutionalization of communication studies in mainland China,research_topic,history,communication,power_culture|research_application,evolving,not_assessed,candidate,direct,C16|C17,学术史节点；改名以避免“改革开放前中国没有传播研究”的错误暗示；1982 年会议的具体名称、参会者与原始文件仍待补一手档案。
+r2-semiotics,符号学,Semiotics,tradition,"",meaning,power_culture|research_application,relatively_stable,not_assessed,candidate,direct,G08|G09|C12,需区分索绪尔与皮尔斯传统
+r2-representation,表征,Representation,concept,"",meaning,power_culture,relatively_stable,not_assessed,candidate,direct,G02|G08,需补权威定义与Hall相关原典
+r2-encoding-decoding,编码与解码,Encoding and decoding,theory_model,theory,meaning,effects|power_culture,relatively_stable,not_assessed,candidate,pending,G02|G11,需补Hall原典与受众位置
+r2-discourse,话语,Discourse,concept,"",meaning,institutions|power_culture|research_application,relatively_stable,not_assessed,candidate,direct,G04|G13,不能把不同话语理论合并为单一学说
+r2-framing,框架与框架化,Framing and frame analysis,theory_model,theory,meaning,effects|institutions,relatively_stable,not_assessed,candidate,pending,G08|C08,需区分社会学框架分析、新闻框架与框架效果
+r2-visual,视觉与多模态传播,Visual and multimodal communication,research_topic,field,meaning,power_culture|research_application,relatively_stable,not_assessed,candidate,direct,G03|G04|C08,包含视觉分析但不等同于方法节点
+r2-rhetoric,修辞与说服,Rhetoric and persuasion,tradition,"",meaning,effects|institutions,relatively_stable,not_assessed,candidate,direct,G12|C08,修辞传统与经验说服研究需区分
+r2-huaxia,华夏传播,Huaxia communication,tradition,"",meaning,power_culture,evolving,contested,candidate,pending,C16,本土探索；展示争议与成熟度限制；原始稳定性为 forming：表示该条目仍处于形成中的本土/学术探索，需保留成熟度限制并持续核验。
+r3-medium-theory,媒介理论,Medium theory,tradition,"",media_society,digital_ai,relatively_stable,not_assessed,candidate,pending,G11|C08,需区分Innis、McLuhan等理论
+r3-mediatization,媒介化,Mediatization,theory_model,theory,media_society,institutions|digital_ai,relatively_stable,not_assessed,candidate,pending,G11,需核译名、理论传统及适用范围
+r3-media-systems,媒介系统,Media systems,concept,"",media_society,institutions|power_culture,relatively_stable,not_assessed,candidate,direct,G05|G06|G08,跨国比较需说明制度语境
+r3-media-institutions,媒介制度,Media institutions,concept,"",media_society,institutions|power_culture,relatively_stable,not_assessed,candidate,direct,G05|G06|G11,制度与组织节点相连
+r3-media-industries,媒介产业,Media industries,research_topic,field,media_society,institutions|digital_ai,relatively_stable,not_assessed,candidate,direct,G03|G05|G11|C08,包含产业结构与文化生产
+r3-political-economy,传播政治经济学,Political economy of communication,tradition,"",media_society,institutions|power_culture,relatively_stable,not_assessed,candidate,direct,G04|G11|C08,需补核心原典与不同传统
+r3-platformization,平台化与数字经济,Platformization and digital economy,research_topic,frontier,media_society,digital_ai,evolving,not_assessed,candidate,direct,G07|G08,需设复核期限
+r3-china-convergence,中国媒体融合,Media convergence in China,application,"",media_society,institutions|digital_ai,evolving,not_assessed,candidate,direct,C04|C08,政策、组织变革和实践对象需分层
+r4-effects,传播效果,Communication effects,tradition,"",effects,media_society|institutions,relatively_stable,not_assessed,candidate,direct,G05|G06|G08|G11|C03|C14,不是单一强效果理论
+r4-agenda-setting,议程设置,Agenda-setting theory,theory_model,theory,effects,institutions,relatively_stable,not_assessed,candidate,direct,G08|C14,人物和提出关系需补原典
+r4-two-step,两级传播与意见领袖,Two-step flow and opinion leadership,theory_model,theory,effects,communication|institutions,relatively_stable,not_assessed,candidate,pending,G11|C14,需补Lazarsfeld与Katz相关原典
+r4-uses-gratifications,使用与满足,Uses and gratifications,theory_model,theory,effects,communication|digital_ai,relatively_stable,not_assessed,candidate,pending,G11|C14,需核谱系与主要命题
+r4-cultivation,涵化理论,Cultivation theory,theory_model,theory,effects,media_society|institutions,relatively_stable,not_assessed,candidate,pending,G11,需补Gerbner原典
+r4-persuasion,说服与态度改变,Persuasion and attitude change,research_topic,field,effects,meaning|institutions,relatively_stable,not_assessed,candidate,direct,G05|G07|G08|C08,连接修辞传统与经验研究
+r4-audience,受众与接受研究,Audience and reception studies,research_topic,field,effects,meaning|power_culture|research_application,relatively_stable,not_assessed,candidate,direct,G04|G11|G13|C03|C08,区分受众测量与文化接受研究
+r4-info-disorder,虚假信息、极化与信任,Information disorder polarization and trust,research_topic,frontier,effects,institutions|digital_ai,evolving,not_assessed,candidate,direct,G07|G08|G14|G15,动态问题簇，发布前可继续拆分
+r4-online-opinion,网络舆情与舆情治理,Online public opinion and governance,application,"",effects,institutions|digital_ai,evolving,not_assessed,candidate,direct,C07|C12,中国应用域；不替代一般舆论理论
+r5-journalism,新闻学与新闻研究,Journalism and journalism studies,research_topic,field,institutions,media_society|power_culture|research_application,relatively_stable,not_assessed,candidate,direct,G03|G04|G06|G09|C03|C08,包含规范、制度、文本和实践研究
+r5-gatekeeping,把关理论,Gatekeeping theory,theory_model,theory,institutions,communication|media_society|effects,relatively_stable,not_assessed,candidate,pending,G11|C14,需区分Lewin概念与White新闻研究
+r5-public-sphere,公共领域,Public sphere,theory_model,theory,institutions,power_culture,relatively_stable,not_assessed,candidate,pending,G01|G04,需补Habermas原典及批评传统
+r5-public-opinion,公共舆论,Public opinion,concept,"",institutions,effects|power_culture,relatively_stable,not_assessed,candidate,direct,G04|G08|C03|C08,与网络舆情保持层级区别
+r5-pr,公共关系与战略传播,Public relations and strategic communication,application,"",institutions,communication|effects|research_application,relatively_stable,not_assessed,candidate,direct,G03|G08|G10|C08|C12,兼顾组织、公众与伦理
+r5-political,政治传播,Political communication,research_topic,field,institutions,effects|power_culture,relatively_stable,not_assessed,candidate,direct,G03|G04|G06|C08,领域节点
+r5-crisis,风险与危机传播,Risk and crisis communication,application,"",institutions,effects|research_application,relatively_stable,not_assessed,candidate,direct,G07|G08|G10|C08,风险与危机可在后续版本拆分
+r5-health,健康传播,Health communication,application,"",institutions,effects|research_application,relatively_stable,not_assessed,candidate,direct,G03|G07|G08|G12|C08|C12,领域与应用双重属性
+r5-marxist-journalism,马克思主义新闻观,Marxist view of journalism,tradition,"",institutions,power_culture|research_application,relatively_stable,not_assessed,candidate,direct,C03|C04|C08|C13,规范性和理论性内容需分别呈现
+r5-china-history,中国新闻传播史,History of journalism and communication in China,research_topic,history,institutions,power_culture|research_application,relatively_stable,not_assessed,candidate,direct,C03|C08|C15,历史范围节点
+r6-cultural-studies,文化研究,Cultural studies,tradition,"",power_culture,meaning|media_society|institutions,relatively_stable,not_assessed,candidate,direct,G02|G08|G09|G11,需展示跨学科来源
+r6-hegemony,意识形态与霸权,Ideology and hegemony,concept,"",power_culture,meaning|media_society,relatively_stable,not_assessed,candidate,direct,G09|G11,不把两个概念混为同义词
+r6-gender,女性主义、性别与酷儿传播,Feminist gender and queer communication,research_topic,field,power_culture,meaning|institutions,relatively_stable,not_assessed,candidate,direct,G03|G04|C08,可在后续拆分
+r6-race,种族、族群与媒介表征,Race ethnicity and media representation,research_topic,field,power_culture,meaning|institutions,relatively_stable,not_assessed,candidate,direct,G03|G08,需避免美国经验代表全球
+r6-decolonial,后殖民与去殖民传播,Postcolonial and decolonial communication,tradition,"",power_culture,meaning|media_society|research_application,evolving,not_assessed,candidate,direct,G02|G08|G09,超越西方经典是要求，不是单一理论；原始稳定性为 forming：表示该条目仍处于形成中的本土/学术探索，需保留成熟度限制并持续核验。
+r6-intercultural,跨文化传播,Intercultural communication,research_topic,field,power_culture,communication|institutions,relatively_stable,not_assessed,candidate,direct,G03|G08|C03|C08,连接文化差异与国际传播
+r6-social-change,全球传播与社会变迁,Global communication and social change,research_topic,field,power_culture,institutions|research_application,relatively_stable,not_assessed,candidate,direct,G03|G04|G08,包含发展、参与式和社区传播
+r6-china-global,中国国际传播实践,International communication practice in China,application,"",power_culture,institutions|digital_ai,evolving,not_assessed,candidate,direct,C04|C08|C10,区分政策目标、实践案例与解释理论
+r6-chinese-minority,少数民族与海外华文传播,Ethnic minority and overseas Chinese media,research_topic,field,power_culture,institutions,relatively_stable,not_assessed,candidate,direct,C12|C15,后续可拆为两个节点
+r7-affordance,技术可供性,Technological affordance,concept,"",digital_ai,communication|media_society,relatively_stable,not_assessed,candidate,direct,G12,需补传播学应用的核心文献
+r7-algorithm,算法与推荐系统,Algorithms and recommender systems,research_topic,frontier,digital_ai,media_society|effects,evolving,not_assessed,candidate,direct,G06|G07|G08|C10,必须标明更新时间
+r7-platform-governance,平台治理,Platform governance,research_topic,frontier,digital_ai,media_society|institutions|power_culture,evolving,not_assessed,candidate,direct,G06|G08|C07|C10,加入中国平台案例但不设单独理论
+r7-datafication,数据化与自动化,Datafication and automation,research_topic,frontier,digital_ai,media_society|research_application,evolving,not_assessed,candidate,direct,G08|G13,需补核心原著
+r7-hmc,人机传播,Human-machine communication,research_topic,field,digital_ai,communication|effects,evolving,not_assessed,candidate,direct,G03|C10,区分研究领域与具体理论
+r7-ai-mediated,AI中介传播,AI-mediated communication,research_topic,frontier,digital_ai,communication|effects|institutions,evolving,not_assessed,candidate,direct,G08|C10,当前课程证据充分，理论稳定性有限
+r7-integrity,信息完整性与深度伪造,Information integrity and deepfakes,research_topic,frontier,digital_ai,effects|institutions|power_culture,evolving,not_assessed,candidate,direct,G07|G08|G14|G15,问题域节点
+r7-privacy,隐私、监视、偏见与信任,Privacy surveillance bias and trust,research_topic,frontier,digital_ai,media_society|effects|power_culture,evolving,not_assessed,candidate,direct,G07|G08|G14,后续根据内容密度拆分
+r8-quant,量化研究设计与统计推断,Quantitative research design and statistical inference,method,"",research_application,effects,relatively_stable,not_assessed,candidate,direct,G02|G05|G06|G07|G08|C03|C08,方法节点需写适用问题和局限
+r8-qual,质化研究设计与解释,Qualitative research design and interpretation,method,"",research_application,meaning|power_culture,relatively_stable,not_assessed,candidate,direct,G02|G05|G07|G08|C08,方法节点需写研究者位置与反思
+r8-survey,调查研究,Survey research,method,"",research_application,effects,relatively_stable,not_assessed,candidate,direct,G05|G07|G08|C03|C08,含抽样、测量和误差
+r8-experiment,实验法,Experimental method,method,"",research_application,effects,relatively_stable,not_assessed,candidate,direct,G05|G07|G08,需说明因果推断与外部效度
+r8-content-analysis,内容分析,Content analysis,method,"",research_application,meaning|effects,relatively_stable,not_assessed,candidate,direct,G05|G07|G08|G13,区分人工编码和计算内容分析
+r8-ethnography,访谈、焦点小组与民族志,Interviews focus groups and ethnography,method,"",research_application,communication|meaning|power_culture,relatively_stable,not_assessed,candidate,direct,G02|G05|G08|C08,首版方法簇，后续可拆
+r8-interpretive-methods,文本、话语、视觉与档案分析,Text discourse visual and archival analysis,method,"",research_application,meaning|institutions|power_culture,relatively_stable,not_assessed,candidate,direct,G02|G05|G09|G13,首版方法簇
+r8-computational,计算传播、网络分析与文本挖掘,Computational communication network analysis and text mining,method,"",research_application,media_society|effects|digital_ai,evolving,not_assessed,candidate,direct,G03|G05|G08|G13|C08|C10|C11,动态方法簇
+r8-ethics,研究伦理与数据保护,Research ethics and data protection,method,"",research_application,institutions|power_culture|digital_ai,relatively_stable,not_assessed,candidate,direct,G02|G14|C08|C10,不仅是法规清单
+p-shannon,克劳德·香农,Claude Shannon,person,"",communication,digital_ai|research_application,relatively_stable,not_assessed,candidate,pending,G11,需补原著与信息论进入传播研究的边界
+p-lasswell,哈罗德·拉斯韦尔,Harold Lasswell,person,"",communication,effects|institutions,relatively_stable,not_assessed,candidate,pending,G11,需补5W原文和政治传播关系
+p-hall,斯图亚特·霍尔,Stuart Hall,person,"",meaning,effects|power_culture,relatively_stable,not_assessed,candidate,pending,G02|G11,需补编码解码与表征原典
+p-mcluhan,马歇尔·麦克卢汉,Marshall McLuhan,person,"",media_society,digital_ai,relatively_stable,not_assessed,candidate,pending,G11,需补媒介理论原著
+p-mccombs,马克斯韦尔·麦库姆斯,Maxwell McCombs,person,"",effects,institutions,relatively_stable,not_assessed,candidate,pending,G08,需补议程设置原典与档案
+p-shaw,唐纳德·肖,Donald Shaw,person,"",effects,institutions,relatively_stable,not_assessed,candidate,pending,G08,需补议程设置原典与档案
+p-gerbner,乔治·格伯纳,George Gerbner,person,"",effects,media_society|institutions,relatively_stable,not_assessed,candidate,pending,G11,需补涵化原典
+p-habermas,于尔根·哈贝马斯,Jürgen Habermas,person,"",institutions,power_culture,relatively_stable,not_assessed,candidate,pending,G04,需补公共领域原著与批评
+p-fang,方汉奇,Fang Hanqi,person,"",institutions,power_culture|research_application,relatively_stable,not_assessed,candidate,pending,C12|C15,已有人物线索；需补机构档案、代表作和学术评价
+p-guo,郭庆光,Guo Qingguang,person,"",communication,effects|research_application,relatively_stable,not_assessed,candidate,pending,C14,教材使用只是线索；需补正式身份与学术评价

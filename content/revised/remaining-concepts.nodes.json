@@ -1,0 +1,1192 @@
+[
+  {
+    "id": "r1-communication-world",
+    "slug": "communication-constructs-worlds",
+    "record_level": "complete",
+    "type": "concept",
+    "subtype": "meta",
+    "name_zh": "传播建构社会世界",
+    "name_original": "Communication constructs social worlds",
+    "aliases": [],
+    "summary": "“传播建构社会世界”是一项学科入口命题：传播不仅把已经存在的信息从一处送到另一处，人们也通过互动创造和再创造关系、身份、组织、冲突与共同现实。它是一组社会建构取向的共同问题，不是单一理论。",
+    "why_it_matters": "这个入口能防止学生把传播学缩减为渠道效率或宣传技巧，并帮助他们看到日常对话、制度文本、媒介技术和公共叙事如何参与塑造可行动的社会现实。",
+    "key_points": [
+      {
+        "id": "r1cw-k1",
+        "statement": "NCA把传播描述为跨情境的关系性、协作性力量，并明确提出传播参与建构社会世界。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S067",
+            "locator": "What is Communication, paragraphs 56 and 64",
+            "support_note": "NCA 官方页面直接给出学科定义和建构社会世界的表述。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r1cw-k2",
+        "statement": "社会建构取向把互动视为创造和再创造社会世界的过程，并可研究身份、关系、冲突、媒介、技术、健康、组织和文化。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S072",
+            "locator": "division overview",
+            "support_note": "NCA 相关学术分会直接说明共同取向与对象范围。",
+            "support_role": "supports"
+          }
+        ]
+      }
+    ],
+    "limits_or_debates": [
+      {
+        "id": "r1cw-l1",
+        "statement": "把传播称为‘建构性’不等于否认物质条件、制度约束或事实世界，也不表示语言可以任意创造一切。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "S072",
+            "locator": "division overview and listed contexts",
+            "support_note": "页面把建构过程放在关系、组织、媒介和技术等具体情境中；本条据此限定过度解读。",
+            "support_role": "qualifies"
+          }
+        ]
+      },
+      {
+        "id": "r1cw-l2",
+        "statement": "该命题是导航入口，不能代替对符号互动、社会建构论、协调意义管理等具体理论的区分。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "S072",
+            "locator": "division overview",
+            "support_note": "官方页面描述的是学术共同取向而非单一命题体系。",
+            "support_role": "qualifies"
+          }
+        ]
+      }
+    ],
+    "area_memberships": [
+      {
+        "area_id": "communication",
+        "is_primary": true,
+        "rationale": "作为理解传播过程的元层入口。"
+      },
+      {
+        "area_id": "meaning",
+        "is_primary": false,
+        "rationale": "社会现实的建构依赖意义协商。"
+      },
+      {
+        "area_id": "power_culture",
+        "is_primary": false,
+        "rationale": "身份、关系和制度现实的建构与权力相连。"
+      }
+    ],
+    "learning_resources": [
+      {
+        "title": "What is Communication?",
+        "source_id": "S067",
+        "purpose": "先把建构命题放回整个传播学的多传统格局。",
+        "level": "introductory",
+        "locator": "paragraphs 56–64"
+      },
+      {
+        "title": "Communication as Social Construction Division",
+        "source_id": "S072",
+        "purpose": "查看该取向如何连接身份、关系、组织、技术与文化研究。",
+        "level": "introductory",
+        "locator": "overview"
+      }
+    ],
+    "learning_links": [
+      {
+        "target_id": "r1-process",
+        "reason": "与传递／过程模型比较，理解传播的多种元模型。",
+        "sequence_hint": "compare"
+      },
+      {
+        "target_id": "r2-representation",
+        "reason": "继续学习意义如何通过符号表征被生产。",
+        "sequence_hint": "after"
+      },
+      {
+        "target_id": "r1-interpersonal",
+        "reason": "在具体互动中观察关系和身份的共同形成。",
+        "sequence_hint": "after"
+      }
+    ],
+    "temporal_profile": "relatively_stable",
+    "last_evidence_check": "2026-09-11",
+    "controversy_status": "contested",
+    "controversy_note": "建构性解释与物质、制度、现实主义解释如何衔接，取决于具体理论。",
+    "review_status": "ready_for_review",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-11",
+    "reviewed_at": null
+  },
+  {
+    "id": "r1-feedback-noise",
+    "slug": "feedback-and-noise",
+    "record_level": "complete",
+    "type": "concept",
+    "subtype": null,
+    "name_zh": "反馈与噪音",
+    "name_original": "Feedback and noise",
+    "aliases": [],
+    "summary": "噪音指通信过程中使接收信号与发送信号出现不确定偏差的扰动；反馈则指系统输出的信息重新进入系统并影响后续行为。两者常在传播模型中同时出现，但来自不同理论问题，不能当作一对天然相反的概念。",
+    "why_it_matters": "它们帮助学生分别追问‘信息在哪里被扰动’和‘互动者如何根据结果调整下一步’，也提醒人类传播中的误解、权力和意义冲突不能全部还原为工程噪声。",
+    "key_points": [
+      {
+        "id": "r1fn-k1",
+        "statement": "Shannon的工程模型把噪声源放在信道环节，用来描述接收信号与发送信号可能出现的非预期差异。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S047",
+            "locator": "Introduction；Figure 1；discussion of noise source and received signal",
+            "support_note": "原文直接给出系统组件和噪声对信号的作用。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r1fn-k2",
+        "statement": "Wiener的控制论把通信、响应与反馈置于机器、有机体和系统调节问题中。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S073",
+            "locator": "MIT Press book overview and original edition",
+            "support_note": "开放版原著与出版社说明直接把信息、响应和反馈与控制／调节联系。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r1fn-k3",
+        "statement": "在人类传播中，反馈可能来自回应、行为和后果；噪音则可能是技术扰动，也可能只是模型对复杂误解的有限比喻。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "S047",
+            "locator": "Introduction, engineering scope boundary",
+            "support_note": "Shannon明示工程问题不处理语义，据此限制把噪音概念直接扩张到所有误解。",
+            "support_role": "qualifies"
+          },
+          {
+            "source_id": "S073",
+            "locator": "book overview",
+            "support_note": "反馈的系统性含义支持将其与单次口头回应区分。",
+            "support_role": "supports"
+          }
+        ]
+      }
+    ],
+    "limits_or_debates": [
+      {
+        "id": "r1fn-l1",
+        "statement": "将分歧、抵抗或多义理解一概称为‘噪音’，会把有意义的社会互动误判成需要消除的技术故障。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "S047",
+            "locator": "Introduction, semantic aspects boundary",
+            "support_note": "原文限定工程问题；本条是对跨域滥用的教学警示。",
+            "support_role": "qualifies"
+          }
+        ]
+      }
+    ],
+    "area_memberships": [
+      {
+        "area_id": "communication",
+        "is_primary": true,
+        "rationale": "两个概念分别解释信号扰动与循环调节。"
+      },
+      {
+        "area_id": "digital_ai",
+        "is_primary": false,
+        "rationale": "数字系统、推荐与人机互动广泛涉及反馈回路。"
+      }
+    ],
+    "learning_resources": [
+      {
+        "title": "A Mathematical Theory of Communication",
+        "source_id": "S047",
+        "purpose": "核读噪声在工程通信模型中的原始位置和语义边界。",
+        "level": "advanced",
+        "locator": "Introduction；Figure 1"
+      },
+      {
+        "title": "Cybernetics",
+        "source_id": "S073",
+        "purpose": "理解反馈如何进入控制、响应与系统调节。",
+        "level": "advanced",
+        "locator": "book overview and original edition"
+      }
+    ],
+    "learning_links": [
+      {
+        "target_id": "r1-process",
+        "reason": "先定位两个概念在传播过程模型中的位置。",
+        "sequence_hint": "before"
+      },
+      {
+        "target_id": "p-shannon",
+        "reason": "理解噪音概念的工程来源及其边界。",
+        "sequence_hint": "compare"
+      },
+      {
+        "target_id": "r7-algorithm",
+        "reason": "观察反馈回路在推荐系统中的放大和调节作用。",
+        "sequence_hint": "after"
+      }
+    ],
+    "temporal_profile": "relatively_stable",
+    "last_evidence_check": "2026-09-11",
+    "controversy_status": "contested",
+    "controversy_note": "主要争议来自把工程术语移植到人类意义互动时的适用边界。",
+    "review_status": "ready_for_review",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-11",
+    "reviewed_at": null
+  },
+  {
+    "id": "r2-representation",
+    "slug": "representation",
+    "record_level": "complete",
+    "type": "concept",
+    "subtype": null,
+    "name_zh": "表征",
+    "name_original": "Representation",
+    "aliases": [],
+    "summary": "表征是人们借助语言、图像、声音和其他符号系统生产并交换意义的过程。它不只是把一个已经固定的现实复制出来，还涉及概念、符号、文化代码和解释如何使对象变得可理解。",
+    "why_it_matters": "表征让学生能够分析新闻、影视、广告和平台界面怎样命名群体、组织差异、赋予价值并形成可见性，而不是只问内容是否‘像真的’。",
+    "key_points": [
+      {
+        "id": "r2rep-k1",
+        "statement": "Hall把表征界定为通过语言有意义地谈论世界、并生产和交换意义的关键文化过程。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S074",
+            "locator": "Chapter 1, pp. 15–19, Representation, meaning and language",
+            "support_note": "章节开篇直接给出表征与意义、语言及文化的关系。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r2rep-k2",
+        "statement": "广义语言包括能够承载意义的符号系统，因此表征分析不限于文字，也可进入图像、声音、物体和数字界面。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S074",
+            "locator": "Chapter 1, language as a representational system",
+            "support_note": "Hall明确列举声音、文字、图像、音符和物体等符号形式。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r2rep-k3",
+        "statement": "表征意义依赖共享代码，但代码并非自然不变；历史与权力关系会影响哪些意义显得正常、真实或可说。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S074",
+            "locator": "Chapter 1, Sharing the codes；Discourse, power and the subject",
+            "support_note": "章节从共享代码推进到话语、历史化与权力／知识。",
+            "support_role": "supports"
+          }
+        ]
+      }
+    ],
+    "limits_or_debates": [
+      {
+        "id": "r2rep-l1",
+        "statement": "表征并不意味着现实不存在，也不意味着任何解释同样成立；分析必须展示符号材料、代码、语境和解释之间的证据链。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "S074",
+            "locator": "Chapter 1, theories of representation and conclusion",
+            "support_note": "据章节对反映、意向与建构取向的区分形成教学边界。",
+            "support_role": "qualifies"
+          }
+        ]
+      }
+    ],
+    "area_memberships": [
+      {
+        "area_id": "meaning",
+        "is_primary": true,
+        "rationale": "表征直接解释意义如何经符号系统被生产。"
+      },
+      {
+        "area_id": "power_culture",
+        "is_primary": false,
+        "rationale": "谁被如何呈现、哪些代码占主导与权力相关。"
+      }
+    ],
+    "learning_resources": [
+      {
+        "title": "The Work of Representation",
+        "source_id": "S074",
+        "purpose": "依次理解意义、语言、代码、符号学和话语的层次。",
+        "level": "intermediate",
+        "locator": "pp. 15–61"
+      }
+    ],
+    "learning_links": [
+      {
+        "target_id": "r2-semiotics",
+        "reason": "先掌握符号关系，再进入文化表征。",
+        "sequence_hint": "before"
+      },
+      {
+        "target_id": "r2-discourse",
+        "reason": "进一步理解表征规则与权力／知识。",
+        "sequence_hint": "after"
+      },
+      {
+        "target_id": "r2-encoding-decoding",
+        "reason": "观察表征意义在生产与受众解读中的不对称。",
+        "sequence_hint": "after"
+      }
+    ],
+    "temporal_profile": "relatively_stable",
+    "last_evidence_check": "2026-09-11",
+    "controversy_status": "contested",
+    "controversy_note": "不同理论对现实、主体、符号与权力的关系判断不同；本知识点以Hall的教学框架为入口。",
+    "review_status": "ready_for_review",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-11",
+    "reviewed_at": null
+  },
+  {
+    "id": "r2-discourse",
+    "slug": "discourse",
+    "record_level": "complete",
+    "type": "concept",
+    "subtype": null,
+    "name_zh": "话语",
+    "name_original": "Discourse",
+    "aliases": [],
+    "summary": "话语在传播研究中不是单一概念：它既可指情境化的语言与互动，也可指一套历史形成的陈述、知识、主体位置和实践规则。这个知识点以‘先辨认理论传统，再选择分析单位’为核心。",
+    "why_it_matters": "它让学生不仅分析一句话表达了什么，还能追问谁有资格发言、何种分类被当作真理、哪些主体位置与行动由此成为可能，以及这些规则如何在制度中运作。",
+    "key_points": [
+      {
+        "id": "r2dis-k1",
+        "statement": "Hall在表征框架中把从语言转向话语描述为一种历史化：研究意义如何与实践、知识、权力和主体相连。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S074",
+            "locator": "Chapter 1, pp. 41–51, Discourse, power and the subject",
+            "support_note": "章节明确从语言／符号学推进到福柯式话语、话语实践和权力／知识。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r2dis-k2",
+        "statement": "传播学中还有以具体会话、语言使用和身体互动如何组织社会生活为对象的话语与社会互动研究。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S067",
+            "locator": "What is Communication, disciplinary breadth",
+            "support_note": "NCA 学科总览支持传播研究跨越多种形式与方法；具体分会材料另作学习路径，不把两路线合并。",
+            "support_role": "qualifies"
+          },
+          {
+            "source_id": "S060",
+            "locator": "chapter abstract",
+            "support_note": "话语分析可进入档案和新媒介材料，说明其对象与方法并非只有福柯路线。",
+            "support_role": "supports"
+          }
+        ]
+      }
+    ],
+    "limits_or_debates": [
+      {
+        "id": "r2dis-l1",
+        "statement": "不能把福柯式话语、批判话语分析、会话分析和一般文本解读混写成同一种方法；它们的理论对象、分析单位与证据程序不同。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "S074",
+            "locator": "pp. 41–51",
+            "support_note": "Hall章节呈现特定福柯路线；与S060的方法范围对照，支持保留传统差异。",
+            "support_role": "qualifies"
+          },
+          {
+            "source_id": "S060",
+            "locator": "chapter abstract",
+            "support_note": "该来源呈现另一种话语分析材料路径。",
+            "support_role": "qualifies"
+          }
+        ]
+      },
+      {
+        "id": "r2dis-l2",
+        "statement": "仅凭研究者觉得某段文字‘有权力意味’不足以构成话语分析；需要明确语料范围、历史制度语境和分析步骤。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "S074",
+            "locator": "Discourse, power and the subject",
+            "support_note": "据章节的历史化和话语实践取向形成方法规范。",
+            "support_role": "qualifies"
+          }
+        ]
+      }
+    ],
+    "area_memberships": [
+      {
+        "area_id": "meaning",
+        "is_primary": true,
+        "rationale": "话语组织可说、可知和可理解的意义。"
+      },
+      {
+        "area_id": "power_culture",
+        "is_primary": false,
+        "rationale": "福柯等路线强调话语与权力／知识和主体形成。"
+      },
+      {
+        "area_id": "research_application",
+        "is_primary": false,
+        "rationale": "话语概念对应多种解释型研究设计。"
+      }
+    ],
+    "learning_resources": [
+      {
+        "title": "The Work of Representation",
+        "source_id": "S074",
+        "purpose": "从表征进入福柯式话语、历史化与权力／知识。",
+        "level": "intermediate",
+        "locator": "pp. 41–51"
+      },
+      {
+        "title": "Discourse Analysis of Archival Data",
+        "source_id": "S060",
+        "purpose": "查看话语分析如何进入档案和新媒介材料，并比较方法传统。",
+        "level": "advanced",
+        "locator": "chapter abstract and preview"
+      }
+    ],
+    "learning_links": [
+      {
+        "target_id": "r2-representation",
+        "reason": "先理解符号、代码和表征，再进入历史化话语规则。",
+        "sequence_hint": "before"
+      },
+      {
+        "target_id": "r8-interpretive-methods",
+        "reason": "区分话语概念与具体分析程序。",
+        "sequence_hint": "after"
+      },
+      {
+        "target_id": "r6-hegemony",
+        "reason": "比较话语／权力与意识形态／霸权的不同概念路线。",
+        "sequence_hint": "compare"
+      }
+    ],
+    "temporal_profile": "relatively_stable",
+    "last_evidence_check": "2026-09-11",
+    "controversy_status": "contested",
+    "controversy_note": "概念在语言互动、批判理论与福柯传统中的含义不同；网站不提供假统一定义。",
+    "review_status": "ready_for_review",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-11",
+    "reviewed_at": null
+  },
+  {
+    "id": "r3-media-systems",
+    "slug": "media-systems",
+    "record_level": "complete",
+    "type": "concept",
+    "subtype": null,
+    "name_zh": "媒介系统",
+    "name_original": "Media systems",
+    "aliases": [],
+    "summary": "媒介系统是把新闻媒介、市场、政治关系、专业实践、国家作用与历史条件作为相互关联整体来比较的分析概念。它不是一个国家所有媒体的简单清单，也不是固定不变的国别标签。",
+    "why_it_matters": "它帮助学生解释为什么相似技术进入不同社会会形成不同新闻实践与制度后果，并训练跨国比较时先处理历史、政治和样本可比性。",
+    "key_points": [
+      {
+        "id": "r3ms-k1",
+        "statement": "Hallin与Mancini的比较研究把媒介与政治关系组织为可比较的系统模型，但原研究明确聚焦西欧和北美的18个国家。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S075",
+            "locator": "book title, contents and bibliographic record",
+            "support_note": "出版社书目确认三模型与媒介—政治比较议程。",
+            "support_role": "supports"
+          },
+          {
+            "source_id": "S076",
+            "locator": "open introduction excerpt, first paragraphs",
+            "support_note": "作者直接说明原研究案例范围及选择理由。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r3ms-k2",
+        "statement": "媒介系统应被看作在特定历史条件下形成的具体社会形态，而不是抽象、普遍或天然优越的制度模板。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S076",
+            "locator": "open introduction excerpt, objectives of comparison",
+            "support_note": "作者明确反对把‘西方模式’单一化，并强调具体社会形态与历史条件。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r3ms-k3",
+        "statement": "比较模型的价值在于提出维度和差异问题，而不在于把每个国家永久塞入一个固定类型。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "S076",
+            "locator": "open introduction excerpt, concerns about universal application",
+            "support_note": "作者明确担忧三模型变成普遍套用的新框架，据此形成教学使用规则。",
+            "support_role": "qualifies"
+          }
+        ]
+      }
+    ],
+    "limits_or_debates": [
+      {
+        "id": "r3ms-l1",
+        "statement": "三模型不能直接充当全球媒介系统分类表；进入中国、拉美、非洲或其他地区时需重新检查维度、历史与案例选择。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S076",
+            "locator": "open introduction excerpt, scope and limitations",
+            "support_note": "作者直接反对普遍化，说明后续卷也不是穷尽性的世界类型手册。",
+            "support_role": "qualifies"
+          }
+        ]
+      }
+    ],
+    "area_memberships": [
+      {
+        "area_id": "media_society",
+        "is_primary": true,
+        "rationale": "概念关注媒介与政治社会结构的整体关系。"
+      },
+      {
+        "area_id": "institutions",
+        "is_primary": false,
+        "rationale": "新闻组织、职业规范和国家制度是系统比较的重要组成。"
+      },
+      {
+        "area_id": "power_culture",
+        "is_primary": false,
+        "rationale": "比较涉及权力分布及学术框架的中心／边缘问题。"
+      }
+    ],
+    "learning_resources": [
+      {
+        "title": "Comparing Media Systems: Three Models of Media and Politics",
+        "source_id": "S075",
+        "purpose": "认识经典比较框架的研究对象和结构。",
+        "level": "intermediate",
+        "locator": "contents and bibliographic record"
+      },
+      {
+        "title": "Introduction to Comparing Media Systems Beyond the Western World",
+        "source_id": "S076",
+        "purpose": "优先阅读作者对原模型样本范围和全球套用风险的自我限定。",
+        "level": "intermediate",
+        "locator": "open introduction excerpt"
+      }
+    ],
+    "learning_links": [
+      {
+        "target_id": "r3-media-institutions",
+        "reason": "从系统层进入组织、规则与职业实践层。",
+        "sequence_hint": "after"
+      },
+      {
+        "target_id": "r3-political-economy",
+        "reason": "比较系统模型与资源、权力和劳动分析。",
+        "sequence_hint": "compare"
+      },
+      {
+        "target_id": "r5-journalism",
+        "reason": "在具体新闻生产与职业实践中观察制度差异。",
+        "sequence_hint": "after"
+      }
+    ],
+    "temporal_profile": "relatively_stable",
+    "last_evidence_check": "2026-09-11",
+    "controversy_status": "contested",
+    "controversy_note": "模型的西方样本边界、全球可迁移性、数字平台变迁与国别内部差异均需持续处理。",
+    "review_status": "ready_for_review",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-11",
+    "reviewed_at": null
+  },
+  {
+    "id": "r3-media-institutions",
+    "slug": "media-institutions",
+    "record_level": "complete",
+    "type": "concept",
+    "subtype": null,
+    "name_zh": "媒介制度",
+    "name_original": "Media institutions",
+    "aliases": [],
+    "summary": "媒介制度指持续塑造传播生产、分配与问责的正式规则、组织安排、职业规范和惯例。它位于单个组织与整体媒介系统之间：既包括法律、政策与所有权，也包括新闻专业、平台规则和日常组织程序。",
+    "why_it_matters": "它帮助学生从‘某个记者／用户为什么这样做’转向‘哪些稳定规则、资源和角色使这种行动更可能’，并把内容分析与生产、治理和问责机制连接起来。",
+    "key_points": [
+      {
+        "id": "r3mi-k1",
+        "statement": "媒介制度可作为连接组织实践与媒介系统的中层概念：规则、职业角色、国家作用与资源关系共同塑造传播。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "S076",
+            "locator": "introduction, media systems as concrete social formations",
+            "support_note": "媒介系统来源提供宏观历史关系边界。",
+            "support_role": "supports"
+          },
+          {
+            "source_id": "S068",
+            "locator": "definition and social totality sections",
+            "support_note": "政治经济来源提供组织、权力和资源关系边界；本条据二者形成中层教学定义。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r3mi-k2",
+        "statement": "制度既有限制作用，也提供稳定预期、角色和行动可能；分析不能只把制度理解为法律条文。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "S076",
+            "locator": "historical social formations and comparison scope",
+            "support_note": "据作者对具体历史形态的强调，将制度扩展至规则与惯例而非仅法律。",
+            "support_role": "supports"
+          }
+        ]
+      }
+    ],
+    "limits_or_debates": [
+      {
+        "id": "r3mi-l1",
+        "statement": "‘媒介制度’与‘媒介系统’在文献中可能重叠；本站用前者指中层规则与组织安排，用后者指更广的历史关系整体，这是一项导航约定。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "S076",
+            "locator": "introduction",
+            "support_note": "来源没有强制统一本体；本条明确本站的编辑分层，避免把约定伪装成共识。",
+            "support_role": "qualifies"
+          }
+        ]
+      },
+      {
+        "id": "r3mi-l2",
+        "statement": "制度解释不能抹去行动者能动性，也不能忽略非正式规则、技术架构与跨国平台造成的制度变化。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "S068",
+            "locator": "social relations, power and historical change",
+            "support_note": "政治经济框架支持把制度置于动态社会关系中。",
+            "support_role": "qualifies"
+          }
+        ]
+      }
+    ],
+    "area_memberships": [
+      {
+        "area_id": "media_society",
+        "is_primary": true,
+        "rationale": "制度连接媒介组织、政治经济与社会结构。"
+      },
+      {
+        "area_id": "institutions",
+        "is_primary": false,
+        "rationale": "新闻、组织和公共传播的规则与问责属于直接应用场。"
+      },
+      {
+        "area_id": "digital_ai",
+        "is_primary": false,
+        "rationale": "平台规则与技术治理正在改变制度安排。"
+      }
+    ],
+    "learning_resources": [
+      {
+        "title": "Introduction to Comparing Media Systems Beyond the Western World",
+        "source_id": "S076",
+        "purpose": "理解制度必须置于具体历史社会形态中比较。",
+        "level": "intermediate",
+        "locator": "open introduction excerpt"
+      },
+      {
+        "title": "Overview of the Political Economy of Communication",
+        "source_id": "S068",
+        "purpose": "补足权力、资源、组织和历史变化的分析维度。",
+        "level": "intermediate",
+        "locator": "pp. 1–4"
+      }
+    ],
+    "learning_links": [
+      {
+        "target_id": "r3-media-systems",
+        "reason": "先在宏观比较中定位制度。",
+        "sequence_hint": "before"
+      },
+      {
+        "target_id": "r1-organizational",
+        "reason": "进入制度在组织沟通和日常程序中的实现。",
+        "sequence_hint": "after"
+      },
+      {
+        "target_id": "r7-platform-governance",
+        "reason": "观察平台规则、治理与问责形成的新制度层。",
+        "sequence_hint": "after"
+      }
+    ],
+    "temporal_profile": "relatively_stable",
+    "last_evidence_check": "2026-09-11",
+    "controversy_status": "contested",
+    "controversy_note": "概念层次与媒介系统、组织和政策研究存在交叠；本站分层属于可修订的本体约定。",
+    "review_status": "ready_for_review",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-11",
+    "reviewed_at": null
+  },
+  {
+    "id": "r5-public-opinion",
+    "slug": "public-opinion",
+    "record_level": "complete",
+    "type": "concept",
+    "subtype": null,
+    "name_zh": "公共舆论",
+    "name_original": "Public opinion",
+    "aliases": [
+      {
+        "name": "公众舆论",
+        "kind": "alternate_translation",
+        "note": null
+      }
+    ],
+    "summary": "公共舆论研究考察个人意见如何被表达、感知、互动、聚合并与群体、媒体、组织和政策过程相连。它既不是一次民调数字，也不是社交平台热度，而是跨越微观、中观与宏观层次的传播过程和规范问题。",
+    "why_it_matters": "它帮助学生区分私人态度、公开表达、感知到的多数意见、调查估计、媒体呈现与政策回应，也能看出数字平台上的‘舆情’只是公共舆论的一种可见痕迹。",
+    "key_points": [
+      {
+        "id": "r5po-k1",
+        "statement": "传播学的公共舆论研究强调大众媒介与人际讨论如何参与塑造态度、行为和认知。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S077",
+            "locator": "Introduction extract, first paragraph",
+            "support_note": "Oxford Bibliographies 导论直接说明传播学视角的重点。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r5po-k2",
+        "statement": "公共舆论过程跨越个人、群体、组织和政策层次，并适用于民主与非民主制度语境的研究。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S077",
+            "locator": "Introduction extract, micro, meso and macro levels",
+            "support_note": "导论直接列出多层次和制度语境范围。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r5po-k3",
+        "statement": "公共舆论既包含经验测量问题，也包含民主、公民身份和何为‘公共’的规范争论。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S077",
+            "locator": "Textbooks section",
+            "support_note": "导论说明教材通常同时涉及民主／公民规范与公共舆论理论、过程和数据。",
+            "support_role": "supports"
+          }
+        ]
+      }
+    ],
+    "limits_or_debates": [
+      {
+        "id": "r5po-l1",
+        "statement": "民意调查是估计特定总体意见的工具，不是公共舆论本身；抽样框、问题措辞、不回答和表达情境都会影响结果。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "S077",
+            "locator": "Introduction and Textbooks sections",
+            "support_note": "多层次定义支持调查仅是研究路径之一。",
+            "support_role": "qualifies"
+          },
+          {
+            "source_id": "S057",
+            "locator": "sampling, questionnaire and transparency sections",
+            "support_note": "AAPOR指南直接列出调查设计与报告风险。",
+            "support_role": "qualifies"
+          }
+        ]
+      },
+      {
+        "id": "r5po-l2",
+        "statement": "网络舆情是特定平台与治理语境中的可观测表达，不应与整个社会的公共舆论直接画等号。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "S077",
+            "locator": "micro, meso and macro scope",
+            "support_note": "公共舆论的多层次范围支持对平台数据做层级限定。",
+            "support_role": "qualifies"
+          }
+        ]
+      }
+    ],
+    "area_memberships": [
+      {
+        "area_id": "institutions",
+        "is_primary": true,
+        "rationale": "舆论表达、媒体呈现与政策回应构成公共传播过程。"
+      },
+      {
+        "area_id": "effects",
+        "is_primary": false,
+        "rationale": "媒介和人际讨论可能影响态度、认知与表达。"
+      },
+      {
+        "area_id": "power_culture",
+        "is_primary": false,
+        "rationale": "谁被计入公众、谁能表达和谁被听见涉及权力。"
+      }
+    ],
+    "learning_resources": [
+      {
+        "title": "Public Opinion",
+        "source_id": "S077",
+        "purpose": "先建立传播学的多层次公共舆论框架。",
+        "level": "introductory",
+        "locator": "Introduction and Textbooks"
+      },
+      {
+        "title": "Best Practices for Survey Research",
+        "source_id": "S057",
+        "purpose": "理解民调如何估计意见，以及抽样、措辞和透明度限制。",
+        "level": "intermediate",
+        "locator": "sampling, questionnaire and transparency sections"
+      }
+    ],
+    "learning_links": [
+      {
+        "target_id": "r5-public-sphere",
+        "reason": "比较公共交流空间的规范理论与意见过程。",
+        "sequence_hint": "compare"
+      },
+      {
+        "target_id": "r8-survey",
+        "reason": "学习公共意见的一种主要测量方法及其限制。",
+        "sequence_hint": "after"
+      },
+      {
+        "target_id": "r4-online-opinion",
+        "reason": "把网络舆情放回更大的公共舆论层级中。",
+        "sequence_hint": "after"
+      }
+    ],
+    "temporal_profile": "relatively_stable",
+    "last_evidence_check": "2026-09-11",
+    "controversy_status": "contested",
+    "controversy_note": "公共的边界、意见如何聚合、调查测量、表达压力与制度规范长期存在争论。",
+    "review_status": "ready_for_review",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-11",
+    "reviewed_at": null
+  },
+  {
+    "id": "r6-hegemony",
+    "slug": "ideology-and-hegemony",
+    "record_level": "complete",
+    "type": "concept",
+    "subtype": null,
+    "name_zh": "意识形态与霸权",
+    "name_original": "Ideology and hegemony",
+    "aliases": [],
+    "summary": "意识形态与霸权是相邻但不等同的概念。意识形态关注观念、分类和意义体系如何组织社会理解；葛兰西式霸权则关注领导与支配如何在国家、市民社会、知识分子和日常文化中被建立、维持或挑战。",
+    "why_it_matters": "它们帮助学生分析媒介内容为何不仅反映利益，还可能把某些秩序变成常识、组织同意并形成联盟；同时避免把所有不喜欢的观点都笼统称为‘意识形态操控’。",
+    "key_points": [
+      {
+        "id": "r6heg-k1",
+        "statement": "在葛兰西的论述中，霸权兼具领导与支配的含义，并与国家、市民社会、知识分子和阶级政治相连。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S078",
+            "locator": "section 3.1 Hegemony and related sections",
+            "support_note": "SEP 直接说明术语的双重含义及其理论网络。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r6heg-k2",
+        "statement": "葛兰西反对把意识形态与政治简单还原为经济结构的即时表达。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S078",
+            "locator": "discussion of ideology, politics and economic reductionism",
+            "support_note": "SEP条目直接说明葛兰西对经济还原论的批评。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r6heg-k3",
+        "statement": "在传播分析中，霸权更适合用来研究意义、组织、制度与同意如何协同，而不是把媒介影响想象成单向灌输。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "S078",
+            "locator": "sections on hegemony, state, civil society and intellectuals",
+            "support_note": "据概念在国家、市民社会和知识分子之间的关系形成传播学用途。",
+            "support_role": "supports"
+          }
+        ]
+      }
+    ],
+    "limits_or_debates": [
+      {
+        "id": "r6heg-l1",
+        "statement": "意识形态不等同于谎言，霸权也不等同于暴力强制；二者都需结合具体制度、文化实践和历史斗争分析。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "S078",
+            "locator": "sections 3.1–3.4",
+            "support_note": "条目把霸权放在领导／支配、国家／市民社会和意识形态的复杂关系中，支持反对简单同义替换。",
+            "support_role": "qualifies"
+          }
+        ]
+      },
+      {
+        "id": "r6heg-l2",
+        "statement": "意识形态理论内部差异很大，本知识点只用葛兰西路线建立与霸权的区分，不能代表马克思主义、精神分析或话语理论的全部版本。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "S078",
+            "locator": "full entry",
+            "support_note": "来源对象是葛兰西，证据边界不支持概括全部意识形态理论。",
+            "support_role": "qualifies"
+          }
+        ]
+      }
+    ],
+    "area_memberships": [
+      {
+        "area_id": "power_culture",
+        "is_primary": true,
+        "rationale": "概念核心是权力、常识、同意与文化政治。"
+      },
+      {
+        "area_id": "meaning",
+        "is_primary": false,
+        "rationale": "意识形态通过意义分类与表征运作。"
+      },
+      {
+        "area_id": "media_society",
+        "is_primary": false,
+        "rationale": "媒介制度与文化生产可参与霸权形成和挑战。"
+      }
+    ],
+    "learning_resources": [
+      {
+        "title": "Antonio Gramsci",
+        "source_id": "S078",
+        "purpose": "从葛兰西的国家、市民社会、知识分子与政治策略理解霸权，而非背一句定义。",
+        "level": "advanced",
+        "locator": "sections 3.1–3.6"
+      }
+    ],
+    "learning_links": [
+      {
+        "target_id": "r6-cultural-studies",
+        "reason": "理解霸权概念如何进入文化与媒介分析。",
+        "sequence_hint": "after"
+      },
+      {
+        "target_id": "r2-representation",
+        "reason": "观察意义与表征怎样参与常识形成。",
+        "sequence_hint": "compare"
+      },
+      {
+        "target_id": "r3-political-economy",
+        "reason": "把文化同意与资源、制度和阶级关系并置。",
+        "sequence_hint": "compare"
+      }
+    ],
+    "temporal_profile": "relatively_stable",
+    "last_evidence_check": "2026-09-11",
+    "controversy_status": "contested",
+    "controversy_note": "意识形态与霸权的定义、主体、经济关系和抵抗机制因理论传统而异。",
+    "review_status": "ready_for_review",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-11",
+    "reviewed_at": null
+  },
+  {
+    "id": "r7-affordance",
+    "slug": "technological-affordance",
+    "record_level": "complete",
+    "type": "concept",
+    "subtype": null,
+    "name_zh": "技术可供性",
+    "name_original": "Technological affordance",
+    "aliases": [
+      {
+        "name": "技术赋能性",
+        "kind": "alternate_translation",
+        "note": "部分中文文献译法；容易误读为只有积极赋能，本站以‘可供性’为主。"
+      }
+    ],
+    "summary": "技术可供性指技术对象与使用者之间一种多面、关系性的结构，它在特定情境中开启或限制潜在行动结果。可供性既不是界面功能清单，也不是用户主观感受，而是技术属性、行动者能力与社会情境之间的关系。",
+    "why_it_matters": "它让学生越过‘技术决定一切’与‘用户想怎么用就怎么用’的二分，比较平台的可见性、持久性、可编辑性等条件如何改变互动，而不预设所有人以同样方式实现这些可能。",
+    "key_points": [
+      {
+        "id": "r7aff-k1",
+        "statement": "Evans等把可供性概括为技术与使用者之间的多面关系结构，它在具体情境中开启或限制潜在行为结果。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S079",
+            "locator": "abstract and conceptual definition, p. 36",
+            "support_note": "论文直接给出传播研究中的关系性定义。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r7aff-k2",
+        "statement": "可供性概念的目标是支持跨技术与跨层次的理论比较，而不是为每个平台发明一套无法比较的新标签。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S079",
+            "locator": "abstract；framework and criteria sections",
+            "support_note": "作者明确以概念澄清、理论建构和多层次跨情境研究为目标。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r7aff-k3",
+        "statement": "同一功能对不同使用者或情境未必形成相同可供性，潜在可能也未必被实际实现。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "S079",
+            "locator": "relational definition and discussion of outcomes",
+            "support_note": "据技术—使用者—情境的关系定义与潜在结果形成教学解释。",
+            "support_role": "supports"
+          }
+        ]
+      }
+    ],
+    "limits_or_debates": [
+      {
+        "id": "r7aff-l1",
+        "statement": "‘点赞按钮存在’是功能描述；只有说明它与特定行动者及情境如何形成行动可能，才构成可供性分析。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "S079",
+            "locator": "conceptual clarification and relational definition",
+            "support_note": "论文专门回应传播研究中概念使用不一致问题；本条把标准转化为学生检查项。",
+            "support_role": "qualifies"
+          }
+        ]
+      },
+      {
+        "id": "r7aff-l2",
+        "statement": "可供性不是天然积极的‘赋能’：同一关系可以开启某种行动，同时限制另一种行动或加剧不平等。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S079",
+            "locator": "abstract and definition",
+            "support_note": "定义明确使用 enables or constrains，支持同时呈现开启与限制。",
+            "support_role": "supports"
+          }
+        ]
+      }
+    ],
+    "area_memberships": [
+      {
+        "area_id": "digital_ai",
+        "is_primary": true,
+        "rationale": "概念常用于解释平台和传播技术如何组织行动可能。"
+      },
+      {
+        "area_id": "communication",
+        "is_primary": false,
+        "rationale": "可供性连接媒介条件、行动者和互动过程。"
+      },
+      {
+        "area_id": "media_society",
+        "is_primary": false,
+        "rationale": "技术关系可累积为组织与社会层次后果。"
+      }
+    ],
+    "learning_resources": [
+      {
+        "title": "Explicating Affordances",
+        "source_id": "S079",
+        "purpose": "掌握关系性定义，并用概念标准检查传播技术研究。",
+        "level": "intermediate",
+        "locator": "pp. 35–52"
+      }
+    ],
+    "learning_links": [
+      {
+        "target_id": "r3-medium-theory",
+        "reason": "比较媒介形式的广义塑造作用与具体行动可能。",
+        "sequence_hint": "compare"
+      },
+      {
+        "target_id": "r7-platform-governance",
+        "reason": "观察设计、规则和治理如何共同限定平台行动。",
+        "sequence_hint": "after"
+      },
+      {
+        "target_id": "r7-hmc",
+        "reason": "用可供性分析人与机器互动中的角色和行动可能。",
+        "sequence_hint": "after"
+      }
+    ],
+    "temporal_profile": "relatively_stable",
+    "last_evidence_check": "2026-09-11",
+    "controversy_status": "contested",
+    "controversy_note": "可供性的本体地位、感知与实现、分析层次及命名标准仍存在争论。",
+    "review_status": "ready_for_review",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-11",
+    "reviewed_at": null
+  }
+]

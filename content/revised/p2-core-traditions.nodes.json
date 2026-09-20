@@ -1,0 +1,687 @@
+[
+  {
+    "id": "r1-information-cybernetics",
+    "slug": "information-theory-and-cybernetics",
+    "record_level": "complete",
+    "type": "tradition",
+    "subtype": "intellectual_tradition",
+    "name_zh": "信息论与控制论传统",
+    "name_original": "Information theory and cybernetics",
+    "aliases": [],
+    "summary": "信息论与控制论是20世纪中叶两条相邻但不相同的思想路线：前者形式化研究消息选择、信道与可靠传输，后者研究通信、反馈和控制如何使机器与有机体调节行为。它们共同改变了传播过程的词汇，但不等同于关于意义、文化或权力的完整传播理论。",
+    "why_it_matters": "这个入口帮助学生理解‘信息、噪音、反馈、系统’从哪里来，也能防止把工程上的信息量直接当成内容意义，或把一切社会回应都简化为自动调节。",
+    "central_questions": [
+      "消息如何在有噪声的信道中被选择、编码和可靠传输？",
+      "系统如何利用反馈调整后续行为？",
+      "工程与系统概念进入人类传播研究时，哪些边界必须保留？"
+    ],
+    "internal_differences": [
+      {
+        "id": "r1ic-i1",
+        "statement": "香农的信息论聚焦通信的工程问题，并明确把消息语义排除在其数学处理范围之外；维纳的控制论则把通信、响应、反馈与系统调节联系起来。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S010",
+            "locator": "Introduction与Figure 1，校正版重印PDF第1—2页",
+            "support_note": "原文直接界定工程通信问题、系统组件和语义边界。",
+            "support_role": "supports"
+          },
+          {
+            "source_id": "S073",
+            "locator": "MIT Press出版社概述；Part I Chapter IV ‘Feedback and Oscillation’目录（DOI 10.7551/mitpress/11810.003.0009）",
+            "support_note": "出版社概述把控制论界定为研究反馈回路系统中的信息流控制，章节目录直接标示反馈主题。",
+            "support_role": "supports"
+          }
+        ]
+      }
+    ],
+    "naming_boundary": "本知识点把两条历史上相邻并相互启发的路线放在同一导航入口，但不宣称它们是单一理论，也不把后来所有系统论、计算理论或人类传播模型都归入其中。",
+    "key_points": [
+      {
+        "id": "r1ic-k1",
+        "statement": "香农1948年的论文将通信的基本工程问题表述为：在一点准确或近似地重现另一点所选择的消息，并以信息源、发送器、信道、接收器、信宿与噪声源组织系统。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S010",
+            "locator": "Introduction与Figure 1，校正版重印PDF第1—2页",
+            "support_note": "原文直接给出问题界定与系统示意。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r1ic-k2",
+        "statement": "香农明确指出，消息的语义层面与其所处理的工程问题无关。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S010",
+            "locator": "Introduction，校正版重印PDF第1页",
+            "support_note": "原文直接说明semantic aspects与通信的工程问题无关。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r1ic-k3",
+        "statement": "维纳的控制论以动物与机器中的控制和通信为共同问题，使反馈成为理解系统根据结果调节后续行为的关键概念。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S073",
+            "locator": "MIT Press出版社概述；Part I Chapter IV ‘Feedback and Oscillation’目录（DOI 10.7551/mitpress/11810.003.0009）",
+            "support_note": "出版社概述与章节目录直接把控制、通信和反馈回路置于机器与有机体的共同研究框架。",
+            "support_role": "supports"
+          }
+        ]
+      }
+    ],
+    "limits_or_debates": [
+      {
+        "id": "r1ic-l1",
+        "statement": "把分歧、多义理解、抵抗或权力冲突一概称为‘噪音’，会把有意义的社会互动误判为应被消除的技术故障。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "S010",
+            "locator": "Introduction中的工程范围与语义边界",
+            "support_note": "据原文自设边界形成跨学科使用警示；不声称这是香农对社会冲突的直接论述。",
+            "support_role": "qualifies"
+          }
+        ]
+      }
+    ],
+    "area_memberships": [
+      {
+        "area_id": "communication",
+        "is_primary": true,
+        "rationale": "它为消息传输、噪音、反馈和系统过程提供历史基础。"
+      },
+      {
+        "area_id": "digital_ai",
+        "is_primary": false,
+        "rationale": "数字通信、计算与自动调节继续使用信息和反馈概念，但当代系统不能由经典原典直接解释完毕。"
+      },
+      {
+        "area_id": "research_application",
+        "is_primary": false,
+        "rationale": "它提醒研究者区分工程量、系统模型与人类意义解释的证据层次。"
+      }
+    ],
+    "learning_resources": [
+      {
+        "title": "A Mathematical Theory of Communication",
+        "source_id": "S010",
+        "purpose": "先读引言和系统图，理解工程问题、消息选择与语义边界。",
+        "level": "intermediate",
+        "locator": "Introduction与Figure 1，校正版重印PDF第1—2页"
+      },
+      {
+        "title": "Cybernetics: Or Control and Communication in the Animal and the Machine",
+        "source_id": "S073",
+        "purpose": "进入反馈、控制与通信的系统论问题。",
+        "level": "advanced",
+        "locator": "MIT Press出版社概述与Part I Chapter IV目录；本轮未将受限的章节入口冒充全文通读"
+      },
+      {
+        "title": "Claude E. Shannon",
+        "source_id": "S046",
+        "purpose": "从IEEE学会人物页核对信息论的工程与学科史语境。",
+        "level": "introductory",
+        "locator": "全文"
+      }
+    ],
+    "learning_links": [
+      {
+        "target_id": "r1-process",
+        "reason": "比较工程通信系统与更广的人类传播过程入口。",
+        "sequence_hint": "after"
+      },
+      {
+        "target_id": "r1-feedback-noise",
+        "reason": "分别追踪噪音与反馈的来源、功能和跨域使用边界。",
+        "sequence_hint": "after"
+      },
+      {
+        "target_id": "p-shannon",
+        "reason": "从人物与原论文理解信息论分支，避免把整个传统归于单一作者。",
+        "sequence_hint": "compare"
+      }
+    ],
+    "temporal_profile": "relatively_stable",
+    "last_evidence_check": "2026-09-19",
+    "controversy_status": "contested",
+    "controversy_note": "主要争议在于这些工程与系统概念移植到人类传播、社会组织和数字平台时的解释边界，而不是否定其原始理论贡献。",
+    "review_status": "ready_for_review",
+    "created_at": "2026-09-19",
+    "updated_at": "2026-09-19",
+    "reviewed_at": null
+  },
+  {
+    "id": "r1-pragmatism-chicago",
+    "slug": "pragmatism-and-chicago-communication-thought",
+    "record_level": "complete",
+    "type": "tradition",
+    "subtype": "intellectual_tradition",
+    "name_zh": "实用主义与芝加哥传播思想",
+    "name_original": "Pragmatism and Chicago communication thought",
+    "aliases": [
+      {
+        "name": "芝加哥学派传播思想",
+        "kind": "common_name",
+        "note": "便于中文教学导航的简称；不表示当时存在边界固定的传播学系派。"
+      }
+    ],
+    "summary": "实用主义与芝加哥传播思想把传播放进行动、经验、符号互动、共同体、公共舆论与城市生活中理解。杜威、米德和帕克提供了彼此关联但并不相同的问题线索；学生可由此继续比较传播的仪式观、符号互动、公共舆论和城市传播等问题。",
+    "why_it_matters": "它让学生看到传播学并非只从大众媒介效果研究开始：传播也被用来解释自我如何形成、共同经验如何可能、公众如何出现，以及新闻与城市生活如何被经验研究。",
+    "central_questions": [
+      "传播如何使共同经验、共同体与公共生活成为可能？",
+      "语言、姿态和角色承担如何参与自我与社会互动的形成？",
+      "新闻、城市观察和公共舆论如何成为经验研究对象？"
+    ],
+    "internal_differences": [
+      {
+        "id": "r1pc-i1",
+        "statement": "杜威侧重经验、教育、民主与共同体；米德分析语言、有意义的符号、角色承担和自我形成；帕克把新闻经历、公共舆论、城市与集体行为带入经验社会研究。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "P209",
+            "locator": "关于pragmatism、democracy、public knowledge及1894年赴芝加哥的段落",
+            "support_note": "密歇根大学人物页直接支持杜威的实用主义、民主与芝加哥经历。",
+            "support_role": "supports"
+          },
+          {
+            "source_id": "P210",
+            "locator": "Communication and Participation，第6节",
+            "support_note": "大学Dewey中心的教学整理支持杜威对传播、共同体与参与的连接。",
+            "support_role": "supports"
+          },
+          {
+            "source_id": "S130",
+            "locator": "Introduction、Life and Influences、Language and Mind",
+            "support_note": "SEP条目直接支持米德的实用主义位置、与杜威的关系及通过传播形成自我的理论。",
+            "support_role": "supports"
+          },
+          {
+            "source_id": "P211",
+            "locator": "新闻经历、Thought News、Chicago School of Sociology段落",
+            "support_note": "芝加哥大学图书馆页面直接支持帕克与新闻、公共舆论和芝加哥社会学的连接。",
+            "support_role": "supports"
+          }
+        ]
+      }
+    ],
+    "naming_boundary": "这是本站为本科导航组织的思想传统入口，不宣称杜威、米德和帕克组成过一个名称、成员与纲领都固定的‘传播学派’，也不把整个芝加哥社会学传统压缩成传播理论。",
+    "key_points": [
+      {
+        "id": "r1pc-k1",
+        "statement": "米德被置于古典美国实用主义传统中，并把自我的发展与传播、语言和预期他人回应联系起来；但他本人没有使用后来‘符号互动论’这一名称。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S130",
+            "locator": "Introduction；Language and Mind；Roles, the Self, and the Generalized Other",
+            "support_note": "条目直接说明其实用主义位置、传播与自我理论，以及后设命名边界。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r1pc-k2",
+        "statement": "杜威的实用主义与社会改革取向把教育、民主、公共知识和参与连接起来，并在1894年进入芝加哥大学继续其实验教育实践。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "P209",
+            "locator": "关于pragmatism、democracy、public knowledge及University of Chicago的连续段落",
+            "support_note": "校方人物页直接记录这些思想与任职线索。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r1pc-k3",
+        "statement": "帕克把新闻实践、记录公共舆论的设想和城市社会研究连接起来，并成为芝加哥社会学兴起的重要人物。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "P211",
+            "locator": "记者经历、Thought News与Chicago School of Sociology段落",
+            "support_note": "大学图书馆资料直接记录这三条连接。",
+            "support_role": "supports"
+          }
+        ]
+      }
+    ],
+    "limits_or_debates": [
+      {
+        "id": "r1pc-l1",
+        "statement": "若只把这一路线讲成几位男性学者的线性谱系，会遮蔽同时期改革网络、城市不平等、种族与性别问题，也会把跨学科交叉误写成后来传播学的单一起源。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "P209",
+            "locator": "实用主义、社会改革与芝加哥经历段落",
+            "support_note": "来源显示思想与制度情境；对线性起源叙事的限制是本站教学归纳。",
+            "support_role": "qualifies"
+          },
+          {
+            "source_id": "P211",
+            "locator": "新闻、公共舆论、城市与Chicago School段落",
+            "support_note": "来源支持多重问题线索，不支持把它们压成单一学科起点。",
+            "support_role": "qualifies"
+          }
+        ]
+      }
+    ],
+    "area_memberships": [
+      {
+        "area_id": "communication",
+        "is_primary": true,
+        "rationale": "它把传播视为行动、互动、共同体与公共生活的构成过程。"
+      },
+      {
+        "area_id": "meaning",
+        "is_primary": false,
+        "rationale": "语言、有意义的符号、角色承担与自我形成是其重要问题。"
+      },
+      {
+        "area_id": "institutions",
+        "is_primary": false,
+        "rationale": "新闻、公共舆论、民主参与与城市公共生活构成制度性入口。"
+      }
+    ],
+    "learning_resources": [
+      {
+        "title": "George Herbert Mead",
+        "source_id": "S130",
+        "purpose": "理解实用主义、传播、自我与符号互动的思想线索及命名边界。",
+        "level": "intermediate",
+        "locator": "Introduction与Sections 1—3"
+      },
+      {
+        "title": "John Dewey Bio",
+        "source_id": "P209",
+        "purpose": "了解杜威的实用主义、民主、公共知识与芝加哥经历。",
+        "level": "introductory",
+        "locator": "人物页正文"
+      },
+      {
+        "title": "Robert E. Park (1864–1944): Sociology",
+        "source_id": "P211",
+        "purpose": "把新闻经验、公共舆论、城市研究和芝加哥社会学联系起来。",
+        "level": "introductory",
+        "locator": "新闻经历、Thought News与Chicago School段落"
+      }
+    ],
+    "learning_links": [
+      {
+        "target_id": "c-symbolic-interaction",
+        "reason": "沿米德的语言、自我与角色承担进入符号互动，同时保留后来命名边界。",
+        "sequence_hint": "after"
+      },
+      {
+        "target_id": "c-ritual-view",
+        "reason": "比较传播作为共同经验与文化维系过程的后续发展。",
+        "sequence_hint": "after"
+      },
+      {
+        "target_id": "r5-public-opinion",
+        "reason": "从帕克的新闻与公众问题进入公共舆论研究。",
+        "sequence_hint": "after"
+      }
+    ],
+    "temporal_profile": "relatively_stable",
+    "last_evidence_check": "2026-09-19",
+    "controversy_status": "contested",
+    "controversy_note": "争议集中在‘芝加哥学派’边界、传播学起源叙事以及后来学科如何选择性继承实用主义和社会学资源。",
+    "review_status": "ready_for_review",
+    "created_at": "2026-09-19",
+    "updated_at": "2026-09-19",
+    "reviewed_at": null
+  },
+  {
+    "id": "r6-frankfurt-critical-theory",
+    "slug": "frankfurt-school-critical-theory",
+    "record_level": "complete",
+    "type": "tradition",
+    "subtype": "intellectual_tradition",
+    "name_zh": "法兰克福学派与批判理论",
+    "name_original": "Frankfurt School critical theory",
+    "aliases": [
+      {
+        "name": "法兰克福学派批判理论",
+        "kind": "common_name",
+        "note": "中文传播学课程中的常见合称。"
+      }
+    ],
+    "summary": "法兰克福学派与批判理论以资本主义社会总体、工具理性、文化工业、权威主义和解放可能为问题背景，追问电影、广播、杂志等大众文化形式如何嵌入商品化与社会支配。后续批判理论并非对早期命题的简单重复，哈贝马斯等人的路线与早期学派既有继承也有显著分歧。",
+    "why_it_matters": "它帮助学生把媒介内容、文化生产、经济结构、主体形成和民主能力放到同一批判问题中，也能理解批判传统内部为何会对受众、理性和公共沟通提出不同判断。",
+    "central_questions": [
+      "大众文化生产如何与商品形式、标准化和社会支配相联？",
+      "媒介经验如何参与主体、欲望、权威和民主判断能力的形成？",
+      "批判理论如何为社会批判说明规范依据与解放可能？"
+    ],
+    "internal_differences": [
+      {
+        "id": "r6ft-i1",
+        "statement": "早期法兰克福学派的文化工业批判强调社会总体、商品化、标准化和主体自主性的受限；哈贝马斯后来把公共领域、交往行动、话语伦理与民主合法性发展为不同的批判理论方案。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "P223",
+            "locator": "§1 Biographical Sketch与§4.2 Culture",
+            "support_note": "SEP条目直接说明早期学派、文化工业及其社会理论位置。",
+            "support_role": "supports"
+          },
+          {
+            "source_id": "S054",
+            "locator": "Introduction；Biography；The Public Sphere；Habermas's Critical Social Theory",
+            "support_note": "SEP条目直接说明哈贝马斯与法兰克福学派的复杂关系及其后续理论项目。",
+            "support_role": "supports"
+          }
+        ]
+      }
+    ],
+    "naming_boundary": "本知识点不是把所有马克思主义媒介批评、传播政治经济学和文化研究合并为一个学派，也不把‘法兰克福学派’写成成员、年代与命题完全固定的组织。哈贝马斯常被归为第二代，但其关系需要保留复杂性。",
+    "key_points": [
+      {
+        "id": "r6ft-k1",
+        "statement": "法兰克福社会研究所构成后来被称为法兰克福学派批判理论的重要制度中心，阿多诺是其核心人物之一。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "P223",
+            "locator": "§1 Biographical Sketch",
+            "support_note": "SEP条目直接说明研究所、传统名称及核心成员范围。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r6ft-k2",
+        "statement": "霍克海默与阿多诺把电影、广播和杂志视为相互联结的文化工业系统，并批判其生产、分配与消费中的商品化、合理化和标准化。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "P224",
+            "locator": "章节开头关于film、radio、magazines、system与standardization的连续段落",
+            "support_note": "可访问章节转录直接呈现媒介系统、标准化与商品化批判。",
+            "support_role": "supports"
+          },
+          {
+            "source_id": "P223",
+            "locator": "§4.2 Culture",
+            "support_note": "SEP条目对文化工业概念及其生产、分配、消费范围作学术综合。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r6ft-k3",
+        "statement": "阿多诺在美国曾参与拉扎斯菲尔德主持的普林斯顿广播研究项目，并以广播音乐和音乐录音为材料研究商品形式与聆听。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "P223",
+            "locator": "§4.2 Culture中Princeton Radio Project段落",
+            "support_note": "条目直接记录合作经历、广播音乐与音乐录音研究。",
+            "support_role": "supports"
+          }
+        ]
+      }
+    ],
+    "limits_or_debates": [
+      {
+        "id": "r6ft-l1",
+        "statement": "文化工业论不应被缩写为‘大众都是被动的’：其分析针对特定资本主义文化生产结构，后续研究还需检验不同受众实践、历史条件和媒介制度。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "P223",
+            "locator": "§4.2 Culture末段关于接受复杂性与变化条件下后续研究的讨论",
+            "support_note": "条目明确记录后续研究对接受复杂性和历史变化的讨论，据此形成教学限定。",
+            "support_role": "qualifies"
+          }
+        ]
+      }
+    ],
+    "area_memberships": [
+      {
+        "area_id": "power_culture",
+        "is_primary": true,
+        "rationale": "传统核心是文化、主体与社会支配如何相互构成。"
+      },
+      {
+        "area_id": "media_society",
+        "is_primary": false,
+        "rationale": "电影、广播、杂志与文化生产制度是经典分析对象。"
+      },
+      {
+        "area_id": "institutions",
+        "is_primary": false,
+        "rationale": "公共领域、民主合法性与制度化文化生产构成后续问题。"
+      }
+    ],
+    "learning_resources": [
+      {
+        "title": "Theodor W. Adorno",
+        "source_id": "P223",
+        "purpose": "先了解法兰克福学派、阿多诺的美国广播研究和文化工业问题。",
+        "level": "introductory",
+        "locator": "§1 Biographical Sketch、§4 Critical Social Theory与§4.2 Culture"
+      },
+      {
+        "title": "The Culture Industry: Enlightenment as Mass Deception",
+        "source_id": "P224",
+        "purpose": "阅读电影、广播、杂志、商品化与标准化的经典批判。",
+        "level": "advanced",
+        "locator": "章节转录；使用时与正式版本书目交叉核对"
+      },
+      {
+        "title": "Jürgen Habermas",
+        "source_id": "S054",
+        "purpose": "理解后续批判理论的公共领域、交往行动与民主路线，并保留其与学派的复杂关系。",
+        "level": "intermediate",
+        "locator": "Introduction、Biography、Sections 1.2与2.4"
+      }
+    ],
+    "learning_links": [
+      {
+        "target_id": "p-theodor-adorno",
+        "reason": "由人物经历进入文化工业、广播研究与早期批判理论。",
+        "sequence_hint": "after"
+      },
+      {
+        "target_id": "r3-political-economy",
+        "reason": "比较文化与主体批判同传播资源、劳动、所有权和制度分析的不同重心。",
+        "sequence_hint": "compare"
+      },
+      {
+        "target_id": "r6-cultural-studies",
+        "reason": "比较早期文化工业批判与文化研究对日常文化、受众和能动性的不同处理。",
+        "sequence_hint": "compare"
+      }
+    ],
+    "temporal_profile": "relatively_stable",
+    "last_evidence_check": "2026-09-19",
+    "controversy_status": "contested",
+    "controversy_note": "争议涉及文化工业论的历史适用范围、受众能动性、经验研究方法，以及后续批判理论与早期学派之间的连续与断裂。",
+    "review_status": "ready_for_review",
+    "created_at": "2026-09-19",
+    "updated_at": "2026-09-19",
+    "reviewed_at": null
+  },
+  {
+    "id": "r8-development-communication",
+    "slug": "development-and-participatory-communication",
+    "record_level": "complete",
+    "type": "application",
+    "subtype": "practice_field",
+    "name_zh": "发展传播与参与式传播",
+    "name_original": "Development and participatory communication",
+    "aliases": [
+      {
+        "name": "发展传播",
+        "kind": "common_name",
+        "note": "宽泛名称；本站在同一入口中明确区分扩散式与参与式路线。"
+      }
+    ],
+    "summary": "发展传播研究传播如何参与社会发展与集体行动。领域内部既有以信息传递、创新扩散和行为改变为重心的路线，也有强调对话、在地知识、共同界定问题和参与决策的路线；实践中二者可以组合，但不能因此抹去权力与参与程度的差异。",
+    "why_it_matters": "这个入口把传播学放回全球南方、农村发展、公共项目与社区行动的具体场景，帮助学生追问：谁定义问题、谁的知识被承认、谁能参与决策，以及项目究竟用什么标准评价成效。",
+    "central_questions": [
+      "信息传播、创新扩散与行为改变在什么条件下有助于发展行动？",
+      "社区成员与利益相关者如何参与问题界定、方案设计和行动决策？",
+      "参与式方法如何处理知识差异、权力不平等与评价责任？"
+    ],
+    "internal_differences": [
+      {
+        "id": "r8dc-i1",
+        "statement": "Mefalopulos为世界银行撰写的资料书区分两种不同但可组合的模式：单向、扩散式路线强调信息传递和预定目标；对话、参与式路线强调共同探究、在地知识与利益相关者参与。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "Q351",
+            "locator": "PDF pp.41–52、76–78与94",
+            "support_note": "世界银行资料直接区分monologic/diffusion与dialogic/participatory模式，并说明两者可按情境组合。",
+            "support_role": "supports"
+          }
+        ]
+      }
+    ],
+    "naming_boundary": "本知识点不是把所有以发展为目标的传播活动都称为参与式传播，也不把机构项目手册当成该领域唯一共识。‘参与’可能从征询意见到共同决策不等，必须检查实际权力安排。",
+    "key_points": [
+      {
+        "id": "r8dc-k1",
+        "statement": "Mefalopulos的世界银行资料书把扩散式发展传播概括为围绕信息传递、创新采用和预定行为目标组织，并把参与式路线概括为以对话、共同问题界定和利益相关者参与为过程中心。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "Q351",
+            "locator": "PDF pp.41–52、76–78与94",
+            "support_note": "来源直接比较两类模式的目的、沟通方向、问题界定与参与方式。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r8dc-k2",
+        "statement": "联合国粮农组织把发展传播实践描述为一种结果导向且参与式的路径，强调知情决策、知识分享、利益相关者参与、农村传播服务、参与式视频与农村广播。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "Q352",
+            "locator": "页面定义、ComDev at FAO与ComDev in Action",
+            "support_note": "FAO当前页面直接列出该机构的定义与实践范围。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r8dc-k3",
+        "statement": "IAMCR参与式传播研究分会不以某一种特定的参与定义为前提，其关注议题包括民主、传播权、可持续发展、社区媒体、参与式行动研究，以及参与、赋权与性别关系。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "Q353",
+            "locator": "研究分会简介与Topics of Interest",
+            "support_note": "IAMCR研究分会页面直接说明定义多样性并列出研究范围。",
+            "support_role": "supports"
+          }
+        ]
+      }
+    ],
+    "limits_or_debates": [
+      {
+        "id": "r8dc-l1",
+        "statement": "项目使用‘参与者’或开展咨询，并不能自动证明参与者拥有共同决策权；判断参与程度仍需检查谁定义问题、谁控制知识和资源、哪些声音被排除，以及最终决定由谁作出。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "Q351",
+            "locator": "PDF pp.41–52、76–78与94",
+            "support_note": "来源对参与模式、问题界定与决策位置的区分支持这一教学检查框架。",
+            "support_role": "qualifies"
+          },
+          {
+            "source_id": "Q353",
+            "locator": "研究分会简介与Topics of Interest",
+            "support_note": "来源对赋权、性别、传播权与参与定义多样性的强调，限定了‘参与’的表面标签。",
+            "support_role": "qualifies"
+          }
+        ]
+      }
+    ],
+    "area_memberships": [
+      {
+        "area_id": "research_application",
+        "is_primary": true,
+        "rationale": "它把传播理论、研究方法与社会发展项目的设计、行动和评价相连。"
+      },
+      {
+        "area_id": "power_culture",
+        "is_primary": false,
+        "rationale": "知识权威、参与资格、赋权与被排除声音都是核心问题。"
+      },
+      {
+        "area_id": "institutions",
+        "is_primary": false,
+        "rationale": "政府、国际组织、社区组织和传播服务共同塑造实践条件。"
+      }
+    ],
+    "learning_resources": [
+      {
+        "title": "Development Communication Sourcebook",
+        "source_id": "Q351",
+        "purpose": "比较扩散式与参与式模式，并理解二者组合的条件与风险。",
+        "level": "intermediate",
+        "locator": "PDF pp.41–52、76–78与94"
+      },
+      {
+        "title": "Communication for Development (ComDev)",
+        "source_id": "Q352",
+        "purpose": "查看FAO当前发展传播定义与实践领域。",
+        "level": "introductory",
+        "locator": "页面定义、ComDev at FAO与ComDev in Action"
+      },
+      {
+        "title": "Participatory Communication Research Section",
+        "source_id": "Q353",
+        "purpose": "从国际学术组织了解参与式传播的开放定义与议题范围。",
+        "level": "introductory",
+        "locator": "研究分会简介与Topics of Interest"
+      }
+    ],
+    "learning_links": [
+      {
+        "target_id": "r6-social-change",
+        "reason": "先从社会变迁问题理解发展传播为何不只是信息投放。",
+        "sequence_hint": "before"
+      },
+      {
+        "target_id": "r4-diffusion-innovations",
+        "reason": "比较创新扩散路线与参与式路线的目标、方向和权力安排。",
+        "sequence_hint": "compare"
+      },
+      {
+        "target_id": "r6-decolonial",
+        "reason": "进一步检查知识、现代化叙事与全球南方经验之间的权力关系。",
+        "sequence_hint": "compare"
+      }
+    ],
+    "temporal_profile": "evolving",
+    "as_of": "2026-09-19",
+    "last_evidence_check": "2026-09-19",
+    "next_review_due": "2027-03-19",
+    "current_evidence_state": "截至2026年9月，本知识点用世界银行资料书呈现扩散式与参与式两种可组合路线，以FAO页面说明机构实践，以IAMCR研究分会页面说明开放议题范围；这些材料不证明所有发展项目采用同一模式，也不证明参与标签自动带来共同决策或项目成效。",
+    "controversy_status": "contested",
+    "controversy_note": "争议主要涉及现代化与扩散范式、参与的实际程度、机构与社区权力不对称，以及不同评价标准能否兼顾结果和过程。",
+    "review_status": "ready_for_review",
+    "created_at": "2026-09-19",
+    "updated_at": "2026-09-19",
+    "reviewed_at": null
+  }
+]

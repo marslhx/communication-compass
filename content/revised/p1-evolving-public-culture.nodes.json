@@ -1,0 +1,770 @@
+[
+  {
+    "id": "r2-huaxia",
+    "slug": "huaxia-communication",
+    "record_level": "complete",
+    "type": "tradition",
+    "subtype": "forming_research_program",
+    "name_zh": "华夏传播研究",
+    "name_original": "Huaxia communication studies",
+    "aliases": [
+      {
+        "name": "华夏传播",
+        "kind": "common_name",
+        "note": "常用简称。"
+      },
+      {
+        "name": "华夏传播学",
+        "kind": "common_name",
+        "note": "带有体系建构目标的称谓；本知识点不预设该体系已完成。"
+      }
+    ],
+    "summary": "华夏传播研究是面向中国历史、传统与本土经验的传播学研究取向，尝试从经典、制度、媒介与具体传播实践中提炼问题和概念。它更适合被呈现为仍在形成和自我反思的研究计划，而不是已经边界统一、命题完备的单一理论。",
+    "why_it_matters": "它促使学生不只把中国经验当作西方理论的例子，而是从材料、历史语境与本土问题出发提出概念；同时也要求警惕厚古薄今、以价值认同代替证据，或把跨领域材料笼统归入一个标签。",
+    "central_questions": [
+      "中国历史中的传播活动、观念与制度可以提出哪些传播学问题？",
+      "如何从扎实史料与个案中形成可比较、可讨论的本土概念？",
+      "传统经验怎样与当代问题及跨文化理论对话，而不被浪漫化？"
+    ],
+    "internal_differences": [
+      {
+        "id": "r2hx-i1",
+        "statement": "相关研究既包含对古代媒介、制度与传播实践的历史研究，也包含从传统材料提炼本土概念和建构知识体系的理论诉求；两者的证据任务并不相同。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "S070",
+            "locator": "pp. 10–12，华夏传播研究、本土问题意识和方法段落",
+            "support_note": "笔谈同时讨论经验史料、个案方法、本土概念与知识体系建构，据此区分历史研究和理论建构任务。",
+            "support_role": "supports"
+          }
+        ]
+      }
+    ],
+    "naming_boundary": "本知识点不是所有‘中华文化对外传播’的总称，也不等同于国际传播实践；它聚焦从中国历史传统与本土经验出发的研究取向。‘华夏传播学’是一项目标性称谓，不表示统一理论体系已经完成。",
+    "key_points": [
+      {
+        "id": "r2hx-k1",
+        "statement": "2023年的学术笔谈把华夏传播概括为一种面向历史和传统的本土化传播学研究，并指出其与政治传播等领域既关联又难以严格划界。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S070",
+            "locator": "PDF pp. 11–12，正文 lines 467–477",
+            "support_note": "原文直接说明研究取向、发展历程及与政治传播议题的交叠。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r2hx-k2",
+        "statement": "从历史材料提炼本土概念需要经验材料、多元史料、个案研究与明确的方法意识，而不能只从宏大价值判断推演。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S070",
+            "locator": "PDF pp. 10–11，正文 lines 416–440",
+            "support_note": "笔谈明确强调方法、传统考据、经验材料、多元史料、个案研究和开放比较。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r2hx-k3",
+        "statement": "可核书目显示，围绕《华夏传播论》的学术讨论至少在1998年已经出现；这只能证明讨论历史，不能单独证明理论成熟度。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S071",
+            "locator": "平台元数据：篇名、作者、57/1998/7、pp. 229–238",
+            "support_note": "元数据可直接支持讨论存在及发表时间；证据用途被限定为书目史。",
+            "support_role": "supports"
+          }
+        ]
+      }
+    ],
+    "limits_or_debates": [
+      {
+        "id": "r2hx-l1",
+        "statement": "华夏传播与政治传播史、新闻史、思想史等边界存在交叠，条目归属不能代替对研究问题、材料和方法的说明。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S070",
+            "locator": "PDF pp. 11–12，正文 lines 450–475",
+            "support_note": "原文直接讨论学科归属、路径依赖和领域边界不清问题。",
+            "support_role": "qualifies"
+          }
+        ]
+      },
+      {
+        "id": "r2hx-l2",
+        "statement": "本轮证据不足以宣布一个统一、成熟的‘华夏传播学’已经形成；因此知识点保留形成中状态，并把体系建构写成研究诉求。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "S070",
+            "locator": "全文，尤其 pp. 10–12 的方法与边界反思",
+            "support_note": "现有来源显示持续探索和反思，未提供统一本体、命题与验证体系的证据。",
+            "support_role": "qualifies"
+          },
+          {
+            "source_id": "S071",
+            "locator": "metadata only",
+            "support_note": "早期书评全文尚未读取，不能扩大其证明范围。",
+            "support_role": "qualifies"
+          }
+        ]
+      }
+    ],
+    "area_memberships": [
+      {
+        "area_id": "meaning",
+        "is_primary": true,
+        "rationale": "核心任务之一是从中国传统材料中解释传播观念与意义秩序。"
+      },
+      {
+        "area_id": "power_culture",
+        "is_primary": false,
+        "rationale": "历史政治传播、文化传统与本土知识生产是重要问题。"
+      },
+      {
+        "area_id": "research_application",
+        "is_primary": false,
+        "rationale": "其成熟度取决于史料、个案、考据与比较等研究实践。"
+      }
+    ],
+    "learning_resources": [
+      {
+        "title": "政治传播史论研究笔谈",
+        "source_id": "S070",
+        "purpose": "从方法、学科边界与价值立场的反思进入华夏传播，而非先接受一个完成式定义。",
+        "level": "intermediate",
+        "locator": "pp. 10–12"
+      },
+      {
+        "title": "探索中国传播理论的可喜尝试——介绍《华夏传播论》",
+        "source_id": "S071",
+        "purpose": "作为研究史线索；取得全文后再核读早期概念与评价。",
+        "level": "advanced",
+        "locator": "当前仅核元数据"
+      }
+    ],
+    "learning_links": [
+      {
+        "target_id": "r5-china-history",
+        "reason": "先建立中国新闻传播学术史和机构史背景。",
+        "sequence_hint": "before"
+      },
+      {
+        "target_id": "r8-interpretive-methods",
+        "reason": "理解史料解释、话语分析和方法透明度。",
+        "sequence_hint": "after"
+      },
+      {
+        "target_id": "r6-decolonial",
+        "reason": "比较本土知识建构与去殖民传播研究的问题意识及差异。",
+        "sequence_hint": "compare"
+      }
+    ],
+    "temporal_profile": "evolving",
+    "as_of": "2026-09-15",
+    "last_evidence_check": "2026-09-15",
+    "next_review_due": "2027-03-15",
+    "controversy_status": "contested",
+    "controversy_note": "研究对象、学科边界、概念成熟度、价值立场及传统材料如何进入当代理论仍需持续讨论。",
+    "review_status": "ready_for_review",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-15",
+    "reviewed_at": null,
+    "current_evidence_state": "截至 2026-09-15，S070 全文支持华夏传播作为面向中国历史、传统与本土经验的形成中研究取向，并支持其对史料、个案和方法意识的要求；S071 只能确认 1998 年已有围绕《华夏传播论》的讨论。两者不构成统一理论体系、成熟命题集合或对当代中国传播实践效果的证明；本土传统、政治传播史与当代应用须分别取证。"
+  },
+  {
+    "id": "r4-info-disorder",
+    "slug": "information-disorder-polarization-trust",
+    "record_level": "complete",
+    "type": "research_topic",
+    "subtype": null,
+    "name_zh": "虚假信息、极化与信任",
+    "name_original": "Information disorder, polarization and trust",
+    "aliases": [],
+    "summary": "该主题研究错误、欺骗或伤害性信息如何被生产、分发、解释与治理，以及它们同群体极化、制度信任和平台环境的关系。‘假新闻’不是足以覆盖全部现象的精确总称。",
+    "why_it_matters": "它帮助学生区分内容真假、传播者意图、伤害方式和受众解释，避免把复杂信息生态化约成真假二分或单一平台问题。",
+    "key_points": [
+      {
+        "id": "r4id-k1",
+        "statement": "Council of Europe报告区分错误信息、虚假信息与恶意信息，以分别处理虚假性、欺骗意图和伤害。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S090",
+            "locator": "executive summary and conceptual framework",
+            "support_note": "官方报告直接提出三分框架。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r4id-k2",
+        "statement": "信息失序研究需要同时考察行动者、信息本身和解释者，而不能只做内容真假识别。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S090",
+            "locator": "three elements and phases framework",
+            "support_note": "报告明确提出agent、message、interpreter及创造—生产—分发阶段。",
+            "support_role": "supports"
+          }
+        ]
+      }
+    ],
+    "limits_or_debates": [
+      {
+        "id": "r4id-l1",
+        "statement": "错误信息、极化和信任彼此相关但不是同一变量；关于因果方向和平台效应必须依靠具体设计。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "S090",
+            "locator": "interdisciplinary framework and recommendations",
+            "support_note": "报告把问题拆为多要素与多阶段，据此限制概念合并。",
+            "support_role": "qualifies"
+          }
+        ]
+      }
+    ],
+    "area_memberships": [
+      {
+        "area_id": "effects",
+        "is_primary": true,
+        "rationale": "研究信息暴露、认知、态度、行为与信任后果。"
+      },
+      {
+        "area_id": "digital_ai",
+        "is_primary": false,
+        "rationale": "平台分发与生成式AI改变生产和扩散条件。"
+      }
+    ],
+    "learning_resources": [
+      {
+        "title": "Information Disorder",
+        "source_id": "S090",
+        "purpose": "用三类信息、三要素和三阶段建立研究问题。",
+        "level": "introductory",
+        "locator": "executive summary and framework"
+      }
+    ],
+    "learning_links": [
+      {
+        "target_id": "r2-framing",
+        "reason": "分析问题如何被选择和组织，不把框架等同于虚假。",
+        "sequence_hint": "compare"
+      },
+      {
+        "target_id": "r7-integrity",
+        "reason": "进入信息生态韧性与合成媒体治理。",
+        "sequence_hint": "after"
+      },
+      {
+        "target_id": "r8-computational",
+        "reason": "理解大规模检测与传播分析的方法及偏差。",
+        "sequence_hint": "after"
+      }
+    ],
+    "temporal_profile": "evolving",
+    "as_of": "2026-09-15",
+    "last_evidence_check": "2026-09-15",
+    "next_review_due": "2026-12-15",
+    "controversy_status": "contested",
+    "controversy_note": "定义、意图测量、平台因果、干预效果与言论权利持续争论。",
+    "review_status": "ready_for_review",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-15",
+    "reviewed_at": null,
+    "current_evidence_state": "截至 2026-09-15，S090 的官方完整报告支持 misinformation、disinformation、malinformation 及行动者—信息—解释者框架。它是概念与政策框架，不是对任一平台、国家或实时事件中虚假信息规模、极化程度、信任变化或干预效果的测量；这些结果须按人群、媒介、时段与研究设计另行核验。"
+  },
+  {
+    "id": "r4-online-opinion",
+    "slug": "online-public-opinion-governance",
+    "record_level": "complete",
+    "type": "application",
+    "subtype": null,
+    "name_zh": "网络舆情与舆情治理",
+    "name_original": "Online public opinion and governance",
+    "aliases": [],
+    "summary": "网络舆情与舆情治理关注公共议题在网络空间中的表达、聚合、扩散、感知与治理实践。平台数据只能观察特定渠道中的表达痕迹，不能直接代表全部公共舆论。",
+    "why_it_matters": "它连接公共舆论、计算方法、平台治理和危机传播，也要求学生区分研究、监测、预测、回应与控制等不同任务。",
+    "key_points": [
+      {
+        "id": "r4oo-k1",
+        "statement": "中国政策研究语境把网络舆情与公共治理、社会意见传达、传播力评估和决策信息支持相连。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S101",
+            "locator": "报告题名、摘要与治理机制讨论",
+            "support_note": "国务院发展研究中心报告直接呈现这一应用语境。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r4oo-k2",
+        "statement": "舆情数据的解释必须说明平台、时间窗、抓取规则、用户群和不可见表达，否则不能外推为社会总体意见。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "S077",
+            "locator": "public opinion across micro, meso and macro levels",
+            "support_note": "公共舆论的多层次范围支持对平台痕迹作层级限制。",
+            "support_role": "qualifies"
+          },
+          {
+            "source_id": "S061",
+            "locator": "computational communication methodological scope",
+            "support_note": "计算研究需连接数据、理论与方法，而非数据自动代表总体。",
+            "support_role": "qualifies"
+          }
+        ]
+      }
+    ],
+    "limits_or_debates": [
+      {
+        "id": "r4oo-l1",
+        "statement": "治理目标、公众表达权、隐私、错误分类和算法偏差之间可能冲突；‘及时处置’不能替代合法性与效果评估。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "S101",
+            "locator": "治理机制范围",
+            "support_note": "官方报告证明治理任务存在；规范冲突与评估要求由本站明确标为解释性边界。",
+            "support_role": "qualifies"
+          }
+        ]
+      }
+    ],
+    "area_memberships": [
+      {
+        "area_id": "effects",
+        "is_primary": true,
+        "rationale": "涉及意见表达、扩散、感知与社会反应。"
+      },
+      {
+        "area_id": "institutions",
+        "is_primary": false,
+        "rationale": "与公共治理和决策回应相连。"
+      },
+      {
+        "area_id": "digital_ai",
+        "is_primary": false,
+        "rationale": "依赖平台数据、计算监测与算法分类。"
+      }
+    ],
+    "learning_resources": [
+      {
+        "title": "网络舆情的现状、特点及治理机制研究",
+        "source_id": "S101",
+        "purpose": "作为中国治理语境入口，并主动检查材料年代与规范边界。",
+        "level": "intermediate",
+        "locator": "全文"
+      },
+      {
+        "title": "Public Opinion",
+        "source_id": "S077",
+        "purpose": "用公共舆论多层次框架限制平台数据外推。",
+        "level": "introductory",
+        "locator": "Introduction"
+      }
+    ],
+    "learning_links": [
+      {
+        "target_id": "r5-public-opinion",
+        "reason": "先区分公共舆论与平台舆情。",
+        "sequence_hint": "before"
+      },
+      {
+        "target_id": "r8-computational",
+        "reason": "理解监测、分类和网络分析的数据限制。",
+        "sequence_hint": "after"
+      },
+      {
+        "target_id": "r7-privacy",
+        "reason": "处理数据获取、识别和治理风险。",
+        "sequence_hint": "after"
+      }
+    ],
+    "temporal_profile": "evolving",
+    "as_of": "2026-09-15",
+    "last_evidence_check": "2026-09-15",
+    "next_review_due": "2027-01-15",
+    "controversy_status": "contested",
+    "controversy_note": "概念边界、代表性、治理合法性、隐私与预测能力均有争论。",
+    "review_status": "ready_for_review",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-15",
+    "reviewed_at": null,
+    "current_evidence_state": "截至 2026-09-15，S101 支持网络舆情在中国公共治理语境中的问题定位；S077 的公共舆论框架与 S061 的计算传播方法论支持限制平台数据外推。S101 是较早的治理研究材料，不能代表当前法规、平台规则或治理实践；现有来源也不证明监测、预测或处置带来实时效果，且不应将中国治理语境推广为跨法域通则。"
+  },
+  {
+    "id": "r6-race",
+    "slug": "race-ethnicity-media",
+    "record_level": "complete",
+    "type": "research_topic",
+    "subtype": null,
+    "name_zh": "种族、族群与媒介表征",
+    "name_original": "Race, ethnicity, and media representation",
+    "aliases": [],
+    "summary": "该主题研究种族与族群如何在传播中被分类、表征、制度化和争议化。当前研究强调不能只评判形象是否正面或准确，还要追问种族分类如何作为权力话语组织知识、制度与资源。",
+    "why_it_matters": "它帮助学生把刻板印象分析连接到新闻、广告、公民身份、技术、监视和知识生产中的结构权力。",
+    "key_points": [
+      {
+        "id": "r6race-k1",
+        "statement": "传播研究中的批判种族路径要求把种族理解为权力话语，而不只作为身份变量或再现对象。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S097",
+            "locator": "abstract and Race in communication studies section",
+            "support_note": "2026年ICA期刊论文直接提出这一框架。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r6race-k2",
+        "statement": "只追求公平或准确的可见性可能遗漏表征所组织的制度、知识与资源关系。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S097",
+            "locator": "Representation and beyond section",
+            "support_note": "论文直接梳理从再现准确性走向结构与话语分析的批评。",
+            "support_role": "supports"
+          }
+        ]
+      }
+    ],
+    "limits_or_debates": [
+      {
+        "id": "r6race-l1",
+        "statement": "种族与族群分类具有历史和地区差异，美国框架不能未经转换直接套用到所有社会。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "S097",
+            "locator": "framework scope and historical argument",
+            "support_note": "论文有明确历史理论位置，据此要求跨语境转换。",
+            "support_role": "qualifies"
+          }
+        ]
+      }
+    ],
+    "area_memberships": [
+      {
+        "area_id": "power_culture",
+        "is_primary": true,
+        "rationale": "研究种族化权力、表征和知识秩序。"
+      },
+      {
+        "area_id": "meaning",
+        "is_primary": false,
+        "rationale": "分类和再现通过意义系统运作。"
+      }
+    ],
+    "learning_resources": [
+      {
+        "title": "Race as a Discourse of Power",
+        "source_id": "S097",
+        "purpose": "从表征走向话语、制度和知识生产。",
+        "level": "advanced",
+        "locator": "full text"
+      }
+    ],
+    "learning_links": [
+      {
+        "target_id": "r2-representation",
+        "reason": "先掌握表征如何生产意义。",
+        "sequence_hint": "before"
+      },
+      {
+        "target_id": "r6-hegemony",
+        "reason": "连接常识、同意与制度权力。",
+        "sequence_hint": "after"
+      },
+      {
+        "target_id": "r6-gender",
+        "reason": "进行交叉性分析。",
+        "sequence_hint": "compare"
+      }
+    ],
+    "temporal_profile": "evolving",
+    "as_of": "2026-09-15",
+    "last_evidence_check": "2026-09-15",
+    "next_review_due": "2027-03-15",
+    "controversy_status": "contested",
+    "controversy_note": "分类、跨语境翻译、再现政治与结构分析之间存在争论。",
+    "review_status": "ready_for_review",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-15",
+    "reviewed_at": null,
+    "current_evidence_state": "截至 2026-09-15，S097 的开放全文支持将种族理解为权力话语、并从再现准确性扩展到制度与知识关系的概念框架。该论文不提供所有地区、族群或媒介系统的实时经验结论；种族与族群分类、历史、法律与语言语境差异须在具体研究中说明，不能把美国学术语境直接外推为全球通则。"
+  },
+  {
+    "id": "r6-decolonial",
+    "slug": "r6-decolonial",
+    "record_level": "complete",
+    "type": "tradition",
+    "subtype": null,
+    "name_zh": "后殖民与去殖民传播",
+    "name_original": "Postcolonial and decolonial communication",
+    "aliases": [
+      {
+        "name": "传播学去西方化",
+        "kind": "common_name",
+        "note": "去西方化与后殖民、去殖民路径有重叠，但关注重点和历史语境不完全相同，不作严格同义词使用。"
+      }
+    ],
+    "summary": "后殖民与去殖民传播是一组相互交叉、内部多样且仍在发展的批判性研究传统，不是一个拥有单一命题的理论。它把殖民史、当代传播结构与学术知识生产联系起来，追问谁的经验、概念、语言和方法被当作普遍标准，以及如何让地方、原住民和边缘化知识作为理论与问题来源进入传播研究。",
+    "why_it_matters": "它帮助学生在使用经典理论时同时检查知识生产位置、历史条件和外推边界，并把媒介制度、表征、发展话语与全球学术资源的不平等放在同一问题链中。这并不意味着凡是西方来源的理论都无效，而是要求用具体情境、本地历史与多地证据检验其解释力。",
+    "central_questions": [
+      "殖民统治、奴隶制、帝国关系和形式独立后的制度遗产如何影响媒介结构、表征与传播概念？",
+      "传播理论的概念、样本、方法、语言和发表规则在何种知识生产位置中形成，又如何被普遍化？",
+      "如何在引入地方、原住民和全球南方知识时，避免把“西方”或“非西方”各自想象成纯粹、固定、同质的整体？"
+    ],
+    "internal_differences": [
+      {
+        "id": "r6-decolonial-i1",
+        "statement": "去西方化、后殖民与去殖民的关注重点不完全相同：去西方化主要反思欧美中心的概念、证据和学术结构；后殖民路径常分析表征、离散、混杂性与殖民历史；去殖民路径更直接追问形式独立后仍持续的制度、资源与认识权力。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "D02",
+            "locator": "PDF pp. 2–6，“Why to De-Westernize and Decolonize Media Studies”与“The Foundations of the Decolonization Discourse”",
+            "support_note": "全文分别交代去西方化的欧美中心批评、去殖民的制度与认识遗产，以及后殖民路径对表征、混杂性和离散叙事的关注；三分法是编辑性概括。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r6-decolonial-i2",
+        "statement": "去西方化可以从研究对象、证据范围、理论与方法框架、学术文化四个层面推进；不同方案对“应扩展多地证据、重建概念，还是改变知识生产制度”的回答并不一致。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "D01",
+            "locator": "pp. 363–370，“What to de-westernize?”至结论前",
+            "support_note": "全文依次展开 subject of study、body of evidence、theoretical perspectives 与 academic cultures 四个维度，并说明它们可导向不同的研究重心。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r6-decolonial-i3",
+        "statement": "“全球南方”、“非西方”与各大洲都不是单一知识共同体；区域内部的语言、宗教、阶级、性别、种族、国家历史和学术制度差异必须另行分析。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "D01",
+            "locator": "pp. 367–368，关于二元化、本质主义与地缘文化标签的讨论",
+            "support_note": "作者直接质疑把“西方”与“非西方”组织为同质对立，并特别指出非洲、亚洲文化及宗教解释的异质性。",
+            "support_role": "supports"
+          },
+          {
+            "source_id": "D02",
+            "locator": "PDF pp. 8、13–14，去西方化批评与“Africa: Ubuntuism, Afriethics, Oramedia”开头",
+            "support_note": "综述明确指出西方和非西方社会都非同质整体，并以非洲的语言、信仰、生活方式与区域分类差异作为具体限定。",
+            "support_role": "supports"
+          }
+        ]
+      }
+    ],
+    "naming_boundary": "本知识点是 COMMPASS 为教学导航将后殖民、去殖民与去西方化讨论放在一起的伞形入口，不是学界公认的单一理论、学派或地理分类。“后殖民”不意味着殖民权力已经结束；“去殖民”也不等于删除全部西方理论。“全球南方”在此主要标记权力与知识生产位置，不是对国家、大洲或文化的同质化名单。",
+    "key_points": [
+      {
+        "id": "r6-decolonial-k1",
+        "statement": "这一传统首先要反思知识从哪里生产：研究对象与问题会受学者所在社会和学术制度影响，因此被主流理论忽略的地方现实和历史应成为概念与研究问题的来源。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "D01",
+            "locator": "pp. 363–364，“The subject of study”",
+            "support_note": "作者直接说明分析对象与研究问题反映知识生产所在社会，并主张把西方研究视野之外的议题纳入传播学。",
+            "support_role": "supports"
+          },
+          {
+            "source_id": "D03",
+            "locator": "Abstract",
+            "support_note": "Willems 以非洲媒介与传播研究史为例，指出知识生产受特定社会、政治与经济利益驱动和约束，并批评后来的“国际化／去西方化”叙事遮蔽更早的非西方学术谱系。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r6-decolonial-k2",
+        "statement": "只从少数地点或社会情境产生的论据，不应未经检验就作为普遍规律；多地证据的作用不是“补国家名单”，而是检验概念和论证能否跨情境成立。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "D01",
+            "locator": "pp. 364–365，“The body of evidence”",
+            "support_note": "作者直接要求以不同设置的证据检验普遍化主张，并说明只有国别合集而没有共同问题与比较分析，不等于去西方化。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r6-decolonial-k3",
+        "statement": "传播与媒介的当代结构需要放回殖民与后殖民历史中理解：形式上的政治独立并不自动清除旧有制度、知识分类和不平等的延续影响。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "D02",
+            "locator": "PDF pp. 2–6，去殖民概述、历史基础及媒介结构讨论",
+            "support_note": "综述明确区分政治独立与制度、知识遗产的持续，并主张以殖民历史和不平等权力关系解释媒介结构与表征。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r6-decolonial-k4",
+        "statement": "去殖民不只是更换书目或增加案例；它还要检查谁能发表、何种语言被重视、谁拥有研究资源，以及全球南方是否只被当作验证北方理论的案例产地。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "D02",
+            "locator": "PDF pp. 17–21，“Access to Resources and Networks”、“Publishing and the Politics of Citing”及结论",
+            "support_note": "全文具体讨论资源、会议、语言、出版与引证不平等，并批评把非西方设置仅当作验证西方概念的案例。",
+            "support_role": "supports"
+          }
+        ]
+      }
+    ],
+    "limits_or_debates": [
+      {
+        "id": "r6-decolonial-l1",
+        "statement": "把所有“西方理论”或所有“非西方知识”视为统一、纯粹而不变的整体，会以新的地域本质主义重复旧有二分法。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "D01",
+            "locator": "pp. 366–368，对 essentialism、Western/non-Western binary 与地域性知识的批评",
+            "support_note": "作者直接警告去西方化可能把多样思想漫画成两个同质阵营，并主张以混杂、开放和动态的知识观取代纯粹地域边界。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r6-decolonial-l2",
+        "statement": "增加非西方作者、国别个案或英语译本只是可能的起点；若研究问题、比较设计、概念权力和学术基础设施不变，纳入更多案例仍可与主流理论平行分隔。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "D01",
+            "locator": "pp. 364–365、369–370，国别“world tours”批评与结论",
+            "support_note": "作者直接说明多国案例的并置不自动构成去西方化，并警告它可能只成为与主流领域隔离的新专题。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r6-decolonial-l3",
+        "statement": "以全球南方为名只聚焦中国、印度、南非等地区强国，或让精英机构代表全部社群，会再次遮蔽区域内部的边缘人群与权力差异。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "D02",
+            "locator": "PDF pp. 19–20，结论对新兴强国、贫困行动者与知识来源的讨论",
+            "support_note": "综述明确警告只研究中国、印度或南非等强大行动者会重复忽略弱势者的旧问题。",
+            "support_role": "supports"
+          }
+        ]
+      }
+    ],
+    "area_memberships": [
+      {
+        "area_id": "power_culture",
+        "is_primary": true,
+        "rationale": "核心问题是殖民性、代表权、知识等级与文化差异如何进入传播。"
+      },
+      {
+        "area_id": "meaning",
+        "is_primary": false,
+        "rationale": "后殖民分析关注表征、命名、混杂性与边缘主体如何生产意义。"
+      },
+      {
+        "area_id": "media_society",
+        "is_primary": false,
+        "rationale": "殖民史与后殖民制度遗产是理解媒介结构、跨境流动与全球不平等的重要条件。"
+      },
+      {
+        "area_id": "research_application",
+        "is_primary": false,
+        "rationale": "这一传统直接要求检查研究问题、样本、方法、语言、引证与发表制度的权力后果。"
+      }
+    ],
+    "learning_resources": [
+      {
+        "title": "De-westernizing Communication Studies: A Reassessment",
+        "source_id": "D01",
+        "purpose": "用四个维度理解去西方化并学会检验外推，同时阅读对二元化和本质主义的自我批评。",
+        "level": "introductory",
+        "locator": "pp. 363–370"
+      },
+      {
+        "title": "De-Westernization and Decolonization in Media Studies",
+        "source_id": "D02",
+        "purpose": "比较去西方化、后殖民与去殖民的历史和问题范围，再阅读各区域案例及学术基础设施争议。",
+        "level": "intermediate",
+        "locator": "PDF pp. 2–8、13–21"
+      },
+      {
+        "title": "Provincializing Hegemonic Histories of Media and Communication Studies: Toward a Genealogy of Epistemic Resistance in Africa",
+        "source_id": "D03",
+        "purpose": "从非洲媒介与传播学的历史切入，反思谁被写入学科起源及知识生产如何受权力条件限制；本轮只核到摘要，详读前应获取正文。",
+        "level": "advanced",
+        "locator": "Abstract；正文页码 415–434 待读"
+      },
+      {
+        "title": "Undergraduate Courses",
+        "source_id": "G09",
+        "purpose": "观察开普敦大学影视与媒介研究中心如何把南非媒介、非洲电影、媒介与权力放入本科课程；课程列表只证明教学位置，不用来证明理论命题。",
+        "level": "introductory",
+        "locator": "页面“Undergraduate Courses”：FAM2003S、FAM3000F、FAM3005F"
+      }
+    ],
+    "learning_links": [
+      {
+        "target_id": "r6-cultural-studies",
+        "reason": "先比较文化研究中的表征、霸权与离散问题，再辨认后殖民和去殖民路径对殖民史与知识制度的额外追问。",
+        "sequence_hint": "before"
+      },
+      {
+        "target_id": "r6-race",
+        "reason": "继续学习殖民种族分类如何在媒介表征、国家叙事和平台可见性中延续或遭到挑战。",
+        "sequence_hint": "after"
+      },
+      {
+        "target_id": "r6-social-change",
+        "reason": "把去殖民的知识批判带入发展传播、参与、社会变迁与全球权力关系的具体讨论。",
+        "sequence_hint": "after"
+      },
+      {
+        "target_id": "r8-interpretive-methods",
+        "reason": "进一步检查档案、话语、视觉与文本分析如何选择材料、处理翻译并反思研究者位置。",
+        "sequence_hint": "after"
+      }
+    ],
+    "temporal_profile": "evolving",
+    "as_of": "2026-09-15",
+    "last_evidence_check": "2026-09-15",
+    "next_review_due": "2027-03-15",
+    "controversy_status": "contested",
+    "controversy_note": "争议包括去西方化、后殖民与去殖民的术语边界，是优先扩充样本、重建概念还是改造学术制度，以及如何避免反欧美中心论滑向新的文化本质主义。",
+    "review_status": "reviewed",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-15",
+    "reviewed_at": "2026-09-11",
+    "current_evidence_state": "截至 2026-09-15，D01 与 D02 的全文支持去西方化、后殖民与去殖民讨论的知识生产、外推边界、历史遗产与学术基础设施问题；D03 仅以摘要支持非洲传播学史的知识生产线索。这些来源构成概念与历史批评框架，不测量任何国家、平台或课程改革的实时效果；不同地区的殖民历史、原住民知识、语言制度和学术资源不能被“全球南方”或“非西方”标签替代。"
+  }
+]
+

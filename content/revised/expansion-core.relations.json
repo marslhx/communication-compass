@@ -1,0 +1,38 @@
+[
+  {
+    "id": "rel-rogers-proposed-diffusion", "source_id": "p-everett-rogers", "target_id": "r4-diffusion-innovations", "relation_type": "proposed", "statement_zh": "埃弗雷特·罗杰斯通过《创新扩散》系列著作系统建立并传播了创新扩散理论。", "scope_note": "“提出”在此指对理论框架的系统化发展，不抹去更早的扩散研究传统。", "evidence_status": "direct", "evidence": [{"source_id": "S110", "locator": "Biography", "support_note": "机构人物页明确将 Rogers 的著述与创新扩散理论、早期采用者术语及同伴传播联系起来。", "support_role": "supports"}], "controversy_note": null, "review_status": "ready_for_review", "reviewed_at": null
+  },
+  {
+    "id": "rel-noelle-proposed-spiral", "source_id": "p-noelle-neumann", "target_id": "r4-spiral-silence", "relation_type": "proposed", "statement_zh": "伊丽莎白·诺尔-诺依曼提出并发展了沉默的螺旋理论。", "scope_note": "只确认理论提出与人物研究线索，不把后续所有修正归于单一作者。", "evidence_status": "direct", "evidence": [{"source_id": "S111", "locator": "Scientific Work: Spiral of Silence", "support_note": "人物科学工作档案以专栏记录她与沉默的螺旋理论的关系。", "support_role": "supports"}], "controversy_note": null, "review_status": "ready_for_review", "reviewed_at": null
+  },
+  {
+    "id": "rel-katz-developed-two-step", "source_id": "p-elihu-katz", "target_id": "r4-two-step", "relation_type": "developed", "statement_zh": "伊莱休·卡茨通过《个人影响》及其后续研究发展了两级传播和个人影响研究。", "scope_note": "两级传播有《人民的选择》等前史，此处采用“发展”而非单独“发明”。", "evidence_status": "direct", "evidence": [{"source_id": "S114", "locator": "Biography and Personal Influence", "support_note": "宾大纪念页记录卡茨在哥伦比亚研究环境中完成《个人影响》并影响传播研究。", "support_role": "supports"}, {"source_id": "S116", "locator": "Publisher description", "support_note": "出版社简介将合著与意见领袖、人际网络中的媒介信息流联系起来。", "support_role": "supports"}], "controversy_note": null, "review_status": "ready_for_review", "reviewed_at": null
+  },
+  {
+    "id": "rel-katz-developed-opinion-leadership", "source_id": "p-elihu-katz", "target_id": "c-opinion-leadership", "relation_type": "developed", "statement_zh": "卡茨与合作者通过 Decatur 研究系统发展了意见领袖与个人影响概念。", "scope_note": "概念源流包含更早的选举研究和多位研究者，关系不作单人归功。", "evidence_status": "direct", "evidence": [{"source_id": "S116", "locator": "Publisher description", "support_note": "出版社简介直接说明《个人影响》研究意见领袖如何解释并向个人网络扩散媒介信息。", "support_role": "supports"}], "controversy_note": null, "review_status": "ready_for_review", "reviewed_at": null
+  },
+  {
+    "id": "rel-katz-developed-uses-gratifications", "source_id": "p-elihu-katz", "target_id": "r4-uses-gratifications", "relation_type": "developed", "statement_zh": "卡茨对使用与满足研究路线的发展作出了持续贡献。", "scope_note": "该理论有多位共同奠基者和不同版本，不表述为卡茨单独提出。", "evidence_status": "direct", "evidence": [{"source_id": "S114", "locator": "Career and contributions", "support_note": "宾大官方纪念页明确把 uses and gratifications 列为卡茨的传播学贡献领域。", "support_role": "supports"}], "controversy_note": null, "review_status": "ready_for_review", "reviewed_at": null
+  },
+  {
+    "id": "rel-lazarsfeld-developed-two-step", "source_id": "p-paul-lazarsfeld", "target_id": "r4-two-step", "relation_type": "developed", "statement_zh": "拉扎斯菲尔德及其合作网络通过选举与个人影响研究发展了两级传播问题。", "scope_note": "强调合作网络和研究序列，不将模型归功于单一论文或个人。", "evidence_status": "direct", "evidence": [{"source_id": "S119", "locator": "Chapters 13-16 and publisher description", "support_note": "《人民的选择》目录与出版社介绍把媒介接触、群体结构和个人影响置于同一研究中。", "support_role": "supports"}, {"source_id": "S116", "locator": "Publisher description", "support_note": "《个人影响》出版社简介明确记录 Lazarsfeld 与 Katz 的合著及意见领袖研究。", "support_role": "supports"}], "controversy_note": null, "review_status": "ready_for_review", "reviewed_at": null
+  },
+  {
+    "id": "rel-lazarsfeld-developed-opinion-leadership", "source_id": "p-paul-lazarsfeld", "target_id": "c-opinion-leadership", "relation_type": "developed", "statement_zh": "拉扎斯菲尔德及其同事通过选举研究和《个人影响》发展了意见领导问题。", "scope_note": "不把非正式社会影响缩减为一个固定的“意见领袖人格”。", "evidence_status": "direct", "evidence": [{"source_id": "S116", "locator": "Publisher description", "support_note": "来源直接把 Lazarsfeld 的合作研究与意见领袖、信息解释和个人网络扩散联系起来。", "support_role": "supports"}], "controversy_note": null, "review_status": "ready_for_review", "reviewed_at": null
+  },
+  {
+    "id": "rel-gerbner-developed-cultivation", "source_id": "p-gerbner", "target_id": "r4-cultivation", "relation_type": "developed", "statement_zh": "乔治·格伯纳领导 Cultural Indicators 研究计划并发展涵化分析。", "scope_note": "关系指研究计划和理论路线，不表示后续所有涵化研究都由他单独完成。", "evidence_status": "direct", "evidence": [{"source_id": "S044", "locator": "Cultivation Analysis, archival document pp. 6-7", "support_note": "档案材料直接说明信息系统分析、调查与不同观看量比较的涵化程序。", "support_role": "supports"}, {"source_id": "S053", "locator": "The Gerbner Years", "support_note": "学院历史页记录其研究与学科建设。", "support_role": "supports"}], "controversy_note": null, "review_status": "ready_for_review", "reviewed_at": null
+  },
+  {
+    "id": "rel-lasswell-developed-process", "source_id": "p-lasswell", "target_id": "r1-process", "relation_type": "developed", "statement_zh": "拉斯韦尔以“谁—说什么—通过何种渠道—对谁—产生什么效果”的问题链发展了传播过程分析框架。", "scope_note": "这一公式是过程分析入口，不等同于完整传播理论，也不覆盖反馈、语境和权力。", "evidence_status": "direct", "evidence": [{"source_id": "S048", "locator": "The Structure and Function of Communication in Society, opening formulation", "support_note": "原文直接列出传播行为研究的五个问题。", "support_role": "supports"}], "controversy_note": null, "review_status": "ready_for_review", "reviewed_at": null
+  },
+  {
+    "id": "rel-elm-addresses-persuasion", "source_id": "r4-elaboration-likelihood", "target_id": "r4-persuasion", "relation_type": "addresses", "statement_zh": "精细加工可能性模型用于分析受众在不同动机与能力条件下如何加工说服信息。", "scope_note": "它解释说服加工的一组机制，不等于覆盖说服研究的全部社会、文化和制度层面。", "evidence_status": "direct", "evidence": [{"source_id": "S112", "locator": "Publisher summary", "support_note": "出版社摘要明确列出两条说服路径及变量改变论据审视程度的命题。", "support_role": "supports"}], "controversy_note": null, "review_status": "ready_for_review", "reviewed_at": null
+  },
+  {
+    "id": "rel-third-person-addresses-political", "source_id": "r4-third-person-effect", "target_id": "r5-political", "relation_type": "addresses", "statement_zh": "第三人效果可用于分析政治传播中对宣传影响的判断以及由此产生的审查或管制倾向。", "scope_note": "现有来源支持宣传、统治者与审查例子，不扩展为政治传播的全部机制。", "evidence_status": "direct", "evidence": [{"source_id": "S113", "locator": "Abstract", "support_note": "原始论文摘要直接讨论宣传、政治统治者的担忧和审查行为。", "support_role": "supports"}], "controversy_note": null, "review_status": "ready_for_review", "reviewed_at": null
+  },
+  {
+    "id": "rel-two-step-has-opinion-leadership", "source_id": "r4-two-step", "target_id": "c-opinion-leadership", "relation_type": "has_concept", "statement_zh": "意见领袖是两级传播与个人影响研究中的核心概念。", "scope_note": "只说明经典模型内部的概念位置，不把当代传播流动限定为两个阶段。", "evidence_status": "direct", "evidence": [{"source_id": "S116", "locator": "Publisher description", "support_note": "出版社简介直接以意见领袖解释媒介消息在人际网络中的中介与扩散。", "support_role": "supports"}], "controversy_note": null, "review_status": "ready_for_review", "reviewed_at": null
+  }
+]

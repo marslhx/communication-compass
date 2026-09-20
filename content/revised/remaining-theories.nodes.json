@@ -1,0 +1,904 @@
+[
+  {
+    "id": "r2-framing",
+    "slug": "r2-framing",
+    "record_level": "complete",
+    "type": "theory_model",
+    "subtype": "theory_family",
+    "name_zh": "框架与框架化",
+    "name_original": "Framing and frame analysis",
+    "aliases": [
+      {
+        "name": "框架理论",
+        "kind": "common_name",
+        "note": "常用总称；不应隐去社会学框架分析、新闻框架与框架效应之间的差异。"
+      },
+      {
+        "name": "构架",
+        "kind": "alternate_translation",
+        "note": "部分中文文献使用的译法。"
+      }
+    ],
+    "summary": "框架研究关心传播如何选择、强调和组织现实的某些方面，从而为问题、原因、评价或解决方案提供理解路径。它是跨社会学、新闻研究和效果研究的理论族，不是单一、无争议的模型。",
+    "why_it_matters": "它让学生不只问“报道了什么”，还会问“用什么方式定义问题、谁的角度被突出、哪些可能性被排除”。这是分析新闻、政治话语、公共卫生和平台议题的基础入口。",
+    "questions_explained": [
+      "媒介文本如何让现实的某些方面变得更突出？",
+      "不同框架如何改变受众对问题、原因、责任与对策的理解？"
+    ],
+    "propositions": [
+      {
+        "id": "r2fr-p1",
+        "statement": "框架化通过选择和突出信息，引导受众以某些意义结构理解议题。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "T001",
+            "locator": "PDF pp. 23–24，Framing",
+            "support_note": "Twente 教学综述将 framing 概括为聚焦某些事件、置于意义场并组织社会意义。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r2fr-p2",
+        "statement": "框架可以存在于传播者的选择、文本结构、受众的认知与共享文化中，因此研究时必须说明分析层次。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S040",
+            "locator": "pp. 52–53，definition and locations of frames；本轮以可读节选核对",
+            "support_note": "Entman 将框架定义为选择与显著化，并区分传播者、文本、受众与文化中的框架位置。",
+            "support_role": "supports"
+          }
+        ]
+      }
+    ],
+    "conditions": [
+      "研究应指明框架位于生产、文本还是接收层面。",
+      "如主张框架产生受众效果，需要独立的实验或调查证据，不能从文本特征直接推导。"
+    ],
+    "key_points": [
+      {
+        "id": "r2fr-k1",
+        "statement": "框架不只是一个标题或关键词；它把信息组织进一个能够定义问题、理解原因或想象对策的意义结构。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S040",
+            "locator": "pp. 52–53，definition of framing",
+            "support_note": "所引定义把选择、显著化与问题定义、原因解释、道德评价和处理建议联系起来。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r2fr-k2",
+        "statement": "新闻框架分析研究文本如何组织问题；框架效果研究则需另外检验这些组织方式是否改变受众判断。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "T001",
+            "locator": "PDF pp. 23–24，Framing 的定义、范围与方法提示",
+            "support_note": "这是对教学综述中文本分析与受众解释两层问题的编辑性区分。",
+            "support_role": "qualifies"
+          }
+        ]
+      },
+      {
+        "id": "r2fr-k3",
+        "statement": "框架研究与议程设置可以相互衔接，但不宜简化成“选什么议题”和“如何理解议题”的绝对二分。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "T001",
+            "locator": "PDF pp. 23–24，Framing；与同文档 Agenda Setting 条目对读",
+            "support_note": "Twente 综述明确把 framing 与 agenda setting 相联系；“不做绝对二分”是编辑性边界。",
+            "support_role": "qualifies"
+          }
+        ]
+      }
+    ],
+    "limits_or_debates": [
+      {
+        "id": "r2fr-l1",
+        "statement": "“框架”横跨多个理论传统，同一词可能指日常认知结构、媒介文本模式或受众效果；不说明操作定义会把不同对象混在一起。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S040",
+            "locator": "标题、pp. 51–52 的范式分裂讨论及 pp. 52–53 定义",
+            "support_note": "Entman 的文章正是针对概念分裂提出整合定义。",
+            "support_role": "qualifies"
+          }
+        ]
+      },
+      {
+        "id": "r2fr-l2",
+        "statement": "从新闻文本识别出框架，不等于已经证明受众被该框架说服或改变行为。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "T001",
+            "locator": "PDF pp. 23–24，methods 与 scope",
+            "support_note": "教学综述将内容分析、语义网络分析等与解释层面并列；本条是防止从文本证据跨级推导效果的编辑限定。",
+            "support_role": "qualifies"
+          }
+        ]
+      }
+    ],
+    "area_memberships": [
+      {
+        "area_id": "meaning",
+        "is_primary": true,
+        "rationale": "中心问题是传播如何选择、突出和组织意义。"
+      },
+      {
+        "area_id": "effects",
+        "is_primary": false,
+        "rationale": "框架效果研究检验不同呈现方式对判断与态度的影响。"
+      },
+      {
+        "area_id": "institutions",
+        "is_primary": false,
+        "rationale": "新闻生产制度和职业常规影响哪些框架可见。"
+      }
+    ],
+    "learning_resources": [
+      {
+        "title": "Communication Theories: Framing",
+        "source_id": "T001",
+        "purpose": "先用两页教学综述掌握基本问题，再回到 Entman 的概念界定。",
+        "level": "introductory",
+        "locator": "PDF pp. 23–24"
+      },
+      {
+        "title": "Framing: Toward Clarification of a Fractured Paradigm",
+        "source_id": "S040",
+        "purpose": "学习选择与显著化的定义，并识别框架可能出现的不同分析位置。",
+        "level": "intermediate",
+        "locator": "pp. 51–58；当前仅核节选"
+      }
+    ],
+    "learning_links": [
+      {
+        "target_id": "r4-agenda-setting",
+        "reason": "比较议题显著性与议题理解方式，同时避免把两者硬性切开。",
+        "sequence_hint": "compare"
+      },
+      {
+        "target_id": "r5-journalism",
+        "reason": "把框架放回新闻生产、职业常规和公共议题的具体语境。",
+        "sequence_hint": "after"
+      }
+    ],
+    "temporal_profile": "relatively_stable",
+    "last_evidence_check": "2026-09-11",
+    "controversy_status": "contested",
+    "controversy_note": "概念跨多个传统，分析层次和操作定义并不统一；文本框架、生产过程与受众效果需分层取证。",
+    "review_status": "ready_for_review",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-11",
+    "reviewed_at": null
+  },
+  {
+    "id": "r3-mediatization",
+    "slug": "r3-mediatization",
+    "record_level": "complete",
+    "type": "theory_model",
+    "subtype": "theoretical_approach",
+    "name_zh": "媒介化",
+    "name_original": "Mediatization",
+    "aliases": [
+      {
+        "name": "媒介逻辑路径",
+        "kind": "common_name",
+        "note": "只指强调 media logic 的制度路径，不代表所有媒介化研究。"
+      }
+    ],
+    "summary": "媒介化研究追问：当媒介既成为相对独立的制度，又深入政治、家庭、宗教、工作等其他制度时，社会与文化过程如何因此改变。它关心长时段、制度性和情境化的转型，不是某条消息的短期效果。",
+    "why_it_matters": "它帮助学生超越“媒介是一个外部工具”的想象，转而观察新闻格式、平台机制、互动方式和组织常规如何进入其他社会领域。",
+    "questions_explained": [
+      "媒介如何嵌入并改变其他社会制度的运作？",
+      "媒介自身的制度、技术与规则如何影响资源分配和互动形式？"
+    ],
+    "propositions": [
+      {
+        "id": "r3med-p1",
+        "statement": "媒介化是一个双面过程：媒介获得相对独立性，同时又成为其他制度的内在部分。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S041",
+            "locator": "p. 105，Abstract；pp. 106–110",
+            "support_note": "Hjarvard 明确将制度媒介化界定为媒介独立制度化与嵌入其他制度的双面过程。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r3med-p2",
+        "statement": "媒介逻辑不只是内容偏好，还包括媒介分配物质与符号资源、运用正式与非正式规则的制度和技术运作方式。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S041",
+            "locator": "p. 105，Abstract",
+            "support_note": "摘要对 media logic 的制度、技术、资源分配与规则维度有明确定义。",
+            "support_role": "supports"
+          }
+        ]
+      }
+    ],
+    "conditions": [
+      "需要说明研究对象、历史阶段、文化与制度语境，不把媒介化视为全球同步的单一过程。",
+      "应通过历史、组织或社会学证据展示具体变化，不能只以“媒介越来越多”作为证据。"
+    ],
+    "key_points": [
+      {
+        "id": "r3med-k1",
+        "statement": "媒介化不是“媒介介入了一件事”的同义词，而是要解释制度的功能、结构和相互关系如何长期改变。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S041",
+            "locator": "pp. 105–110，Introduction and The Concept of Mediatization",
+            "support_note": "文章区分特定信息效果与社会制度对媒介存在的逐渐适应。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r3med-k2",
+        "statement": "制度路径关心媒介的双重位置：它们是社会织理的一部分，又可以在其他制度之间协调互动并要求对方适应其运作方式。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S041",
+            "locator": "pp. 105–106",
+            "support_note": "原文说明媒介同时嵌入其他制度并具有一定自主性和权威。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r3med-k3",
+        "statement": "媒介化研究必须情境化：不同制度、历史阶段和文化中的媒介化进程不必相同。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S041",
+            "locator": "pp. 109–110，Schulz and Krotz discussion",
+            "support_note": "原文强调媒介化绑定于时间与文化语境，并需要历史、文化和社会学的经验验证。",
+            "support_role": "supports"
+          }
+        ]
+      }
+    ],
+    "limits_or_debates": [
+      {
+        "id": "r3med-l1",
+        "statement": "不同媒介化路径对“媒介逻辑”、历史起点和分析尺度的设定并不相同；本知识点主要展示 Hjarvard 的制度路径，不代表全部文献。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S041",
+            "locator": "pp. 106–110，earlier uses, Schulz, Krotz and institutional approach",
+            "support_note": "文章系统比较政治、现代性、元过程和制度路径的差异。",
+            "support_role": "qualifies"
+          }
+        ]
+      },
+      {
+        "id": "r3med-l2",
+        "statement": "若把媒介化说成所有社会都必然服从同一“媒介逻辑”，会忽略行动者、制度差异和文化反馈。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "S041",
+            "locator": "pp. 109–110，context and empirical validation",
+            "support_note": "这是从原文对情境化与经验验证的要求作出的编辑性限定。",
+            "support_role": "qualifies"
+          }
+        ]
+      }
+    ],
+    "area_memberships": [
+      {
+        "area_id": "media_society",
+        "is_primary": true,
+        "rationale": "它专门解释媒介与社会、文化制度长期相互塑造的过程。"
+      },
+      {
+        "area_id": "institutions",
+        "is_primary": false,
+        "rationale": "制度路径关心政治、家庭、宗教、工作等领域的变化。"
+      },
+      {
+        "area_id": "digital_ai",
+        "is_primary": false,
+        "rationale": "平台化和算法媒介提供了新的媒介化对象，但不应将媒介化缩减为数字技术史。"
+      }
+    ],
+    "learning_resources": [
+      {
+        "title": "The Mediatization of Society",
+        "source_id": "S041",
+        "purpose": "掌握制度路径的双面过程、媒介逻辑定义和情境化边界。",
+        "level": "intermediate",
+        "locator": "pp. 105–110，再读结论"
+      },
+      {
+        "title": "Platformisation",
+        "source_id": "S087",
+        "purpose": "把媒介化的长期制度问题与平台基础设施、市场和治理的具体机制对照。",
+        "level": "intermediate",
+        "locator": "full text"
+      }
+    ],
+    "learning_links": [
+      {
+        "target_id": "r3-medium-theory",
+        "reason": "比较媒介形式／技术的广角视野与媒介化的制度、历史和情境分析。",
+        "sequence_hint": "compare"
+      },
+      {
+        "target_id": "r3-platformization",
+        "reason": "将媒介化的制度问题延伸到平台基础设施、数据与商业模式。",
+        "sequence_hint": "after"
+      },
+      {
+        "target_id": "r3-media-institutions",
+        "reason": "比较媒介化如何改变不同社会制度及其相互关系。",
+        "sequence_hint": "after"
+      }
+    ],
+    "temporal_profile": "relatively_stable",
+    "last_evidence_check": "2026-09-11",
+    "controversy_status": "contested",
+    "controversy_note": "媒介化是多路径概念；本知识点主要据 Hjarvard 的制度路径，尚未系统补全 Krotz 等传统。",
+    "review_status": "ready_for_review",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-11",
+    "reviewed_at": null
+  },
+  {
+    "id": "r4-two-step",
+    "slug": "r4-two-step",
+    "record_level": "complete",
+    "type": "theory_model",
+    "subtype": "model",
+    "name_zh": "两级传播与意见领袖",
+    "name_original": "Two-step flow and opinion leadership",
+    "aliases": [
+      {
+        "name": "两级流动",
+        "kind": "alternate_translation",
+        "note": "two-step flow 的直译变体。"
+      }
+    ],
+    "summary": "两级传播假说把大众媒介效果放回人际关系：思想往往先到达对某领域更积极的意见领袖，再经人际影响扩散给相对不活跃的人群。它开启了对人际网络中介效应的研究，但后续证据也使该假说被大幅精炼。",
+    "why_it_matters": "它纠正了“媒介直接击中所有人”的直线想象，并为社交媒体中的转发、群体讨论、关键节点与网红影响研究提供历史起点。",
+    "questions_explained": [
+      "媒介信息为什么常经过人际关系后才影响更多人？",
+      "意见领袖如何在特定议题和群体中发挥中介作用？"
+    ],
+    "propositions": [
+      {
+        "id": "r4ts-p1",
+        "statement": "大众媒介与人际影响并非互相排斥；媒介接触可通过意见领袖所在的人际网络发生作用。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S042",
+            "locator": "Abstract",
+            "support_note": "Katz 对假说的概括是思想常从广播和印刷品流向意见领袖，再流向较不活跃的人群。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r4ts-p2",
+        "statement": "该假说的研究贡献不只是画出两个箭头，还在于促使调查研究处理人际关系与个人媒介接触之间的联系。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S042",
+            "locator": "Abstract",
+            "support_note": "摘要说明后续研究尝试在传统调查设计中纳入人际关系，并使原假说获得支持与精炼。",
+            "support_role": "supports"
+          }
+        ]
+      }
+    ],
+    "conditions": [
+      "意见领袖应在具体议题、群体和关系网络中识别，不宜当作固定人格类型。",
+      "分析需同时观察媒介接触、人际讨论与时间顺序，不能仅以关注者数代替影响过程。"
+    ],
+    "key_points": [
+      {
+        "id": "r4ts-k1",
+        "statement": "两级传播把人际关系带回媒介效果研究，强调人们在群体中讨论、解释和转述媒介信息。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S042",
+            "locator": "Abstract",
+            "support_note": "摘要把意见领袖的中介作用与调查设计中的人际关系问题直接联系。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r4ts-k2",
+        "statement": "意见领袖是对某些议题更活跃、并能影响其他人的网络位置，不必等同于名人、权威或大流量账号。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "T001",
+            "locator": "PDF pp. 124–125，Two Step Flow Theory",
+            "support_note": "教学综述把意见领袖与特定群体中的影响过程联系；对“不等同名人”的表述是编辑性限定。",
+            "support_role": "qualifies"
+          }
+        ]
+      },
+      {
+        "id": "r4ts-k3",
+        "statement": "“两级”是历史性假说而非每次传播都必须有且仅有两步；后续研究已对原假说做了显著精炼。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S042",
+            "locator": "Abstract",
+            "support_note": "Katz 明言连续研究对原假说既大体支持又做了相当程度的精炼。",
+            "support_role": "supports"
+          }
+        ]
+      }
+    ],
+    "limits_or_debates": [
+      {
+        "id": "r4ts-l1",
+        "statement": "在多平台、多群组和算法推荐并存的环境中，信息可能多向、循环且跨越多个中介；两级模型只能作为入门假说。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "S042",
+            "locator": "Abstract，successive studies refined the original hypothesis",
+            "support_note": "原摘要只直接支持“后续精炼”；多平台语境是编辑性当代外推，待后续专题证据补强。",
+            "support_role": "qualifies"
+          }
+        ]
+      },
+      {
+        "id": "r4ts-l2",
+        "statement": "意见领袖的识别取决于议题、关系和测量方式；不同研究中的“领袖”不一定是同一类人。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "S042",
+            "locator": "Abstract，how interpersonal relations are handled in survey designs",
+            "support_note": "摘要指出各项研究用不同方式处理人际关系；本条将其转化为测量警示。",
+            "support_role": "qualifies"
+          }
+        ]
+      }
+    ],
+    "area_memberships": [
+      {
+        "area_id": "effects",
+        "is_primary": true,
+        "rationale": "它解释媒介影响如何经人际网络被中介。"
+      },
+      {
+        "area_id": "communication",
+        "is_primary": false,
+        "rationale": "它将大众传播与人际传播连成过程。"
+      },
+      {
+        "area_id": "institutions",
+        "is_primary": false,
+        "rationale": "意见领袖影响常嵌入组织、社区和政治网络。"
+      }
+    ],
+    "learning_resources": [
+      {
+        "title": "Communication Theories: Two Step Flow Theory",
+        "source_id": "T001",
+        "purpose": "先理解媒介—意见领袖—其他人的基础假说。",
+        "level": "introductory",
+        "locator": "PDF pp. 124–125"
+      },
+      {
+        "title": "The Two-Step Flow of Communication",
+        "source_id": "S042",
+        "purpose": "从 Katz 的回顾理解该假说如何被连续研究支持和修正。",
+        "level": "intermediate",
+        "locator": "Abstract；全文待取得"
+      }
+    ],
+    "learning_links": [
+      {
+        "target_id": "r1-interpersonal",
+        "reason": "理解人际关系为什么会中介大众媒介信息。",
+        "sequence_hint": "before"
+      },
+      {
+        "target_id": "r7-algorithm",
+        "reason": "比较人际中介与当代算法分发、网络结构如何共同组织信息流。",
+        "sequence_hint": "after"
+      }
+    ],
+    "temporal_profile": "relatively_stable",
+    "last_evidence_check": "2026-09-11",
+    "controversy_status": "contested",
+    "controversy_note": "经典假说的教学价值稳定，但两步结构、领袖识别和对数字网络的外推需以当代证据重新检验。",
+    "review_status": "ready_for_review",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-11",
+    "reviewed_at": null
+  },
+  {
+    "id": "r4-uses-gratifications",
+    "slug": "r4-uses-gratifications",
+    "record_level": "complete",
+    "type": "theory_model",
+    "subtype": "theoretical_perspective",
+    "name_zh": "使用与满足",
+    "name_original": "Uses and gratifications",
+    "aliases": [
+      {
+        "name": "使用与满足理论",
+        "kind": "common_name",
+        "note": "常见教材名称；学术综述也常将它界定为研究视角而非单一形式理论。"
+      }
+    ],
+    "summary": "使用与满足把问题从“媒介对人做了什么”转向“人们为什么选择并如何使用媒介”。它关心使用动机、所求满足、使用方式与后续结果的联系，并将受众能动性视为可变程度，而非人人始终都有的前提。",
+    "why_it_matters": "它是理解短视频、游戏、平台社交、播客和新技术采用的常用起点：同一媒介可被不同人用于信息、陪伴、身份、逃避或社交。",
+    "questions_explained": [
+      "人们为什么选择某种媒介或内容？",
+      "使用动机、所求满足、实际使用与结果之间如何联系？"
+    ],
+    "propositions": [
+      {
+        "id": "r4ug-p1",
+        "statement": "受众的媒介选择与使用可以从其动机和所追求的满足出发加以研究。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S043",
+            "locator": "Introduction",
+            "support_note": "Perse 把理论核心概念界定为人们使用大众传播的理由，即动机／所求满足。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r4ug-p2",
+        "statement": "受众能动性应当作可变的经验问题，不应假定所有使用者始终清楚、理性且主动。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S043",
+            "locator": "Introduction",
+            "support_note": "综述指出后续反思促使学者放弃“受众总是活跃的”假定，将受众活动性视为变量。",
+            "support_role": "supports"
+          }
+        ]
+      }
+    ],
+    "conditions": [
+      "需要测量具体动机、使用行为与结果，不宜从用户自报动机直接推断实际效果。",
+      "媒介选择受平台供给、算法分发、社会规范和资源差异制约，不能只用个人偏好解释。"
+    ],
+    "key_points": [
+      {
+        "id": "r4ug-k1",
+        "statement": "使用与满足将受众放到分析中心，把媒介使用视为带有理由、情境和功能的活动。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S043",
+            "locator": "Introduction",
+            "support_note": "Perse 明确把该视角概括为从媒介内容转向受众、从被动暴露转向选择和使用。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r4ug-k2",
+        "statement": "动机和所求满足可引导选择性接触、不同使用方式与不同媒介结果，但这些联系需要通过数据分别检验。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S043",
+            "locator": "Introduction",
+            "support_note": "综述明示动机与选择暴露、使用方式和媒介效果的理论联系。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r4ug-k3",
+        "statement": "使用与满足更适合被当作一个可与其他理论结合的研究视角，而不是能单独提供完整因果链的统一理论。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S043",
+            "locator": "Introduction",
+            "support_note": "Perse 直接将 uses and gratifications 称为更像视角而非理论，并指出研究常整合其他理论。",
+            "support_role": "supports"
+          }
+        ]
+      }
+    ],
+    "limits_or_debates": [
+      {
+        "id": "r4ug-l1",
+        "statement": "用户对自己动机的回忆和表达可能不完整；自报“为了获取信息”不能单独证明实际使用方式或结果。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "S043",
+            "locator": "Introduction，audience activity as a variable and motives/gratifications sought",
+            "support_note": "这是将受众能动性可变与动机测量要求转化为的方法警示。",
+            "support_role": "qualifies"
+          }
+        ]
+      },
+      {
+        "id": "r4ug-l2",
+        "statement": "仅从用户需求解释媒介使用，容易低估内容供给、商业模式、社会关系与技术设计的限制。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "S043",
+            "locator": "Introduction，functional and psychological approaches; integration with other theories",
+            "support_note": "综述指出该视角常需与其他理论整合；对平台和商业结构的提示是编辑性限定。",
+            "support_role": "qualifies"
+          }
+        ]
+      }
+    ],
+    "area_memberships": [
+      {
+        "area_id": "effects",
+        "is_primary": true,
+        "rationale": "它从受众动机与使用方式出发解释选择与结果。"
+      },
+      {
+        "area_id": "communication",
+        "is_primary": false,
+        "rationale": "使用行为可同时横跨大众传播和人际传播。"
+      },
+      {
+        "area_id": "digital_ai",
+        "is_primary": false,
+        "rationale": "新技术和平台是使用与满足持续扩展的应用场景。"
+      }
+    ],
+    "learning_resources": [
+      {
+        "title": "Communication Theories: Uses and Gratifications Approach",
+        "source_id": "T001",
+        "purpose": "快速识别需要、动机、媒介使用和满足的基本链条。",
+        "level": "introductory",
+        "locator": "PDF pp. 126–127"
+      },
+      {
+        "title": "Uses and Gratifications",
+        "source_id": "S043",
+        "purpose": "理解受众转向、理论边界及与其他视角整合的必要。",
+        "level": "intermediate",
+        "locator": "Introduction"
+      }
+    ],
+    "learning_links": [
+      {
+        "target_id": "r4-audience",
+        "reason": "将使用动机放回更广的受众理论和接收研究中。",
+        "sequence_hint": "before"
+      },
+      {
+        "target_id": "r7-affordance",
+        "reason": "比较用户需求与技术可供性如何共同影响媒介使用。",
+        "sequence_hint": "after"
+      }
+    ],
+    "temporal_profile": "relatively_stable",
+    "last_evidence_check": "2026-09-11",
+    "controversy_status": "contested",
+    "controversy_note": "受众能动性假定、自报动机的测量和对结构制约的处理是长期争议；本知识点因此使用“视角”而非统一理论的边界。",
+    "review_status": "ready_for_review",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-11",
+    "reviewed_at": null
+  },
+  {
+    "id": "r4-cultivation",
+    "slug": "r4-cultivation",
+    "record_level": "complete",
+    "type": "theory_model",
+    "subtype": "research_program",
+    "name_zh": "涵化理论",
+    "name_original": "Cultivation theory",
+    "aliases": [
+      {
+        "name": "培养理论",
+        "kind": "alternate_translation",
+        "note": "cultivation 的常见中文译名之一。"
+      },
+      {
+        "name": "培养分析",
+        "kind": "alternate_translation",
+        "note": "强调 cultivation analysis 研究程序的译法。"
+      }
+    ],
+    "summary": "涵化研究关心长期、反复接触电视符号世界与人们对社会现实的基本观念之间的关系。经典程序先分析电视中重复出现的消息系统，再用调查比较观看量不同但其他条件可比者的现实观念。",
+    "why_it_matters": "它让学生看到媒介影响不一定是一条消息立刻改变行为，也可能是长期、微小却累积的现实感形成。它还提供了把内容模式与受众调查连接起来的经典范例。",
+    "questions_explained": [
+      "长期接触重复的媒介世界与人们的社会现实观有什么关系？",
+      "如何把内容分析发现的符号模式转化为可供调查检验的问题？"
+    ],
+    "propositions": [
+      {
+        "id": "r4cul-p1",
+        "statement": "涵化分析需先识别电视世界中最常见、重复的消息和教训，再检验观看量不同者的现实观念差异。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S044",
+            "locator": "Cultivation Analysis，档案文档 pp. 6–7",
+            "support_note": "Gerbner 档案文本明确说明从 message system/content analysis 到 survey 及高低观看量比较的程序。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r4cul-p2",
+        "statement": "涵化证据预期是长期累积且绝对量较小的差异，不应被表述为电视对个体的强大即时效果。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S044",
+            "locator": "Cultivation Analysis，档案文档 pp. 6–7",
+            "support_note": "原文提醒可观察经验证据的绝对量往往较小，并说明轻度观众也共享同一文化环境。",
+            "support_role": "supports"
+          }
+        ]
+      }
+    ],
+    "conditions": [
+      "应先有系统的消息系统／内容分析，再设计与其中重复模式对应的现实观念题项。",
+      "高低观看量组的比较必须控制其他人口学、媒介和生活方式差异，并慎重处理因果方向。"
+    ],
+    "key_points": [
+      {
+        "id": "r4cul-k1",
+        "statement": "涵化关心的主要是对社会现实的基本观念，不必直接等同于某一次行为变化。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "T001",
+            "locator": "PDF pp. 109–111，Cultivation Theory",
+            "support_note": "Twente 综述将涵化界定为长期、渐进、间接和累积的过程，并区分不同现实观念层次。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r4cul-k2",
+        "statement": "经典涵化设计把内容分析与调查结合：先问电视世界反复呈现什么，再问不同观看量者的现实观是否按相同方向有所差异。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S044",
+            "locator": "Cultivation Analysis，档案文档 pp. 6–7",
+            "support_note": "原文明确给出信息系统分析、调查题项和观看量分组的衔接。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r4cul-k3",
+        "statement": "20 年研究的元分析报告平均涵化效应为 .09，这提醒学习者同时保留长期社会意义与小效应量级两个判断。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S045",
+            "locator": "Abstract",
+            "support_note": "Morgan 与 Shanahan 的摘要报告平均效应 .09，并讨论批评与元分析视角。",
+            "support_role": "supports"
+          }
+        ]
+      }
+    ],
+    "limits_or_debates": [
+      {
+        "id": "r4cul-l1",
+        "statement": "观看量与现实观之间的相关不自动证明电视导致差异；选择暴露、人口学和生活环境都可能是替代解释。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S044",
+            "locator": "Cultivation Analysis，档案文档 pp. 6–7",
+            "support_note": "原文明示要比较重要人口特征相当的观众，并强调控制其他变量。",
+            "support_role": "qualifies"
+          }
+        ]
+      },
+      {
+        "id": "r4cul-l2",
+        "statement": "经典涵化证据主要面向长期电视观看；将其直接搬到个性化、多平台和互动式媒介环境需重新定义“重复符号世界”与暴露。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "S044",
+            "locator": "Cultivation Analysis，television viewing and common cultural environment",
+            "support_note": "原文对象是经典电视环境；对个性化媒介的限定是编辑性当代外推警示。",
+            "support_role": "qualifies"
+          }
+        ]
+      }
+    ],
+    "area_memberships": [
+      {
+        "area_id": "effects",
+        "is_primary": true,
+        "rationale": "它解释长期媒介暴露与现实观之间的累积性关系。"
+      },
+      {
+        "area_id": "media_society",
+        "is_primary": false,
+        "rationale": "电视作为共享符号环境的观点将个人观念与社会文化连接。"
+      },
+      {
+        "area_id": "institutions",
+        "is_primary": false,
+        "rationale": "经典研究将电视制度的重复符号模式视为分析起点。"
+      }
+    ],
+    "learning_resources": [
+      {
+        "title": "Communication Theories: Cultivation Theory",
+        "source_id": "T001",
+        "purpose": "建立长期、渐进、累积效应以及主流化、共鸣等概念入口。",
+        "level": "introductory",
+        "locator": "PDF pp. 109–111"
+      },
+      {
+        "title": "Violence Profile 1967 Through 1988-89: Enduring Patterns",
+        "source_id": "S044",
+        "purpose": "掌握消息系统分析与调查相连接的经典研究程序。",
+        "level": "intermediate",
+        "locator": "Cultivation Analysis，档案文档 pp. 6–7"
+      },
+      {
+        "title": "Two Decades of Cultivation Research",
+        "source_id": "S045",
+        "purpose": "通过元分析理解平均效应量与理论批评；取得全文后再读调节分析。",
+        "level": "advanced",
+        "locator": "Abstract"
+      }
+    ],
+    "learning_links": [
+      {
+        "target_id": "r8-content-analysis",
+        "reason": "理解涵化程序为什么要先分析长期重复的媒介内容模式。",
+        "sequence_hint": "before"
+      },
+      {
+        "target_id": "r3-platformization",
+        "reason": "继续追问在个性化分发下，共享的“主流”是否及如何改变。",
+        "sequence_hint": "after"
+      }
+    ],
+    "temporal_profile": "relatively_stable",
+    "last_evidence_check": "2026-09-11",
+    "controversy_status": "contested",
+    "controversy_note": "效应量较小、因果方向与控制问题一直存在讨论；从经典电视环境向个性化平台外推也需新证据。",
+    "review_status": "ready_for_review",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-11",
+    "reviewed_at": null
+  }
+]

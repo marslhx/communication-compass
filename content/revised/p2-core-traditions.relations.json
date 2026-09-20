@@ -1,0 +1,278 @@
+[
+  {
+    "id": "rel-shannon-developed-process",
+    "source_id": "p-shannon",
+    "target_id": "r1-process",
+    "relation_type": "developed",
+    "statement_zh": "香农建立了本知识点所介绍的工程通信模型，以信息源、发送器、信道、接收器和信宿组织消息传输，并标示噪声源。",
+    "scope_note": "限1948年工程通信框架；不表示香农提出整个传播过程综合入口，也不涵盖人类意义、文化、互动或权力解释。",
+    "evidence_status": "direct",
+    "evidence": [
+      {
+        "source_id": "S010",
+        "locator": "Introduction与Figure 1，校正版重印PDF第1—2页",
+        "support_note": "原文直接界定工程通信问题并给出五个主要组件与噪声源。",
+        "support_role": "supports"
+      }
+    ],
+    "controversy_note": "‘developed’只指工程模型对综合入口中的一条模型路线，不将全部传播过程归于香农。",
+    "review_status": "ready_for_review",
+    "reviewed_at": null
+  },
+  {
+    "id": "rel-innis-associated-medium-theory",
+    "source_id": "p-harold-innis",
+    "target_id": "r3-medium-theory",
+    "relation_type": "associated_with",
+    "statement_zh": "伊尼斯是媒介理论传统的重要代表，以媒介偏向及知识的时空组织推进了这一研究取向。",
+    "scope_note": "关系只说明伊尼斯对媒介理论传统的一条核心路线；不把整个传统归为单人创立，也不把媒介偏向写成技术单因决定论。",
+    "evidence_status": "direct",
+    "evidence": [
+      {
+        "source_id": "S002",
+        "locator": "作者上传版本内部pp.4–5，The History of Medium Theory与Sub-genres of Medium Theory",
+        "support_note": "学术百科条目正文明确把Innis置于媒介理论历史及媒介偏向分支中。",
+        "support_role": "supports"
+      },
+      {
+        "source_id": "S003",
+        "locator": "p.457开篇段落",
+        "support_note": "Innis原文片段直接呈现媒介特征、知识时空传播与文化环境问题，补充关系的具体内容。",
+        "support_role": "supports"
+      }
+    ],
+    "controversy_note": null,
+    "review_status": "ready_for_review",
+    "reviewed_at": null
+  },
+  {
+    "id": "rel-agenda-setting-addresses-journalism",
+    "source_id": "r4-agenda-setting",
+    "target_id": "r5-journalism",
+    "relation_type": "addresses",
+    "statement_zh": "议程设置的教堂山研究分析竞选新闻对不同议题的突出程度，并把新闻议题排序与选民的议题判断进行比较。",
+    "scope_note": "限1968年教堂山研究中的竞选新闻与社论评论样本；不表示议程设置覆盖全部新闻研究，也不能从聚合相关推出因果。",
+    "evidence_status": "direct",
+    "evidence": [
+      {
+        "source_id": "G17",
+        "locator": "2017年重印校样内部pp.106–107，Method",
+        "support_note": "方法部分直接说明报纸、杂志和电视新闻样本，以及议题类别和突出程度的编码。",
+        "support_role": "supports"
+      }
+    ],
+    "controversy_note": "这是一项具体研究关系，不把后续议程设置研究的全部版本倒灌入1972年论文。",
+    "review_status": "ready_for_review",
+    "reviewed_at": null
+  },
+  {
+    "id": "rel-shannon-associated-information-cybernetics",
+    "source_id": "p-shannon",
+    "target_id": "r1-information-cybernetics",
+    "relation_type": "associated_with",
+    "statement_zh": "香农以1948年的数学通信理论奠定了本传统入口中的信息传输路线。",
+    "scope_note": "只指信息论分支，不把控制论、反馈理论或整个人类传播研究归于香农。",
+    "evidence_status": "direct",
+    "evidence": [
+      {
+        "source_id": "S010",
+        "locator": "Introduction与Figure 1，校正版重印PDF第1—2页",
+        "support_note": "原文直接界定工程通信问题、消息选择、系统组件与噪声。",
+        "support_role": "supports"
+      },
+      {
+        "source_id": "S046",
+        "locator": "人物页关于1948年论文与information theory的段落",
+        "support_note": "IEEE学会人物页确认香农及其1948年论文在信息论中的学科位置。",
+        "support_role": "supports"
+      }
+    ],
+    "controversy_note": null,
+    "review_status": "ready_for_review",
+    "reviewed_at": null
+  },
+  {
+    "id": "rel-information-cybernetics-has-feedback-noise",
+    "source_id": "r1-information-cybernetics",
+    "target_id": "r1-feedback-noise",
+    "relation_type": "has_concept",
+    "statement_zh": "这个复合传统入口分别提供了噪音与反馈的经典来源：噪音位于香农的工程通信模型，反馈位于维纳的控制论与系统调节问题。",
+    "scope_note": "两份来源分别支持复合知识点的两部分；不把噪音和反馈写成香农同一模型中的成对概念，也不把所有人类回应等同于控制论反馈。",
+    "evidence_status": "direct",
+    "evidence": [
+      {
+        "source_id": "S010",
+        "locator": "Figure 1及noise source说明，校正版重印PDF第2页",
+        "support_note": "原文直接支持噪音在工程通信模型中的位置。",
+        "support_role": "supports"
+      },
+      {
+        "source_id": "S073",
+        "locator": "MIT Press出版社概述；Part I Chapter IV ‘Feedback and Oscillation’目录（DOI 10.7551/mitpress/11810.003.0009）",
+        "support_note": "出版社概述与章节目录直接把控制、通信和反馈回路置于机器与有机体的共同研究框架。",
+        "support_role": "supports"
+      }
+    ],
+    "controversy_note": "复合端点有误读风险，因此页面必须保留两条来源和两条概念路线的分开说明。",
+    "review_status": "ready_for_review",
+    "reviewed_at": null
+  },
+  {
+    "id": "rel-dewey-associated-pragmatism-chicago",
+    "source_id": "p-john-dewey",
+    "target_id": "r1-pragmatism-chicago",
+    "relation_type": "associated_with",
+    "statement_zh": "杜威以实用主义、经验、教育、民主和公共知识问题构成这条传播思想路线的重要来源。",
+    "scope_note": "不声称杜威单独创建了‘芝加哥传播学派’；关系限于实用主义与传播—参与—共同体问题。",
+    "evidence_status": "direct",
+    "evidence": [
+      {
+        "source_id": "P209",
+        "locator": "关于pragmatism、democracy、public knowledge及1894年赴芝加哥的段落",
+        "support_note": "校方人物页直接支持其实用主义、民主公共取向与芝加哥经历。",
+        "support_role": "supports"
+      },
+      {
+        "source_id": "P210",
+        "locator": "Communication and Participation，第6节",
+        "support_note": "大学Dewey中心的教学整理将传播、共同体、参与和民主生活相联。",
+        "support_role": "supports"
+      }
+    ],
+    "controversy_note": null,
+    "review_status": "ready_for_review",
+    "reviewed_at": null
+  },
+  {
+    "id": "rel-mead-associated-pragmatism-chicago",
+    "source_id": "p-george-herbert-mead",
+    "target_id": "r1-pragmatism-chicago",
+    "relation_type": "associated_with",
+    "statement_zh": "米德把实用主义语境中的传播、语言、角色承担和自我形成连接起来，是这条思想路线的重要人物。",
+    "scope_note": "不把后来符号互动论的全部发展倒推给米德，也不把复合传统归于一人。",
+    "evidence_status": "direct",
+    "evidence": [
+      {
+        "source_id": "S130",
+        "locator": "Introduction；Life and Influences；Language and Mind；Roles, the Self, and the Generalized Other",
+        "support_note": "SEP条目直接支持其实用主义位置、与杜威及芝加哥的关系，以及通过传播形成自我的理论。",
+        "support_role": "supports"
+      }
+    ],
+    "controversy_note": "米德没有使用‘符号互动论’这一名称。",
+    "review_status": "ready_for_review",
+    "reviewed_at": null
+  },
+  {
+    "id": "rel-park-associated-pragmatism-chicago",
+    "source_id": "p-robert-park",
+    "target_id": "r1-pragmatism-chicago",
+    "relation_type": "associated_with",
+    "statement_zh": "帕克以新闻实践、公共舆论设想、城市研究和芝加哥社会学把传播问题带入经验社会研究。",
+    "scope_note": "限新闻、公共舆论、城市与芝加哥社会学的机构和问题谱系；不把整个芝加哥社会学改写成传播学派。",
+    "evidence_status": "direct",
+    "evidence": [
+      {
+        "source_id": "P211",
+        "locator": "记者经历、Thought News与Chicago School of Sociology段落",
+        "support_note": "芝加哥大学图书馆页面直接记录其新闻经历、公共舆论设想和芝加哥学派位置。",
+        "support_role": "supports"
+      },
+      {
+        "source_id": "P212",
+        "locator": "About the Book",
+        "support_note": "芝加哥大学出版社页面补充《城市》的经验观察与社会理论定位。",
+        "support_role": "supports"
+      }
+    ],
+    "controversy_note": null,
+    "review_status": "ready_for_review",
+    "reviewed_at": null
+  },
+  {
+    "id": "rel-adorno-associated-frankfurt-critical-theory",
+    "source_id": "p-theodor-adorno",
+    "target_id": "r6-frankfurt-critical-theory",
+    "relation_type": "associated_with",
+    "statement_zh": "阿多诺是法兰克福社会研究所及其批判理论传统的核心人物，其文化工业研究直接进入媒介与传播批判。",
+    "scope_note": "关系不把整个传统归于阿多诺，也不把其全部哲学、美学和社会理论缩减为媒介批评。",
+    "evidence_status": "direct",
+    "evidence": [
+      {
+        "source_id": "P223",
+        "locator": "Biography与Critical Social Theory相关段落",
+        "support_note": "SEP条目直接说明阿多诺在研究所与法兰克福学派中的核心位置及文化工业研究。",
+        "support_role": "supports"
+      },
+      {
+        "source_id": "P224",
+        "locator": "章节开头关于film、radio、magazines及standardisation的段落",
+        "support_note": "合著章节直接显示该传统对大众媒介与文化生产的批判内容。",
+        "support_role": "supports"
+      }
+    ],
+    "controversy_note": null,
+    "review_status": "ready_for_review",
+    "reviewed_at": null
+  },
+  {
+    "id": "rel-habermas-associated-frankfurt-critical-theory",
+    "source_id": "p-habermas",
+    "target_id": "r6-frankfurt-critical-theory",
+    "relation_type": "associated_with",
+    "statement_zh": "哈贝马斯常被归入法兰克福学派的后续批判理论，但这一关联只是其复杂思想来源之一，不能理解为对早期学派固定教义的简单继承。",
+    "scope_note": "关系明确保留其在研究所任职时间较短、理论路线重构以及‘第二代’标签可能误导的边界。",
+    "evidence_status": "direct",
+    "evidence": [
+      {
+        "source_id": "S054",
+        "locator": "Introduction与Biography中Frankfurt School、Institute for Social Research及no coherent doctrine段落",
+        "support_note": "SEP条目直接说明他常被贴上第二代标签，同时系统限定其与学派的复杂关系。",
+        "support_role": "qualifies"
+      }
+    ],
+    "controversy_note": "该关系的核心正是防止把‘第二代’当作无争议的成员和线性继承标签。",
+    "review_status": "ready_for_review",
+    "reviewed_at": null
+  },
+  {
+    "id": "rel-diffusion-applied-development-communication",
+    "source_id": "r4-diffusion-innovations",
+    "target_id": "r8-development-communication",
+    "relation_type": "applied_to",
+    "statement_zh": "创新扩散是发展传播中用于信息传递、创新采用和行为改变的一条重要路线。",
+    "scope_note": "只说明扩散范式在发展传播中的应用，不把它写成该领域唯一模式；参与式路线对问题界定、对话和决策权提出不同要求。",
+    "evidence_status": "direct",
+    "evidence": [
+      {
+        "source_id": "Q351",
+        "locator": "PDF pp.41–52、76–78与94",
+        "support_note": "来源直接讨论扩散范式在发展传播中的历史位置，并与参与式模式比较。",
+        "support_role": "supports"
+      }
+    ],
+    "controversy_note": "关系只标示一条实践路线，不把扩散与参与处理为非此即彼。",
+    "review_status": "ready_for_review",
+    "reviewed_at": null
+  },
+  {
+    "id": "rel-ethnography-used-in-development-communication",
+    "source_id": "r8-ethnography",
+    "target_id": "r8-development-communication",
+    "relation_type": "used_in",
+    "statement_zh": "民族志取向可用于参与式发展传播的前期沟通评估，帮助研究者理解社区、在地知识与问题情境。",
+    "scope_note": "限FAO参与式农村传播评估所说明的混合方法实践；不表示所有发展传播都采用民族志，也不把短期参与活动等同于完整民族志。",
+    "evidence_status": "direct",
+    "evidence": [
+      {
+        "source_id": "Q354",
+        "locator": "§1.4.1与§1.5.1",
+        "support_note": "FAO方法手册直接说明PRCA在规划阶段的作用，并列出访谈、小组工作、现场可视化及对民族志的借鉴。",
+        "support_role": "supports"
+      }
+    ],
+    "controversy_note": "方法借鉴不等于完整民族志设计，页面应保留时间、关系建立和研究伦理边界。",
+    "review_status": "ready_for_review",
+    "reviewed_at": null
+  }
+]

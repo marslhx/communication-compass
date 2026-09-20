@@ -1,0 +1,561 @@
+[
+  {
+    "id": "p-everett-rogers",
+    "slug": "everett-rogers",
+    "record_level": "complete",
+    "type": "person",
+    "subtype": "scholar",
+    "name_zh": "埃弗雷特·罗杰斯",
+    "name_original": "Everett M. Rogers",
+    "aliases": [
+      {
+        "name": "Ev Rogers",
+        "kind": "common_name",
+        "note": "英文昵称。"
+      }
+    ],
+    "summary": "埃弗雷特·罗杰斯（1931—2004）是美国传播学者，以系统发展创新扩散研究、连接个体采用与社会系统变化而著名。",
+    "why_it_matters": "他的研究让传播学进入农业推广、公共卫生、组织创新和技术采用等应用领域，也示范了理论如何跨学科旅行。",
+    "roles": [
+      "传播学者",
+      "创新扩散研究者",
+      "系主任与博士教育管理者"
+    ],
+    "communication_relevance": "以创新扩散理论连接大众传播、人际网络、时间和社会系统。",
+    "key_points": [
+      {
+        "id": "per-k1",
+        "statement": "Rogers 的核心贡献是把宏观系统变化与个人、群体层面的采用过程联系起来。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S110",
+            "locator": "Biography",
+            "support_note": "机构人物页直接概括这一跨层次贡献。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "per-k2",
+        "statement": "他先后在俄亥俄州立、密歇根州立和密歇根大学等校任职，并长期推动扩散研究。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S110",
+            "locator": "Biography: faculty positions",
+            "support_note": "来源列明主要任职经历。",
+            "support_role": "supports"
+          }
+        ]
+      }
+    ],
+    "limits_or_debates": [
+      {
+        "id": "per-l1",
+        "statement": "人物贡献不等于理论免于批评；扩散研究的亲创新倾向和现代化语境仍需单独审视。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "S110",
+            "locator": "Biography and modernization process",
+            "support_note": "来源支持贡献和现代化语境；批评作为教学边界。",
+            "support_role": "qualifies"
+          }
+        ]
+      }
+    ],
+    "area_memberships": [
+      {
+        "area_id": "effects",
+        "is_primary": true,
+        "rationale": "研究信息、人际网络与创新采用。"
+      },
+      {
+        "area_id": "research_application",
+        "is_primary": false,
+        "rationale": "扩散研究具有显著跨领域应用。"
+      }
+    ],
+    "learning_resources": [
+      {
+        "title": "Dr. Everett M. Rogers",
+        "source_id": "S110",
+        "purpose": "了解其任职、理论贡献和跨层次视角。",
+        "level": "introductory",
+        "locator": "Biography"
+      }
+    ],
+    "learning_links": [
+      {
+        "target_id": "r4-diffusion-innovations",
+        "reason": "进入其最具代表性的理论及争议。",
+        "sequence_hint": "after"
+      },
+      {
+        "target_id": "c-opinion-leadership",
+        "reason": "理解同伴传播和网络角色。",
+        "sequence_hint": "after"
+      }
+    ],
+    "temporal_profile": "relatively_stable",
+    "last_evidence_check": "2026-09-11",
+    "controversy_status": "contested",
+    "controversy_note": "对人物贡献与理论争议分开呈现。",
+    "review_status": "ready_for_review",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-11",
+    "reviewed_at": null,
+    "education_records": [
+      {
+        "institution": "Iowa State University",
+        "program": "Agriculture",
+        "degree": "B.S.",
+        "period": null,
+        "source_id": "R421",
+        "locator": "paragraph 4: B.S. in agriculture"
+      },
+      {
+        "institution": "Iowa State University",
+        "program": "Sociology",
+        "degree": "Master’s degree",
+        "period": null,
+        "source_id": "R421",
+        "locator": "paragraph 4: master’s degree in sociology"
+      },
+      {
+        "institution": "Iowa State University",
+        "program": "Sociology",
+        "degree": "Ph.D.",
+        "period": null,
+        "source_id": "R421",
+        "locator": "paragraph 4: Ph.D. degree in sociology"
+      }
+    ]
+  },
+  {
+    "id": "p-wilbur-schramm",
+    "slug": "wilbur-schramm",
+    "record_level": "complete",
+    "type": "person",
+    "subtype": "scholar",
+    "name_zh": "威尔伯·施拉姆",
+    "name_original": "Wilbur Lang Schramm",
+    "aliases": [],
+    "summary": "威尔伯·施拉姆是美国传播学教育与研究组织的重要推动者，参与建设传播研究机构、培养项目并编纂早期传播学教材。",
+    "why_it_matters": "理解施拉姆有助于学生区分“传播研究早已存在”与“传播学作为大学学科和教学体系被组织起来”这两件事。",
+    "roles": [
+      "传播学教育者",
+      "研究组织者",
+      "教材编者"
+    ],
+    "communication_relevance": "推动美国传播学研究机构、研究生培养和教材体系的发展。",
+    "key_points": [
+      {
+        "id": "pws-k1",
+        "statement": "爱荷华大学人物词典记载，施拉姆先后在伊利诺伊大学和斯坦福大学建设传播研究机构并从事传播学教学研究。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "P203",
+            "locator": "伊利诺伊与斯坦福经历段落",
+            "support_note": "大学出版社人物词典直接记录机构与职务经历。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "pws-k2",
+        "statement": "现有书目登记确认施拉姆《传播是怎样运行的》这一教学文本线索，但当前仅核到元数据。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S011",
+            "locator": "书目记录",
+            "support_note": "只支持作者和题名，不扩写未核正文中的模型细节。",
+            "support_role": "supports"
+          }
+        ]
+      }
+    ],
+    "limits_or_debates": [
+      {
+        "id": "pws-l1",
+        "statement": "把施拉姆称作学科建制的重要推动者，不等于把传播学的起源归于单一人物；此前已有修辞、新闻、社会学、心理学和信息研究传统。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "P203",
+            "locator": "完整人物条目",
+            "support_note": "人物条目支持其制度角色；多源起边界是本站学科史限定。",
+            "support_role": "qualifies"
+          }
+        ]
+      }
+    ],
+    "area_memberships": [
+      {
+        "area_id": "communication",
+        "is_primary": true,
+        "rationale": "其工作参与组织传播学基础教学与研究。"
+      },
+      {
+        "area_id": "research_application",
+        "is_primary": false,
+        "rationale": "其制度工作连接传播研究项目和人才培养。"
+      }
+    ],
+    "learning_resources": [
+      {
+        "title": "Schramm, Wilbur Lang",
+        "source_id": "P203",
+        "purpose": "了解其学科建设和机构经历。",
+        "level": "introductory",
+        "locator": "全文"
+      },
+      {
+        "title": "How Communication Works书目线索",
+        "source_id": "S011",
+        "purpose": "作为经典教学文本入口，等待正式版本核读。",
+        "level": "introductory",
+        "locator": "书目记录"
+      }
+    ],
+    "learning_links": [
+      {
+        "target_id": "r1-process",
+        "reason": "观察早期传播学教材如何组织传播过程模型。",
+        "sequence_hint": "after"
+      },
+      {
+        "target_id": "r1-china-introduction",
+        "reason": "理解施拉姆与中国大陆传播学再引进史的连接。",
+        "sequence_hint": "after"
+      },
+      {
+        "target_id": "r4-effects",
+        "reason": "把学科建制与战后经验传播研究传统联系起来。",
+        "sequence_hint": "after"
+      }
+    ],
+    "temporal_profile": "relatively_stable",
+    "last_evidence_check": "2026-09-15",
+    "controversy_status": "contested",
+    "controversy_note": "“传播学之父”等单一创始叙事会遮蔽跨学科与集体建制过程。",
+    "review_status": "ready_for_review",
+    "created_at": "2026-09-15",
+    "updated_at": "2026-09-15",
+    "reviewed_at": null,
+    "education_records": [
+      {
+        "institution": "Marietta College",
+        "program": "Field not specified in source",
+        "degree": "A.B.",
+        "period": "1928",
+        "source_id": "P203",
+        "locator": "biographical opening paragraph"
+      },
+      {
+        "institution": "Harvard University",
+        "program": "English",
+        "degree": "A.M.",
+        "period": "1930",
+        "source_id": "P203",
+        "locator": "biographical opening paragraph"
+      },
+      {
+        "institution": "State University of Iowa (now University of Iowa)",
+        "program": "English / American literature",
+        "degree": "Ph.D.",
+        "period": "1932",
+        "source_id": "P203",
+        "locator": "biographical opening paragraph; dissertation on Longfellow’s Hiawatha"
+      }
+    ]
+  },
+  {
+    "id": "p-kurt-lewin",
+    "slug": "kurt-lewin",
+    "record_level": "complete",
+    "type": "person",
+    "subtype": "scholar",
+    "name_zh": "库尔特·勒温",
+    "name_original": "Kurt Lewin",
+    "aliases": [
+      {
+        "name": "库尔特·卢因",
+        "kind": "alternate_translation",
+        "note": "另一常见中文音译。"
+      }
+    ],
+    "summary": "库尔特·勒温是社会心理学家，群体动力与行动研究的重要先驱；其渠道、门和守门人构想成为新闻把关研究的概念前史。",
+    "why_it_matters": "他连接群体过程、社会情境、研究与行动，也帮助学生看到传播理论如何从邻近学科概念发展而来。",
+    "roles": [
+      "社会心理学家",
+      "群体动力研究先驱",
+      "行动研究推动者"
+    ],
+    "communication_relevance": "其群体动力、场论和渠道／守门人概念影响组织、群体和新闻传播研究。",
+    "key_points": [
+      {
+        "id": "pkl-k1",
+        "statement": "美国心理学会将勒温称为群体动力科学先驱，并记载其参与创建社会问题心理研究学会。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "P204",
+            "locator": "Award description",
+            "support_note": "APA页面直接支持群体动力与研究—社会行动角色。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "pkl-k2",
+        "statement": "勒温1947年的文章以食物渠道等社会过程讨论渠道、门和守门人，为后来的新闻把关研究提供了概念资源。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "G22",
+            "locator": "印刷页145—146的已核片段",
+            "support_note": "原文片段直接支持一般社会过程概念；与新闻把关研究的连接是有边界的学术史归纳。",
+            "support_role": "qualifies"
+          }
+        ]
+      }
+    ],
+    "limits_or_debates": [
+      {
+        "id": "pkl-l1",
+        "statement": "勒温没有在该文中提出一套成熟的新闻把关理论，不能把后来的新闻与平台研究全部倒推给他。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "G22",
+            "locator": "印刷页145—146",
+            "support_note": "已核范围是一般社会过程，不是完整新闻理论。",
+            "support_role": "qualifies"
+          }
+        ]
+      }
+    ],
+    "area_memberships": [
+      {
+        "area_id": "effects",
+        "is_primary": true,
+        "rationale": "社会心理学和群体过程影响传播效果与决策研究。"
+      },
+      {
+        "area_id": "institutions",
+        "is_primary": false,
+        "rationale": "守门人概念后来进入新闻组织与平台研究。"
+      }
+    ],
+    "learning_resources": [
+      {
+        "title": "Kurt Lewin Award简介",
+        "source_id": "P204",
+        "purpose": "定位其群体动力与研究—行动传统。",
+        "level": "introductory",
+        "locator": "Description"
+      },
+      {
+        "title": "Frontiers in Group Dynamics II",
+        "source_id": "G22",
+        "purpose": "核对渠道、门和守门人概念的原始范围。",
+        "level": "intermediate",
+        "locator": "pp.145–146片段"
+      }
+    ],
+    "learning_links": [
+      {
+        "target_id": "r1-group",
+        "reason": "进入群体过程、决策与领导研究。",
+        "sequence_hint": "after"
+      },
+      {
+        "target_id": "r5-gatekeeping",
+        "reason": "查看一般守门概念如何进入新闻与数字把关研究。",
+        "sequence_hint": "after"
+      },
+      {
+        "target_id": "r8-experiment",
+        "reason": "理解社会心理学实验传统对传播研究的影响。",
+        "sequence_hint": "after"
+      }
+    ],
+    "temporal_profile": "relatively_stable",
+    "last_evidence_check": "2026-09-15",
+    "controversy_status": "none_identified",
+    "controversy_note": "主要边界是不要把后续全部把关理论归于原始一般概念。",
+    "review_status": "ready_for_review",
+    "created_at": "2026-09-15",
+    "updated_at": "2026-09-15",
+    "reviewed_at": null,
+    "portrait": {
+      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sculpture%20of%20Kurt%20Lewin%2C%202011.jpg",
+      "alt": "库尔特·勒温故乡莫吉尔诺纪念牌上的肖像雕塑",
+      "credit": "Pko / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sculpture_of_Kurt_Lewin,_2011.jpg"
+    },
+    "education_records": [
+      {
+        "institution": "Königliche Friedrich-Wilhelms-Universität zu Berlin (now Humboldt-Universität zu Berlin)",
+        "program": "Doctoral study; dissertation on volitional inhibition and association",
+        "degree": "Doctorate",
+        "period": "1910–1916",
+        "source_id": "R423",
+        "locator": "enrolment and doctoral records paragraphs"
+      },
+      {
+        "institution": "Friedrich-Wilhelms-Universität zu Berlin (now Humboldt-Universität zu Berlin)",
+        "program": "Experimental studies of association",
+        "degree": "Habilitation",
+        "period": "1921",
+        "source_id": "R423",
+        "locator": "habilitation record paragraph"
+      }
+    ]
+  },
+  {
+    "id": "p-erving-goffman",
+    "slug": "erving-goffman",
+    "record_level": "complete",
+    "type": "person",
+    "subtype": "scholar",
+    "name_zh": "欧文·戈夫曼",
+    "name_original": "Erving Goffman",
+    "aliases": [],
+    "summary": "欧文·戈夫曼是加拿大裔美国社会学家，以互动秩序、自我呈现、面子工作和框架分析影响人际传播、语言与社会互动研究。",
+    "why_it_matters": "他把日常相遇、身体、情境和角色表演变成严肃的社会分析对象，使微观互动与社会秩序可以被共同考察。",
+    "roles": [
+      "社会学家",
+      "互动研究者",
+      "框架分析学者"
+    ],
+    "communication_relevance": "其互动秩序、自我呈现和框架概念成为人际传播与话语互动的重要资源。",
+    "key_points": [
+      {
+        "id": "peg-k1",
+        "statement": "Oxford学术工具书把“互动秩序”概括为戈夫曼贯穿多部著作的核心研究领域，并列出自我呈现、面子工作等工作。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "P213",
+            "locator": "Abstract",
+            "support_note": "学术工具书摘要直接支持人物贡献范围。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "peg-k2",
+        "statement": "戈夫曼的ASA主席演讲把共在者形成的社会生活领域明确提出为“互动秩序”。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "P214",
+            "locator": "全文开头与分析对象界定",
+            "support_note": "原文直接界定互动秩序的研究对象。",
+            "support_role": "supports"
+          }
+        ]
+      }
+    ],
+    "limits_or_debates": [
+      {
+        "id": "peg-l1",
+        "statement": "戏剧隐喻和微观互动分析不能自动解释宏观制度、阶级、种族或性别权力；使用时需补充相应层次。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "P213",
+            "locator": "Abstract",
+            "support_note": "材料支持其微观互动重点；宏观边界是本站教学提示。",
+            "support_role": "qualifies"
+          }
+        ]
+      }
+    ],
+    "area_memberships": [
+      {
+        "area_id": "communication",
+        "is_primary": true,
+        "rationale": "其核心分析对象是面对面互动和关系情境。"
+      },
+      {
+        "area_id": "meaning",
+        "is_primary": false,
+        "rationale": "自我呈现与框架涉及情境意义组织。"
+      }
+    ],
+    "learning_resources": [
+      {
+        "title": "Oxford Bibliographies: Erving Goffman",
+        "source_id": "P213",
+        "purpose": "建立人物、概念和著作全景。",
+        "level": "introductory",
+        "locator": "Abstract"
+      },
+      {
+        "title": "The Interaction Order",
+        "source_id": "P214",
+        "purpose": "从原始演讲理解互动秩序的分析对象。",
+        "level": "advanced",
+        "locator": "全文"
+      }
+    ],
+    "learning_links": [
+      {
+        "target_id": "c-symbolic-interaction",
+        "reason": "理解自我与互动如何在社会过程中形成。",
+        "sequence_hint": "before"
+      },
+      {
+        "target_id": "r1-interpersonal",
+        "reason": "进入面对面关系与互动过程。",
+        "sequence_hint": "after"
+      },
+      {
+        "target_id": "r2-framing",
+        "reason": "比较戈夫曼式框架分析与新闻传播中的框架化研究。",
+        "sequence_hint": "compare"
+      }
+    ],
+    "temporal_profile": "relatively_stable",
+    "last_evidence_check": "2026-09-15",
+    "controversy_status": "contested",
+    "controversy_note": "微观互动取向与宏观权力解释之间的关系需具体处理。",
+    "review_status": "ready_for_review",
+    "created_at": "2026-09-15",
+    "updated_at": "2026-09-15",
+    "reviewed_at": null,
+    "education_records": [
+      {
+        "institution": "University College, University of Toronto",
+        "program": "Sociology and anthropology",
+        "degree": "B.A.",
+        "period": "1945",
+        "source_id": "R425",
+        "locator": "profile heading and opening paragraph"
+      },
+      {
+        "institution": "University of Chicago",
+        "program": "Sociology",
+        "degree": "A.M.",
+        "period": "1949",
+        "source_id": "R426",
+        "locator": "L’École de Chicago section"
+      },
+      {
+        "institution": "University of Chicago",
+        "program": "Sociology",
+        "degree": "Ph.D.",
+        "period": "1953",
+        "source_id": "R426",
+        "locator": "L’École de Chicago section"
+      }
+    ]
+  }
+]

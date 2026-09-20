@@ -1,0 +1,119 @@
+[
+  {
+    "id": "S002",
+    "source_type": "scholarly_synthesis",
+    "title": "Medium Theory",
+    "authors_or_organization": [
+      "Joshua Meyrowitz"
+    ],
+    "year": 2008,
+    "publisher_or_venue": "Wiley-Blackwell",
+    "doi": "10.1002/9781405186407.wbiecm064",
+    "url": "https://doi.org/10.1002/9781405186407.wbiecm064",
+    "language": "en",
+    "accessed_at": "2026-09-19",
+    "access_status": "excerpt",
+    "bibliographic_note": "Wiley官方摘要用于medium theory与泛称media theory的边界。2026-09-19另核作者上传版本https://www.researchgate.net/publication/373244548_Medium_Theory的内部pp.4–5：The History of Medium Theory明确说明Innis推进该传统，Sub-genres of Medium Theory将媒介偏向路线与Innis相连。本轮只定点核读该片段，不登记为整篇通读；S003另支持Innis的具体思想内容。"
+  },
+  {
+    "id": "G17",
+    "source_type": "primary_scholarship",
+    "title": "The Agenda-Setting Function of Mass Media",
+    "authors_or_organization": [
+      "Maxwell E. McCombs and Donald L. Shaw",
+      "Public Opinion Quarterly; Oxford University Press"
+    ],
+    "year": 1972,
+    "publisher_or_venue": "Public Opinion Quarterly; Oxford University Press",
+    "doi": "10.1086/267990",
+    "url": "https://doi.org/10.1086/267990",
+    "language": "en",
+    "accessed_at": "2026-09-19",
+    "access_status": "full_text",
+    "bibliographic_note": "出版者页面已核摘要。2026-09-11核读可访问全文；2026-09-19复核作者上传的2017年重印校样（页面标明Uncorrected proofs），内部pp.106–107 Method直接说明新闻与社论评论样本、议题分类及突出程度编码。关系定位采用该副本内部页码，不冒充原刊版面，也不把聚合相关扩大为因果。可访问副本：https://www.researchgate.net/profile/Maxwell-Mccombs/publication/317122086_The_Agenda-Setting_function_of_mass_media/links/5cddbc3f458515712eb064d2/The-Agenda-Setting-function-of-mass-media.pdf"
+  },
+  {
+    "id": "S073",
+    "source_type": "primary_scholarship",
+    "title": "Cybernetics: Or Control and Communication in the Animal and the Machine",
+    "authors_or_organization": ["Norbert Wiener"],
+    "year": 1948,
+    "publisher_or_venue": "MIT Press Open Access",
+    "doi": "10.7551/mitpress/11810.001.0001",
+    "url": "https://mitpress.mit.edu/9780262537841/cybernetics-or-control-and-communication-in-the-animal-and-the-machine/",
+    "language": "en",
+    "accessed_at": "2026-09-19",
+    "access_status": "excerpt",
+    "bibliographic_note": "MIT Press官方书页可直接访问；出版社概述说明该书奠定控制论，研究含反馈回路的生物、机械、认知和社会系统中的信息流控制。开放版目录另列Part I Chapter IV ‘Feedback and Oscillation’（chapter DOI 10.7551/mitpress/11810.003.0009）。2026-09-19直接章节入口返回403，因此本轮只按出版社概述和章节目录登记excerpt，不冒充重新通读全文。"
+  },
+  {
+    "id": "P224",
+    "source_type": "primary_scholarship",
+    "title": "The Culture Industry: Enlightenment as Mass Deception",
+    "authors_or_organization": ["Theodor W. Adorno", "Max Horkheimer"],
+    "year": 1944,
+    "publisher_or_venue": "Chapter from Dialectic of Enlightenment; Marxists Internet Archive transcription",
+    "doi": null,
+    "url": "https://www.marxists.org/reference/archive/adorno/1944/culture-industry.htm",
+    "language": "en",
+    "accessed_at": "2026-09-19",
+    "access_status": "excerpt",
+    "bibliographic_note": "可访问页面明确说明收录《启蒙辩证法》相应章节的大部分内容，而非完整正式版本；本项目仅用网页中实际可见的电影、广播、杂志、系统、标准化与商品化段落，不据此引用正式版页码。"
+  },
+  {
+    "id": "Q351",
+    "source_type": "scholarly_synthesis",
+    "title": "Development Communication Sourcebook: Broadening the Boundaries of Communication",
+    "authors_or_organization": ["Paolo Mefalopulos", "World Bank"],
+    "year": 2008,
+    "publisher_or_venue": "World Bank",
+    "doi": "10.1596/978-0-8213-7522-8",
+    "url": "https://documents.worldbank.org/curated/en/752011468314090450/pdf/446360Dev0Comm1ns0handbook01PUBLIC1.pdf",
+    "language": "en",
+    "accessed_at": "2026-09-19",
+    "access_status": "full_text",
+    "bibliographic_note": "世界银行公开全文。本项目使用PDF pp.41–52对monologic/diffusion与dialogic/participatory两种模式的区分，以及PDF pp.76–78、94对扩散与参与的历史边界、张力和组合方式；不把机构手册当成领域唯一共识。"
+  },
+  {
+    "id": "Q352",
+    "source_type": "official_record",
+    "title": "Communication for Development (ComDev)",
+    "authors_or_organization": ["Food and Agriculture Organization of the United Nations"],
+    "year": null,
+    "publisher_or_venue": "FAO",
+    "doi": null,
+    "url": "https://www.fao.org/communication-for-development/en",
+    "language": "en",
+    "accessed_at": "2026-09-19",
+    "access_status": "full_text",
+    "bibliographic_note": "FAO当前项目页把发展传播界定为结果导向且参与式的方法，强调知情决策、知识分享、利益相关者参与、农村传播服务、参与式视频与农村广播；适合证明该机构的实践范围，不用于声称所有项目效果。"
+  },
+  {
+    "id": "Q353",
+    "source_type": "official_record",
+    "title": "Participatory Communication Research Section",
+    "authors_or_organization": ["International Association for Media and Communication Research"],
+    "year": null,
+    "publisher_or_venue": "IAMCR",
+    "doi": null,
+    "url": "https://mail.iamcr.org/s-wg/section/pcr",
+    "language": "en",
+    "accessed_at": "2026-09-19",
+    "access_status": "full_text",
+    "bibliographic_note": "IAMCR研究分会页面说明参与不是单一定义，研究社区成员与其他利益相关者在社会变迁过程中的传播，议题涵盖民主、传播权、可持续发展、社区媒体、参与式行动研究及参与、赋权与性别关系。"
+  },
+  {
+    "id": "Q354",
+    "source_type": "official_record",
+    "title": "Participatory Rural Communication Appraisal: Communication for Development in Action",
+    "authors_or_organization": ["Food and Agriculture Organization of the United Nations"],
+    "year": 2004,
+    "publisher_or_venue": "FAO",
+    "doi": null,
+    "url": "https://www.fao.org/4/y5793e/y5793e03.htm",
+    "language": "en",
+    "accessed_at": "2026-09-19",
+    "access_status": "full_text",
+    "bibliographic_note": "FAO手册第1章完整网页。1.3.1–1.3.2界定发展传播与参与的作用；1.4列规划阶段；1.5.1说明PRCA使用现场可视化、访谈和小组工作，并借鉴定量、质化与民族志。属于机构方法手册，不用于证明参与自动带来平等或项目成功。"
+  }
+]

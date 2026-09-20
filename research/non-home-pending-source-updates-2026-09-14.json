@@ -1,0 +1,44 @@
+[
+  {
+    "id": "N01",
+    "source_type": "primary_scholarship",
+    "title": "Cultural Studies: Two Paradigms (1991 reader reprint; electronic reserve text)",
+    "authors_or_organization": ["Stuart Hall"],
+    "year": 1991,
+    "publisher_or_venue": "Contemporary Literary Criticism: Literary and Cultural Studies, ed. Robert Con Davis and Ronald Schleifer; Longman; electronic reserve hosted by Michigan Technological University",
+    "doi": null,
+    "url": "https://pages.mtu.edu/~rlstrick/rsvtxt/hall1.htm",
+    "language": "en",
+    "accessed_at": "2026-09-14",
+    "access_status": "excerpt",
+    "bibliographic_note": "2026-09-14实际打开机构电子保留读物HTML，页面头部说明据1991年Longman选本重印。连续核读网页页码标记[616]至[622]的范式比较及[625]结论；使用网页段落起句定位，不能套用1980年期刊pp.57–72页码。网页有OCR拼写错误及省略符号，未与期刊影印件逐字校勘，故登记excerpt而非full_text。G24仍是1980原刊的独立版本记录，两者不计为两项独立研究。仅支持本批文化研究两条主张，不自动关闭任何关系待核；未再发布全文或页面图。"
+  },
+  {
+    "id": "C20",
+    "source_type": "official_record",
+    "title": "方汉奇：新闻研究应该始终坚持历史唯物主义",
+    "authors_or_organization": ["中国人民大学新闻网", "中国人民大学"],
+    "year": 2017,
+    "publisher_or_venue": "中国人民大学",
+    "doi": null,
+    "url": "https://news.ruc.edu.cn/703146243790278.html",
+    "language": "zh-CN",
+    "accessed_at": "2026-09-14",
+    "access_status": "full_text",
+    "bibliographic_note": "原source-register登记及2026-09-11核验：校方2017年刊载2009年口述自述，履历位于‘早年工作经历及见闻’，著述位于改革开放后研究段落。2026-09-14实际再次打开：文章末‘人物简介’明确载原名方汉迁，2005年首批荣誉教授、2009年首批荣誉一级教授，并将中国新闻史学会会长列作曾任职务。该简介是校方编辑材料，与2009年口述正文区分使用；仅支持所列历史称谓，不核定2026年任职状态，也不采纳页面‘最高水平’等评价为独立学术结论。"
+  },
+  {
+    "id": "C17",
+    "source_type": "scholarly_synthesis",
+    "title": "构建新时代中国新闻传播学",
+    "authors_or_organization": ["刘义昆", "雷雪晴"],
+    "year": 2020,
+    "publisher_or_venue": "中国社会科学报；全国哲学社会科学工作办公室转载",
+    "doi": null,
+    "url": "https://www.nopss.gov.cn/n1/2020/0221/c219470-31598110.html",
+    "language": "zh-CN",
+    "accessed_at": "2026-09-14",
+    "access_status": "full_text",
+    "bibliographic_note": "2026-09-14实际打开机构刊载全文：页面时间2020-02-21、署名刘义昆与雷雪晴、来源中国社会科学报，据此更正旧登记‘胡正荣’署名。‘与时代同行的中国新闻传播学’中改革开放段记述1982年座谈会及十六字方针；这是后出学术史文章，仍不提供会议原件、原始纪要或一手文本，r1ci-l3保持pending。页面2019年底统计不作为当前数量使用。"
+  }
+]

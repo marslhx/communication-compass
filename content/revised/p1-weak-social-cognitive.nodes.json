@@ -1,0 +1,152 @@
+[
+  {
+    "id": "r4-social-cognitive",
+    "slug": "social-cognitive-theory",
+    "record_level": "complete",
+    "type": "theory_model",
+    "subtype": "media_effects_theory",
+    "name_zh": "社会认知理论",
+    "name_original": "Social Cognitive Theory",
+    "aliases": [
+      {
+        "name": "社会学习理论",
+        "kind": "former_name",
+        "note": "历史上相关名称；社会认知理论更强调能动性和相互决定。"
+      }
+    ],
+    "summary": "社会认知理论用个人、行为与环境的相互作用，解释人们如何通过观察符号榜样、预期后果和自我效能获得并采用行为。",
+    "why_it_matters": "它把媒介中的模范展示、人的能动性与社会网络连接起来，常用于健康传播、娱教与行为改变。",
+    "questions_explained": [
+      "符号化的媒介榜样如何影响思想、情感与行动？",
+      "为何有些被观察的行为会被采用，有些不会？"
+    ],
+    "propositions": [
+      {
+        "id": "sct-p1",
+        "statement": "符号传播的影响需通过注意、学习、动机、自我效能等心理社会机制理解。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "Q348",
+            "locator": "full-text manuscript PDF pp. 6–9, Mechanisms Governing Observational Learning and Motivational Effects; pp. 15–17, adoption and self-efficacy",
+            "support_note": "正文把观察学习分为注意、表征保持、行为生成和动机四个子过程，区分习得与表现，并进一步说明个人效能感、结果预期和社会支持会影响知识或技能能否转为行动。这里的“学习”概括保持与行为生成，不表示看到榜样即可自动模仿。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "sct-p2",
+        "statement": "传播系统既可直接提供信息和行动指导，也可通过社会网络和社区中介改变行为。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "Q348",
+            "locator": "full-text manuscript PDF pp. 15–16, Figure 4 discussion of direct and socially mediated pathways",
+            "support_note": "Bandura 明确区分两条路径：直接路径通过提供信息、榜样、动机和指导促成改变；社会中介路径把参与者连接到社会网络与社区场景，由其持续提供个别指导、自然激励和社会支持。正文同时说明媒介影响没有单一固定模式，两条路径并非互斥。",
+            "support_role": "supports"
+          }
+        ]
+      }
+    ],
+    "conditions": [
+      "看到榜样不等于必然模仿，还需考察后果预期、能力和社会支持。",
+      "分析应保留个人能动性，不把受众写成被动复制者。"
+    ],
+    "key_points": [
+      {
+        "id": "sct-k1",
+        "statement": "媒介可提供可观察的行为模型与后果线索，但采用过程受多重条件影响。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "Q348",
+            "locator": "full-text manuscript PDF pp. 6–9, observational learning and modeled consequences; pp. 15–17, adoption conditions",
+            "support_note": "正文说明注意、保持、行为生成与动机共同制约观察学习；榜样行为的奖惩后果形成结果预期，而采用还受活动风险、个人效能、技能资源、社会支持及创新属性等条件影响。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "sct-k2",
+        "statement": "自我效能关心人是否相信自己能组织并完成所需行动，不只是“有没有知识”。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S122",
+            "locator": "Career and self-efficacy sections",
+            "support_note": "斯坦福人物资料把自我效能列为 Bandura 的主要理论贡献。",
+            "support_role": "supports"
+          }
+        ]
+      }
+    ],
+    "limits_or_debates": [
+      {
+        "id": "sct-l1",
+        "statement": "如果只用“看了就会学”概括，会遗漏自我调节、结构约束和社会网络。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "Q348",
+            "locator": "full-text manuscript PDF pp. 2–7, agentic framework and observational-learning mechanisms; pp. 15–20, dual pathways and social diffusion",
+            "support_note": "全文把个人能动性置于社会结构中，区分习得与表现，并把社会网络、支持、资源和创新属性纳入采用与扩散分析；本条是据此形成的反简化边界。",
+            "support_role": "qualifies"
+          }
+        ]
+      }
+    ],
+    "area_memberships": [
+      {
+        "area_id": "effects",
+        "is_primary": true,
+        "rationale": "解释符号传播与行为学习、采用。"
+      },
+      {
+        "area_id": "research_application",
+        "is_primary": false,
+        "rationale": "常进入健康、娱教和行为干预。"
+      }
+    ],
+    "learning_resources": [
+      {
+        "title": "Social Cognitive Theory of Mass Communication",
+        "source_id": "Q348",
+        "purpose": "从 Bandura 的全文手稿掌握观察学习机制、能动性和传播影响的两条路径。",
+        "level": "intermediate",
+        "locator": "full-text manuscript PDF pp. 2–20"
+      },
+      {
+        "title": "Albert Bandura",
+        "source_id": "S122",
+        "purpose": "将社会认知理论放回观察学习与自我效能的学术脉络。",
+        "level": "introductory",
+        "locator": "Biography"
+      }
+    ],
+    "learning_links": [
+      {
+        "target_id": "p-albert-bandura",
+        "reason": "了解理论从社会学习到能动性框架的发展。",
+        "sequence_hint": "after"
+      },
+      {
+        "target_id": "r4-cultivation",
+        "reason": "对比行为学习机制与长期象征环境的不同解释层次。",
+        "sequence_hint": "compare"
+      },
+      {
+        "target_id": "r5-health",
+        "reason": "观察理论如何进入健康传播与行为干预。",
+        "sequence_hint": "after"
+      }
+    ],
+    "temporal_profile": "relatively_stable",
+    "last_evidence_check": "2026-09-16",
+    "controversy_status": "contested",
+    "controversy_note": "传播研究中需防止将多层机制压缩成单纯的模仿效应。",
+    "review_status": "ready_for_review",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-16",
+    "reviewed_at": null
+  }
+]

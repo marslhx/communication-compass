@@ -1,0 +1,154 @@
+[
+  {
+    "id": "rel-gatekeeping-addresses-journalism",
+    "source_id": "r5-gatekeeping",
+    "target_id": "r5-journalism",
+    "relation_type": "addresses",
+    "statement_zh": "把关理论可用于分析新闻电讯稿如何被编辑采用或拒绝，以及编辑给出的取舍理由。",
+    "scope_note": "证据只是一家非都市报纸一位电讯编辑七天工作的个案，不外推为所有新闻组织的选择机制。",
+    "evidence_status": "direct",
+    "evidence": [
+      {
+        "source_id": "G18",
+        "locator": "pp. 383–390，电讯稿采用／拒绝材料与编辑理由分析",
+        "support_note": "全文直接展示新闻材料选择及其理由的研究实例。",
+        "support_role": "supports"
+      }
+    ],
+    "controversy_note": null,
+    "review_status": "ready_for_review",
+    "reviewed_at": null
+  },
+  {
+    "id": "rel-gatekeeping-addresses-platform-governance",
+    "source_id": "r5-gatekeeping",
+    "target_id": "r7-platform-governance",
+    "relation_type": "addresses",
+    "statement_zh": "数字新闻把关模型把个人、算法与平台纳入信息选择和可见性分析，可作为平台治理中研究选择权的一种有限视角。",
+    "scope_note": "只限数字新闻传播中的选择与可见性，不代表把关理论能够解释平台治理的全部法律、市场、劳动和数据问题。",
+    "evidence_status": "interpretive",
+    "evidence": [
+      {
+        "source_id": "S014",
+        "locator": "Abstract",
+        "support_note": "摘要明确纳入个人、算法和平台；将其放入平台治理是有范围限制的编辑归纳。",
+        "support_role": "supports"
+      }
+    ],
+    "controversy_note": null,
+    "review_status": "ready_for_review",
+    "reviewed_at": null
+  },
+  {
+    "id": "rel-gatekeeping-contrasts-agenda-setting",
+    "source_id": "r5-gatekeeping",
+    "target_id": "r4-agenda-setting",
+    "relation_type": "contrasts_with",
+    "statement_zh": "把关研究首先追问信息如何进入传播流，议程设置研究首先比较媒介议题显著性与公众议题显著性；两者可连续研究，但不能互作同义词。",
+    "scope_note": "比较的是经典研究问题，不把两个领域的全部后续研究压缩为单一差异。",
+    "evidence_status": "interpretive",
+    "evidence": [
+      {
+        "source_id": "G18",
+        "locator": "pp. 383–390，电讯稿选择与拒绝",
+        "support_note": "来源支持把关一侧对新闻材料选择过程的研究对象。",
+        "support_role": "supports"
+      },
+      {
+        "source_id": "G17",
+        "locator": "重印 p.106／原刊 p.177；重印 pp.106–107／原刊 pp.177–178；重印 p.109／原刊 p.180；重印 p.113／原刊 p.184",
+        "support_note": "原文区分态度与议题显著性，交代媒介样本和公众判断的聚合比较，并报告相关结果与因果限制；跨知识点对照仍是编辑解释。",
+        "support_role": "supports"
+      }
+    ],
+    "controversy_note": null,
+    "review_status": "ready_for_review",
+    "reviewed_at": null
+  },
+  {
+    "id": "rel-habermas-developed-public-sphere",
+    "source_id": "p-habermas",
+    "target_id": "r5-public-sphere",
+    "relation_type": "developed",
+    "statement_zh": "Habermas 通过对资产阶级公共领域结构转型的研究和简明概念论述发展了公共领域理论。",
+    "scope_note": "不主张 Habermas 首次提出公共领域，也不使用“最具影响力”等缺少比较证据的排序。",
+    "evidence_status": "direct",
+    "evidence": [
+      {
+        "source_id": "G19",
+        "locator": "MIT Press 书目页的题名、副标题与历史—社会学研究范围",
+        "support_note": "书目确认 Habermas 的著作及其资产阶级公共领域结构转型研究范围。",
+        "support_role": "supports"
+      },
+      {
+        "source_id": "G23",
+        "locator": "pp. 49–50，Section 1 “The Concept”；pp. 54–55",
+        "support_note": "全文直接给出公共领域定义、制度边界和历史变化说明，支持“发展”而非“首次提出”的有限关系。",
+        "support_role": "supports"
+      }
+    ],
+    "controversy_note": null,
+    "review_status": "ready_for_review",
+    "reviewed_at": null
+  },
+  {
+    "id": "rel-public-sphere-addresses-political-communication",
+    "source_id": "r5-public-sphere",
+    "target_id": "r5-political",
+    "relation_type": "addresses",
+    "statement_zh": "公共领域理论分析公众讨论、公共意见以及社会与国家之间制度化中介的联系。",
+    "scope_note": "这是一条规范与制度分析路径，不代表政治传播的全部研究范围。",
+    "evidence_status": "direct",
+    "evidence": [
+      {
+        "source_id": "G23",
+        "locator": "pp. 49–50，Section 1 “The Concept”",
+        "support_note": "原文定义公共意见形成，并说明公共领域位于社会与国家之间的中介位置。",
+        "support_role": "supports"
+      }
+    ],
+    "controversy_note": null,
+    "review_status": "ready_for_review",
+    "reviewed_at": null
+  },
+  {
+    "id": "rel-public-sphere-addresses-gender",
+    "source_id": "r5-public-sphere",
+    "target_id": "r6-gender",
+    "relation_type": "addresses",
+    "statement_zh": "女性主义公共领域批评把性别化排斥、非正式不平等与从属反公共纳入对民主传播条件的分析。",
+    "scope_note": "该关系来自对经典公共领域理论的批评性展开，不表示原初模型已解决性别问题，并保留分层社会条件；它不覆盖复合目标中的全部酷儿传播研究。",
+    "evidence_status": "direct",
+    "evidence": [
+      {
+        "source_id": "S015",
+        "locator": "pp. 60–61、63–68；结论 p.77",
+        "support_note": "Fraser 直接讨论妇女等群体的排斥、participatory parity、multiple publics 与 subaltern counterpublics。",
+        "support_role": "supports"
+      }
+    ],
+    "controversy_note": null,
+    "review_status": "ready_for_review",
+    "reviewed_at": null
+  },
+  {
+    "id": "rel-content-analysis-used-in-journalism",
+    "source_id": "r8-content-analysis",
+    "target_id": "r5-journalism",
+    "relation_type": "used_in",
+    "statement_zh": "内容分析可用于对新闻材料作明确分类，并比较材料的采用、拒绝及所记录的取舍理由。",
+    "scope_note": "现有直接实例只支持材料分类与选择结果，不扩写为已验证主题、来源、框架和呈现等全部新闻内容分析用途。",
+    "evidence_status": "direct",
+    "evidence": [
+      {
+        "source_id": "G18",
+        "locator": "pp. 383–390，电讯稿材料分类、采用／拒绝结果及编辑理由",
+        "support_note": "White 个案提供新闻材料分类与选择结果的直接应用实例。",
+        "support_role": "supports"
+      }
+    ],
+    "controversy_note": null,
+    "review_status": "ready_for_review",
+    "reviewed_at": null
+  }
+]

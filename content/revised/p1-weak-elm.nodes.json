@@ -1,0 +1,55 @@
+[
+  {
+    "id": "r4-elaboration-likelihood",
+    "slug": "elaboration-likelihood-model",
+    "record_level": "complete",
+    "type": "theory_model",
+    "subtype": "persuasion_model",
+    "name_zh": "精细加工可能性模型",
+    "name_original": "Elaboration Likelihood Model",
+    "aliases": [
+      {"name": "ELM", "kind": "abbreviation", "note": "英文缩写。"},
+      {"name": "详尽可能性模型", "kind": "alternate_translation", "note": "另一种中文译法。"}
+    ],
+    "summary": "精细加工可能性模型解释说服信息如何在不同思考动机与能力条件下，经由较深入的论据加工或较依赖线索的加工产生态度变化。",
+    "why_it_matters": "它提醒传播者：同一来源、情绪或论据并不总以同一种方式发挥作用，受众是否愿意且能够认真思考是关键条件。",
+    "questions_explained": [
+      "人们何时会认真评估论据，何时更依赖来源或情境线索？",
+      "不同加工过程形成的态度在稳定性上有何差异？"
+    ],
+    "propositions": [
+      {"id": "elm-p1", "statement": "说服可沿着以议题相关论据思考为主的路径，或以情感联结和简化推断为主的路径发生。", "evidence_status": "direct", "evidence": [{"source_id": "Q350", "locator": "author-uploaded full text, printed pp. 125–129 and 191; Introduction, The Elaboration Continuum, Summary and Conclusions", "support_note": "正文把中央路径说明为对主张真实优点及议题相关论据的审慎思考，把外周路径说明为不必审视这些优点、依赖情感联结或简单推断的说服；第 129 页进一步说明两者是精细加工连续体的锚点，而不是两类固定信息。", "support_role": "supports"}]},
+      {"id": "elm-p2", "statement": "变量可能通过提高或降低对信息论据的审视程度而影响说服。", "evidence_status": "direct", "evidence": [{"source_id": "Q350", "locator": "author-uploaded full text, printed pp. 136, 183 and 191; Affecting Elaboration, Variables with Multiple Effects on Elaboration, Summary and Conclusions", "support_note": "正文明确说明变量可以决定信息加工的程度或方向，并在总结中把提高或降低对信息论据的审视列为 ELM 的基本命题；同一变量的作用随加工条件变化，不能预先固定为中央或外周信息。", "support_role": "supports"}]}
+    ],
+    "conditions": [
+      "不能把中央与外周路径理解为好坏二分或两种固定人群。",
+      "必须具体说明动机、能力、论据质量和态度测量。"
+    ],
+    "key_points": [
+      {"id": "elm-k1", "statement": "来源可信度、情绪或重复既可能作为简单线索，也可能改变人们对论据的思考，作用取决于条件。", "evidence_status": "interpretive", "evidence": [{"source_id": "Q350", "locator": "author-uploaded full text, printed pp. 136, 183–191; Affecting Elaboration and Complicating Factors", "support_note": "正文以来源、信息、受众和情境变量说明多重作用：变量可作为简单线索，也可改变加工量、加工方向或进入对主张优点的评价；本条据此作教学归纳。", "support_role": "supports"}]},
+      {"id": "elm-k2", "statement": "模型的核心不是给信息贴“中央/外周”标签，而是判断受众如何加工信息。", "evidence_status": "interpretive", "evidence": [{"source_id": "Q350", "locator": "author-uploaded full text, printed pp. 129, 133, 183 and 186–191; Elaboration Continuum and Complicating Factors", "support_note": "正文把路径置于由动机和能力决定的精细加工连续体上，并指出人们对什么信息构成议题核心会有差异、同一变量也可承担不同作用；因此中央／外周是加工过程的限定，不是信息的固定属性。", "support_role": "qualifies"}]}
+    ],
+    "limits_or_debates": [
+      {"id": "elm-l1", "statement": "现实媒介使用常包含混合加工、既有态度和社交线索，两条路径不应画成互不相通的管道。", "evidence_status": "interpretive", "evidence": [{"source_id": "Q350", "locator": "author-uploaded full text, printed pp. 129 and 183–191; Elaboration Continuum and Complicating Factors", "support_note": "正文将两条路径界定为连续体端点，并说明日常说服情境通常由多个变量共同构成、许多情境处于中等加工水平；‘混合加工’是据此形成的防止二分化教学限定。", "support_role": "qualifies"}]}
+    ],
+    "area_memberships": [
+      {"area_id": "effects", "is_primary": true, "rationale": "核心是说服信息的认知加工与态度变化。"},
+      {"area_id": "research_application", "is_primary": false, "rationale": "适用于广告、健康与公共传播设计。"}
+    ],
+    "learning_resources": [
+      {"title": "The Elaboration Likelihood Model of Persuasion", "source_id": "Q350", "purpose": "从原始模型全文核对两条路径、精细加工连续体和变量多重作用，避免把路径当成固定信息类型。", "level": "intermediate", "locator": "author-uploaded full text, printed pp. 125–136 and 183–191"}
+    ],
+    "learning_links": [
+      {"target_id": "r4-persuasion", "reason": "先掌握说服研究中的态度、信息与来源变量。", "sequence_hint": "before"},
+      {"target_id": "c-selective-exposure", "reason": "比较信息选择发生在接触阶段，加工路径发生在接触之后。", "sequence_hint": "compare"}
+    ],
+    "temporal_profile": "relatively_stable",
+    "last_evidence_check": "2026-09-16",
+    "controversy_status": "contested",
+    "controversy_note": "争论涉及双路径图示的过度简化、变量多重角色和现实混合加工。",
+    "review_status": "ready_for_review",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-16",
+    "reviewed_at": null
+  }
+]

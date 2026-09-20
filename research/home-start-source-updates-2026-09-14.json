@@ -1,0 +1,53 @@
+[
+  {
+    "id": "S010",
+    "source_type": "primary_scholarship",
+    "title": "A Mathematical Theory of Communication.",
+    "authors_or_organization": [
+      "Shannon, Claude E"
+    ],
+    "year": 1948,
+    "publisher_or_venue": "*Bell System Technical Journal* 27(3): 379–423; 27(4): 623–656",
+    "doi": "10.1002/j.1538-7305.1948.tb01338.x",
+    "url": "https://doi.org/10.1002/j.1538-7305.1948.tb01338.x",
+    "language": "en",
+    "accessed_at": "2026-09-14",
+    "access_status": "full_text",
+    "bibliographic_note": "原始定位与用途: Introduction；Figure 1；noisy channel。支持工程范围、系统组件、噪声与容量。；原始 access_status: table_entry；其他 URL: https://doi.org/10.1002/j.1538-7305.1948.tb00917.x；2026-09-11 已核哈佛大学保存的 55 页校正版重印 PDF，Introduction 与 Figure 1 位于 PDF 1-2 页。2026-09-14 再核 https://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf 的第1页工程范围、语义边界与消息选择集合段落；本轮新增主张只依该页，不表示重读全文。"
+  },
+  {
+    "id": "H01",
+    "source_type": "primary_scholarship",
+    "title": "The Structure and Function of Communication in Society（2007 年重印选载）",
+    "authors_or_organization": [
+      "Harold D. Lasswell"
+    ],
+    "year": 2007,
+    "publisher_or_venue": "İletişim kuram ve araştırma dergisi, 24: 215–228",
+    "doi": null,
+    "url": "https://pracownik.kul.pl/files/37108/public/Lasswell.pdf",
+    "language": "en",
+    "accessed_at": "2026-09-14",
+    "access_status": "excerpt",
+    "bibliographic_note": "KUL大学教师网站托管PDF；本轮核读印刷pp.215–216（PDF第1–2页）。首页注明原作载于Bryson编1948年The Communication of Ideas，选载来源为Schramm与Roberts编1971年The Process and Effects of Mass Communication pp.84–99。只以2007选载p.216支持五问与研究分工，不声称核读1948原版；不保存或再发布PDF。"
+  },
+  {
+    "id": "H02",
+    "source_type": "scholarly_synthesis",
+    "title": "Social Data: Biases, Methodological Pitfalls, and Ethical Boundaries",
+    "authors_or_organization": [
+      "Alexandra Olteanu",
+      "Carlos Castillo",
+      "Fernando Diaz",
+      "Emre Kıcıman"
+    ],
+    "year": 2019,
+    "publisher_or_venue": "Frontiers in Big Data, 2:13",
+    "doi": "10.3389/fdata.2019.00013",
+    "url": "https://www.frontiersin.org/journals/big-data/articles/10.3389/fdata.2019.00013/full",
+    "language": "en",
+    "accessed_at": "2026-09-14",
+    "access_status": "excerpt",
+    "bibliographic_note": "官方开放全文可访问，本轮定点核读§3.2、§3.6、§5.1和§5.2，以正文支持社会平台语料的代表性、时间流失及采集查询偏差；不将2019示例当作2026平台规则。页面标明CC BY；项目仅保存书目、定位与自行概述。"
+  }
+]

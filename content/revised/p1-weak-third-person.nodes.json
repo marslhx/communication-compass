@@ -1,0 +1,140 @@
+[
+  {
+    "id": "r4-third-person-effect",
+    "slug": "third-person-effect",
+    "record_level": "complete",
+    "type": "theory_model",
+    "subtype": "perceptual_bias_model",
+    "name_zh": "第三人效果",
+    "name_original": "Third-Person Effect",
+    "aliases": [
+      {
+        "name": "第三人效应",
+        "kind": "alternate_translation",
+        "note": "常见译法。"
+      }
+    ],
+    "summary": "第三人效果描述一种判断倾向：面对说服性媒介信息，人们常认为“别人”比自己更容易受影响；这种感知差异还可能推动审查、管制或其他行动。",
+    "why_it_matters": "它把媒介效果从“信息实际改变了谁”扩展到“人们以为信息会改变谁”，能解释许多围绕宣传、假信息和内容治理的反应。",
+    "questions_explained": [
+      "为什么人们常认为别人比自己更容易受媒介影响？",
+      "这种影响判断如何转化为支持审查或保护性行动？"
+    ],
+    "propositions": [
+      {
+        "id": "tpe-p1",
+        "statement": "个体可能估计大众传播对他人的说服作用大于对自己的作用。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "Q349",
+            "locator": "Original journal p. 3, hypothesis definition; pp. 4–7, Four Small Experiments",
+            "support_note": "原刊第 3 页把假设界定为受众预期说服传播对他人的作用大于对自己；第 4–7 页报告若干非正式小样本比较，结果总体倾向支持这一感知命题。作者同时明确提示样本小、问题措辞不完全可比，不能把这些试验写成普遍稳定的效应量。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "tpe-p2",
+        "statement": "传播可能因旁观者相信目标受众会受影响而引发行动，而不只因目标受众真的改变。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "Q349",
+            "locator": "Original journal p. 3; pp. 9–10; pp. 13–14",
+            "support_note": "第 3 页明确提出：传播效果可能来自预期他人会反应者的行动，而非目标受众的实际改变；第 9–10 页以投票与捐款说明这种可能，第 13–14 页延伸至市场行动和审查。后续案例多为解释或推测，只支持“可能引发行动”，不构成已验证的行为因果链。",
+            "support_role": "supports"
+          }
+        ]
+      }
+    ],
+    "conditions": [
+      "需要区分感知差距与行为后果；Davison 的小样本试验主要检验前者，行为案例多为解释性例证。",
+      "“他人”的社会距离、信息可欲性和议题涉入会改变结果，不能把效应视为常数。"
+    ],
+    "key_points": [
+      {
+        "id": "tpe-k1",
+        "statement": "第三人效果首先是自我与他人影响估计的差距，不等于已经测得真实媒介效果。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "Q349",
+            "locator": "Original journal p. 3",
+            "support_note": "第 3 页把核心假设写为人们对传播影响的估计差距，并另行提出这种预期可能带来行动；该定义本身没有测量目标受众是否真的被传播改变。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "tpe-k2",
+        "statement": "研究常需同时测量自我估计、他人估计以及政策或行为倾向。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "Q349",
+            "locator": "Original journal pp. 3–7; pp. 9–10; pp. 13–14",
+            "support_note": "第 3–7 页的定义和试验比较自我与他人影响估计，后文另讨论行动案例；本条把两部分转化为教学测量提醒，并不声称原文已完成行为后果的统一量表检验。",
+            "support_role": "supports"
+          }
+        ]
+      }
+    ],
+    "limits_or_debates": [
+      {
+        "id": "tpe-l1",
+        "statement": "自他差距可能同时包含对自己的乐观判断、对他人的刻板印象和测量顺序影响，不能直接解释为自我免疫。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "Q349",
+            "locator": "Original journal pp. 4–8; p. 14",
+            "support_note": "原文说明试验顺序和问题措辞并不完全一致，并在结尾提出究竟是高估他人还是低估自己仍待回答；“乐观判断”和“刻板印象”属于教学上的机制提示，需由后续研究另行区分。",
+            "support_role": "qualifies"
+          }
+        ]
+      }
+    ],
+    "area_memberships": [
+      {
+        "area_id": "effects",
+        "is_primary": true,
+        "rationale": "核心是对媒介影响的感知及其行为后果。"
+      },
+      {
+        "area_id": "institutions",
+        "is_primary": false,
+        "rationale": "可连接审查、治理与公共政策态度。"
+      }
+    ],
+    "learning_resources": [
+      {
+        "title": "The Third-Person Effect in Communication",
+        "source_id": "Q349",
+        "purpose": "核读原始论文如何分别提出感知差距与可能的行为后果，并辨认小样本试验和解释性案例的证据边界。",
+        "level": "intermediate",
+        "locator": "Original journal pp. 3–10, 13–14"
+      }
+    ],
+    "learning_links": [
+      {
+        "target_id": "r4-effects",
+        "reason": "先区分实际效果、感知效果和推定效果。",
+        "sequence_hint": "before"
+      },
+      {
+        "target_id": "r4-info-disorder",
+        "reason": "分析人们对“他人会被假信息影响”的判断如何进入治理态度。",
+        "sequence_hint": "after"
+      }
+    ],
+    "temporal_profile": "relatively_stable",
+    "last_evidence_check": "2026-09-16",
+    "controversy_status": "contested",
+    "controversy_note": "感知差距的心理机制、行为后果和跨议题稳定性需要分开检验。",
+    "review_status": "ready_for_review",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-16",
+    "reviewed_at": null
+  }
+]

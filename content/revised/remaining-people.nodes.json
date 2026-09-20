@@ -1,0 +1,155 @@
+[
+  {
+    "id": "p-shannon",
+    "slug": "p-shannon",
+    "record_level": "complete",
+    "type": "person",
+    "subtype": "scholar",
+    "name_zh": "克劳德·香农",
+    "name_original": "Claude E. Shannon",
+    "aliases": [],
+    "summary": "克劳德·香农（1916–2001）是数学家、工程师与信息论奠基者。1948 年论文将通信的工程问题形式化为消息经信道传输和受噪音影响的问题，为数字通信奠定数学基础。",
+    "why_it_matters": "香农帮助传播学生看清“消息如何可靠传输”与“人们如何理解意义”是两类问题。信息、冗余、信道与噪音成为跨学科词汇，但应保留其工程边界。",
+    "roles": ["Information theory founder", "Mathematician", "Electrical engineer", "Bell Labs researcher"],
+    "communication_relevance": "香农的核心贡献是通信工程和信息论；它影响了传播过程模型的词汇，但不直接提供语义、文化或权力理论。",
+    "key_points": [
+      {
+        "id": "psh-k1",
+        "statement": "香农 1948 年《通信的数学理论》给出了信息源、发送器、信道、接收器、信宿与噪音源等组件的通信系统模型。",
+        "evidence_status": "direct",
+        "evidence": [{"source_id": "S047", "locator": "pp. 379–381，Introduction and schematic diagram", "support_note": "原文直接界定基本问题并给出通信系统示意图。", "support_role": "supports"}]
+      },
+      {
+        "id": "psh-k2",
+        "statement": "原文明确说明，消息的语义层面与当时要解决的工程问题无关；因此 Shannon information 不应被直接等同为“有意义的内容”。",
+        "evidence_status": "direct",
+        "evidence": [{"source_id": "S047", "locator": "p. 379，Introduction", "support_note": "原文将 semantic aspects 明确排除在工程问题之外。", "support_role": "qualifies"}]
+      }
+    ],
+    "limits_or_debates": [
+      {
+        "id": "psh-l1",
+        "statement": "用香农模型分析人类传播时，若把“噪音”泛化为任何误解，或把信息量当作意义价值，会混淆工程与语义层次。",
+        "evidence_status": "interpretive",
+        "evidence": [{"source_id": "S047", "locator": "p. 379，engineering problem and semantic boundary", "support_note": "这是根据原文自身边界作出的跨学科使用警示。", "support_role": "qualifies"}]
+      }
+    ],
+    "area_memberships": [
+      {"area_id": "communication", "is_primary": true, "rationale": "香农对信息传输过程的形式化是现代传播过程词汇的重要来源。"},
+      {"area_id": "digital_ai", "is_primary": false, "rationale": "信息论是数字通信与计算基础的重要组成。"}
+    ],
+    "learning_resources": [
+      {"title": "A Mathematical Theory of Communication", "source_id": "S047", "purpose": "阅读引言与系统图，理解工程问题和语义边界。", "level": "intermediate", "locator": "pp. 379–381"},
+      {"title": "Claude E. Shannon", "source_id": "S046", "purpose": "从 IEEE 学会人物页了解信息论的学术和工程语境。", "level": "introductory", "locator": "全页"}
+    ],
+    "learning_links": [
+      {"target_id": "r1-feedback-noise", "reason": "进一步区分工程噪音、反馈与人类传播中的误解。", "sequence_hint": "after"},
+      {"target_id": "r1-process", "reason": "比较工程模型与更广的人类传播过程。", "sequence_hint": "compare"}
+    ],
+    "temporal_profile": "relatively_stable", "last_evidence_check": "2026-09-11", "controversy_status": "contested", "controversy_note": "争议主要来自将工程信息论外推为人类意义理论，而非原数学成就本身。", "review_status": "ready_for_review", "created_at": "2026-09-11", "updated_at": "2026-09-11", "reviewed_at": null
+  },
+  {
+    "id": "p-lasswell", "slug": "p-lasswell", "record_level": "complete", "type": "person", "subtype": "scholar", "name_zh": "哈罗德·拉斯韦尔", "name_original": "Harold D. Lasswell", "aliases": [],
+    "summary": "哈罗德·拉斯韦尔（1902–1978）是政治理论家、政治心理和政策科学学者。他在 1948 年用“谁—说什么—经什么渠道—对谁—取得什么效果”组织传播过程的研究分工。",
+    "why_it_matters": "5W 仍是学生快速拆解传播活动的入口，并能对应控制、内容、媒介、受众和效果分析。它更像问题公式，不是对传播全貌的完整理论。",
+    "roles": ["Political scientist", "Policy sciences scholar", "Communication research pioneer"],
+    "communication_relevance": "拉斯韦尔将大众传播研究拆解为可操作的五类问题，并将传播放入社会功能与政治过程中。",
+    "education_records": [{"institution": "University of Chicago", "program": "Political Science", "degree": "Ph.D.", "period": "1926", "source_id": "S049", "locator": "Biographical / Historical"}],
+    "key_points": [
+      {"id": "plas-k1", "statement": "拉斯韦尔的 5W 原文是一组描述传播行为的问题，并与控制、内容、媒介、受众和效果分析相对应。", "evidence_status": "direct", "evidence": [{"source_id": "S048", "locator": "The Act of Communication，开篇", "support_note": "重印原文直接列出五个问题及各研究分支。", "support_role": "supports"}]},
+      {"id": "plas-k2", "statement": "他的学术工作跨越政治理论、战时传播研究和政策科学，因此不宜只用一张 5W 图代表他。", "evidence_status": "direct", "evidence": [{"source_id": "S049", "locator": "Biographical / Historical; Scope and Contents", "support_note": "耶鲁档案目录记录他的政治理论、War Communications Research、教学与政策科学工作。", "support_role": "supports"}]}
+    ],
+    "limits_or_debates": [{"id": "plas-l1", "statement": "常见教材把 5W 画成单向箭头，但原文先是一组研究问题；反馈、共同意义和制度情境需由其他模型补充。", "evidence_status": "interpretive", "evidence": [{"source_id": "S048", "locator": "The Act of Communication，开篇", "support_note": "原文以问句和研究分工呈现；对后来线性图示的警示是编辑性限定。", "support_role": "qualifies"}]}],
+    "area_memberships": [{"area_id": "communication", "is_primary": true, "rationale": "5W 公式组织了传播过程的核心分析问题。"}, {"area_id": "institutions", "is_primary": false, "rationale": "他的工作将传播与政治、战时研究和政策科学联系。"}],
+    "learning_resources": [{"title": "The Structure and Function of Communication in Society", "source_id": "S048", "purpose": "阅读 5W 问题的原始语境和研究分工。", "level": "introductory", "locator": "The Act of Communication"}, {"title": "Harold Dwight Lasswell Papers", "source_id": "S049", "purpose": "把 5W 放回拉斯韦尔的政治与政策科学生涯。", "level": "introductory", "locator": "Biographical / Historical"}],
+    "learning_links": [{"target_id": "r1-process", "reason": "将 5W 与反馈、循环、网络和意义建构等其他过程模型比较。", "sequence_hint": "after"}, {"target_id": "r5-political", "reason": "将拉斯韦尔的传播问题放回政治与政策语境。", "sequence_hint": "after"}],
+    "temporal_profile": "relatively_stable", "last_evidence_check": "2026-09-11", "controversy_status": "contested", "controversy_note": "主要边界是区分拉斯韦尔的原始问题公式与后人的线性模型图。", "review_status": "ready_for_review", "created_at": "2026-09-11", "updated_at": "2026-09-11", "reviewed_at": null
+  },
+  {
+    "id": "p-mcluhan", "slug": "p-mcluhan", "record_level": "complete", "type": "person", "subtype": "scholar", "name_zh": "马歇尔·麦克卢汉", "name_original": "Marshall McLuhan", "aliases": [],
+    "portrait": {"url": "/portraits/mcluhan.jpg", "alt": "马歇尔·麦克卢汉在电视旁的照片", "credit": "Bernard Gotfryd / Library of Congress / Wikimedia Commons", "license": "Public domain; no known copyright restrictions", "source_url": "https://commons.wikimedia.org/wiki/File:Marshall_McLuhan_with_and_on_television.jpg"},
+    "summary": "马歇尔·麦克卢汉（1911–1980）是加拿大文学与媒介思想家，长期任职于多伦多大学，并主持文化与技术中心。他以“媒介即讯息”、地球村及对媒介形式的宏观分析著名。",
+    "why_it_matters": "麦克卢汉促使学生把注意力从内容扩展到媒介的形式、速度、尺度和社会组织后果，是媒介理论的关键人物，也是技术决定论批评常对话的对象。",
+    "roles": ["Media theorist", "Literary scholar", "Director of the Centre for Culture and Technology"],
+    "communication_relevance": "他用媒介形式的差异解释社会互动的规模、节奏与模式，为媒介理论提供标志性命题。",
+    "education_records": [{"institution": "University of Manitoba", "program": "English literature", "degree": "B.A. and M.A.", "period": "1932–1934", "source_id": "S050", "locator": "Biography"}, {"institution": "University of Cambridge", "program": "English literature", "degree": "Ph.D.", "period": null, "source_id": "S050", "locator": "Biography"}],
+    "key_points": [{"id": "pmc-k1", "statement": "麦克卢汉认为媒介本身改变人类事务的规模、速度与模式，因此研究不能只盯着所传内容。", "evidence_status": "direct", "evidence": [{"source_id": "S004", "locator": "Chapter 1, pp. 1–2", "support_note": "《理解媒介》第一章直接用 scale, pace, pattern 说明媒介形式的社会后果。", "support_role": "supports"}]}, {"id": "pmc-k2", "statement": "他的思想产生于文学批评、通俗文化分析与多伦多大学的跨学科媒介研究环境。", "evidence_status": "direct", "evidence": [{"source_id": "S050", "locator": "Biography", "support_note": "多大人物页记录其文学学历、任职、主要著作及中心工作。", "support_role": "supports"}]}],
+    "limits_or_debates": [{"id": "pmc-l1", "statement": "“媒介即讯息”不等于内容永远无关紧要；若把媒介形式当作单一原因，会忽略制度、文化和行动者。", "evidence_status": "interpretive", "evidence": [{"source_id": "S004", "locator": "Chapter 1", "support_note": "原章突出媒介形式；本条是防止将其缩减为粗糙技术决定论的编辑性限定。", "support_role": "qualifies"}]}],
+    "area_memberships": [{"area_id": "media_society", "is_primary": true, "rationale": "他的标志性问题是媒介形式如何改变社会组织与互动。"}, {"area_id": "digital_ai", "is_primary": false, "rationale": "当代数字媒介研究仍会与他的媒介形式命题对话。"}],
+    "learning_resources": [{"title": "Understanding Media: The Extensions of Man", "source_id": "S004", "purpose": "核读“媒介即讯息”的第一章，不只记口号。", "level": "intermediate", "locator": "Chapter 1"}, {"title": "Herbert Marshall McLuhan", "source_id": "S050", "purpose": "了解其文学学术背景、多大任职与研究中心。", "level": "introductory", "locator": "Biography"}],
+    "learning_links": [{"target_id": "r3-medium-theory", "reason": "进入麦克卢汉所属的媒介理论传统并比较 Innis 等人。", "sequence_hint": "after"}, {"target_id": "r3-mediatization", "reason": "比较媒介形式宏观命题与制度媒介化的情境化分析。", "sequence_hint": "compare"}],
+    "temporal_profile": "relatively_stable", "last_evidence_check": "2026-09-11", "controversy_status": "contested", "controversy_note": "关键争议是媒介形式命题与技术决定论的边界。", "review_status": "ready_for_review", "created_at": "2026-09-11", "updated_at": "2026-09-11", "reviewed_at": null
+  },
+  {
+    "id": "p-mccombs", "slug": "p-mccombs", "record_level": "complete", "type": "person", "subtype": "scholar", "name_zh": "马克斯韦尔·麦库姆斯", "name_original": "Maxwell McCombs", "aliases": [{"name": "Max McCombs", "kind": "common_name", "note": "官方教师页使用的简称。"}],
+    "portrait": {"url": "/portraits/mccombs.webp", "alt": "马克斯韦尔·麦库姆斯肖像", "credit": "Hannah Freitas / UFC TJor / Wikimedia Commons", "license": "CC BY-SA 4.0", "source_url": "https://commons.wikimedia.org/wiki/File:Maxwell_McCombs.jpg"},
+    "summary": "马克斯韦尔·麦库姆斯（1938–2024）是美国新闻与传播学者，与唐纳德·肖共同开展经典教堂山研究，建立了议程设置研究路线。",
+    "why_it_matters": "他将“媒介突出哪些议题”与“公众认为哪些议题重要”转化为可用内容分析和调查检验的研究设计。",
+    "roles": ["Agenda-setting researcher", "Journalism professor", "Former journalist"],
+    "communication_relevance": "麦库姆斯是议程设置经验研究的核心奏献者，后续工作扩展到属性和网络议程等方向。",
+    "education_records": [{"institution": "Tulane University", "program": "Undergraduate study", "degree": "B.A.", "period": null, "source_id": "S051", "locator": "Biography"}, {"institution": "Stanford University", "program": "Mass communication", "degree": "M.A. and Ph.D.", "period": "Ph.D. 1966", "source_id": "S051", "locator": "Biography"}],
+    "key_points": [{"id": "pmm-k1", "statement": "麦库姆斯与肖在 1968 年美国大选期间进行教堂山研究，以内容分析与选民调查比较媒介和公众议题显著性。", "evidence_status": "direct", "evidence": [{"source_id": "G17", "locator": "重印 pp. 106–109／原刊 pp. 177–180", "support_note": "原文提供教堂山样本、内容分析和比较结果。", "support_role": "supports"}]}, {"id": "pmm-k2", "statement": "他的职业经历连接新闻实务、新闻学院教学与长期媒介效果研究。", "evidence_status": "direct", "evidence": [{"source_id": "S051", "locator": "Biography", "support_note": "UT Austin 纪念页记录其记者经历、多校任职及议程设置研究。", "support_role": "supports"}]}],
+    "limits_or_debates": [{"id": "pmm-l1", "statement": "议程设置是麦库姆斯与肖及大量后续学者共同发展的研究线索，不应写成单个人一次实验的发明。", "evidence_status": "direct", "evidence": [{"source_id": "S051", "locator": "Agenda-setting collaboration and worldwide research", "support_note": "官方页同时强调与 Shaw 的合作和数百项后续研究。", "support_role": "qualifies"}]}],
+    "area_memberships": [{"area_id": "effects", "is_primary": true, "rationale": "其核心贡献是对议题显著性效果的经验研究。"}, {"area_id": "institutions", "is_primary": false, "rationale": "议程设置与新闻选择和编辑制度相联系。"}],
+    "learning_resources": [{"title": "The Agenda-Setting Function of Mass Media", "source_id": "G17", "purpose": "阅读经典研究的问题、方法、结果与因果限定。", "level": "intermediate", "locator": "重印 pp. 105–117"}, {"title": "In Memoriam: Maxwell McCombs", "source_id": "S051", "purpose": "了解其学历、新闻实务与学术合作轨迹。", "level": "introductory", "locator": "全页"}],
+    "learning_links": [{"target_id": "r4-agenda-setting", "reason": "进入理论命题、教堂山方法与因果边界。", "sequence_hint": "after"}, {"target_id": "p-shaw", "reason": "将经典成果放回共同作者和长期合作。", "sequence_hint": "compare"}],
+    "temporal_profile": "relatively_stable", "last_evidence_check": "2026-09-11", "controversy_status": "none_identified", "controversy_note": "知识点强调共同作者与研究线索，不作单人英雄叙事。", "review_status": "ready_for_review", "created_at": "2026-09-11", "updated_at": "2026-09-11", "reviewed_at": null
+  },
+  {
+    "id": "p-shaw", "slug": "p-shaw", "record_level": "complete", "type": "person", "subtype": "scholar", "name_zh": "唐纳德·肖", "name_original": "Donald L. Shaw", "aliases": [],
+    "summary": "唐纳德·肖（1936–2021）是美国新闻与传播学者，长期任教于北卡罗来纳大学教堂山分校，与麦库姆斯共同开展议程设置研究，后来还推进 agenda melding 等方向。",
+    "why_it_matters": "肖的轨迹显示经典理论来自长期合作和方法工作，而非一句口号；他还把研究延伸到个人如何在多元媒介环境中融合议程。",
+    "roles": ["Agenda-setting researcher", "Journalism historian", "Professor at UNC-Chapel Hill"],
+    "communication_relevance": "肖是议程设置经验研究的共同奠基者，并将学术兴趣扩展到议程融合和新闻史。",
+    "key_points": [{"id": "pdsh-k1", "statement": "肖与麦库姆斯共同完成经典教堂山研究，将新闻媒介的议题强调与公众显著性判断联系起来。", "evidence_status": "direct", "evidence": [{"source_id": "G17", "locator": "全文作者与 METHOD/RESULTS", "support_note": "原文列两人为共同作者并报告联合研究。", "support_role": "supports"}]}, {"id": "pdsh-k2", "statement": "他在 UNC 长期从事传播研究与教学，后期 agenda melding 工作关心多元媒介环境中个人议程的组织。", "evidence_status": "direct", "evidence": [{"source_id": "S052", "locator": "Memorial statement", "support_note": "BU 研究中心纪念页记录其 UNC 职位、议程设置与 agenda melding 贡献。", "support_role": "supports"}]}],
+    "limits_or_debates": [{"id": "pdsh-l1", "statement": "肖的贡献不宜被缩减为麦库姆斯的配角；两人的经典论文是共同作者成果，后续路线也包含肖自己的发展。", "evidence_status": "direct", "evidence": [{"source_id": "S052", "locator": "Memorial statement", "support_note": "纪念页明确将他列为议程设置共同开发者并提到后续研究。", "support_role": "qualifies"}]}],
+    "area_memberships": [{"area_id": "effects", "is_primary": true, "rationale": "其最具代表性的贡献是议程设置研究。"}, {"area_id": "institutions", "is_primary": false, "rationale": "他同时研究新闻史与媒介议程的制度生成。"}],
+    "learning_resources": [{"title": "The Agenda-Setting Function of Mass Media", "source_id": "G17", "purpose": "阅读共同作者的经典研究设计和限定。", "level": "intermediate", "locator": "重印 pp. 105–117"}, {"title": "CRC Fellows Mourn the Passing of Dr. Donald L. Shaw", "source_id": "S052", "purpose": "了解其长期教学、议程设置和 agenda melding 工作。", "level": "introductory", "locator": "全页"}],
+    "learning_links": [{"target_id": "r4-agenda-setting", "reason": "进入理论、方法和因果边界。", "sequence_hint": "after"}, {"target_id": "p-mccombs", "reason": "以共同作者视角理解经典研究。", "sequence_hint": "compare"}],
+    "temporal_profile": "relatively_stable", "last_evidence_check": "2026-09-11", "controversy_status": "none_identified", "controversy_note": "知识点主要纠正单人归功叙事。", "review_status": "ready_for_review", "created_at": "2026-09-11", "updated_at": "2026-09-11", "reviewed_at": null
+  },
+  {
+    "id": "p-gerbner", "slug": "p-gerbner", "record_level": "complete", "type": "person", "subtype": "scholar", "name_zh": "乔治·格伯纳", "name_original": "George Gerbner", "aliases": [],
+    "portrait": {"url": "/portraits/gerbner.webp", "alt": "乔治·格伯纳肖像", "credit": "Annenberg School for Communication / Wikimedia Commons", "license": "CC0 1.0", "source_url": "https://commons.wikimedia.org/wiki/File:George_Gerbner.jpg"},
+    "summary": "乔治·格伯纳（1919–2005）是传播学者，1964–1989 年担任宾夕法尼亚大学 Annenberg 传播学院院长，领导 Cultural Indicators 研究计划并发展涵化分析。",
+    "why_it_matters": "格伯纳将媒介内容的长期重复模式与受众现实观调查联系，并以学院建设推动传播学从单媒介或职业训练走向社会与制度研究。",
+    "roles": ["Cultivation researcher", "Dean of the Annenberg School for Communication", "Communication discipline builder"],
+    "communication_relevance": "他是涵化研究和 Cultural Indicators 计划的关键人物，同时对宾大传播学的制度化产生长期影响。",
+    "education_records": [{"institution": "University of Southern California", "program": "Communications and Education", "degree": "Ph.D.", "period": null, "source_id": "S053", "locator": "The Gerbner Years"}],
+    "key_points": [{"id": "pg-k1", "statement": "格伯纳领导的涵化分析从消息系统内容分析出发，再比较不同观看量者对社会现实的观念。", "evidence_status": "direct", "evidence": [{"source_id": "S044", "locator": "Cultivation Analysis，档案文档 pp. 6–7", "support_note": "档案原文说明信息系统分析、调查与高低观看量比较。", "support_role": "supports"}]}, {"id": "pg-k2", "statement": "他担任 Annenberg 院长期间，学院建立博士项目和本科传播专业，并强化社会与制度取向的理论研究。", "evidence_status": "direct", "evidence": [{"source_id": "S053", "locator": "The Gerbner Years", "support_note": "学院官方历史页记录其 1964–1989 年任期与学科建设。", "support_role": "supports"}]}],
+    "limits_or_debates": [{"id": "pg-l1", "statement": "格伯纳不能只被缩减为“电视看得多就觉得世界危险”；他的程序包含长期内容分析、调查比较与制度建设，而经验效应常较小。", "evidence_status": "direct", "evidence": [{"source_id": "S044", "locator": "Cultivation Analysis", "support_note": "原文展示研究程序并明示绝对效应量通常较小。", "support_role": "qualifies"}]}],
+    "area_memberships": [{"area_id": "effects", "is_primary": true, "rationale": "涵化是其标志性研究计划。"}, {"area_id": "institutions", "is_primary": false, "rationale": "他以院长身份深度参与传播学的制度建设。"}],
+    "learning_resources": [{"title": "The Gerbner Years", "source_id": "S053", "purpose": "了解格伯纳的学院建设和学科观。", "level": "introductory", "locator": "全页"}, {"title": "Violence Profile 1967 Through 1988-89", "source_id": "S044", "purpose": "核读涵化分析的研究程序。", "level": "intermediate", "locator": "Cultivation Analysis"}],
+    "learning_links": [{"target_id": "r4-cultivation", "reason": "进入格伯纳研究计划的命题、方法与效应边界。", "sequence_hint": "after"}, {"target_id": "r8-content-analysis", "reason": "理解内容分析在涵化程序中的基础作用。", "sequence_hint": "after"}],
+    "temporal_profile": "relatively_stable", "last_evidence_check": "2026-09-11", "controversy_status": "contested", "controversy_note": "人物页保留涵化研究的效应量和因果边界，不作英雄化概括。", "review_status": "ready_for_review", "created_at": "2026-09-11", "updated_at": "2026-09-11", "reviewed_at": null
+  },
+  {
+    "id": "p-habermas", "slug": "p-habermas", "record_level": "complete", "type": "person", "subtype": "scholar", "name_zh": "于尔根·哈贝马斯", "name_original": "Jürgen Habermas", "aliases": [],
+    "portrait": {"url": "/portraits/habermas.jpg", "alt": "于尔根·哈贝马斯肖像", "credit": "Wolfram Huke / Wikimedia Commons", "license": "CC BY-SA 3.0", "source_url": "https://commons.wikimedia.org/wiki/File:JuergenHabermas.jpg"},
+    "summary": "于尔根·哈贝马斯（1929–2026）是德国哲学家、社会理论家和公共知识分子。他的公共领域、交往理性、话语伦理及法与民主理论对传播学产生深远影响。",
+    "why_it_matters": "哈贝马斯为“什么样的公共传播才具有民主正当性”提供规范性语言，同时也促成了对排斥、多重公众与不平等的持续批评。",
+    "roles": ["Philosopher", "Social theorist", "Public intellectual"],
+    "communication_relevance": "他的公共领域概念连接媒介、公共意见和民主制度；交往行动与话语理论则把传播提升为社会理论的基础问题。",
+    "education_records": [{"institution": "University of Bonn", "program": "Philosophy", "degree": "Ph.D.", "period": "1954", "source_id": "S054", "locator": "Biography"}],
+    "key_points": [{"id": "ph-k1", "statement": "哈贝马斯在 1962 年出版的教授资格论文中建立公共领域的历史—社会学分析，追问私人如何作为公众讨论共同事务和形成公共意见。", "evidence_status": "direct", "evidence": [{"source_id": "S054", "locator": "Biography and section 1.2 The Public Sphere", "support_note": "SEP 条目将著作、历史对象与概念定义联系起来。", "support_role": "supports"}]}, {"id": "ph-k2", "statement": "他与法兰克福学派关系密切，但学术继承和影响比“第二代”单一标签更复杂。", "evidence_status": "direct", "evidence": [{"source_id": "S054", "locator": "Introduction and biography", "support_note": "SEP 条目明示提醒不要过度简化其与法兰克福学派的关系。", "support_role": "qualifies"}]}],
+    "limits_or_debates": [{"id": "ph-l1", "statement": "哈贝马斯的资产阶级公共领域模型具有特定欧洲历史对象，且其参与平等性受到性别、阶级和其他排斥性批评；学习时应与多重公众和反公众理论对读。", "evidence_status": "direct", "evidence": [{"source_id": "S015", "locator": "pp. 60–68; conclusion p. 77", "support_note": "Fraser 直接批评历史排斥和单一公众模型，并提出多重公众与从属反公众。", "support_role": "qualifies"}]}],
+    "area_memberships": [{"area_id": "institutions", "is_primary": true, "rationale": "公共领域理论关心传播、公共意见与民主制度的关系。"}, {"area_id": "power_culture", "is_primary": false, "rationale": "规范性公共理性与历史排斥之间构成关键批判问题。"}],
+    "learning_resources": [{"title": "Jürgen Habermas", "source_id": "S054", "purpose": "把公共领域放回哈贝马斯更广的社会、道德、法与民主理论。", "level": "intermediate", "locator": "Biography; section 1.2"}, {"title": "Rethinking the Public Sphere", "source_id": "S015", "purpose": "用排斥、参与平等和多重公众检验经典模型。", "level": "advanced", "locator": "pp. 60–68, 77"}],
+    "learning_links": [{"target_id": "r5-public-sphere", "reason": "进入概念的历史对象、规范性意义和批评。", "sequence_hint": "after"}],
+    "temporal_profile": "relatively_stable", "last_evidence_check": "2026-09-11", "controversy_status": "contested", "controversy_note": "争议涉及历史排斥、单一公众假定与规范理性的可实现条件。", "review_status": "ready_for_review", "created_at": "2026-09-11", "updated_at": "2026-09-11", "reviewed_at": null
+  },
+  {
+    "id": "p-guo", "slug": "p-guo", "record_level": "complete", "type": "person", "subtype": "scholar", "name_zh": "郭庆光", "name_original": "Guo Qingguang", "aliases": [],
+    "summary": "郭庆光是中国人民大学新闻学院教授，研究与教学涉及新闻传播学基础理论、传播制度比较、媒介启蒙教育和新闻传播教育，其《传播学教程》对中国高校传播学入门教学影响广泛。",
+    "why_it_matters": "这个知识点帮助学生理解传播学理论如何通过中文教材、课程和学科建设进入中国本科教育，同时不把教材使用量误当作学术真理性的证明。",
+    "roles": ["中国人民大学新闻学院教授", "传播学教材作者", "新闻传播教育者"],
+    "communication_relevance": "他的《传播学教程》和相关课程是中文传播学知识组织的重要实例；其研究还涉及传播制度与教育。",
+    "education_records": [{"institution": "未在当前官方页披露", "program": "博士研究生", "degree": "博士研究生学历", "period": null, "source_id": "S055", "locator": "学历情况"}],
+    "key_points": [{"id": "pguo-k1", "statement": "中国人民大学官方页列明郭庆光的教授身份，以及基础理论、传播制度比较、媒介启蒙教育和新闻传播教育等研究方向。", "evidence_status": "direct", "evidence": [{"source_id": "S055", "locator": "现任职务；研究方向", "support_note": "学院教师页直接列出职务与研究方向。", "support_role": "supports"}]}, {"id": "pguo-k2", "statement": "官方页将《传播学教程》第一、第二版列为主要著作，并记录该书曾获北京市哲学社会科学优秀成果二等奖和教育部高校优秀教材一等奖。", "evidence_status": "direct", "evidence": [{"source_id": "S055", "locator": "学术成果；获奖情况", "support_note": "学院页面直接列明著作和奖项。", "support_role": "supports"}]}],
+    "limits_or_debates": [{"id": "pguo-l1", "statement": "教材获奖与广泛使用可以说明教学影响，不能代替对其理论选择、版本更新和争议处理的具体评估。", "evidence_status": "interpretive", "evidence": [{"source_id": "S055", "locator": "主要著作；获奖情况", "support_note": "官方页支持著作和奖项；对“不等于内容真理性”的表述是证据边界。", "support_role": "qualifies"}]}],
+    "area_memberships": [{"area_id": "communication", "is_primary": true, "rationale": "其教材与课程将传播学基础理论组织为中文入门体系。"}, {"area_id": "institutions", "is_primary": false, "rationale": "其研究包含传播制度比较和新闻传播教育。"}],
+    "learning_resources": [{"title": "郭庆光：荣休教师", "source_id": "S055", "purpose": "核对身份、研究方向、课程、著作和奖项，同时注意官方页未披露的细节。", "level": "introductory", "locator": "全页"}, {"title": "传播学教程书目线索", "source_id": "C14", "purpose": "核对教材版本与目录；当前仅作书目入口。", "level": "introductory", "locator": "目录／书目页"}],
+    "learning_links": [{"target_id": "r1-china-introduction", "reason": "将人物与中文传播学概论课程和学科转化放在一起理解。", "sequence_hint": "after"}, {"target_id": "r4-effects", "reason": "对照教材组织与国际效果研究的多传统构成。", "sequence_hint": "after"}],
+    "temporal_profile": "relatively_stable", "last_evidence_check": "2026-09-11", "controversy_status": "not_assessed", "controversy_note": "当前知识点只确认官方身份、研究教学与著作奖项；学术评价仍需独立学术来源。", "review_status": "ready_for_review", "created_at": "2026-09-11", "updated_at": "2026-09-11", "reviewed_at": null
+  }
+]

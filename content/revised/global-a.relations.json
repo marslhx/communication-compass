@@ -1,0 +1,254 @@
+[
+  {
+    "id": "rel-hall-proposed-encoding-decoding",
+    "source_id": "p-hall",
+    "target_id": "r2-encoding-decoding",
+    "relation_type": "proposed",
+    "statement_zh": "霍尔在1973年讨论稿中系统提出以编码与解码重构电视传播过程的模型。",
+    "scope_note": "此关系不概括解码位置数量；1973年稿的四种位置与后来常见三分版本须分开处理。",
+    "evidence_status": "direct",
+    "evidence": [
+      {
+        "source_id": "G16",
+        "locator": "PDF pp. 3-5（文内 pp. 2-4），流程模型与代码不对称段落",
+        "support_note": "霍尔署名的1973年讨论稿直接以编码与解码环节重构电视传播过程。",
+        "support_role": "supports"
+      }
+    ],
+    "controversy_note": null,
+    "review_status": "ready_for_review",
+    "reviewed_at": null
+  },
+  {
+    "id": "rel-encoding-decoding-addresses-audience",
+    "source_id": "r2-encoding-decoding",
+    "target_id": "r4-audience",
+    "relation_type": "addresses",
+    "statement_zh": "编码／解码模型为研究受众如何接受、协商或反对媒介意义提供理论入口，但不能替代多维的经验受众研究。",
+    "scope_note": "关系只说明受众与接受研究的问题入口，不声称常见三分框架足以描述全部接收过程。",
+    "evidence_status": "interpretive",
+    "evidence": [
+      {
+        "source_id": "S006",
+        "locator": "摘要",
+        "support_note": "摘要把三种意识形态解读位置放入经验受众话语研究并提出多维修正，为该有限关系提供支持。",
+        "support_role": "qualifies"
+      }
+    ],
+    "controversy_note": null,
+    "review_status": "ready_for_review",
+    "reviewed_at": null
+  },
+  {
+    "id": "rel-mcluhan-associated-medium-theory",
+    "source_id": "p-mcluhan",
+    "target_id": "r3-medium-theory",
+    "relation_type": "associated_with",
+    "statement_zh": "McLuhan的媒介形式取向是Meyrowitz所称medium theory的重要思想参照；这一关联不表示传统等同于McLuhan一人的思想。",
+    "scope_note": "只记录Meyrowitz对该取向与McLuhan的明确关联及超越他的主张；不用proposed或developed，不声称单一创始权。",
+    "evidence_status": "direct",
+    "evidence": [
+      {
+        "source_id": "P01",
+        "locator": "印刷pp.8–10（PDF第1–3页），开场及Four Temptations第一项；p.20（PDF第13页），Conclusion",
+        "support_note": "p.10作者明确将其所称medium theory联系到McLuhan的媒介形式分析；开场与结语要求在其贡献基础上超越单一作者。",
+        "support_role": "supports"
+      }
+    ],
+    "controversy_note": "这是传统内部作者对思想参照的明确陈述，不裁定所有媒介理论谱系或对McLuhan具体预测的争论。",
+    "review_status": "ready_for_review",
+    "reviewed_at": null
+  },
+  {
+    "id": "rel-medium-theory-contrasts-effects",
+    "source_id": "r3-medium-theory",
+    "target_id": "r4-effects",
+    "relation_type": "contrasts_with",
+    "statement_zh": "媒介理论优先比较传播环境和技术形式本身的差异，与效果研究中主要追问特定内容如何影响态度或行为的子范围形成对照。",
+    "scope_note": "对照仅限以具体信息内容及态度或行为变化为问题的效果研究，不概括全部传播效果传统。",
+    "evidence_status": "interpretive",
+    "evidence": [
+      {
+        "source_id": "S002",
+        "locator": "摘要",
+        "support_note": "摘要支持媒介理论一侧对媒介技术影响与具体信息内容影响的区分；跨知识点对照是编辑比较。",
+        "support_role": "qualifies"
+      }
+    ],
+    "controversy_note": null,
+    "review_status": "ready_for_review",
+    "reviewed_at": null
+  },
+  {
+    "id": "rel-mccombs-proposed-agenda-setting",
+    "source_id": "p-mccombs",
+    "target_id": "r4-agenda-setting",
+    "relation_type": "proposed",
+    "statement_zh": "Maxwell E. McCombs与Donald L. Shaw在1972年论文中共同把既有的媒介议题突出问题表述为议程设置假说并作初步检验。",
+    "scope_note": "此边不主张相关思想没有前史，也不把论文中的相关证据说成因果证明。",
+    "evidence_status": "direct",
+    "evidence": [
+      {
+        "source_id": "G17",
+        "locator": "重印 pp. 105-113／原刊 pp. 176-184，论文署名、假说、METHOD与DISCUSSION",
+        "support_note": "完整重印文本的署名、假说、方法和讨论共同支持两位作者表述并初步检验议程设置假说。",
+        "support_role": "supports"
+      }
+    ],
+    "controversy_note": null,
+    "review_status": "ready_for_review",
+    "reviewed_at": null
+  },
+  {
+    "id": "rel-shaw-proposed-agenda-setting",
+    "source_id": "p-shaw",
+    "target_id": "r4-agenda-setting",
+    "relation_type": "proposed",
+    "statement_zh": "Donald L. Shaw与Maxwell E. McCombs在1972年论文中共同把既有的媒介议题突出问题表述为议程设置假说并作初步检验。",
+    "scope_note": "此边不主张相关思想没有前史，也不把论文中的相关证据说成因果证明。",
+    "evidence_status": "direct",
+    "evidence": [
+      {
+        "source_id": "G17",
+        "locator": "重印 pp. 105-113／原刊 pp. 176-184，论文署名、假说、METHOD与DISCUSSION",
+        "support_note": "完整重印文本的署名、假说、方法和讨论共同支持两位作者表述并初步检验议程设置假说。",
+        "support_role": "supports"
+      }
+    ],
+    "controversy_note": null,
+    "review_status": "ready_for_review",
+    "reviewed_at": null
+  },
+  {
+    "id": "rel-agenda-setting-addresses-political",
+    "source_id": "r4-agenda-setting",
+    "target_id": "r5-political",
+    "relation_type": "addresses",
+    "statement_zh": "经典议程设置研究分析总统竞选中新闻议题强调与选民议题重要性判断之间的关系。",
+    "scope_note": "限定于1968年美国总统竞选与教堂山研究，不代表政治传播领域的全部问题。",
+    "evidence_status": "direct",
+    "evidence": [
+      {
+        "source_id": "G17",
+        "locator": "重印 pp. 106-107／原刊 pp. 177-178，研究问题与METHOD",
+        "support_note": "原文明确以1968年美国总统竞选、竞选新闻和选民议题排序为研究对象。",
+        "support_role": "supports"
+      }
+    ],
+    "controversy_note": null,
+    "review_status": "ready_for_review",
+    "reviewed_at": null
+  },
+  {
+    "id": "rel-agenda-setting-contrasts-persuasion",
+    "source_id": "r4-agenda-setting",
+    "target_id": "r4-persuasion",
+    "relation_type": "contrasts_with",
+    "statement_zh": "经典议程设置主要考察公众认为哪些议题重要，与说服和态度改变研究中考察立场方向或态度强度的问题形成对照。",
+    "scope_note": "比较维度限于1972年论文明确区分的议题显著性与态度方向或强度，不概括全部说服研究。",
+    "evidence_status": "interpretive",
+    "evidence": [
+      {
+        "source_id": "G17",
+        "locator": "重印 p. 106／原刊 p. 177",
+        "support_note": "原文支持议程设置一侧对态度方向、强度与议题显著性的区分；与说服研究知识点的对照是编辑比较。",
+        "support_role": "qualifies"
+      }
+    ],
+    "controversy_note": null,
+    "review_status": "ready_for_review",
+    "reviewed_at": null
+  },
+  {
+    "id": "rel-hall-associated-cultural-studies",
+    "source_id": "p-hall",
+    "target_id": "r6-cultural-studies",
+    "relation_type": "associated_with",
+    "statement_zh": "霍尔通过CCCS的理论、协作研究和教学实践成为英国文化研究的关键代表，但不是整个传统的唯一创立者。",
+    "scope_note": "关联限定为英国／伯明翰谱系，并保留Hoggart、Johnson、同事、学生和研究小组的集体机构史。",
+    "evidence_status": "interpretive",
+    "evidence": [
+      {
+        "source_id": "G21",
+        "locator": "1964年任职及协作研究段落",
+        "support_note": "伯明翰大学记录霍尔在CCCS的研究、理论与协作组织作用。",
+        "support_role": "supports"
+      },
+      {
+        "source_id": "S005",
+        "locator": "Administrative History",
+        "support_note": "档案史将其置于多位负责人、同事、学生和研究小组共同参与的机构脉络。",
+        "support_role": "qualifies"
+      }
+    ],
+    "controversy_note": null,
+    "review_status": "ready_for_review",
+    "reviewed_at": null
+  },
+  {
+    "id": "rel-cultural-studies-has-hegemony",
+    "source_id": "r6-cultural-studies",
+    "target_id": "r6-hegemony",
+    "relation_type": "has_concept",
+    "statement_zh": "在霍尔所代表的一条英国文化研究路线中，霸权用于分析文化与意识形态中的支配、斗争和协商。",
+    "scope_note": "只声称霍尔所代表的一条路线使用该概念，不把霸权写成全部文化研究共享的单一核心。",
+    "evidence_status": "pending",
+    "evidence": [
+      {
+        "source_id": "G24",
+        "locator": "待核：pp. 66-72，比较两范式并转向葛兰西问题的后段",
+        "support_note": "目标端点已确认是concept，但来源登记尚未闭环核读对应正文。",
+        "support_role": "supports"
+      }
+    ],
+    "controversy_note": null,
+    "review_status": "ready_for_review",
+    "reviewed_at": null
+  },
+  {
+    "id": "rel-cultural-studies-addresses-race",
+    "source_id": "r6-cultural-studies",
+    "target_id": "r6-race",
+    "relation_type": "addresses",
+    "statement_zh": "霍尔所代表的英国文化研究路线分析种族、表征与身份问题，伯明翰中心的机构史也记录黑人政治进入其研究议程。",
+    "scope_note": "限定于现有英国／伯明翰材料，不据此代表全球种族与媒介研究。",
+    "evidence_status": "interpretive",
+    "evidence": [
+      {
+        "source_id": "S005",
+        "locator": "Administrative History，关于1980年代初黑人政治的段落",
+        "support_note": "档案直接记录黑人政治问题进入中心议程。",
+        "support_role": "supports"
+      },
+      {
+        "source_id": "S007",
+        "locator": "accepted manuscript pp. 1-2",
+        "support_note": "学术综述概括霍尔对种族、表征与后殖民身份研究的贡献。",
+        "support_role": "supports"
+      }
+    ],
+    "controversy_note": null,
+    "review_status": "ready_for_review",
+    "reviewed_at": null
+  },
+  {
+    "id": "rel-hall-developed-representation",
+    "source_id": "p-hall",
+    "target_id": "r2-representation",
+    "relation_type": "developed",
+    "statement_zh": "霍尔推动文化与传播研究把表征作为与权力、差异和身份形成相联的问题来分析。",
+    "scope_note": "这是对其具体分析贡献的二手学术归纳，不主张霍尔原创提出“表征”概念。",
+    "evidence_status": "interpretive",
+    "evidence": [
+      {
+        "source_id": "S007",
+        "locator": "accepted manuscript pp. 1-2",
+        "support_note": "Evans将霍尔的贡献概括为推动表征政治及通过差异形成的身份研究。",
+        "support_role": "supports"
+      }
+    ],
+    "controversy_note": null,
+    "review_status": "ready_for_review",
+    "reviewed_at": null
+  }
+]

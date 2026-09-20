@@ -1,0 +1,532 @@
+[
+  {
+    "id": "r3-platformization",
+    "slug": "platformization",
+    "record_level": "complete",
+    "type": "research_topic",
+    "subtype": null,
+    "name_zh": "平台化与数字经济",
+    "name_original": "Platformization and digital economy",
+    "aliases": [],
+    "summary": "平台化指数字平台的基础设施、经济过程和治理框架渗入不同社会领域，并围绕平台重组文化实践与想象。它不是简单的‘把业务搬到App上’，而是制度与权力关系的再组织。",
+    "why_it_matters": "它帮助学生把推荐、数据、接口、市场和规则放在同一分析中，理解新闻、娱乐、劳动、教育与公共服务为何越来越依赖少数平台。",
+    "key_points": [
+      {
+        "id": "r3plat-k1",
+        "statement": "Poell等把平台化定义为平台基础设施、经济过程与治理框架进入社会领域，并重组文化实践和想象。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S087",
+            "locator": "abstract; pp. 5–6, definition and operationalisation",
+            "support_note": "开放概念论文直接给出该定义并将其操作化为数据基础设施、市场与治理三个制度维度。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r3plat-k2",
+        "statement": "Helmond在网页平台化的物质—技术研究中揭示了一个双重过程：平台功能借 API 等机制向外扩展，外部网页和应用数据同时被重新集中并格式化为‘平台就绪’数据。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "Q321",
+            "locator": "abstract; pp. 7–8, 'Dual Logic of Platformization'",
+            "support_note": "论文直接界定功能去中心化与数据再中心化的双重逻辑，并指出 API、社交插件和 Open Graph 等实现机制。",
+            "support_role": "supports"
+          }
+        ]
+      }
+    ],
+    "limits_or_debates": [
+      {
+        "id": "r3plat-l1",
+        "statement": "不同国家、行业和平台的制度路径不同，‘平台逻辑’不能被写成无差别的全球单一力量。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S087",
+            "locator": "p. 2, paragraph on regional and national variations",
+            "support_note": "作者明确说明平台化在各地都涉及基础设施、市场和治理的变化，但其在不同国家和地区的具体形态有关键差异，并将中国列为显著例外。",
+            "support_role": "qualifies"
+          }
+        ]
+      }
+    ],
+    "area_memberships": [
+      {
+        "area_id": "media_society",
+        "is_primary": true,
+        "rationale": "平台化重组产业、制度和社会领域。"
+      },
+      {
+        "area_id": "digital_ai",
+        "is_primary": false,
+        "rationale": "数据、算法与平台基础设施彼此联动。"
+      }
+    ],
+    "learning_resources": [
+      {
+        "title": "Platformisation",
+        "source_id": "S087",
+        "purpose": "用基础设施—市场—治理与文化实践的组合框架分析一个具体部门。",
+        "level": "intermediate",
+        "locator": "abstract; pp. 5–9"
+      },
+      {
+        "title": "The Platformization of the Web: Making Web Data Platform Ready",
+        "source_id": "Q321",
+        "purpose": "从 API、可编程性和数据流跟踪平台如何把技术扩展与数据集中连在一起。",
+        "level": "advanced",
+        "locator": "abstract; pp. 4–8"
+      }
+    ],
+    "learning_links": [
+      {
+        "target_id": "r3-media-industries",
+        "reason": "先掌握生产、分发和商业模式。",
+        "sequence_hint": "before"
+      },
+      {
+        "target_id": "r7-platform-governance",
+        "reason": "进一步分析规则、问责与公共价值。",
+        "sequence_hint": "after"
+      },
+      {
+        "target_id": "r7-datafication",
+        "reason": "理解平台如何把活动转为可计算数据。",
+        "sequence_hint": "after"
+      }
+    ],
+    "temporal_profile": "evolving",
+    "as_of": "2026-09-15",
+    "last_evidence_check": "2026-09-15",
+    "next_review_due": "2027-03-01",
+    "controversy_status": "contested",
+    "controversy_note": "平台概念、地区差异、基础设施权力与监管边界持续变化。",
+    "current_evidence_state": "截至 2026-09-15，已核对 2015 年物质—技术论文和 2019 年概念论文全文，足以支持双重数据逻辑与基础设施—市场—治理定义。两者是概念与历史分析，不是 2026 年平台市场、API 开放程度或监管效果的实时测量；具体结论须按国家、行业、平台和时段重新核验。",
+    "review_status": "ready_for_review",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-15",
+    "reviewed_at": null
+  },
+  {
+    "id": "r6-china-global",
+    "slug": "china-international-communication",
+    "record_level": "complete",
+    "type": "application",
+    "subtype": null,
+    "name_zh": "中国国际传播实践",
+    "name_original": "China's international communication practice",
+    "aliases": [],
+    "summary": "中国国际传播实践关注中国机构、媒体、平台与社会行动者如何面向跨国公众组织信息、叙事、渠道与关系。政策中的‘能力建设’是重要实践语境，但不等同于学术评价或实际效果。",
+    "why_it_matters": "它把国际传播、跨文化传播、媒体系统、平台和国家形象等问题放进中国现实，也要求严格区分政策目标、内容产出、触达、理解、信任和长期关系。",
+    "key_points": [
+      {
+        "id": "r6cg-k1",
+        "statement": "中国政策语境把国际传播能力建设与国际话语权、中国故事和中华文化传播相连。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S102",
+            "locator": "全文，政策目标概述",
+            "support_note": "2022 年官方阐释材料直接支持该能力建设语境中的实践目标。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r6cg-k2",
+        "statement": "评估国际传播不能只统计发稿量或曝光量，还应区分触达、理解、信任、互动与关系等不同结果层。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "S102",
+            "locator": "policy objectives",
+            "support_note": "政策来源只能证明目标；本条据效果研究和证据层级形成评估边界。",
+            "support_role": "qualifies"
+          },
+          {
+            "source_id": "S069",
+            "locator": "conditional media effects framework",
+            "support_note": "效果综述支持区分结果与条件。",
+            "support_role": "qualifies"
+          }
+        ]
+      },
+      {
+        "id": "r6cg-k3",
+        "statement": "Mattingly与Sundquist对印度居民的调查实验显示：强调援助和友谊的中国外交官社交媒体信息对部分对华感知产生了幅度较小的积极效果；猛烈批评第三国的信息总体无效，在危机情境中还可能适得其反。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "Q322",
+            "locator": "abstract; pp. 924–927, research design, results and conclusion",
+            "support_note": "全文直接报告两类真实推文处理的效果方向、大小与危机情境差异。",
+            "support_role": "supports"
+          }
+        ]
+      }
+    ],
+    "limits_or_debates": [
+      {
+        "id": "r6cg-l1",
+        "statement": "政策话语、机构实践和海外受众经验属于不同证据层，不能用单一官方材料证明国际效果，也不能把一个国家、一个平台和一组信息处理的实验结果外推为全球效果。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "S102",
+            "locator": "全文",
+            "support_note": "来源性质为政策阐释，可证明政策目标而不能代替受众和效果研究。",
+            "support_role": "qualifies"
+          },
+          {
+            "source_id": "Q322",
+            "locator": "pp. 923–924 and 927–928, sample, effect sizes and limitations",
+            "support_note": "论文说明样本为印度的年轻、英语网民为主的配额样本，并明示效果幅度较小；据此限定外推。",
+            "support_role": "qualifies"
+          }
+        ]
+      }
+    ],
+    "area_memberships": [
+      {
+        "area_id": "power_culture",
+        "is_primary": true,
+        "rationale": "涉及国家叙事、文化意义与全球权力。"
+      },
+      {
+        "area_id": "institutions",
+        "is_primary": false,
+        "rationale": "机构、媒体和政策实践是关键。"
+      },
+      {
+        "area_id": "digital_ai",
+        "is_primary": false,
+        "rationale": "跨国平台和算法影响可见性。"
+      }
+    ],
+    "learning_resources": [
+      {
+        "title": "加强我国国际传播能力建设",
+        "source_id": "S102",
+        "purpose": "识别 2022 年政策阐释中的实践目标，并把目标转化为可检验问题而非直接当作效果。",
+        "level": "intermediate",
+        "locator": "全文"
+      },
+      {
+        "title": "When does public diplomacy work? Evidence from China's 'wolf warrior' diplomats",
+        "source_id": "Q322",
+        "purpose": "对照政策目标与受众效果证据，练习识别消息类型、情境、样本和外推边界。",
+        "level": "advanced",
+        "locator": "abstract; pp. 923–928"
+      }
+    ],
+    "learning_links": [
+      {
+        "target_id": "r6-social-change",
+        "reason": "放入全球流动与地方变迁。",
+        "sequence_hint": "before"
+      },
+      {
+        "target_id": "r6-intercultural",
+        "reason": "处理跨文化解释与关系。",
+        "sequence_hint": "before"
+      },
+      {
+        "target_id": "r4-audience",
+        "reason": "设计海外受众研究并区分触达与理解。",
+        "sequence_hint": "after"
+      }
+    ],
+    "temporal_profile": "evolving",
+    "as_of": "2026-09-15",
+    "last_evidence_check": "2026-09-15",
+    "next_review_due": "2027-03-01",
+    "controversy_status": "contested",
+    "controversy_note": "国家中心、受众能动性、效果指标、平台依赖与文化翻译均有争论。",
+    "current_evidence_state": "截至 2026-09-15，已核对一份 2022 年官方能力建设阐释全文和一项使用 2020 年印度样本的开放实验论文。前者只证明当时的政策目标与实践语境，本轮未穷尽核对 2022 年后的全部政策文件；后者只支持特定受众、平台、信息类型和危机情境下的有限效果，不证明中国国际传播的整体或当前全球效果。",
+    "review_status": "ready_for_review",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-15",
+    "reviewed_at": null
+  },
+  {
+    "id": "r6-chinese-minority",
+    "slug": "minority-diaspora-chinese-media",
+    "record_level": "complete",
+    "type": "research_topic",
+    "subtype": null,
+    "name_zh": "少数民族与海外华文传播",
+    "name_original": "Minority and overseas Chinese-language communication",
+    "aliases": [],
+    "summary": "该知识点并置两个需要分别研究又可比较的方向：少数民族新闻传播关注中国多民族、多语社会中的媒介、身份与公共表达；海外华文传播关注移民／侨民社群、跨国网络和华文媒体。并置是导航安排，不表示二者属于一个统一理论。",
+    "why_it_matters": "它补足以主流国家媒体和单一语言为中心的盲点，并让学生处理语言、身份、地域、政策与跨国关系的差异。",
+    "key_points": [
+      {
+        "id": "r6cm-k1",
+        "statement": "中国新闻史学会分别设有少数民族新闻传播史与海外华文传媒相关学术组织，说明二者是可辨认但独立的研究共同体。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "C12",
+            "locator": "分支机构名单与相关分会名称",
+            "support_note": "学会官方页面可支持机构化研究方向的存在。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r6cm-k2",
+        "statement": "完整研究应分别说明地区、族群／社群、语言、媒介类型和历史时段，不能用‘华人’或‘少数民族’作为同质整体。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "Q323",
+            "locator": "‘少数民族传播的理论阐释’小节",
+            "support_note": "综述展示了独龙族电视使用、地域社会变迁、社区传播网络等不同个案与问题，支持保留对象和地方语境差异。",
+            "support_role": "qualifies"
+          },
+          {
+            "source_id": "Q324",
+            "locator": "pp. 209–212 and 221–224, multiethnic design, findings and limitations",
+            "support_note": "多族群比较研究直接报告不同移民社群的跨国网络与族裔报纸差异，支持不把海外华人经验当作单一类型。",
+            "support_role": "qualifies"
+          }
+        ]
+      },
+      {
+        "id": "r6cm-k3",
+        "statement": "刘涛对新中国传播学理论史的综述，将少数民族传播研究概括为从媒介社会学考察媒介、空间与社会文化关系的本土学术路径，并把如何从不同地方个案建立理论框架列为待解问题。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "Q323",
+            "locator": "‘少数民族传播的理论阐释’小节",
+            "support_note": "本条限定为直接报告该综述对学术谱系与理论挑战的归纳，不将其写成领域已有统一理论。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r6cm-k4",
+        "statement": "Lin、Song与Ball-Rokeach对洛杉矶四个移民社区的比较研究表明，华人、韩国与拉丁美洲移民在跨国社会网络、母国新闻重要性与族裔报纸内容上存在显著差异。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "Q324",
+            "locator": "pp. 209–212 and 221–224, comparative design, results and conclusion",
+            "support_note": "论文直接报告包含 Greater Monterey Park 华人样本的多族群调查、编辑访谈与报纸内容分析结果。",
+            "support_role": "supports"
+          }
+        ]
+      }
+    ],
+    "limits_or_debates": [
+      {
+        "id": "r6cm-l1",
+        "statement": "学会设立分支只能证明研究共同体和议程存在，不能证明领域已有统一理论；一项中国大陆学术史综述和一项早期洛杉矶移民社区研究，也不能代表当前所有少数民族或海外华文传播实践。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "C12",
+            "locator": "分支机构页面",
+            "support_note": "来源是组织名录，证据边界明确受限。",
+            "support_role": "qualifies"
+          },
+          {
+            "source_id": "Q323",
+            "locator": "‘少数民族传播的理论阐释’小节",
+            "support_note": "综述本身将从多个个案建构理论框架列为未解挑战。",
+            "support_role": "qualifies"
+          },
+          {
+            "source_id": "Q324",
+            "locator": "pp. 224–225, limitations",
+            "support_note": "作者明确限定了纸媒、较早数据、测量深度与需要纵向跟踪等边界。",
+            "support_role": "qualifies"
+          }
+        ]
+      }
+    ],
+    "area_memberships": [
+      {
+        "area_id": "power_culture",
+        "is_primary": true,
+        "rationale": "语言、身份、可见性和国家／跨国权力处于核心。"
+      },
+      {
+        "area_id": "institutions",
+        "is_primary": false,
+        "rationale": "媒体组织、政策和公共表达制度重要。"
+      }
+    ],
+    "learning_resources": [
+      {
+        "title": "中国新闻史学会分支机构",
+        "source_id": "C12",
+        "purpose": "确认研究共同体和检索词，再进入各分会代表成果。",
+        "level": "introductory",
+        "locator": "分支机构列表"
+      },
+      {
+        "title": "理论谱系与本土探索：新中国传播学理论研究70年（1949—2019）",
+        "source_id": "Q323",
+        "purpose": "从中国传播学术史中定位少数民族传播的地方个案、媒介社会学路径与理论化难题。",
+        "level": "intermediate",
+        "locator": "‘少数民族传播的理论阐释’小节"
+      },
+      {
+        "title": "Localizing the Global: Exploring the Transnational Ties That Bind in New Immigrant Communities",
+        "source_id": "Q324",
+        "purpose": "用包含华人社区的多族群比较，理解族裔媒体、母国新闻和当地社区之间的跨国连接。",
+        "level": "advanced",
+        "locator": "pp. 209–224"
+      }
+    ],
+    "learning_links": [
+      {
+        "target_id": "r6-intercultural",
+        "reason": "处理语言、文化与身份互动。",
+        "sequence_hint": "before"
+      },
+      {
+        "target_id": "r6-social-change",
+        "reason": "放入迁移、跨国流动和地方社会。",
+        "sequence_hint": "after"
+      },
+      {
+        "target_id": "r6-decolonial",
+        "reason": "反思中心／边缘与知识代表性。",
+        "sequence_hint": "compare"
+      }
+    ],
+    "temporal_profile": "evolving",
+    "as_of": "2026-09-15",
+    "last_evidence_check": "2026-09-15",
+    "next_review_due": "2027-03-01",
+    "controversy_status": "contested",
+    "controversy_note": "命名、内部差异、代表性、国家与跨国框架需要分方向持续核验。",
+    "current_evidence_state": "截至 2026-09-15，官方学会目录只能确认两个研究共同体的机构性存在；2019 年学术史综述支持少数民族传播的中国本土个案路径，2010 年论文支持包含华人社区的族裔媒体跨国研究。后一研究使用 1998—1999 年洛杉矶纸媒与社区数据，无法描述当前平台化华文媒体；现有材料也不支持把两个方向合并为单一理论或全球通则。",
+    "review_status": "ready_for_review",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-15",
+    "reviewed_at": null
+  },
+  {
+    "id": "r7-algorithm",
+    "slug": "algorithms-recommender-systems",
+    "record_level": "complete",
+    "type": "research_topic",
+    "subtype": "frontier",
+    "name_zh": "算法与推荐系统",
+    "name_original": "Algorithms and recommender systems",
+    "aliases": [],
+    "summary": "算法与推荐系统研究自动化排序、预测和个性化如何参与内容的选择、可见性与分发。在新闻场景中，它同时涉及编辑供给、用户需求、平台目标与公共价值，不只是技术准确率问题。",
+    "why_it_matters": "它决定学生看到什么、以何种顺序看到，也连接新闻编辑、信息多样性、个性化、商业模式和公平性。",
+    "key_points": [
+      {
+        "id": "r7alg-k1",
+        "statement": "新闻推荐系统应同时从新闻供给与用户需求两侧研究，并关注系统、编辑室和个人层面。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S103",
+            "locator": "abstract, programmatic research review",
+            "support_note": "综述摘要直接提出供给侧、需求侧与多层研究议程。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r7alg-k2",
+        "statement": "Helberger指出，新闻推荐可被优化为增加停留时长、广告收入或用户满意，也可服务知情、参与和公共论坛等民主目标；不同民主理论之间的价值要求可能冲突，因而不存在单一的民主推荐‘黄金标准’。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "Q325",
+            "locator": "pp. 994–997 and 1009–1010, optimisation goals, democratic framework and conclusion",
+            "support_note": "全文直接列出商业与编辑／民主目标，并根据自由、参与和审议民主理论的不同价值构建推荐类型。",
+            "support_role": "supports"
+          }
+        ]
+      }
+    ],
+    "limits_or_debates": [
+      {
+        "id": "r7alg-l1",
+        "statement": "‘多样’、‘公平’或‘公共价值’不是自带唯一算法答案的指标；对推荐系统的规范评价必须说明所采用的民主理论、价值优先级和情境条件，不能将概念框架误当作已证实的平台效果。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "Q325",
+            "locator": "pp. 1009–1010, concluding remarks",
+            "support_note": "作者明确说明不同民主理论对推荐的价值预期不同且可相互冲突，并否定单一黄金标准；该条保留其规范理论性质。",
+            "support_role": "qualifies"
+          }
+        ]
+      }
+    ],
+    "area_memberships": [
+      {
+        "area_id": "digital_ai",
+        "is_primary": true,
+        "rationale": "聚焦自动化选择、排序与个性化。"
+      },
+      {
+        "area_id": "media_society",
+        "is_primary": false,
+        "rationale": "推荐重组公共可见性和媒介分发。"
+      },
+      {
+        "area_id": "effects",
+        "is_primary": false,
+        "rationale": "暴露和选择可影响认知、信任与行为。"
+      }
+    ],
+    "learning_resources": [
+      {
+        "title": "News Recommender Systems: A Programmatic Research Review",
+        "source_id": "S103",
+        "purpose": "用供给—需求与多层框架建立问题地图。",
+        "level": "intermediate",
+        "locator": "abstract and article"
+      },
+      {
+        "title": "On the Democratic Role of News Recommenders",
+        "source_id": "Q325",
+        "purpose": "比较不同民主理论如何定义推荐系统的知情、参与、多样性、自主与审议目标。",
+        "level": "advanced",
+        "locator": "pp. 994–1010"
+      }
+    ],
+    "learning_links": [
+      {
+        "target_id": "r7-affordance",
+        "reason": "理解系统可能性如何与用户行动相遇。",
+        "sequence_hint": "before"
+      },
+      {
+        "target_id": "r5-journalism",
+        "reason": "观察推荐与新闻专业判断的交汇。",
+        "sequence_hint": "compare"
+      },
+      {
+        "target_id": "r7-integrity",
+        "reason": "评估分发对信息环境的后果。",
+        "sequence_hint": "after"
+      }
+    ],
+    "temporal_profile": "evolving",
+    "as_of": "2026-09-15",
+    "last_evidence_check": "2026-09-15",
+    "next_review_due": "2027-03-01",
+    "controversy_status": "contested",
+    "controversy_note": "优化目标、透明度、编辑自主、用户控制、多样性与个性化存在持续张力。",
+    "current_evidence_state": "截至 2026-09-15，2023 年研究综述的已登记摘要支持供给—需求与多层研究议程，2019 年开放全文支持不同商业、编辑和民主优化目标及其冲突。这些是综述与规范性概念框架，不是对 2026 年任一具体平台排序机制、用户暴露或社会效果的实时审计；推荐系统版本、数据、目标函数和干预情境变化时须重新取证。",
+    "review_status": "ready_for_review",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-15",
+    "reviewed_at": null
+  }
+]

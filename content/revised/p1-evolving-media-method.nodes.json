@@ -1,0 +1,108 @@
+[
+  {
+    "id": "r1-cmc", "slug": "computer-mediated-communication", "record_level": "complete", "type": "research_topic", "subtype": null,
+    "name_zh": "计算机中介传播", "name_original": "Computer-mediated communication", "aliases": [{"name": "CMC", "kind": "abbreviation", "note": null}],
+    "summary": "计算机中介传播是经联网计算机发生的人类传播总称，可同步或异步，覆盖一对一、一对多与多对多的文字、音频和视频互动。其研究已从‘缺少面对面线索’转向用户适应、策略使用和线上线下交织。",
+    "why_it_matters": "它是理解社交媒体、远程协作、网络关系和平台互动的基础，同时为AI中介传播与人机传播提供比较基线。",
+    "key_points": [
+      {"id": "r1cmc-k1", "statement": "CMC覆盖同步／异步、一对一／一对多／多对多以及文本、音频与视频等多种形式。", "evidence_status": "direct", "evidence": [{"source_id": "S084", "locator": "Introduction extract, first sentence", "support_note": "Oxford导论直接界定范围。", "support_role": "supports"}]},
+      {"id": "r1cmc-k2", "statement": "研究从早期强调社会情境线索不足，逐步转向用户主动适应媒介限制以及线上与线下边界的流动。", "evidence_status": "direct", "evidence": [{"source_id": "S084", "locator": "Introduction extract, theory development paragraphs", "support_note": "导论直接概括理论转向。", "support_role": "supports"}]}
+    ],
+    "limits_or_debates": [{"id": "r1cmc-l1", "statement": "把所有数字互动视为同一种‘CMC效果’会遗漏平台功能、关系阶段、时间、文化与使用者策略。", "evidence_status": "interpretive", "evidence": [{"source_id": "S084", "locator": "Introduction, contexts and theory shifts", "support_note": "来源显示范围与条件高度多样，据此形成边界。", "support_role": "qualifies"}]}],
+    "area_memberships": [{"area_id": "communication", "is_primary": true, "rationale": "研究技术中介如何改变互动过程。"}, {"area_id": "digital_ai", "is_primary": false, "rationale": "是平台与AI传播研究的重要前史。"}],
+    "learning_resources": [{"title": "Computer-Mediated Communication", "source_id": "S084", "purpose": "建立范围与理论转向，再进入具体平台或关系问题。", "level": "introductory", "locator": "Introduction"}],
+    "learning_links": [{"target_id": "r1-interpersonal", "reason": "比较媒介化与面对面关系过程。", "sequence_hint": "compare"}, {"target_id": "r7-ai-mediated", "reason": "观察AI如何进一步参与人际消息生产。", "sequence_hint": "after"}, {"target_id": "r7-hmc", "reason": "区分‘机器作渠道’与‘机器作沟通者’。", "sequence_hint": "compare"}],
+    "temporal_profile": "evolving", "as_of": "2026-09-15", "last_evidence_check": "2026-09-15", "next_review_due": "2027-03-15",
+    "current_evidence_state": "截至 2026-09-15，S084 的 Oxford 导论摘录支持 CMC 的形式范围与从线索缺失到用户适应、线上线下交织的理论转向。该来源不是对 2026 年具体平台功能、用户规模、关系效果或 AI 中介使用的实时测量；任何此类结论均须按平台、群体、功能与时段另行核验。",
+    "controversy_status": "contested", "controversy_note": "技术类别、线上线下边界和经典理论的适用条件持续变化。", "review_status": "ready_for_review", "created_at": "2026-09-11", "updated_at": "2026-09-15", "reviewed_at": null
+  },
+  {
+    "id": "r2-visual", "slug": "visual-multimodal-communication", "record_level": "complete", "type": "research_topic", "subtype": null,
+    "name_zh": "视觉与多模态传播", "name_original": "Visual and multimodal communication", "aliases": [],
+    "summary": "视觉与多模态传播研究图像、文字、声音、空间、身体和界面如何组合产生意义与行动。视觉修辞、符号学和多模态话语分析是相邻路径，但没有一个单一路线代表整个主题。",
+    "why_it_matters": "学生身处短视频、数据可视化、表情包与界面化传播环境，需要分析不同模态如何分工、互补或冲突。",
+    "key_points": [
+      {"id": "r2vis-k1", "statement": "视觉修辞广义上分析视觉物的传播与说服力量，对象可从照片、地图和影视扩展到空间、身体与纪念物。", "evidence_status": "direct", "evidence": [{"source_id": "S085", "locator": "Introduction extract", "support_note": "Oxford导论直接列出范围与对象。", "support_role": "supports"}]},
+      {"id": "r2vis-k2", "statement": "视觉研究借用符号学、美学和文化研究等多种传统，领域并无统一定义。", "evidence_status": "direct", "evidence": [{"source_id": "S085", "locator": "Introduction extract", "support_note": "导论明确说明定义分歧和跨学科来源。", "support_role": "supports"}]}
+    ],
+    "limits_or_debates": [{"id": "r2vis-l1", "statement": "只描述画面元素或猜测象征意义不构成充分分析；需要说明模态关系、语境、材料选择与解释程序。", "evidence_status": "interpretive", "evidence": [{"source_id": "S085", "locator": "methods and scope overview", "support_note": "来源强调多种分析方法与对象，据此形成方法透明度要求。", "support_role": "qualifies"}]}],
+    "area_memberships": [{"area_id": "meaning", "is_primary": true, "rationale": "关注多种符号模态如何共同生成意义。"}, {"area_id": "research_application", "is_primary": false, "rationale": "对应视觉修辞、符号学和多模态分析方法。"}],
+    "learning_resources": [{"title": "Visual Rhetoric", "source_id": "S085", "purpose": "以视觉修辞为一个入口，同时保留多模态研究的更大范围。", "level": "introductory", "locator": "Introduction and contents"}],
+    "learning_links": [{"target_id": "r2-semiotics", "reason": "先掌握符号关系。", "sequence_hint": "before"}, {"target_id": "r2-representation", "reason": "分析视觉如何参与文化表征。", "sequence_hint": "after"}, {"target_id": "r8-interpretive-methods", "reason": "把理论词汇转成可说明的分析步骤。", "sequence_hint": "after"}],
+    "temporal_profile": "evolving", "as_of": "2026-09-15", "last_evidence_check": "2026-09-15", "next_review_due": "2027-03-15",
+    "current_evidence_state": "截至 2026-09-15，S085 的 Oxford 导论摘录支持视觉修辞的对象范围、跨学科来源与定义分歧，并支持不把视觉修辞缩减为全部多模态传播。它不提供对 2026 年短视频、生成式图像、界面设计或受众解释的实时分布和效果证据；这些议题需按材料、平台、语境和方法重新取证。",
+    "controversy_status": "contested", "controversy_note": "视觉修辞、社会符号学与多模态分析的对象和方法边界不同。", "review_status": "ready_for_review", "created_at": "2026-09-11", "updated_at": "2026-09-15", "reviewed_at": null
+  },
+  {
+    "id": "r3-media-industries", "slug": "media-industries", "record_level": "complete", "type": "research_topic", "subtype": null,
+    "name_zh": "媒介产业", "name_original": "Media industries", "aliases": [],
+    "summary": "媒介产业研究内容生产、融资、劳动、分发、聚合、市场与监管如何共同塑造可见的文化产品。数字化使研究重心同时延伸到平台、流媒体和内容获取条件。",
+    "why_it_matters": "它让学生从作品与流量背后看到商业模式、创意劳动、所有权和分发权，并理解产业条件如何影响内容而非机械决定内容。",
+    "key_points": [
+      {"id": "r3ind-k1", "statement": "产业结构、市场动态、商业模式和监管框架都是媒介产业研究的核心对象。", "evidence_status": "direct", "evidence": [{"source_id": "S086", "locator": "chapter abstract", "support_note": "出版社摘要直接列出这些对象。", "support_role": "supports"}]},
+      {"id": "r3ind-k2", "statement": "研究议程已从内容生产条件扩展到流媒体等系统塑造内容获取的条件。", "evidence_status": "direct", "evidence": [{"source_id": "S086", "locator": "chapter abstract", "support_note": "摘要直接概括这一议程变化。", "support_role": "supports"}]}
+    ],
+    "limits_or_debates": [{"id": "r3ind-l1", "statement": "企业案例和市场数据不能独自解释文化结果；需要连接劳动、技术、政策、分发和受众。", "evidence_status": "interpretive", "evidence": [{"source_id": "S086", "locator": "field problematization abstract", "support_note": "来源以多种条件界定领域，据此反对单变量解释。", "support_role": "qualifies"}]}],
+    "area_memberships": [{"area_id": "media_society", "is_primary": true, "rationale": "产业连接媒介生产与社会资源结构。"}, {"area_id": "institutions", "is_primary": false, "rationale": "组织、监管和职业实践是主要层面。"}],
+    "learning_resources": [{"title": "Media, Industries, Research", "source_id": "S086", "purpose": "建立结构—市场—商业模式—监管—获取的分析清单。", "level": "intermediate", "locator": "chapter abstract"}, {"title": "Overview of the Political Economy of Communication", "source_id": "S068", "purpose": "补充所有权、资源、劳动与权力关系的产业分析维度。", "level": "intermediate", "locator": "pp. 1–4"}],
+    "learning_links": [{"target_id": "r3-political-economy", "reason": "用权力与资源关系解释产业结构。", "sequence_hint": "before"}, {"target_id": "r3-platformization", "reason": "观察平台如何重组生产、分发和变现。", "sequence_hint": "after"}, {"target_id": "r3-media-institutions", "reason": "把市场与商业模式放进制度、监管和历史语境中比较。", "sequence_hint": "after"}],
+    "temporal_profile": "evolving", "as_of": "2026-09-15", "last_evidence_check": "2026-09-15", "next_review_due": "2027-03-15",
+    "current_evidence_state": "截至 2026-09-15，S086 的章节摘要支持媒介产业的结构、市场、商业模式、监管与内容获取条件的研究范围。该摘要是领域问题化入口，不是对 2026 年任一企业所有权、流媒体市场份额、收入、劳动条件、监管状态或算法分发效果的实时证据；具体产业结论必须对应国家、公司、业务与时间窗口重新核验。",
+    "controversy_status": "contested", "controversy_note": "行业边界、平台依赖、创意自主与全球不平等持续变化。", "review_status": "ready_for_review", "created_at": "2026-09-11", "updated_at": "2026-09-15", "reviewed_at": null
+  },
+  {
+    "id": "r3-china-convergence", "slug": "china-media-convergence", "record_level": "complete", "type": "application", "subtype": null,
+    "name_zh": "中国媒体融合", "name_original": "Media convergence in China", "aliases": [],
+    "summary": "中国媒体融合是传统媒体、新兴媒体与平台技术在政策推动下进行组织、流程、内容、渠道、人才和运营重组的实践领域。它不只是‘多开几个账号’或内容跨平台转载。",
+    "why_it_matters": "该领域把中国新闻制度、组织变革、技术应用和公共传播目标连接起来，也要求区分政策目标、机构行动与可验证效果。",
+    "key_points": [
+      {"id": "r3cc-k1", "statement": "2020年政策把深度融合明确延伸到体制机制、政策措施、流程管理、人才技术和一体化组织架构。", "evidence_status": "direct", "evidence": [{"source_id": "S100", "locator": "总体要求与内容生产、体制机制改革段落", "support_note": "政策原文直接列出改革层次。", "support_role": "supports"}]},
+      {"id": "r3cc-k2", "statement": "政策目标包含内容建设、技术支撑、创新管理、移动优先以及‘新闻+政务服务商务’等运营探索。", "evidence_status": "direct", "evidence": [{"source_id": "S100", "locator": "目标任务与运营模式段落", "support_note": "政策原文直接支持目标和实践范围。", "support_role": "supports"}]}
+    ],
+    "limits_or_debates": [{"id": "r3cc-l1", "statement": "政策文本能证明目标和制度安排，不能单独证明融合提升了新闻质量、公共信任或传播效果；这些需要独立数据。", "evidence_status": "interpretive", "evidence": [{"source_id": "S100", "locator": "全文", "support_note": "来源性质为规范性政策文件，据此限定证据用途。", "support_role": "qualifies"}]}],
+    "area_memberships": [{"area_id": "media_society", "is_primary": true, "rationale": "融合改变媒体组织、产业与社会传播结构。"}, {"area_id": "institutions", "is_primary": false, "rationale": "主流媒体流程、角色和治理是实践核心。"}, {"area_id": "digital_ai", "is_primary": false, "rationale": "平台、数据和技术基础设施推动转型。"}],
+    "learning_resources": [{"title": "关于加快推进媒体深度融合发展的意见", "source_id": "S100", "purpose": "识别政策目标与实践层次，再设计效果评估问题。", "level": "introductory", "locator": "全文"}],
+    "learning_links": [{"target_id": "r3-media-industries", "reason": "理解生产、分发、商业模式与劳动。", "sequence_hint": "before"}, {"target_id": "r3-media-institutions", "reason": "分析组织与制度重组。", "sequence_hint": "before"}, {"target_id": "r7-platform-governance", "reason": "进入平台依赖与治理。", "sequence_hint": "after"}],
+    "temporal_profile": "evolving", "as_of": "2026-09-15", "last_evidence_check": "2026-09-15", "next_review_due": "2027-03-15",
+    "current_evidence_state": "截至 2026-09-15，S100 全文只支持 2020 年政策所提出的深度融合目标、组织流程、技术、管理和运营探索范围。它不证明该政策在 2026 年的现行状态、各机构实施程度、新闻质量、公共信任、商业可持续性或传播效果；这些实时与效果问题须查核后续政策原文、机构材料和独立研究。",
+    "controversy_status": "contested", "controversy_note": "政策目标、商业可持续性、组织整合、平台依赖与公共价值之间存在张力。", "review_status": "ready_for_review", "created_at": "2026-09-11", "updated_at": "2026-09-15", "reviewed_at": null
+  },
+  {
+    "id": "r5-journalism", "slug": "journalism-studies", "record_level": "complete", "type": "research_topic", "subtype": null,
+    "name_zh": "新闻学与新闻研究", "name_original": "Journalism and journalism studies", "aliases": [],
+    "summary": "新闻研究考察新闻的历史、规范、职业、组织、文本、技术、经济、法律与受众。它与新闻实践和新闻教育密切相连，但研究新闻不等同于训练采写技能。",
+    "why_it_matters": "新闻是公共信息与制度问责的重要基础；理解它需要同时看到职业规范、组织条件、平台变化和全球多样性。",
+    "key_points": [
+      {"id": "r5jour-k1", "statement": "新闻研究的学科史经历规范、经验、社会学、全球比较与数字等多重转向。", "evidence_status": "direct", "evidence": [{"source_id": "S091", "locator": "abstract and full entry", "support_note": "百科条目直接概括五个阶段。", "support_role": "supports"}]},
+      {"id": "r5jour-k2", "statement": "领域同时涉及记者、新闻教育者和研究者，因此对其是否为学科、场域或方法没有单一答案。", "evidence_status": "direct", "evidence": [{"source_id": "S091", "locator": "abstract", "support_note": "作者直接说明多方利益与单一愿景困难。", "support_role": "supports"}]}
+    ],
+    "limits_or_debates": [{"id": "r5jour-l1", "statement": "专业规范与新闻实践具有地区和制度差异，不能把一种西方职业模式当作全球唯一标准。", "evidence_status": "interpretive", "evidence": [{"source_id": "S091", "locator": "global-comparative turn", "support_note": "全球比较转向支持对单一规范普遍化保持警惕。", "support_role": "qualifies"}]}],
+    "area_memberships": [{"area_id": "institutions", "is_primary": true, "rationale": "新闻生产、职业、组织与公共制度是核心。"}, {"area_id": "media_society", "is_primary": false, "rationale": "新闻与政治经济、技术及社会变迁相连。"}],
+    "learning_resources": [{"title": "Journalism Studies", "source_id": "S091", "purpose": "建立规范—经验—社会学—全球比较—数字的领域史。", "level": "intermediate", "locator": "full text"}],
+    "learning_links": [{"target_id": "r5-gatekeeping", "reason": "进入新闻选择与把关过程。", "sequence_hint": "after"}, {"target_id": "r3-media-systems", "reason": "比较新闻制度的历史差异。", "sequence_hint": "after"}, {"target_id": "r3-media-industries", "reason": "分析组织、劳动与商业条件。", "sequence_hint": "after"}],
+    "temporal_profile": "evolving", "as_of": "2026-09-15", "last_evidence_check": "2026-09-15", "next_review_due": "2027-03-15",
+    "current_evidence_state": "截至 2026-09-15，S091 的 2019 年开放全文支持新闻研究的领域边界、与实践和教育的关系，以及规范、经验、社会学、全球比较和数字转向的历史概述。它不是 2026 年任何地区的新闻就业、平台流量、信任、新闻自由、自动化应用或商业状况的实时证据；这些结论必须绑定具体法域、机构、媒介类型和时间。",
+    "controversy_status": "contested", "controversy_note": "职业边界、全球规范、平台化、自动化与商业可持续性持续变化。", "review_status": "ready_for_review", "created_at": "2026-09-11", "updated_at": "2026-09-15", "reviewed_at": null
+  },
+  {
+    "id": "r8-computational", "slug": "r8-computational", "record_level": "complete", "type": "method", "subtype": "method_cluster",
+    "name_zh": "计算传播、网络分析与文本挖掘", "name_original": "Computational communication, network analysis and text mining", "aliases": [],
+    "summary": "计算传播学将计算方法用于人类与社会传播问题，可结合数字踪迹观察、网络分析、文本／图像模型、模拟、在线实验与传统方法。它由研究问题而非数据规模定义。",
+    "why_it_matters": "平台传播、新闻扩散、舆情流动、社会网络和大规模文本都需要计算工具，但学生更需要识别 API 限制、平台可见性、模型偏差与可复现性。",
+    "suitable_questions": ["信息、关系和注意力如何在大规模数字网络中流动？", "如何在大规模文本、图像或行为踪迹中识别可验证的传播模式？"],
+    "data_requirements": ["记录收集边界、API／爬取机制、时间窗口和缺失过程的数据", "可追踪的代码、环境、模型版本、参数与随机种子", "人工验证、外部基准或与定性材料的交叉检查"],
+    "typical_procedure": ["从传播理论问题界定分析单位与观察机制", "审计数据来源、合规性、覆盖偏差和可识别性", "建立可复现的处理与模型流程", "用人工标注、外部数据、稳健性和质化检查评估结果"],
+    "limitations": [{"id": "r8c-lm1", "statement": "可获取的平台数据只是被平台设计和接口允许看见的部分，不能被当作整个社会传播的自然镜像。", "evidence_status": "interpretive", "evidence": [{"source_id": "S061", "locator": "Definition and methodological discussion", "support_note": "文章将计算方法放在对人类与社会传播问题的观察、理论和实验路径中；平台可见性是编辑性数据边界。", "support_role": "qualifies"}]}],
+    "key_points": [
+      {"id": "r8c-k1", "statement": "计算传播学不只是“大数据观察”；它可以结合观察研究、理论模拟与在线／田野实验。", "evidence_status": "direct", "evidence": [{"source_id": "S061", "locator": "Abstract and opening section", "support_note": "文章直接将观察、理论与实验路径列为可交叉组合的方法。", "support_role": "supports"}]},
+      {"id": "r8c-k2", "statement": "计算方法中的数据是催化剂而不是定义条件；关键是计算工作流如何帮助回答人类与社会传播问题。", "evidence_status": "direct", "evidence": [{"source_id": "S061", "locator": "Abstract and definition", "support_note": "作者明示说明数据是 catalyzer 而非 requirement，并以传播问题定义该方法领域。", "support_role": "supports"}]}
+    ],
+    "limits_or_debates": [{"id": "r8c-l1", "statement": "该知识点把网络分析、文本挖掘、模拟与在线实验聚为入口，不表示它们共享同一数据结构或推断逻辑。", "evidence_status": "interpretive", "evidence": [{"source_id": "S061", "locator": "Method families across observational, theoretical and experimental research", "support_note": "文章将多类方法并列为可相互催化的路径；本条是对导航聚类的边界。", "support_role": "qualifies"}]}],
+    "area_memberships": [{"area_id": "research_application", "is_primary": true, "rationale": "该知识点组织计算方法如何服务传播问题。"}, {"area_id": "digital_ai", "is_primary": false, "rationale": "计算方法常研究平台、算法、数字踪迹与 AI 传播。"}],
+    "learning_resources": [{"title": "Computational Communication Science", "source_id": "S061", "purpose": "用观察、理论与实验三路组合理解计算传播，不把它等同于大数据。", "level": "intermediate", "locator": "Abstract and full text"}, {"title": "Internet Research: Ethical Guidelines 3.0", "source_id": "S062", "purpose": "审查平台数据收集、可识别性与可预见伤害。", "level": "advanced", "locator": "全文"}],
+    "learning_links": [{"target_id": "r8-quant", "reason": "先掌握测量、抽样、不确定性与效度。", "sequence_hint": "before"}, {"target_id": "r8-ethics", "reason": "在数据获取、建模和发布的每个阶段纳入伦理决策。", "sequence_hint": "after"}],
+    "temporal_profile": "evolving", "as_of": "2026-09-15", "last_evidence_check": "2026-09-15", "next_review_due": "2027-03-15",
+    "current_evidence_state": "截至 2026-09-15，S061 的 2019 年开放全文支持计算传播学可结合观察、理论与实验路径，以及“数据是催化剂而非定义条件”的方法论定位。它不能证明 2026 年任一平台 API 的可得性、数据覆盖、生成式模型能力、模型版本、伦理规范或具体研究结论；这些动态条件必须按工具、平台、地区、样本与时间窗口复核。",
+    "controversy_status": "contested", "controversy_note": "平台数据可得性、API 政策、生成式 AI 模型与伦理规范变化快，需半年复查。", "review_status": "ready_for_review", "created_at": "2026-09-11", "updated_at": "2026-09-15", "reviewed_at": null
+  }
+]

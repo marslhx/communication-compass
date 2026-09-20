@@ -1,0 +1,74 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://commpass.local/schema/relation.schema.json",
+  "title": "COMMPASS semantic relation",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "id",
+    "source_id",
+    "target_id",
+    "relation_type",
+    "statement_zh",
+    "evidence_status",
+    "evidence",
+    "review_status",
+    "reviewed_at"
+  ],
+  "properties": {
+    "id": { "type": "string", "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$" },
+    "source_id": { "type": "string" },
+    "target_id": { "type": "string" },
+    "relation_type": {
+      "enum": [
+        "proposed",
+        "developed",
+        "associated_with",
+        "builds_on",
+        "criticizes",
+        "has_concept",
+        "addresses",
+        "used_in",
+        "applied_to",
+        "contrasts_with"
+      ]
+    },
+    "statement_zh": { "type": "string", "minLength": 1 },
+    "scope_note": { "type": ["string", "null"] },
+    "evidence_status": { "enum": ["direct", "interpretive", "pending"] },
+    "evidence": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["source_id", "locator", "support_note", "support_role"],
+        "properties": {
+          "source_id": { "type": "string" },
+          "locator": { "type": "string", "minLength": 1 },
+          "support_note": { "type": "string", "minLength": 1 },
+          "support_role": { "enum": ["supports", "qualifies", "disputes"] }
+        }
+      }
+    },
+    "controversy_note": { "type": ["string", "null"] },
+    "review_status": {
+      "enum": ["draft", "ready_for_review", "reviewed", "published", "needs_revision"]
+    },
+    "reviewed_at": { "type": ["string", "null"], "format": "date" }
+  },
+  "allOf": [
+    {
+      "if": {
+        "properties": { "evidence_status": { "enum": ["direct", "interpretive"] } }
+      },
+      "then": { "properties": { "evidence": { "minItems": 1 } } }
+    },
+    {
+      "if": { "properties": { "review_status": { "enum": ["reviewed", "published"] } } },
+      "then": {
+        "required": ["reviewed_at"],
+        "properties": { "reviewed_at": { "type": "string", "format": "date" } }
+      }
+    }
+  ]
+}

@@ -1,0 +1,1231 @@
+[
+  {
+    "id": "r1-process",
+    "slug": "communication-process-elements",
+    "record_level": "complete",
+    "type": "concept",
+    "subtype": null,
+    "name_zh": "传播过程与基本要素",
+    "name_original": "Communication process and elements",
+    "aliases": [
+      {
+        "name": "传播过程",
+        "kind": "common_name",
+        "note": "简称，仅指本知识点的综合入口。"
+      },
+      {
+        "name": "传播的基本要素",
+        "kind": "common_name",
+        "note": "强调要素检查，不表示存在一个统一的标准模型。"
+      }
+    ],
+    "summary": "传播过程与基本要素是本项目为初学者设置的综合导览分组，用来并置传输与意义等分析取向，而不是学界公认的单一模型。拉斯韦尔五问、香农工程模型与 Carey 的传输观／仪式观对照均有可定位的原文支持；这里按各自的问题范围并置学习，不将它们合成统一模型。",
+    "why_it_matters": "它为初学者提供一张分析传播情境的检查表，也提醒学生区分技术传输、互动反馈与意义生成。面对新闻、课堂对话、短视频推荐或跨文化误解时，学生既要辨认参与者、信息、媒介与回应，也要追问解释和权力条件。",
+    "key_points": [
+      {
+        "id": "r1-process-k1",
+        "statement": "拉斯韦尔以“谁—说什么—通过什么渠道—对谁—产生什么效果”描述传播行为，并对应讨论控制、内容、媒介、受众与效果分析；他也说明这些划分是否有用取决于具体研究或管理目标。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "H01",
+            "locator": "2007 年重印选载，印刷 p.216（PDF 第 2 页），The act of communication",
+            "support_note": "已核五问、五类分析及划分用途的条件说明。PDF 首页注明1948原作与1971重印来源；此处页码只指实际核读的2007选载，不冒充1948原版。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r1-process-k2",
+        "statement": "香农将工程通信问题限定为在一点精确或近似重现另一点选出的消息，把语义问题置于该工程问题之外；其系统图区分信息源、发射器、信道、接收器与目的地，并另标噪声源。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S010",
+            "locator": "校正版重印 PDF p.1 Introduction；p.2 Figure 1 及下方编号说明",
+            "support_note": "p.1 直接界定工程问题并排除 semantic aspects；p.2 图示和说明列出五个系统部分及 noise source。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r1-process-k4",
+        "statement": "Carey 在章节中并置传播的传输观与仪式观，并把仪式观联系到共同信念的呈现以及有序、有意义文化世界的建构与维系。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S012",
+            "locator": "“A Cultural Approach to Communication”，文内 p.5",
+            "support_note": "已核原文片段直接对照 transmission view 与 ritual view，并说明仪式观与共同世界的维系；不据此把两者写成穷尽性分类。",
+            "support_role": "supports"
+          }
+        ]
+      }
+    ],
+    "limits_or_debates": [
+      {
+        "id": "r1-process-l2",
+        "statement": "香农的工程问题把语义问题置于范围之外，并从可能消息的选择集合出发定义信息量；这里的信息量不能直接当作语义意义的度量。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "S010",
+            "locator": "哈佛大学托管校正版重印 PDF 第 1 页，Introduction 开头及消息选择集合段落",
+            "support_note": "原文明示工程问题与语义无关，并以可选消息集合及其统计结构讨论信息量。末句是据此作出的教学范围限定，不由该页外推情感、身份或权力的测量结论。",
+            "support_role": "qualifies"
+          }
+        ]
+      }
+    ],
+    "area_memberships": [
+      {
+        "area_id": "communication",
+        "is_primary": true,
+        "rationale": "直接回答传播如何发生，并提供学科入口框架。"
+      },
+      {
+        "area_id": "meaning",
+        "is_primary": false,
+        "rationale": "意义取向追问符号解释与共同世界的生成。"
+      },
+      {
+        "area_id": "effects",
+        "is_primary": false,
+        "rationale": "过程分析包含效果端，但本知识点不替代具体效果理论。"
+      },
+      {
+        "area_id": "research_application",
+        "is_primary": false,
+        "rationale": "过程要素可帮助形成研究问题和观察维度。"
+      }
+    ],
+    "learning_resources": [
+      {
+        "title": "The Structure and Function of Communication in Society（2007 年重印选载）",
+        "source_id": "H01",
+        "purpose": "用五问拆解研究对象，并注意作者对研究分工适用目标的限定。",
+        "level": "introductory",
+        "locator": "印刷 p.216（PDF 第 2 页），The act of communication；1948原版并未在本轮核读"
+      },
+      {
+        "title": "How Communication Works",
+        "source_id": "S011",
+        "purpose": "在核实图示后比较反馈、经验范围和多重渠道如何扩展单向图式。",
+        "level": "intermediate",
+        "locator": "章节起始页由目录确认；图示和正文位置待复核"
+      },
+      {
+        "title": "Communication as Culture",
+        "source_id": "S012",
+        "purpose": "在问题引导下比较传播的传输观与仪式观，并保留该片段不构成穷尽性分类的边界。",
+        "level": "intermediate",
+        "locator": "“A Cultural Approach to Communication”，文内 p.5；当前为原文片段核读"
+      }
+    ],
+    "learning_links": [
+      {
+        "target_id": "r1-feedback-noise",
+        "reason": "分别学习反馈与噪声的理论来源，避免把两种机制合并归于单一作者。",
+        "sequence_hint": "after"
+      },
+      {
+        "target_id": "r1-mass",
+        "reason": "把过程框架带入大众传播场景，同时保持“大众传播不等于全部传播”的边界。",
+        "sequence_hint": "after"
+      },
+      {
+        "target_id": "r2-encoding-decoding",
+        "reason": "进一步检验编码与解码为何不必对称，以及意义如何受社会位置影响。",
+        "sequence_hint": "after"
+      }
+    ],
+    "temporal_profile": "relatively_stable",
+    "as_of": null,
+    "last_evidence_check": "2026-09-14",
+    "next_review_due": null,
+    "controversy_status": "contested",
+    "controversy_note": "争议集中于何种模型应居于中心、工程信息概念能否外推到人类传播，以及过程模型如何容纳意义与权力。2026-09-14 仅补强五问与工程范围；互动循环、反馈成效及其综合边界仍保留待核。",
+    "review_status": "ready_for_review",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-14",
+    "reviewed_at": null
+  },
+  {
+    "id": "r5-gatekeeping",
+    "slug": "gatekeeping-theory",
+    "record_level": "complete",
+    "type": "theory_model",
+    "subtype": "theory",
+    "name_zh": "把关理论",
+    "name_original": "Gatekeeping theory",
+    "aliases": [
+      {
+        "name": "守门理论",
+        "kind": "alternate_translation",
+        "note": null
+      },
+      {
+        "name": "守门人理论",
+        "kind": "alternate_translation",
+        "note": "该译名突出行动者，使用时仍需说明组织、网络、算法和平台机制。"
+      }
+    ],
+    "summary": "把关理论研究信息如何经过特定渠道和选择机制而被采用、拒绝、排序或获得可见性。Lewin 的渠道与“门”构想目前只是有待正文核读的一般社会过程前史线索；White 的新闻电讯稿选择个案以及网络和数字研究中的被把关者、算法与平台则按各自已登记的证据范围呈现。",
+    "why_it_matters": "学生看到的新闻与平台信息不是世界的完整镜像。把关理论训练学生具体识别渠道、选择者或机制、选择标准和可见性结果，并区分经典新闻个案与数字环境中的多行动者结构。",
+    "key_points": [
+      {
+        "id": "r5-gatekeeping-k1",
+        "statement": "Lewin 在一般社会过程研究中以食物渠道说明渠道、门和守门人的构想；把它视为后来新闻把关研究的概念前史，是本站依据材料范围作出的限定，而不是声称该文已经提出成熟的新闻理论。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "G22",
+            "locator": "印刷页 145—146 的已核原文片段",
+            "support_note": "片段直接支持食物渠道、门和守门人的一般概念；“新闻把关研究的概念前史”是本站据后续研究史所作的范围限定。",
+            "support_role": "qualifies"
+          }
+        ]
+      },
+      {
+        "id": "r5-gatekeeping-k2",
+        "statement": "White 收集一家非都市报纸一位电讯编辑七天内采用和拒绝的电讯稿，并分析其取舍理由。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "G18",
+            "locator": "pp. 383–390，研究对象、材料与拒稿理由分析",
+            "support_note": "全文直接支持七天、一位编辑的个案设计及采用与拒绝材料的分析。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r5-gatekeeping-k3",
+        "statement": "网络把关框架要求同时识别把关者、把关机制和被把关者，并把被把关者相对于把关者的位置纳入分析。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S013",
+            "locator": "Abstract",
+            "support_note": "摘要提出 network gatekeeping identification theory，并把把关关系中的相关行动者和机制纳入框架。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r5-gatekeeping-k4",
+        "statement": "数字新闻把关模型把个人、算法和平台列为当代新闻传播中的重要选择者或机制。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S014",
+            "locator": "Abstract",
+            "support_note": "摘要明确以个人、算法和平台在数字新闻传播中的兴起为模型对象。",
+            "support_role": "supports"
+          }
+        ]
+      }
+    ],
+    "limits_or_debates": [
+      {
+        "id": "r5-gatekeeping-l1",
+        "statement": "White 的研究只观察一位编辑和七天材料，不能据此断言所有新闻生产都由个人偏好决定。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "G18",
+            "locator": "pp. 383–390，研究对象与材料范围",
+            "support_note": "个案边界直接限定可外推的组织、时期与机制。",
+            "support_role": "qualifies"
+          }
+        ]
+      },
+      {
+        "id": "r5-gatekeeping-l2",
+        "statement": "个体、网络、用户、算法和平台是可分别询问的分析维度；现有材料不足以证成一条完整的新闻把关多层次发展史。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "S013",
+            "locator": "Abstract",
+            "support_note": "网络框架扩展了行动者和关系范围，但不能单独证明整个领域的历史演进。",
+            "support_role": "qualifies"
+          },
+          {
+            "source_id": "S014",
+            "locator": "Abstract",
+            "support_note": "数字新闻模型支持个人、算法和平台的当代扩展；历史排序是本知识点拒绝作出的额外推断。",
+            "support_role": "qualifies"
+          }
+        ]
+      },
+      {
+        "id": "r5-gatekeeping-l3",
+        "statement": "在排序、推荐和协作式可见性共存的环境中，二元的进入／拒绝隐喻可能不足，但这并不表示经典把关问题已经失效。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "S014",
+            "locator": "Abstract",
+            "support_note": "数字新闻模型要求纳入算法和平台；对经典隐喻边界的表述是据此作出的编辑解释。",
+            "support_role": "qualifies"
+          }
+        ]
+      },
+      {
+        "id": "r5-gatekeeping-l4",
+        "statement": "内容被删除、推荐或降权的事实不能单独证明决定正当或不正当，规范评价还需要法律、伦理和权利依据。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "S014",
+            "locator": "Abstract",
+            "support_note": "来源支持把选择机制作为分析对象；从描述性选择事实区分规范评价是编辑边界。",
+            "support_role": "qualifies"
+          }
+        ]
+      }
+    ],
+    "area_memberships": [
+      {
+        "area_id": "institutions",
+        "is_primary": true,
+        "rationale": "新闻与平台中的选择规则、角色和组织权力是核心问题。"
+      },
+      {
+        "area_id": "communication",
+        "is_primary": false,
+        "rationale": "把关解释信息如何进入传播渠道及后续流通。"
+      },
+      {
+        "area_id": "media_society",
+        "is_primary": false,
+        "rationale": "选择机制塑造公共可见的媒介现实。"
+      },
+      {
+        "area_id": "effects",
+        "is_primary": false,
+        "rationale": "选择与排序改变受众可接触的信息集合，但不单独证明效果。"
+      }
+    ],
+    "learning_resources": [
+      {
+        "title": "The Gate Keeper: A Case Study in the Selection of News",
+        "source_id": "G18",
+        "purpose": "先用一个范围明确的新闻个案理解材料如何被采用或拒绝。",
+        "level": "introductory",
+        "locator": "pp. 383–390"
+      },
+      {
+        "title": "Frontiers in Group Dynamics II: Channels of Group Life; Social Planning and Action Research",
+        "source_id": "G22",
+        "purpose": "回读渠道、门和守门人的一般社会过程前史；正文目前待复核。",
+        "level": "intermediate",
+        "locator": "预定核读印刷页 145–146"
+      },
+      {
+        "title": "Modelling Contemporary Gatekeeping: The Rise of Individuals, Algorithms and Platforms in Digital News Dissemination",
+        "source_id": "S014",
+        "purpose": "比较个人、算法和平台在数字新闻传播中的把关位置。",
+        "level": "intermediate",
+        "locator": "Abstract；模型细节待取得全文"
+      }
+    ],
+    "learning_links": [
+      {
+        "target_id": "r5-journalism",
+        "reason": "先把把关问题放回新闻生产与新闻研究的制度语境。",
+        "sequence_hint": "before"
+      },
+      {
+        "target_id": "r4-agenda-setting",
+        "reason": "比较“信息如何进入传播流”与“议题显著性如何对应”的不同问题。",
+        "sequence_hint": "compare"
+      },
+      {
+        "target_id": "r7-platform-governance",
+        "reason": "继续考察平台、算法和用户如何共同塑造可见性与问责。",
+        "sequence_hint": "after"
+      }
+    ],
+    "temporal_profile": "relatively_stable",
+    "as_of": null,
+    "last_evidence_check": "2026-09-11",
+    "next_review_due": null,
+    "controversy_status": "contested",
+    "controversy_note": "争议集中于把关的分析层次、选择权分布，以及经典进入／拒绝隐喻能否充分解释排序、推荐和协作式可见性。",
+    "positions": [
+      {
+        "id": "r5-gatekeeping-p1",
+        "statement": "经典新闻个案以编辑对电讯稿的采用和拒绝为主要观察对象。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "G18",
+            "locator": "pp. 383–390",
+            "support_note": "White 的个案直接呈现编辑层面的选择。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r5-gatekeeping-p2",
+        "statement": "网络与数字取向把关系结构、个人、算法和平台纳入把关分析。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S013",
+            "locator": "Abstract",
+            "support_note": "网络把关框架扩展关系与行动者维度。",
+            "support_role": "supports"
+          },
+          {
+            "source_id": "S014",
+            "locator": "Abstract",
+            "support_note": "数字新闻模型明确纳入个人、算法和平台。",
+            "support_role": "supports"
+          }
+        ]
+      }
+    ],
+    "questions_explained": [
+      "哪些信息可以通过特定渠道中的门，哪些被挡在外面？",
+      "选择权由个人、组织、用户、算法或平台中的哪些行动者和机制掌握？",
+      "选择标准和权力关系如何影响新闻与公共信息的可见性？"
+    ],
+    "propositions": [
+      {
+        "id": "r5-gatekeeping-prop1",
+        "statement": "把关分析需要明确渠道、选择机制、被选择的信息和可观察的结果。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "G18",
+            "locator": "pp. 383–390",
+            "support_note": "White 个案将材料、编辑决定与采用／拒绝结果对应起来；命题是对可操作要素的归纳。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r5-gatekeeping-prop2",
+        "statement": "在数字新闻环境中，把关不能只归因于单个编辑，还需考察算法、平台和用户行为。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S014",
+            "locator": "Abstract",
+            "support_note": "摘要把个人、算法和平台并列为当代数字新闻传播模型的组成。",
+            "support_role": "supports"
+          }
+        ]
+      }
+    ],
+    "conditions": [
+      "使用把关隐喻时须具体指出渠道、门或机制、把关者或被把关者以及选择结果。",
+      "White 的七日单编辑个案不能代表所有新闻组织或时代。",
+      "“新闻把关”是该理论在新闻领域的特定用法，不作为整个理论的同义名。"
+    ],
+    "review_status": "ready_for_review",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-11",
+    "reviewed_at": null
+  },
+  {
+    "id": "r5-public-sphere",
+    "slug": "public-sphere",
+    "record_level": "complete",
+    "type": "theory_model",
+    "subtype": "theory",
+    "name_zh": "公共领域",
+    "name_original": "Public sphere / Öffentlichkeit",
+    "aliases": [
+      {
+        "name": "公共空间",
+        "kind": "alternate_translation",
+        "note": "慎用，容易与物理公共空间混淆。"
+      },
+      {
+        "name": "公共交往领域",
+        "kind": "alternate_translation",
+        "note": "解释性译名，用于强调交往与意见形成。"
+      }
+    ],
+    "summary": "公共领域讨论私人个体以公众身份围绕共同事务交往、形成公共意见并可能影响政治决定的条件。G23 的概念正文与 S015 的排除性批评已经核读，G19 的书目则确认《公共领域的结构转型》的历史—社会学研究范围。学习时仍须区分民主规范、欧洲历史对象与实际参与不平等。",
+    "why_it_matters": "公共领域把媒介研究与民主、公共意见和制度权力连接起来。它帮助学生追问谁能进入讨论、什么被界定为公共问题、媒介如何组织可见性，以及意见能否进入制度决策，同时避免把任何公开可见的平台自动视为民主公共领域。",
+    "key_points": [
+      {
+        "id": "r5-public-sphere-k1",
+        "statement": "Habermas 把公共领域界定为能够形成公共意见的社会生活领域，并说明公民作为公众围绕共同利益集会、表达和讨论的条件，同时区分公共领域、国家权威与私人领域。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "G23",
+            "locator": "p.49，Section 1 “The Concept”",
+            "support_note": "定义段直接说明公共领域、作为 public body 的公民及其与国家权威和私人领域的边界。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r5-public-sphere-k2",
+        "statement": "MIT Press 将《公共领域的结构转型》介绍为关于资产阶级社会范畴的历史—社会学研究，因此该书的历史对象不能被当作跨历史不变场所。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "G19",
+            "locator": "MIT Press 书目页的副标题与内容简介",
+            "support_note": "出版社页面直接支持作者、英译本书目及历史—社会学研究范围；后半句是对适用范围的限定。",
+            "support_role": "qualifies"
+          }
+        ]
+      },
+      {
+        "id": "r5-public-sphere-k3",
+        "statement": "Habermas 的简明概念论述把报纸、期刊、广播和电视列为面向大规模公众交往的媒介。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "G23",
+            "locator": "p.49，Section 1 “The Concept”",
+            "support_note": "原文直接列出面向 large public body 的报纸、期刊、广播和电视。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r5-public-sphere-k4",
+        "statement": "Fraser 指出性别、阶级及其他排斥会使单一资产阶级公共领域被理想化，并以参与平等、多个竞争公众和从属反公共修正单一、普遍公众的设想。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S015",
+            "locator": "pp. 60–61、63–68；结论 p.77",
+            "support_note": "原文直接讨论历史排斥、participatory parity、multiple publics 和 subaltern counterpublics，并保留反公共不必然民主或平等的限制。",
+            "support_role": "supports"
+          }
+        ]
+      }
+    ],
+    "limits_or_debates": [
+      {
+        "id": "r5-public-sphere-l1",
+        "statement": "资产阶级公共领域的开放理想与妇女、劳动阶级及其他群体被排除的历史之间存在张力。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S015",
+            "locator": "pp. 60–61",
+            "support_note": "Fraser 依据修正主义史学讨论性别、阶级及其他排斥，并反对只研究单一资产阶级公共领域造成的理想化。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r5-public-sphere-l2",
+        "statement": "在分层社会中，多重公众可能提供被支配群体形成和传播反叙事的空间，但“公众越多越民主”并非自动成立。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S015",
+            "locator": "pp. 66–68；结论 p.77",
+            "support_note": "Fraser 论证分层社会中的多个竞争公众与从属反公共，同时明确反公共可能反民主、反平等并存在内部排斥。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r5-public-sphere-l3",
+        "statement": "平台上存在大量公开讨论者只说明有讨论，不能单独证明进入平等、信息充分或讨论能够影响制度决定。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "G23",
+            "locator": "pp. 49–50；pp. 54–55",
+            "support_note": "原文把公共领域联系到公共意见、社会与国家的中介位置，并说明规范模型不能直接套用变化后的社会结构；平台场景表述是编辑限定。",
+            "support_role": "qualifies"
+          },
+          {
+            "source_id": "S015",
+            "locator": "pp. 63–65",
+            "support_note": "Fraser 说明把社会不平等括号化不足以实现参与平等，限定了仅凭公开讨论推断民主质量。",
+            "support_role": "qualifies"
+          }
+        ]
+      },
+      {
+        "id": "r5-public-sphere-l4",
+        "statement": "《公共领域的结构转型》聚焦特定欧洲资产阶级社会的历史对象，不能无条件当作所有社会公共传播的普遍发展阶段。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "G19",
+            "locator": "MIT Press 书目页的题名、副标题与内容简介",
+            "support_note": "书目范围支持对欧洲资产阶级历史对象的限定，不支持跨社会普遍化。",
+            "support_role": "qualifies"
+          }
+        ]
+      }
+    ],
+    "area_memberships": [
+      {
+        "area_id": "institutions",
+        "is_primary": true,
+        "rationale": "公共意见、媒介制度与政治决策之间的连接是核心。"
+      },
+      {
+        "area_id": "power_culture",
+        "is_primary": false,
+        "rationale": "进入资格、身份和资源不平等影响哪些公众能够被听见。"
+      },
+      {
+        "area_id": "meaning",
+        "is_primary": false,
+        "rationale": "共同问题如何被命名和论证是公共讨论的一部分。"
+      },
+      {
+        "area_id": "digital_ai",
+        "is_primary": false,
+        "rationale": "数字平台重组公共可见性与参与条件，但不天然等于公共领域。"
+      }
+    ],
+    "learning_resources": [
+      {
+        "title": "The Public Sphere: An Encyclopedia Article (1964)",
+        "source_id": "G23",
+        "purpose": "作为简明概念入口，学习定义、制度边界、大规模媒介条件及规范模型的历史限制。",
+        "level": "introductory",
+        "locator": "pp. 49–50，Section 1 “The Concept”；pp. 54–55"
+      },
+      {
+        "title": "The Structural Transformation of the Public Sphere",
+        "source_id": "G19",
+        "purpose": "把概念放回资产阶级公共领域的历史—社会学研究范围。",
+        "level": "advanced",
+        "locator": "当前为 MIT Press 书目入口；选读章节待取得正文后指定"
+      },
+      {
+        "title": "Rethinking the Public Sphere",
+        "source_id": "S015",
+        "purpose": "用历史排斥、参与平等、多重公众和从属反公共检验单一公众模型，并保留反公共不必然民主的限制。",
+        "level": "advanced",
+        "locator": "pp. 60–68；结论 p.77"
+      }
+    ],
+    "learning_links": [
+      {
+        "target_id": "r5-public-opinion",
+        "reason": "区分公共意见的形成过程与对意见结果的测量。",
+        "sequence_hint": "after"
+      },
+      {
+        "target_id": "r5-political",
+        "reason": "继续追问公众讨论如何通过制度化渠道影响政治权力。",
+        "sequence_hint": "after"
+      },
+      {
+        "target_id": "r6-gender",
+        "reason": "比较公共领域规范与女性主义、性别和酷儿传播对排斥与参与条件的分析。",
+        "sequence_hint": "compare"
+      }
+    ],
+    "temporal_profile": "relatively_stable",
+    "as_of": null,
+    "last_evidence_check": "2026-09-11",
+    "next_review_due": null,
+    "controversy_status": "contested",
+    "controversy_note": "本轮已核欧洲资产阶级公共领域的历史范围，以及 Fraser 关于历史排斥、参与不平等、多重公众和从属反公共的批评；其他关于理性规范或全球适用性的批评未作穷尽。",
+    "questions_explained": [
+      "公民如何围绕共同事务形成公共意见，并使其对政治制度产生影响？",
+      "媒介为公共讨论提供何种条件，又如何改变这些条件？",
+      "社会不平等持续存在时，单一公众与多重公众各有什么规范和经验问题？"
+    ],
+    "propositions": [
+      {
+        "id": "r5-public-sphere-prop1",
+        "statement": "公共领域不是国家机关、市场交易或私人生活的同义词，而是公众围绕共同利益交往并形成公共意见的领域。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "G23",
+            "locator": "p.49，Section 1 “The Concept”",
+            "support_note": "定义段直接区分公共领域、国家权威和私人领域，并说明公共意见形成。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r5-public-sphere-prop2",
+        "statement": "开放表达、信息可得与公开讨论构成公共领域的规范条件。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "G23",
+            "locator": "p.49；pp. 54–55",
+            "support_note": "p.49 说明公民以公众身份自由表达和讨论；pp.54–55 提醒自由主义模型的规范条件不能直接套用于福利国家大众民主。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r5-public-sphere-prop2b",
+        "statement": "现实制度是否满足公共领域的规范条件须另以经验材料检验，不能由规范定义自动推出。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "G23",
+            "locator": "pp. 54–55",
+            "support_note": "原文说明自由主义规范模型不能直接套用于变化后的社会结构；经验检验要求是据此作出的编辑限定。",
+            "support_role": "qualifies"
+          },
+          {
+            "source_id": "S015",
+            "locator": "pp. 63–65",
+            "support_note": "Fraser 说明仅把不平等括号化不能实现参与平等，进一步限定规范条件与现实参与的区别。",
+            "support_role": "qualifies"
+          }
+        ]
+      },
+      {
+        "id": "r5-public-sphere-prop3",
+        "statement": "公共领域的历史形态并非天然包容，排斥与不平等要求检验“普遍公众”和单一公共领域的假设。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S015",
+            "locator": "pp. 60–68；结论 p.77",
+            "support_note": "原文直接将历史排斥、社会不平等与对单一综合公众假设的批评联系起来。",
+            "support_role": "supports"
+          }
+        ]
+      }
+    ],
+    "conditions": [
+      "区分资产阶级公共领域的历史描述、民主规范和对具体媒介空间的经验判断。",
+      "不把任何公开可见的网络空间自动称为公共领域。",
+      "讨论多重公众时须保留分层社会、权力关系和公众间相互可达性的条件。",
+      "“资产阶级公共领域”是有历史边界的研究对象，不作为“公共领域”的同义词。"
+    ],
+    "review_status": "ready_for_review",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-11",
+    "reviewed_at": null
+  },
+  {
+    "id": "r7-platform-governance",
+    "slug": "platform-governance",
+    "record_level": "complete",
+    "type": "research_topic",
+    "subtype": "frontier",
+    "name_zh": "平台治理",
+    "name_original": "Platform governance",
+    "aliases": [
+      {
+        "name": "数字平台治理",
+        "kind": "common_name",
+        "note": null
+      },
+      {
+        "name": "在线平台治理",
+        "kind": "alternate_translation",
+        "note": null
+      }
+    ],
+    "summary": "平台治理研究平台公司、用户、广告商、政府和其他行动者如何通过规则、技术与制度安排塑造内容、数据和可见性。本知识点首版聚焦传播相关的内容审核、推荐系统、用户程序权利与公共风险，并严格区分一般学术概念、不同法域的制度文本和执行效果。",
+    "why_it_matters": "平台不是被动渠道：审核、推荐、账号和接口规则会分配可见性、收益与表达机会。学习平台治理能把“算法好不好”转化为谁定规则、规则适用于谁、怎样执行、能否解释和申诉以及由谁监督等可核验问题。",
+    "key_points": [
+      {
+        "id": "r7-platform-governance-k1",
+        "statement": "平台治理可被理解为平台公司、用户、广告商、政府及其他政治行动者之间多层治理关系的集合。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S016",
+            "locator": "Abstract",
+            "support_note": "摘要直接列出平台公司、用户、广告商、政府及其他政治行动者，并界定平台治理研究议程。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r7-platform-governance-k2",
+        "statement": "Yale University Press 的内容简介把内容审核描述为平台对用户内容作删除、保留和组织等决定的实践，并强调这些决定会影响公共话语与文化生产；章节级机制尚未核读。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S017",
+            "locator": "Yale University Press 内容简介",
+            "support_note": "出版社简介支持内容审核的中心性及其公共后果；不以此替代 chapters 1–2 的正文证据。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r7-platform-governance-k3",
+        "statement": "中国《网络信息内容生态治理规定》适用于境内网络信息内容生态治理活动，要求网络信息内容服务平台履行信息内容管理主体责任，并建立规则、账号、发布与评论审核、页面生态、巡查、应急、投诉举报等治理机制。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S018",
+            "locator": "第 2 条；第 8–17 条，重点第 8、9、10、16 条；主体定义见第 41 条",
+            "support_note": "正式全文直接规定适用地域、平台主体责任、内部治理机制和投诉举报安排；不支持实际执行效果。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r7-platform-governance-k4",
+        "statement": "中国《互联网信息服务算法推荐管理规定》覆盖生成合成、个性化推送、排序精选、检索过滤和调度决策等技术；第 12 条鼓励提升透明度和可解释性，第 16–17 条要求告知并提供非个性化选项或关闭方式，第 18 条涉及未成年人，第 24 条备案仅适用于具有舆论属性或者社会动员能力的服务提供者。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S019",
+            "locator": "第 2、12、16–18、23–24 条",
+            "support_note": "正式全文直接支持算法类型、鼓励性透明度措辞、告知与关闭要求、未成年人安排及有条件的备案门槛。",
+            "support_role": "supports"
+          }
+        ]
+      }
+    ],
+    "limits_or_debates": [
+      {
+        "id": "r7-platform-governance-l1",
+        "statement": "平台治理可涵盖内容、数据、市场和劳动；本知识点首版只验证传播相关的内容审核、推荐与公共风险，不能冒充平台经济治理全景。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "S016",
+            "locator": "Abstract",
+            "support_note": "摘要呈现跨主体、跨层次范围；首版聚焦传播问题是编辑取舍。",
+            "support_role": "qualifies"
+          }
+        ]
+      },
+      {
+        "id": "r7-platform-governance-l2",
+        "statement": "法规文本直接说明制度要求，但不能单独证明平台已执行、风险已下降或用户获得了实际救济。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "S018",
+            "locator": "第 2、8–17、41 条",
+            "support_note": "该来源是规范文本而非实施效果研究，因此只能支持义务边界。",
+            "support_role": "qualifies"
+          },
+          {
+            "source_id": "S019",
+            "locator": "第 2、12、16–18、23–24 条",
+            "support_note": "该来源是规范文本而非合规结果或用户经验数据。",
+            "support_role": "qualifies"
+          }
+        ]
+      },
+      {
+        "id": "r7-platform-governance-l3",
+        "statement": "中国两项规章与欧盟《数字服务法》只能作为各自法域和版本下的比较材料，不能互换为全球通则。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "S018",
+            "locator": "国家互联网信息办公室令第 5 号公开页面",
+            "support_note": "来源提供中国规章样本；比较不扩大其法域。",
+            "support_role": "qualifies"
+          },
+          {
+            "source_id": "S019",
+            "locator": "国家互联网信息办公室令第 9 号公开页面",
+            "support_note": "来源提供中国算法推荐规章样本，并按条文限定主体与备案门槛；比较不扩大其法域。",
+            "support_role": "qualifies"
+          },
+          {
+            "source_id": "S020",
+            "locator": "Regulation (EU) 2022/2065，2022 年文本入口",
+            "support_note": "来源仅作为欧盟法域的 2022 年文本样本；本轮未核其截至本知识点所标日期的适用版本。",
+            "support_role": "qualifies"
+          }
+        ]
+      },
+      {
+        "id": "r7-platform-governance-l4",
+        "statement": "“平台规制”偏向法律和监管，只覆盖平台治理的一部分，因此不作为本知识点的同义名。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "S016",
+            "locator": "Abstract",
+            "support_note": "跨主体的平台治理定义宽于国家规制；该命名边界是编辑归纳。",
+            "support_role": "qualifies"
+          }
+        ]
+      }
+    ],
+    "area_memberships": [
+      {
+        "area_id": "digital_ai",
+        "is_primary": true,
+        "rationale": "平台规则、算法推荐、内容审核与数据基础设施直接塑造数字传播。"
+      },
+      {
+        "area_id": "media_society",
+        "is_primary": false,
+        "rationale": "平台成为影响信息流通、文化生产和社会关系的重要媒介制度。"
+      },
+      {
+        "area_id": "institutions",
+        "is_primary": false,
+        "rationale": "研究对象包括平台内部制度、国家监管和跨主体问责。"
+      },
+      {
+        "area_id": "power_culture",
+        "is_primary": false,
+        "rationale": "审核、推荐与申诉机制分配表达和可见性。"
+      }
+    ],
+    "learning_resources": [
+      {
+        "title": "What Is Platform Governance?",
+        "source_id": "S016",
+        "purpose": "先建立跨主体、跨层次的平台治理概念地图。",
+        "level": "intermediate",
+        "locator": "Abstract；全文研究议程待取得"
+      },
+      {
+        "title": "Custodians of the Internet",
+        "source_id": "S017",
+        "purpose": "从内容审核进入平台规则、决定与公共后果；目前先读出版社简介。",
+        "level": "intermediate",
+        "locator": "Yale University Press 内容简介；章节待取得"
+      },
+      {
+        "title": "网络信息内容生态治理规定",
+        "source_id": "S018",
+        "purpose": "在中国法域内逐条核对平台主体责任和内容治理要求，并记录所读版本与日期。",
+        "level": "intermediate",
+        "locator": "第 2、8–17、41 条"
+      },
+      {
+        "title": "互联网信息服务算法推荐管理规定",
+        "source_id": "S019",
+        "purpose": "在中国法域内核对算法类型、透明度、用户选择和备案的适用条件。",
+        "level": "intermediate",
+        "locator": "第 2、12、16–18、23–24 条"
+      },
+      {
+        "title": "Regulation (EU) 2022/2065 (Digital Services Act)",
+        "source_id": "S020",
+        "purpose": "只作为欧盟法域 2022 年文本的比较样本；当前适用版本须另行核验。",
+        "level": "advanced",
+        "locator": "Articles 14, 17, 27, 34–35, 40，适用主体待逐条核对"
+      }
+    ],
+    "learning_links": [
+      {
+        "target_id": "r3-platformization",
+        "reason": "先理解平台如何重组社会领域，再进入规则制定、执行与问责；这是教学顺序，不声称理论承接。",
+        "sequence_hint": "before"
+      },
+      {
+        "target_id": "r7-algorithm",
+        "reason": "进一步区分算法技术类型、推荐机制与针对其治理的制度安排。",
+        "sequence_hint": "after"
+      },
+      {
+        "target_id": "r4-info-disorder",
+        "reason": "把内容审核和风险义务作为信息失序研究的制度背景，但不由法规推断治理效果。",
+        "sequence_hint": "after"
+      },
+      {
+        "target_id": "r7-privacy",
+        "reason": "比较用户画像、标签控制与个性化选择和隐私、监视、偏见及信任问题。",
+        "sequence_hint": "compare"
+      }
+    ],
+    "temporal_profile": "evolving",
+    "as_of": "2026-09-11",
+    "last_evidence_check": "2026-09-11",
+    "next_review_due": "2027-03-11",
+    "controversy_status": "contested",
+    "controversy_note": "争议包括平台私人权力的合法性、国家监管边界、表达自由与安全的权衡、算法透明度的可行程度、执行责任和跨法域规则冲突。",
+    "core_questions": [
+      "平台公司、政府、用户、广告商、内容生产者与社会组织之间如何分配制定规则、执行和监督的权力？",
+      "内容审核、推荐系统、账号管理、数据访问和申诉机制如何影响表达、可见性与公共风险？",
+      "不同法域如何界定平台责任、用户权利、透明度和监管边界？"
+    ],
+    "current_evidence_state": "截至 2026-09-11，S016 的摘要与 S017 的出版社简介支持跨主体概念和内容审核入口；S018、S019 的正式全文已核对本知识点所列中国法域条文，研究登记 S023、S024 另记录两项部门规章状态页当日标为“现行有效”。S020 仅作为 Regulation (EU) 2022/2065 的欧盟法域比较样本，本轮未确认其截至该日的合并版本或全部适用类别。法规存在不等于执行效果。",
+    "review_status": "ready_for_review",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-11",
+    "reviewed_at": null
+  },
+  {
+    "id": "r8-content-analysis",
+    "slug": "content-analysis",
+    "record_level": "complete",
+    "type": "method",
+    "subtype": null,
+    "name_zh": "内容分析",
+    "name_original": "Content analysis",
+    "aliases": [
+      {
+        "name": "内容分析法",
+        "kind": "common_name",
+        "note": null
+      }
+    ],
+    "summary": "内容分析依据明确研究问题，对传播材料进行取样、单元化、编码并作有限推论。人工与自动化是可组合的执行方式；解释型文本研究是相邻方法取向。G20 目录与 S021 官方摘要、目录只闭合了步骤骨架；下列 data_requirements 与 typical_procedure 是据此扩展的编辑性练习安排，具体细则出处仍待核对，不能显示为原著已经核实的统一流程。",
+    "why_it_matters": "内容分析把“我觉得媒体经常这样说”转化为可检查的材料、单位、类别与推论。学生需要同时说明抽样、测量、多人编码时的一致性、效度和语境边界，并判断自动化分类是否真正测到了研究概念。",
+    "key_points": [
+      {
+        "id": "r8-content-analysis-k1",
+        "statement": "SAGE 的第四版书目将内容分析的方法逻辑联系到把传播视为社会使用语境中的文本并作解释；该书具体定义与程序仍待正文复核。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "G20",
+            "locator": "SAGE 第四版书目与内容简介",
+            "support_note": "出版社页面支持文本、传播和社会使用语境的方法范围，但不支持未核读的章节细节。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r8-content-analysis-k2",
+        "statement": "G20 的目录把单元化、抽样、记录／编码、可靠性和效度列为方法结构；S021 的官方摘要与目录依次列出建立编码框架、划分单位、试用和评估编码框架以及主编码。两者只支持步骤骨架，不证明所有研究须机械遵循同一顺序。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "G20",
+            "locator": "目录 Chapters 5–7、12–14；SAGE 术语索引 5.3、12.2.3 及 Chapters 6–7",
+            "support_note": "目录与术语索引支持单元化、抽样、记录／编码及评估的章节骨架，不代替逐页操作细则。",
+            "support_role": "supports"
+          },
+          {
+            "source_id": "S021",
+            "locator": "SAGE 官方摘要；目录 Chapters 4、7–10；预览起页 58、126、146、166、194",
+            "support_note": "官方摘要与目录支持质性内容分析从编码框架到主编码的步骤骨架，不证明统一固定顺序。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r8-content-analysis-k3",
+        "statement": "多人独立作出分类编码判断时，应评估并报告编码者间一致性；指标选择须结合变量和研究设计，不设脱离情境、适用于所有研究的统一指标或合格阈值。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "G25",
+            "locator": "期刊正式摘要；作者配套说明 Sections 2、4、5",
+            "support_note": "正式摘要支持一致性的评估与报告；作者配套说明支持多名独立编码者、依变量选择指标及不存在通用指标或阈值。未声称已核期刊全文页码。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r8-content-analysis-k4",
+        "statement": "自动内容分析综述把词典法、监督学习和无监督学习列为数字新闻研究的主要工具类型。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S022",
+            "locator": "Abstract",
+            "support_note": "摘要直接概括自动内容分析工具，并按词典、监督与无监督路径组织综述。",
+            "support_role": "supports"
+          }
+        ]
+      }
+    ],
+    "limits_or_debates": [
+      {
+        "id": "r8-content-analysis-l1",
+        "statement": "编码者间一致性只适用于存在多名编码者且需比较分类判断的设计；它是质量信息，但高一致性不自动证明分类有效或理论解释正确。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "G25",
+            "locator": "期刊正式摘要；作者配套说明 Sections 2、4、5",
+            "support_note": "摘要支持一致性的评估与报告，作者配套说明把 reliability 与 validity 区分；此处仍以 qualifies 标记方法边界，未声称核读期刊全文。",
+            "support_role": "qualifies"
+          }
+        ]
+      },
+      {
+        "id": "r8-content-analysis-l2",
+        "statement": "只统计显性词项可能遗漏反讽、隐喻、视觉语法和语境意义；单位与语境设定会限制可作出的推论。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "G20",
+            "locator": "SAGE 第四版书目与内容简介",
+            "support_note": "来源支持文本—语境推论的重要性；具体例子是用于说明边界的编辑展开。",
+            "support_role": "qualifies"
+          }
+        ]
+      },
+      {
+        "id": "r8-content-analysis-l3",
+        "statement": "自动化扩大处理规模，不自动带来解释力；数据、预处理、词典或模型、训练与验证范围需要透明记录。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "S022",
+            "locator": "Abstract",
+            "support_note": "摘要支持自动化工具和规模问题；透明记录与验证要求是防止过度推论的编辑规范。",
+            "support_role": "qualifies"
+          }
+        ]
+      },
+      {
+        "id": "r8-content-analysis-l4",
+        "statement": "内容材料可以描述表达和表征，却通常不能单独证明受众效果、生产者意图或因果机制。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "G20",
+            "locator": "SAGE 第四版书目所列文本—语境推论范围",
+            "support_note": "从方法对象与推论范围区分内容证据和效果、意图或因果证据，是编辑限定。",
+            "support_role": "qualifies"
+          }
+        ]
+      }
+    ],
+    "area_memberships": [
+      {
+        "area_id": "research_application",
+        "is_primary": true,
+        "rationale": "这是把传播问题转化为系统材料分析的研究方法。"
+      },
+      {
+        "area_id": "meaning",
+        "is_primary": false,
+        "rationale": "编码类别与语境推论涉及表征和意义，但不替代解释型细读。"
+      },
+      {
+        "area_id": "effects",
+        "is_primary": false,
+        "rationale": "内容特征可描述刺激或信息材料，但内容分析本身通常不能证明效果。"
+      },
+      {
+        "area_id": "digital_ai",
+        "is_primary": false,
+        "rationale": "自动内容分析可处理大规模数字材料并使用机器学习工具。"
+      }
+    ],
+    "learning_resources": [
+      {
+        "title": "Content Analysis: An Introduction to Its Methodology, Fourth Edition",
+        "source_id": "G20",
+        "purpose": "先按文本—语境—推论理解方法逻辑；具体程序须在取得正文后学习。",
+        "level": "intermediate",
+        "locator": "当前为 SAGE 书目入口；预定核读 Chapter 2.1"
+      },
+      {
+        "title": "Content Analysis in Mass Communication: Assessment and Reporting of Intercoder Reliability",
+        "source_id": "G25",
+        "purpose": "依据期刊摘要和作者配套说明，学习多人独立编码时如何评估、选择并报告一致性指标；不冒充期刊全文核读。",
+        "level": "intermediate",
+        "locator": "期刊正式摘要；作者配套说明 Sections 2、4、5"
+      },
+      {
+        "title": "Qualitative Content Analysis in Practice",
+        "source_id": "S021",
+        "purpose": "依据官方摘要与目录了解编码框架、分段、试编码、评估与主编码的步骤骨架；细节仍待正文。",
+        "level": "intermediate",
+        "locator": "SAGE 官方摘要；目录 Chapters 4、7–10；预览起页 58、126、146、166、194"
+      },
+      {
+        "title": "Taking Stock of the Toolkit",
+        "source_id": "S022",
+        "purpose": "比较词典、监督学习与无监督学习在数字新闻研究中的用途。",
+        "level": "intermediate",
+        "locator": "Abstract；具体工具部分待取得全文"
+      },
+      {
+        "title": "Social Data: Biases, Methodological Pitfalls, and Ethical Boundaries",
+        "source_id": "H02",
+        "purpose": "检查平台语料的总体覆盖、时间流失及采集查询偏差，并据此限定研究推论。",
+        "level": "intermediate",
+        "locator": "§3.2、§3.6、§5.1、§5.2；本轮为定点正文核读"
+      }
+    ],
+    "learning_links": [
+      {
+        "target_id": "r8-interpretive-methods",
+        "reason": "比较规则化编码与语境化细读的推论逻辑；二者可组合，但不是同一方法内部的并列类型。",
+        "sequence_hint": "compare"
+      },
+      {
+        "target_id": "r8-computational",
+        "reason": "把自动内容分析作为计算传播方法簇中的一条路径学习，不把整个计算传播写成内容分析的后继。",
+        "sequence_hint": "after"
+      },
+      {
+        "target_id": "r5-journalism",
+        "reason": "在新闻材料中练习抽样、分类和有限推论，并核对所能回答的问题。",
+        "sequence_hint": "after"
+      }
+    ],
+    "temporal_profile": "relatively_stable",
+    "as_of": null,
+    "last_evidence_check": "2026-09-14",
+    "next_review_due": null,
+    "controversy_status": "contested",
+    "controversy_note": "争议主要涉及定量与质性边界、显性与潜在意义、可靠性与效度的区分，以及自动化扩大规模是否牺牲语境解释。",
+    "suitable_questions": [
+      "某类媒体在给定时期如何呈现人物、议题、责任、情绪或立场？",
+      "不同媒体、平台、国家或时期的内容特征是否存在可描述、可比较的差异？",
+      "大规模数字文本中有哪些可验证的词汇、主题、分类或关系模式？"
+    ],
+    "data_requirements": [
+      "与研究总体和时间范围相匹配、来源与采集规则可追溯的传播材料。",
+      "明确抽样单位、编码单位和语境单位；必要时保存版本、链接、时间戳与去重记录。",
+      "可执行的编码框架或代码本以及训练或试编码材料；自动化路径还需记录词典、标注集、模型版本与验证集。",
+      "涉及人员、平台数据或受限内容时，说明研究伦理、使用条款与数据保护边界。"
+    ],
+    "typical_procedure": [
+      "把概念性问题转成可由传播材料回答的研究问题，并界定总体、时期和语境。",
+      "制定抽样方案，区分抽样单位、编码单位和语境单位，保存纳入与排除规则。",
+      "建立理论驱动、资料驱动或混合编码框架，明确类别定义、例子与边界。",
+      "试编码并修订代码本；多人分类编码时评估并报告编码者间一致性。",
+      "完成人工编码，或训练和应用自动化方法并记录验证范围、版本与错误分析。",
+      "把结果放回传播语境作有限推论，报告抽样、测量、可靠性、效度与可复现限制。"
+    ],
+    "limitations": [
+      {
+        "id": "r8-content-analysis-method-l1",
+        "statement": "人工与自动化是执行方式，质性内容分析是一种规则化分析路径；不能把它们与解释型文本研究混成同层的三种内容分析。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "S021",
+            "locator": "书目所列编码框架、分段、试编码与主分析章节；正文待核",
+            "support_note": "来源目录显示质性内容分析也有系统编码流程；分类层级是编辑整理。",
+            "support_role": "qualifies"
+          },
+          {
+            "source_id": "S022",
+            "locator": "Abstract",
+            "support_note": "来源支持自动内容分析的工具路径；不把工具方式等同于完整认识论分类。",
+            "support_role": "qualifies"
+          }
+        ]
+      },
+      {
+        "id": "r8-content-analysis-method-l2",
+        "statement": "平台 API 的获取限制、查询与排序规则，以及删除、隐私设置和资料随时间流失，会改变研究者可取得的语料；据此，无法说明样本覆盖哪个总体时，应限制概括范围。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "H02",
+            "locator": "§3.2 Population Biases；§3.6 Temporal Biases 末段；§5.1 Data Acquisition；§5.2 Data Querying",
+            "support_note": "已核正文分别讨论总体代表性、删除与重建缺口、API获取限制和查询选择偏差。末句为据这些偏差对外部效度的影响作出的教学建议；不据2019综述声称某平台2026年的具体接口规则。",
+            "support_role": "qualifies"
+          }
+        ]
+      }
+    ],
+    "review_status": "ready_for_review",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-14",
+    "reviewed_at": null
+  }
+]

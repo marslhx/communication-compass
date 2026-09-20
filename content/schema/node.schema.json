@@ -1,0 +1,260 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://commpass.local/schema/node.schema.json",
+  "title": "COMMPASS knowledge node",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "id",
+    "slug",
+    "record_level",
+    "type",
+    "name_zh",
+    "aliases",
+    "area_memberships",
+    "temporal_profile",
+    "controversy_status",
+    "review_status",
+    "created_at",
+    "updated_at"
+  ],
+  "properties": {
+    "id": { "type": "string", "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$" },
+    "slug": { "type": "string", "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$" },
+    "record_level": { "enum": ["candidate", "complete"] },
+    "type": {
+      "enum": [
+        "tradition",
+        "person",
+        "theory_model",
+        "concept",
+        "research_topic",
+        "method",
+        "application"
+      ]
+    },
+    "subtype": { "type": ["string", "null"] },
+    "name_zh": { "type": "string", "minLength": 1 },
+    "name_original": { "type": ["string", "null"] },
+    "candidate_note": { "type": "string", "minLength": 1 },
+    "candidate_evidence_status": { "enum": ["direct", "interpretive", "pending"] },
+    "source_leads": {
+      "type": "array",
+      "items": { "type": "string", "minLength": 1 }
+    },
+    "aliases": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["name", "kind"],
+        "properties": {
+          "name": { "type": "string", "minLength": 1 },
+          "kind": {
+            "enum": [
+              "alternate_translation",
+              "abbreviation",
+              "former_name",
+              "common_name",
+              "original_language"
+            ]
+          },
+          "note": { "type": ["string", "null"] }
+        }
+      }
+    },
+    "summary": { "type": "string", "minLength": 1 },
+    "why_it_matters": { "type": "string", "minLength": 1 },
+    "key_points": {
+      "type": "array",
+      "minItems": 2,
+      "maxItems": 4,
+      "items": { "$ref": "#/$defs/claim" }
+    },
+    "limits_or_debates": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/claim" }
+    },
+    "area_memberships": {
+      "type": "array",
+      "minItems": 1,
+      "contains": {
+        "type": "object",
+        "properties": { "is_primary": { "const": true } },
+        "required": ["is_primary"]
+      },
+      "maxContains": 1,
+      "items": { "$ref": "#/$defs/areaMembership" }
+    },
+    "learning_resources": {
+      "type": "array",
+      "maxItems": 5,
+      "items": { "$ref": "#/$defs/learningResource" }
+    },
+    "learning_links": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["target_id", "reason"],
+        "properties": {
+          "target_id": { "type": "string" },
+          "reason": { "type": "string", "minLength": 1 },
+          "sequence_hint": { "enum": ["before", "after", "compare"] }
+        }
+      }
+    },
+    "temporal_profile": { "enum": ["relatively_stable", "evolving"] },
+    "as_of": { "type": ["string", "null"], "format": "date" },
+    "last_evidence_check": { "type": ["string", "null"], "format": "date" },
+    "next_review_due": { "type": ["string", "null"], "format": "date" },
+    "controversy_status": { "enum": ["none_identified", "contested", "not_assessed"] },
+    "controversy_note": { "type": ["string", "null"] },
+    "positions": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/claim" }
+    },
+    "review_status": {
+      "enum": ["draft", "ready_for_review", "reviewed", "published", "needs_revision"]
+    },
+    "created_at": { "type": "string", "format": "date" },
+    "updated_at": { "type": "string", "format": "date" },
+    "reviewed_at": { "type": ["string", "null"], "format": "date" },
+    "roles": { "type": "array", "items": { "type": "string" } },
+    "communication_relevance": { "type": "string" },
+    "portrait": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["url", "alt", "credit", "license", "source_url"],
+      "properties": {
+        "url": { "type": "string", "minLength": 1 },
+        "alt": { "type": "string", "minLength": 1 },
+        "credit": { "type": "string", "minLength": 1 },
+        "license": { "type": "string", "minLength": 1 },
+        "source_url": { "type": "string", "minLength": 1 }
+      }
+    },
+    "education_records": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["institution", "program", "source_id"],
+        "properties": {
+          "institution": { "type": "string" },
+          "program": { "type": "string" },
+          "degree": { "type": ["string", "null"] },
+          "period": { "type": ["string", "null"] },
+          "source_id": { "type": "string" },
+          "locator": { "type": "string" }
+        }
+      }
+    },
+    "questions_explained": { "type": "array", "items": { "type": "string" } },
+    "propositions": { "type": "array", "items": { "$ref": "#/$defs/claim" } },
+    "conditions": { "type": "array", "items": { "type": "string" } },
+    "suitable_questions": { "type": "array", "items": { "type": "string" } },
+    "data_requirements": { "type": "array", "items": { "type": "string" } },
+    "typical_procedure": { "type": "array", "items": { "type": "string" } },
+    "limitations": { "type": "array", "items": { "$ref": "#/$defs/claim" } },
+    "central_questions": { "type": "array", "items": { "type": "string" } },
+    "internal_differences": { "type": "array", "items": { "$ref": "#/$defs/claim" } },
+    "naming_boundary": { "type": "string" },
+    "core_questions": { "type": "array", "items": { "type": "string" } },
+    "current_evidence_state": { "type": "string" }
+  },
+  "allOf": [
+    {
+      "if": { "properties": { "record_level": { "const": "candidate" } } },
+      "then": {
+        "required": ["candidate_note", "candidate_evidence_status", "source_leads"]
+      }
+    },
+    {
+      "if": { "properties": { "record_level": { "const": "complete" } } },
+      "then": {
+        "required": [
+          "summary",
+          "why_it_matters",
+          "key_points",
+          "limits_or_debates",
+          "learning_resources",
+          "learning_links",
+          "last_evidence_check"
+        ]
+      }
+    },
+    {
+      "if": { "properties": { "temporal_profile": { "const": "evolving" } } },
+      "then": { "required": ["as_of", "last_evidence_check", "next_review_due"] }
+    },
+    {
+      "if": { "properties": { "review_status": { "enum": ["reviewed", "published"] } } },
+      "then": {
+        "required": ["reviewed_at"],
+        "properties": { "reviewed_at": { "type": "string", "format": "date" } }
+      }
+    }
+  ],
+  "$defs": {
+    "evidence": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["source_id", "locator", "support_note", "support_role"],
+      "properties": {
+        "source_id": { "type": "string" },
+        "locator": { "type": "string", "minLength": 1 },
+        "support_note": { "type": "string", "minLength": 1 },
+        "support_role": { "enum": ["supports", "qualifies", "disputes"] }
+      }
+    },
+    "claim": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["id", "statement", "evidence_status", "evidence"],
+      "properties": {
+        "id": { "type": "string", "minLength": 1 },
+        "statement": { "type": "string", "minLength": 1 },
+        "evidence_status": { "enum": ["direct", "interpretive", "pending"] },
+        "evidence": {
+          "type": "array",
+          "items": { "$ref": "#/$defs/evidence" }
+        }
+      }
+    },
+    "areaMembership": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["area_id", "is_primary", "rationale"],
+      "properties": {
+        "area_id": {
+          "enum": [
+            "communication",
+            "meaning",
+            "media_society",
+            "effects",
+            "institutions",
+            "power_culture",
+            "digital_ai",
+            "research_application"
+          ]
+        },
+        "is_primary": { "type": "boolean" },
+        "rationale": { "type": "string", "minLength": 1 }
+      }
+    },
+    "learningResource": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["title", "source_id", "purpose", "level"],
+      "properties": {
+        "title": { "type": "string", "minLength": 1 },
+        "source_id": { "type": "string" },
+        "purpose": { "type": "string", "minLength": 1 },
+        "level": { "enum": ["introductory", "intermediate", "advanced"] }
+        ,
+        "locator": { "type": ["string", "null"] }
+      }
+    }
+  }
+}

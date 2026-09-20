@@ -1,0 +1,170 @@
+[
+  {
+    "id":"r3-china-convergence","slug":"china-media-convergence","record_level":"complete","type":"application","subtype":null,"name_zh":"中国媒体融合","name_original":"Media convergence in China","aliases":[],
+    "summary":"中国媒体融合是传统媒体、新兴媒体与平台技术在政策推动下进行组织、流程、内容、渠道、人才和运营重组的实践领域。它不只是‘多开几个账号’或内容跨平台转载。",
+    "why_it_matters":"该领域把中国新闻制度、组织变革、技术应用和公共传播目标连接起来，也要求区分政策目标、机构行动与可验证效果。",
+    "key_points":[
+      {"id":"r3cc-k1","statement":"2020年政策把深度融合明确延伸到体制机制、政策措施、流程管理、人才技术和一体化组织架构。","evidence_status":"direct","evidence":[{"source_id":"S100","locator":"总体要求与内容生产、体制机制改革段落","support_note":"政策原文直接列出改革层次。","support_role":"supports"}]},
+      {"id":"r3cc-k2","statement":"政策目标包含内容建设、技术支撑、创新管理、移动优先以及‘新闻+政务服务商务’等运营探索。","evidence_status":"direct","evidence":[{"source_id":"S100","locator":"目标任务与运营模式段落","support_note":"政策原文直接支持目标和实践范围。","support_role":"supports"}]}
+    ],
+    "limits_or_debates":[{"id":"r3cc-l1","statement":"政策文本能证明目标和制度安排，不能单独证明融合提升了新闻质量、公共信任或传播效果；这些需要独立数据。","evidence_status":"interpretive","evidence":[{"source_id":"S100","locator":"全文","support_note":"来源性质为规范性政策文件，据此限定证据用途。","support_role":"qualifies"}]}],
+    "area_memberships":[{"area_id":"media_society","is_primary":true,"rationale":"融合改变媒体组织、产业与社会传播结构。"},{"area_id":"institutions","is_primary":false,"rationale":"主流媒体流程、角色和治理是实践核心。"},{"area_id":"digital_ai","is_primary":false,"rationale":"平台、数据和技术基础设施推动转型。"}],
+    "learning_resources":[{"title":"关于加快推进媒体深度融合发展的意见","source_id":"S100","purpose":"识别政策目标与实践层次，再设计效果评估问题。","level":"introductory","locator":"全文"}],
+    "learning_links":[{"target_id":"r3-media-industries","reason":"理解生产、分发、商业模式与劳动。","sequence_hint":"before"},{"target_id":"r3-media-institutions","reason":"分析组织与制度重组。","sequence_hint":"before"},{"target_id":"r7-platform-governance","reason":"进入平台依赖与治理。","sequence_hint":"after"}],
+    "temporal_profile":"evolving","as_of":"2026-09-11","last_evidence_check":"2026-09-11","next_review_due":"2027-03-01","controversy_status":"contested","controversy_note":"政策目标、商业可持续性、组织整合、平台依赖与公共价值之间存在张力。","review_status":"ready_for_review","created_at":"2026-09-11","updated_at":"2026-09-11","reviewed_at":null
+  },
+  {
+    "id":"r4-online-opinion","slug":"online-public-opinion-governance","record_level":"complete","type":"application","subtype":null,"name_zh":"网络舆情与舆情治理","name_original":"Online public opinion and governance","aliases":[],
+    "summary":"网络舆情与舆情治理关注公共议题在网络空间中的表达、聚合、扩散、感知与治理实践。平台数据只能观察特定渠道中的表达痕迹，不能直接代表全部公共舆论。",
+    "why_it_matters":"它连接公共舆论、计算方法、平台治理和危机传播，也要求学生区分研究、监测、预测、回应与控制等不同任务。",
+    "key_points":[
+      {"id":"r4oo-k1","statement":"中国政策研究语境把网络舆情与公共治理、社会意见传达、传播力评估和决策信息支持相连。","evidence_status":"direct","evidence":[{"source_id":"S101","locator":"报告题名、摘要与治理机制讨论","support_note":"国务院发展研究中心报告直接呈现这一应用语境。","support_role":"supports"}]},
+      {"id":"r4oo-k2","statement":"舆情数据的解释必须说明平台、时间窗、抓取规则、用户群和不可见表达，否则不能外推为社会总体意见。","evidence_status":"interpretive","evidence":[{"source_id":"S077","locator":"public opinion across micro, meso and macro levels","support_note":"公共舆论的多层次范围支持对平台痕迹作层级限制。","support_role":"qualifies"},{"source_id":"S061","locator":"computational communication methodological scope","support_note":"计算研究需连接数据、理论与方法，而非数据自动代表总体。","support_role":"qualifies"}]}
+    ],
+    "limits_or_debates":[{"id":"r4oo-l1","statement":"治理目标、公众表达权、隐私、错误分类和算法偏差之间可能冲突；‘及时处置’不能替代合法性与效果评估。","evidence_status":"interpretive","evidence":[{"source_id":"S101","locator":"治理机制范围","support_note":"官方报告证明治理任务存在；规范冲突与评估要求由本站明确标为解释性边界。","support_role":"qualifies"}]}],
+    "area_memberships":[{"area_id":"effects","is_primary":true,"rationale":"涉及意见表达、扩散、感知与社会反应。"},{"area_id":"institutions","is_primary":false,"rationale":"与公共治理和决策回应相连。"},{"area_id":"digital_ai","is_primary":false,"rationale":"依赖平台数据、计算监测与算法分类。"}],
+    "learning_resources":[{"title":"网络舆情的现状、特点及治理机制研究","source_id":"S101","purpose":"作为中国治理语境入口，并主动检查材料年代与规范边界。","level":"intermediate","locator":"全文"},{"title":"Public Opinion","source_id":"S077","purpose":"用公共舆论多层次框架限制平台数据外推。","level":"introductory","locator":"Introduction"}],
+    "learning_links":[{"target_id":"r5-public-opinion","reason":"先区分公共舆论与平台舆情。","sequence_hint":"before"},{"target_id":"r8-computational","reason":"理解监测、分类和网络分析的数据限制。","sequence_hint":"after"},{"target_id":"r7-privacy","reason":"处理数据获取、识别和治理风险。","sequence_hint":"after"}],
+    "temporal_profile":"evolving","as_of":"2026-09-11","last_evidence_check":"2026-09-11","next_review_due":"2027-03-01","controversy_status":"contested","controversy_note":"概念边界、代表性、治理合法性、隐私与预测能力均有争论。","review_status":"ready_for_review","created_at":"2026-09-11","updated_at":"2026-09-11","reviewed_at":null
+  },
+  {
+    "id":"r5-journalism","slug":"journalism-studies","record_level":"complete","type":"research_topic","subtype":null,"name_zh":"新闻学与新闻研究","name_original":"Journalism and journalism studies","aliases":[],
+    "summary":"新闻研究考察新闻的历史、规范、职业、组织、文本、技术、经济、法律与受众。它与新闻实践和新闻教育密切相连，但研究新闻不等同于训练采写技能。",
+    "why_it_matters":"新闻是公共信息与制度问责的重要基础；理解它需要同时看到职业规范、组织条件、平台变化和全球多样性。",
+    "key_points":[
+      {"id":"r5jour-k1","statement":"新闻研究的学科史经历规范、经验、社会学、全球比较与数字等多重转向。","evidence_status":"direct","evidence":[{"source_id":"S091","locator":"abstract and full entry","support_note":"百科条目直接概括五个阶段。","support_role":"supports"}]},
+      {"id":"r5jour-k2","statement":"领域同时涉及记者、新闻教育者和研究者，因此对其是否为学科、场域或方法没有单一答案。","evidence_status":"direct","evidence":[{"source_id":"S091","locator":"abstract","support_note":"作者直接说明多方利益与单一愿景困难。","support_role":"supports"}]}
+    ],
+    "limits_or_debates":[{"id":"r5jour-l1","statement":"专业规范与新闻实践具有地区和制度差异，不能把一种西方职业模式当作全球唯一标准。","evidence_status":"interpretive","evidence":[{"source_id":"S091","locator":"global-comparative turn","support_note":"全球比较转向支持对单一规范普遍化保持警惕。","support_role":"qualifies"}]}],
+    "area_memberships":[{"area_id":"institutions","is_primary":true,"rationale":"新闻生产、职业、组织与公共制度是核心。"},{"area_id":"media_society","is_primary":false,"rationale":"新闻与政治经济、技术及社会变迁相连。"}],
+    "learning_resources":[{"title":"Journalism Studies","source_id":"S091","purpose":"建立规范—经验—社会学—全球比较—数字的领域史。","level":"intermediate","locator":"full text"}],
+    "learning_links":[{"target_id":"r5-gatekeeping","reason":"进入新闻选择与把关过程。","sequence_hint":"after"},{"target_id":"r3-media-systems","reason":"比较新闻制度的历史差异。","sequence_hint":"after"},{"target_id":"r3-media-industries","reason":"分析组织、劳动与商业条件。","sequence_hint":"after"}],
+    "temporal_profile":"evolving","as_of":"2026-09-11","last_evidence_check":"2026-09-11","next_review_due":"2027-03-01","controversy_status":"contested","controversy_note":"职业边界、全球规范、平台化、自动化与商业可持续性持续变化。","review_status":"ready_for_review","created_at":"2026-09-11","updated_at":"2026-09-11","reviewed_at":null
+  },
+  {
+    "id":"r5-political","slug":"political-communication","record_level":"complete","type":"research_topic","subtype":null,"name_zh":"政治传播","name_original":"Political communication","aliases":[],
+    "summary":"政治传播研究政治行动者、媒体、平台与公众之间的信息、意义和权力关系，覆盖竞选、治理、新闻、公共舆论、参与、宣传与数字政治。它是传播学与政治学交叉形成的多定义领域。",
+    "why_it_matters":"它帮助学生理解政治并不只发生在正式机构中，也通过媒介可见性、叙事、身份与日常讨论被组织。",
+    "key_points":[
+      {"id":"r5pol-k1","statement":"政治传播是传播学与政治学交叉形成的领域，其定义在早期文献、专业学会和当代研究中并不完全相同。","evidence_status":"direct","evidence":[{"source_id":"S092","locator":"abstract","support_note":"手册导论直接说明三组定义与跨学科形成。","support_role":"supports"}]},
+      {"id":"r5pol-k2","statement":"研究范围跨越政治话语、媒体与制度、效果、公共舆论和民主规范，不能缩减为竞选技巧。","evidence_status":"direct","evidence":[{"source_id":"S092","locator":"handbook overview and thematic sections","support_note":"导论与手册目录显示多层研究范围。","support_role":"supports"}]}
+    ],
+    "limits_or_debates":[{"id":"r5pol-l1","statement":"不同政治制度、媒体系统和历史条件下的政治传播机制不可直接类推。","evidence_status":"interpretive","evidence":[{"source_id":"S076","locator":"comparative scope and anti-universalization warning","support_note":"媒介系统比较的样本边界支持政治传播的情境化要求。","support_role":"qualifies"}]}],
+    "area_memberships":[{"area_id":"institutions","is_primary":true,"rationale":"政治行动者、媒体、公众与制度互动是核心。"},{"area_id":"power_culture","is_primary":false,"rationale":"政治意义、身份和权力贯穿研究。"},{"area_id":"digital_ai","is_primary":false,"rationale":"平台、推荐与生成式媒体改变政治信息环境。"}],
+    "learning_resources":[{"title":"Political Communication: Then, Now, and Beyond","source_id":"S092","purpose":"先理解定义多样性与跨学科结构。","level":"intermediate","locator":"abstract and handbook overview"}],
+    "learning_links":[{"target_id":"r5-public-opinion","reason":"理解意见表达、媒体与政策回应。","sequence_hint":"after"},{"target_id":"r3-media-systems","reason":"比较制度语境。","sequence_hint":"before"},{"target_id":"r4-info-disorder","reason":"进入虚假信息、极化与信任。","sequence_hint":"after"}],
+    "temporal_profile":"relatively_stable","last_evidence_check":"2026-09-11","controversy_status":"contested","controversy_note":"领域定义、规范立场、制度可比性和平台影响存在持续争论。","review_status":"ready_for_review","created_at":"2026-09-11","updated_at":"2026-09-11","reviewed_at":null
+  },
+  {
+    "id":"r5-crisis","slug":"risk-crisis-communication","record_level":"complete","type":"application","subtype":null,"name_zh":"风险与危机传播","name_original":"Risk and crisis communication","aliases":[],
+    "summary":"风险传播处理威胁发生前后专家、机构与受影响人群之间的信息、建议和意见交换；危机传播更广泛研究组织与社会在高不确定、高利害事件中的准备、回应、修复与问责。二者重叠但不等同。",
+    "why_it_matters":"它把不确定性、信任、倾听、行动建议和组织责任放进真实高风险情境，适用于公共卫生、灾害、产品事故与声誉危机。",
+    "key_points":[
+      {"id":"r5cri-k1","statement":"WHO把风险传播界定为专家／官员与面临威胁者之间的实时信息、建议和意见交换，目标是支持知情的防护决定。","evidence_status":"direct","evidence":[{"source_id":"S093","locator":"What is risk communication?","support_note":"WHO页面直接给出定义和目的。","support_role":"supports"}]},
+      {"id":"r5cri-k2","statement":"有效风险传播依赖信任、倾听以及对公众信念、关切和实践的理解，而不只是单向发布事实。","evidence_status":"direct","evidence":[{"source_id":"S093","locator":"How does risk communication work?","support_note":"WHO直接强调信任与倾听。","support_role":"supports"}]}
+    ],
+    "limits_or_debates":[{"id":"r5cri-l1","statement":"危机响应模板不能脱离危机类型、责任归因、受影响群体、制度能力和文化语境机械套用。","evidence_status":"interpretive","evidence":[{"source_id":"S094","locator":"handbook description and theory sections","support_note":"手册显示领域动态且多理论，本条形成情境化边界。","support_role":"qualifies"}]}],
+    "area_memberships":[{"area_id":"institutions","is_primary":true,"rationale":"组织、专家、公众与问责关系处于核心。"},{"area_id":"effects","is_primary":false,"rationale":"涉及风险认知、信任与防护行为。"}],
+    "learning_resources":[{"title":"Emergencies: Risk Communication","source_id":"S093","purpose":"从双向交换、信任与知情行动建立实践底线。","level":"introductory","locator":"full page"},{"title":"The Handbook of Crisis Communication","source_id":"S094","purpose":"再区分组织危机、理论与具体回应策略。","level":"advanced","locator":"publisher overview and contents"}],
+    "learning_links":[{"target_id":"r5-health","reason":"进入公共卫生风险与健康促进。","sequence_hint":"after"},{"target_id":"r4-info-disorder","reason":"理解危机中的谣言和信任问题。","sequence_hint":"after"},{"target_id":"r5-pr","reason":"比较公共关系与危机责任、声誉修复。","sequence_hint":"compare"}],
+    "temporal_profile":"relatively_stable","last_evidence_check":"2026-09-11","controversy_status":"contested","controversy_note":"责任归因、透明度、不确定性表达、信任与组织利益之间存在张力。","review_status":"ready_for_review","created_at":"2026-09-11","updated_at":"2026-09-11","reviewed_at":null
+  },
+  {
+    "id":"r5-health","slug":"health-communication","record_level":"complete","type":"application","subtype":null,"name_zh":"健康传播","name_original":"Health communication","aliases":[],
+    "summary":"健康传播研究并实践人际、组织、媒介与公共传播如何影响健康照护、健康信息、风险理解、行为、政策和健康公平。它远不止制作健康宣传材料。",
+    "why_it_matters":"健康决定常在不确定、情感和不平等条件下发生；传播会影响医患关系、服务可及性、公共信任与群体结果。",
+    "key_points":[
+      {"id":"r5hea-k1","statement":"NCA把健康传播的范围同时放在人类与媒介传播、健康照护与健康促进，以及理论、研究、教学和应用中。","evidence_status":"direct","evidence":[{"source_id":"S095","locator":"division overview","support_note":"官方分会页面直接说明范围。","support_role":"supports"}]},
+      {"id":"r5hea-k2","statement":"在公共卫生紧急事件中，社区参与与信任不是附加宣传，而是形成可接受、可执行方案的组成部分。","evidence_status":"direct","evidence":[{"source_id":"S093","locator":"risk communication process and trust","support_note":"WHO强调倾听、信任和受影响者参与。","support_role":"supports"}]}
+    ],
+    "limits_or_debates":[{"id":"r5hea-l1","statement":"把健康结果归因于单条信息会忽略医疗服务、社会决定因素、文化、资源与制度不平等。","evidence_status":"interpretive","evidence":[{"source_id":"S095","locator":"health care and health promotion scope","support_note":"领域范围跨照护与促进，支持避免消息中心主义。","support_role":"qualifies"}]}],
+    "area_memberships":[{"area_id":"institutions","is_primary":true,"rationale":"连接医疗照护、公共卫生与组织制度。"},{"area_id":"effects","is_primary":false,"rationale":"涉及风险认知、态度、行为与健康结果。"}],
+    "learning_resources":[{"title":"Health Communication Division","source_id":"S095","purpose":"建立人际—组织—媒介—公共多层范围。","level":"introductory","locator":"overview"},{"title":"Emergencies: Risk Communication","source_id":"S093","purpose":"用信任与双向交换检验健康应急传播。","level":"intermediate","locator":"full page"}],
+    "learning_links":[{"target_id":"r5-crisis","reason":"进入公共卫生应急中的风险与危机传播。","sequence_hint":"compare"},{"target_id":"r4-persuasion","reason":"分析健康信息与态度行为改变。","sequence_hint":"after"},{"target_id":"r8-ethics","reason":"处理参与者保护、伤害和公平。","sequence_hint":"after"}],
+    "temporal_profile":"relatively_stable","last_evidence_check":"2026-09-11","controversy_status":"contested","controversy_note":"个人责任与结构因素、行为干预伦理、健康公平和不确定性表达持续争论。","review_status":"ready_for_review","created_at":"2026-09-11","updated_at":"2026-09-11","reviewed_at":null
+  },
+  {
+    "id":"r6-gender","slug":"feminist-gender-queer-communication","record_level":"complete","type":"research_topic","subtype":null,"name_zh":"女性主义、性别与酷儿传播","name_original":"Feminist, gender, and queer communication","aliases":[],
+    "summary":"该主题研究传播如何形成、维持或挑战性别与性／性别身份秩序，并分析其与种族、阶级、技术、国族和跨国权力的交叉。女性主义、性别研究与酷儿研究彼此关联但并不等同。",
+    "why_it_matters":"它让学生看到谁的经验被当作常态、谁获得发言与再现，以及日常关系、组织、媒介和平台如何产生不平等或解放可能。",
+    "key_points":[
+      {"id":"r6gen-k1","statement":"女性主义传播研究明确处理种族、族群、阶级、性取向、技术、国族和跨国主义等交叉权力。","evidence_status":"direct","evidence":[{"source_id":"S096","locator":"division overview","support_note":"NCA分会直接列出交叉维度与边缘化声音。","support_role":"supports"}]},
+      {"id":"r6gen-k2","statement":"领域不仅研究女性，也研究男性气质、跨情境性别比较及多样的交叉性别经验。","evidence_status":"direct","evidence":[{"source_id":"S096","locator":"division overview","support_note":"官方页面直接说明研究范围。","support_role":"supports"}]}
+    ],
+    "limits_or_debates":[{"id":"r6gen-l1","statement":"把女性主义、性别与酷儿理论合成一个统一观点会抹去内部历史、政治与方法差异；具体研究须说明理论位置。","evidence_status":"interpretive","evidence":[{"source_id":"S096","locator":"varied and intersectional approaches","support_note":"官方范围强调多样与交叉，支持保留内部差异。","support_role":"qualifies"}]}],
+    "area_memberships":[{"area_id":"power_culture","is_primary":true,"rationale":"聚焦性别化权力、身份与文化规范。"},{"area_id":"communication","is_primary":false,"rationale":"权力在关系与互动中实现。"},{"area_id":"digital_ai","is_primary":false,"rationale":"平台与AI可能复制或挑战性别秩序。"}],
+    "learning_resources":[{"title":"Feminist and Gender Studies Division","source_id":"S096","purpose":"从交叉权力与研究多样性建立领域入口。","level":"introductory","locator":"overview"}],
+    "learning_links":[{"target_id":"r6-hegemony","reason":"理解常识、同意与性别秩序。","sequence_hint":"before"},{"target_id":"r2-representation","reason":"分析媒体如何再现性别与身体。","sequence_hint":"after"},{"target_id":"r6-race","reason":"进行交叉性比较。","sequence_hint":"compare"}],
+    "temporal_profile":"relatively_stable","last_evidence_check":"2026-09-11","controversy_status":"contested","controversy_note":"理论传统、身份分类、跨文化可比性和政治目标内部多元。","review_status":"ready_for_review","created_at":"2026-09-11","updated_at":"2026-09-11","reviewed_at":null
+  },
+  {
+    "id":"r6-race","slug":"race-ethnicity-media","record_level":"complete","type":"research_topic","subtype":null,"name_zh":"种族、族群与媒介表征","name_original":"Race, ethnicity, and media representation","aliases":[],
+    "summary":"该主题研究种族与族群如何在传播中被分类、表征、制度化和争议化。当前研究强调不能只评判形象是否正面或准确，还要追问种族分类如何作为权力话语组织知识、制度与资源。",
+    "why_it_matters":"它帮助学生把刻板印象分析连接到新闻、广告、公民身份、技术、监视和知识生产中的结构权力。",
+    "key_points":[
+      {"id":"r6race-k1","statement":"传播研究中的批判种族路径要求把种族理解为权力话语，而不只作为身份变量或再现对象。","evidence_status":"direct","evidence":[{"source_id":"S097","locator":"abstract and Race in communication studies section","support_note":"2026年ICA期刊论文直接提出这一框架。","support_role":"supports"}]},
+      {"id":"r6race-k2","statement":"只追求公平或准确的可见性可能遗漏表征所组织的制度、知识与资源关系。","evidence_status":"direct","evidence":[{"source_id":"S097","locator":"Representation and beyond section","support_note":"论文直接梳理从再现准确性走向结构与话语分析的批评。","support_role":"supports"}]}
+    ],
+    "limits_or_debates":[{"id":"r6race-l1","statement":"种族与族群分类具有历史和地区差异，美国框架不能未经转换直接套用到所有社会。","evidence_status":"interpretive","evidence":[{"source_id":"S097","locator":"framework scope and historical argument","support_note":"论文有明确历史理论位置，据此要求跨语境转换。","support_role":"qualifies"}]}],
+    "area_memberships":[{"area_id":"power_culture","is_primary":true,"rationale":"研究种族化权力、表征和知识秩序。"},{"area_id":"meaning","is_primary":false,"rationale":"分类和再现通过意义系统运作。"}],
+    "learning_resources":[{"title":"Race as a Discourse of Power","source_id":"S097","purpose":"从表征走向话语、制度和知识生产。","level":"advanced","locator":"full text"}],
+    "learning_links":[{"target_id":"r2-representation","reason":"先掌握表征如何生产意义。","sequence_hint":"before"},{"target_id":"r6-hegemony","reason":"连接常识、同意与制度权力。","sequence_hint":"after"},{"target_id":"r6-gender","reason":"进行交叉性分析。","sequence_hint":"compare"}],
+    "temporal_profile":"evolving","as_of":"2026-09-11","last_evidence_check":"2026-09-11","next_review_due":"2027-03-01","controversy_status":"contested","controversy_note":"分类、跨语境翻译、再现政治与结构分析之间存在争论。","review_status":"ready_for_review","created_at":"2026-09-11","updated_at":"2026-09-11","reviewed_at":null
+  },
+  {
+    "id":"r6-intercultural","slug":"intercultural-communication","record_level":"complete","type":"research_topic","subtype":null,"name_zh":"跨文化传播","name_original":"Intercultural communication","aliases":[],
+    "summary":"跨文化传播研究不同语言、身份、规范与权力位置的人如何互动、解释差异并形成关系。它跨越人际、群体、组织、迁移和全球传播，不是国家文化特征清单。",
+    "why_it_matters":"它训练学生在跨文化互动中处理语境、语言、身份与不平等，而不是用固定国民性预测个体。",
+    "key_points":[
+      {"id":"r6ic-k1","statement":"跨文化传播具有数十年的跨学科历史，并与语言、世界英语、跨国和跨文化议题相连。","evidence_status":"direct","evidence":[{"source_id":"S098","locator":"abstract and introduction","support_note":"研究书目直接说明历史与关键词范围。","support_role":"supports"}]},
+      {"id":"r6ic-k2","statement":"研究关键词和边界跨越intercultural、cross-cultural、international communication等相邻标签，检索时需说明所用概念。","evidence_status":"direct","evidence":[{"source_id":"S098","locator":"abstract and keyword note","support_note":"作者直接提醒相关文献可能使用不同关键词。","support_role":"supports"}]}
+    ],
+    "limits_or_debates":[{"id":"r6ic-l1","statement":"把文化等同于国籍并用平均差异解释个体，会忽略语言、迁移、阶级、种族、情境和权力。","evidence_status":"interpretive","evidence":[{"source_id":"S098","locator":"interdisciplinary and language scope","support_note":"来源显示领域跨越多层议题，据此形成反本质主义边界。","support_role":"qualifies"}]}],
+    "area_memberships":[{"area_id":"power_culture","is_primary":true,"rationale":"文化差异、身份与不平等是核心。"},{"area_id":"communication","is_primary":false,"rationale":"具体互动与关系是常见分析层。"}],
+    "learning_resources":[{"title":"Intercultural Communication: A Research Bibliography","source_id":"S098","purpose":"通过关键词与文献群认识领域的跨学科边界。","level":"intermediate","locator":"full text"}],
+    "learning_links":[{"target_id":"r1-interpersonal","reason":"把文化差异放入具体关系互动。","sequence_hint":"before"},{"target_id":"r6-social-change","reason":"进入迁移、全球化与地方变迁。","sequence_hint":"after"},{"target_id":"r6-decolonial","reason":"反思知识位置和跨文化比较权力。","sequence_hint":"compare"}],
+    "temporal_profile":"relatively_stable","last_evidence_check":"2026-09-11","controversy_status":"contested","controversy_note":"文化本质主义、国家中心主义、能力模型与权力分析之间持续争论。","review_status":"ready_for_review","created_at":"2026-09-11","updated_at":"2026-09-11","reviewed_at":null
+  },
+  {
+    "id":"r6-social-change","slug":"global-communication-social-change","record_level":"complete","type":"research_topic","subtype":null,"name_zh":"全球传播与社会变迁","name_original":"Global communication and social change","aliases":[],
+    "summary":"全球传播与社会变迁研究信息、媒介、资本、技术和文化如何跨境流动，并与地方社会、发展、依附、迁移、行动主义和参与式传播相互作用。全球化与地方化不是简单对立。",
+    "why_it_matters":"它给学生提供超越单一国家与西方中心框架的尺度，也要求追问谁定义发展、谁拥有基础设施、谁从跨境流动中受益。",
+    "key_points":[
+      {"id":"r6sc-k1","statement":"该领域同时连接全球依附、世界体系、地方解释与参与式社会变迁研究。","evidence_status":"direct","evidence":[{"source_id":"S099","locator":"publisher series description","support_note":"出版社系列说明直接列出这些理论与研究取向。","support_role":"supports"}]},
+      {"id":"r6sc-k2","statement":"全球与地方应被理解为相互联动的过程，而不是单向同质化或完全封闭的二选一。","evidence_status":"direct","evidence":[{"source_id":"S099","locator":"publisher series description","support_note":"系列说明直接强调globalization与localization的联动。","support_role":"supports"}]}
+    ],
+    "limits_or_debates":[{"id":"r6sc-l1","statement":"‘社会变迁’不是天然正向结果；研究需说明谁定义目标、谁参与、资源如何分配以及意外后果。","evidence_status":"interpretive","evidence":[{"source_id":"S099","locator":"series description, participatory and dependency perspectives","support_note":"并列批判与参与路线支持对变迁作规范审查。","support_role":"qualifies"}]}],
+    "area_memberships":[{"area_id":"power_culture","is_primary":true,"rationale":"跨境流动与地方变迁涉及权力、身份和不平等。"},{"area_id":"media_society","is_primary":false,"rationale":"基础设施、产业和制度连接全球过程。"}],
+    "learning_resources":[{"title":"Communication, Globalization, and Cultural Identity","source_id":"S099","purpose":"用全球—地方、依附—参与的张力建立阅读路径。","level":"intermediate","locator":"series description"}],
+    "learning_links":[{"target_id":"r3-political-economy","reason":"分析跨境资源、资本与基础设施。","sequence_hint":"before"},{"target_id":"r6-decolonial","reason":"反思发展与知识中心。","sequence_hint":"compare"},{"target_id":"r6-intercultural","reason":"进入跨文化互动与身份协商。","sequence_hint":"compare"}],
+    "temporal_profile":"relatively_stable","last_evidence_check":"2026-09-11","controversy_status":"contested","controversy_note":"发展范式、全球／地方关系、参与权与去殖民路径长期争论。","review_status":"ready_for_review","created_at":"2026-09-11","updated_at":"2026-09-11","reviewed_at":null
+  },
+  {
+    "id":"r6-china-global","slug":"china-international-communication","record_level":"complete","type":"application","subtype":null,"name_zh":"中国国际传播实践","name_original":"China's international communication practice","aliases":[],
+    "summary":"中国国际传播实践关注中国机构、媒体、平台与社会行动者如何面向跨国公众组织信息、叙事、渠道与关系。政策中的‘能力建设’是重要实践语境，但不等同于学术评价或实际效果。",
+    "why_it_matters":"它把国际传播、跨文化传播、媒体系统、平台和国家形象等问题放进中国现实，也要求严格区分政策目标、内容产出、触达、理解、信任和长期关系。",
+    "key_points":[
+      {"id":"r6cg-k1","statement":"中国政策语境把国际传播能力建设与国际话语权、中国故事和中华文化传播相连。","evidence_status":"direct","evidence":[{"source_id":"S102","locator":"全文，政策目标概述","support_note":"官方阐释材料直接支持该实践目标。","support_role":"supports"}]},
+      {"id":"r6cg-k2","statement":"评估国际传播不能只统计发稿量或曝光量，还应区分触达、理解、信任、互动与关系等不同结果层。","evidence_status":"interpretive","evidence":[{"source_id":"S102","locator":"policy objectives","support_note":"政策来源只能证明目标；本条据效果研究和证据层级形成评估边界。","support_role":"qualifies"},{"source_id":"S069","locator":"conditional media effects framework","support_note":"效果综述支持区分结果与条件。","support_role":"qualifies"}]}
+    ],
+    "limits_or_debates":[{"id":"r6cg-l1","statement":"政策话语、机构实践和海外受众经验属于不同证据层，不能用单一官方材料证明国际效果。","evidence_status":"interpretive","evidence":[{"source_id":"S102","locator":"全文","support_note":"来源性质为政策阐释，据此明确不能替代受众和效果研究。","support_role":"qualifies"}]}],
+    "area_memberships":[{"area_id":"power_culture","is_primary":true,"rationale":"涉及国家叙事、文化意义与全球权力。"},{"area_id":"institutions","is_primary":false,"rationale":"机构、媒体和政策实践是关键。"},{"area_id":"digital_ai","is_primary":false,"rationale":"跨国平台和算法影响可见性。"}],
+    "learning_resources":[{"title":"加强我国国际传播能力建设","source_id":"S102","purpose":"识别政策目标，并把其转化为可检验的问题而非直接当作效果。","level":"intermediate","locator":"全文"}],
+    "learning_links":[{"target_id":"r6-social-change","reason":"放入全球流动与地方变迁。","sequence_hint":"before"},{"target_id":"r6-intercultural","reason":"处理跨文化解释与关系。","sequence_hint":"before"},{"target_id":"r4-audience","reason":"设计海外受众研究并区分触达与理解。","sequence_hint":"after"}],
+    "temporal_profile":"evolving","as_of":"2026-09-11","last_evidence_check":"2026-09-11","next_review_due":"2027-03-01","controversy_status":"contested","controversy_note":"国家中心、受众能动性、效果指标、平台依赖与文化翻译均有争论。","review_status":"ready_for_review","created_at":"2026-09-11","updated_at":"2026-09-11","reviewed_at":null
+  },
+  {
+    "id":"r6-chinese-minority","slug":"minority-diaspora-chinese-media","record_level":"complete","type":"research_topic","subtype":null,"name_zh":"少数民族与海外华文传播","name_original":"Minority and overseas Chinese-language communication","aliases":[],
+    "summary":"该知识点并置两个需要分别研究又可比较的方向：少数民族新闻传播关注中国多民族、多语社会中的媒介、身份与公共表达；海外华文传播关注移民／侨民社群、跨国网络和华文媒体。并置是导航安排，不表示二者属于一个统一理论。",
+    "why_it_matters":"它补足以主流国家媒体和单一语言为中心的盲点，并让学生处理语言、身份、地域、政策与跨国关系的差异。",
+    "key_points":[
+      {"id":"r6cm-k1","statement":"中国新闻史学会分别设有少数民族新闻传播史与海外华文传媒相关学术组织，说明二者是可辨认但独立的研究共同体。","evidence_status":"direct","evidence":[{"source_id":"C12","locator":"分支机构名单与相关分会名称","support_note":"学会官方页面可支持机构化研究方向的存在。","support_role":"supports"}]},
+      {"id":"r6cm-k2","statement":"完整研究应分别说明地区、族群／社群、语言、媒介类型和历史时段，不能用‘华人’或‘少数民族’作为同质整体。","evidence_status":"interpretive","evidence":[{"source_id":"C12","locator":"distinct branch organizations","support_note":"官方分类显示对象并不统一；本条转化为研究设计要求。","support_role":"qualifies"}]}
+    ],
+    "limits_or_debates":[{"id":"r6cm-l1","statement":"学会设立分支只能证明研究共同体和议程存在，不能证明领域已有统一理论或足够代表性成果。","evidence_status":"interpretive","evidence":[{"source_id":"C12","locator":"分支机构页面","support_note":"来源是组织名录，证据边界明确受限。","support_role":"qualifies"}]}],
+    "area_memberships":[{"area_id":"power_culture","is_primary":true,"rationale":"语言、身份、可见性和国家／跨国权力处于核心。"},{"area_id":"institutions","is_primary":false,"rationale":"媒体组织、政策和公共表达制度重要。"}],
+    "learning_resources":[{"title":"中国新闻史学会分支机构","source_id":"C12","purpose":"确认研究共同体和检索词，再进入各分会代表成果。","level":"introductory","locator":"分支机构列表"}],
+    "learning_links":[{"target_id":"r6-intercultural","reason":"处理语言、文化与身份互动。","sequence_hint":"before"},{"target_id":"r6-social-change","reason":"放入迁移、跨国流动和地方社会。","sequence_hint":"after"},{"target_id":"r6-decolonial","reason":"反思中心／边缘与知识代表性。","sequence_hint":"compare"}],
+    "temporal_profile":"evolving","as_of":"2026-09-11","last_evidence_check":"2026-09-11","next_review_due":"2027-03-01","controversy_status":"contested","controversy_note":"命名、内部差异、代表性、国家与跨国框架需要分方向持续核验。","review_status":"ready_for_review","created_at":"2026-09-11","updated_at":"2026-09-11","reviewed_at":null
+  }
+]

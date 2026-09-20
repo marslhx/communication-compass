@@ -1,0 +1,563 @@
+{
+  "migration_date": "2026-09-14",
+  "origin": "content/data/sources.json",
+  "origin_sha256": "e0677abbe39b756d979165fa86e9b77b8c08ed5ae9efad5fd153ad22f1410b22",
+  "origin_total": 181,
+  "migrated_count": 92,
+  "scope": "T001 and S040-S130",
+  "method": "One-time lossless registry migration from existing generated output. No independent upstream bibliography was found. This is preservation of prior registration, not new evidence verification or review approval. Runtime normalization must never read the output to replenish its inputs.",
+  "entries": [
+    {
+      "id": "T001",
+      "record_sha256": "34f0aafcd71587dcf1c2adbe817cbd62c67c73de424aa7ed2bfb7360e08265b3",
+      "access_status": "full_text",
+      "accessed_at": "2026-09-11"
+    },
+    {
+      "id": "S040",
+      "record_sha256": "94bc686ab7e47a261e89f309a4960d5e8b853af641f4e8b623af49fa15a708ea",
+      "access_status": "excerpt",
+      "accessed_at": "2026-09-11"
+    },
+    {
+      "id": "S041",
+      "record_sha256": "e5e08549096d59150eca858e9bd3fcae78961b602351d91308e2b531a3957af3",
+      "access_status": "full_text",
+      "accessed_at": "2026-09-11"
+    },
+    {
+      "id": "S042",
+      "record_sha256": "e11dc4c7664204095d06f81dec217fd200f222a5b745ff760cfdd3813b7b7d8a",
+      "access_status": "abstract",
+      "accessed_at": "2026-09-11"
+    },
+    {
+      "id": "S043",
+      "record_sha256": "55b99668172353fd8643ba6e732e96e0302049303b12fedfafc7fd38488aec1e",
+      "access_status": "excerpt",
+      "accessed_at": "2026-09-11"
+    },
+    {
+      "id": "S044",
+      "record_sha256": "0c2ea69bb2d921c6c8153df5bf1c68724fb3f1c8f5bf4af180928ee041c20f3a",
+      "access_status": "full_text",
+      "accessed_at": "2026-09-11"
+    },
+    {
+      "id": "S045",
+      "record_sha256": "9e33b3898cd1acb3a9fca9623e891950b8a99c07d901f291502c96d60ad58b78",
+      "access_status": "abstract",
+      "accessed_at": "2026-09-11"
+    },
+    {
+      "id": "S046",
+      "record_sha256": "098ea688ba08e0e5aa78b7c41de7ebda700744f50d2dda47dbc8befa15ae369c",
+      "access_status": "full_text",
+      "accessed_at": "2026-09-11"
+    },
+    {
+      "id": "S047",
+      "record_sha256": "29112f4fb39d76c77d83adee4eabad0e4ee940e0a80d98794a71dd92e86400c9",
+      "access_status": "full_text",
+      "accessed_at": "2026-09-11"
+    },
+    {
+      "id": "S048",
+      "record_sha256": "7cc3adfc2b3c685e7f6ad6a174abc4b962834656aeaa710a8dd7d3f53970126a",
+      "access_status": "full_text",
+      "accessed_at": "2026-09-11"
+    },
+    {
+      "id": "S049",
+      "record_sha256": "57b609e0d25c9cac021093f225d524b227166e735d5721f900697e0f95b56d9e",
+      "access_status": "full_text",
+      "accessed_at": "2026-09-11"
+    },
+    {
+      "id": "S050",
+      "record_sha256": "24473face4ab6c23ae5ec01af072a900060249bf76512cbeb3804e2911b2f9a7",
+      "access_status": "full_text",
+      "accessed_at": "2026-09-11"
+    },
+    {
+      "id": "S051",
+      "record_sha256": "21a52ed2cba4b77f7deae6845390c6fdb9f7fbd17e1f80285ca651f56f37537f",
+      "access_status": "full_text",
+      "accessed_at": "2026-09-11"
+    },
+    {
+      "id": "S052",
+      "record_sha256": "40f703b8a9ce34e026434747b5eaec5558379a8d63b13803a3cb96168e1274ee",
+      "access_status": "full_text",
+      "accessed_at": "2026-09-11"
+    },
+    {
+      "id": "S053",
+      "record_sha256": "ef862adf62ab8607adf84d40f8473b3bf973b4b1d573abfa4dc2ba62287f20b7",
+      "access_status": "full_text",
+      "accessed_at": "2026-09-11"
+    },
+    {
+      "id": "S054",
+      "record_sha256": "d16853375ae406340755a29e0ca19495792500c5214afaae9bddfe458c2ce1df",
+      "access_status": "full_text",
+      "accessed_at": "2026-09-11"
+    },
+    {
+      "id": "S055",
+      "record_sha256": "df16fec7aa2ca314f557eec0f7dfa4fdbb658cfac803b73af80353fcc891da3b",
+      "access_status": "full_text",
+      "accessed_at": "2026-09-11"
+    },
+    {
+      "id": "S056",
+      "record_sha256": "79aa56f021ae5a986dd917fc394fa811728a7a9114a3ea7a7c68c84c6c05d385",
+      "access_status": "full_text",
+      "accessed_at": "2026-09-11"
+    },
+    {
+      "id": "S057",
+      "record_sha256": "015504039d67f308211a28e410900112c0b84b966d5ce5b872aaf35a0d5e1ab9",
+      "access_status": "full_text",
+      "accessed_at": "2026-09-11"
+    },
+    {
+      "id": "S058",
+      "record_sha256": "f22b8e82807e22306ba52ab81bc665acd0ed3eafff3bcf6f15581ccdcea26d41",
+      "access_status": "full_text",
+      "accessed_at": "2026-09-11"
+    },
+    {
+      "id": "S059",
+      "record_sha256": "9ea43c0d423609778e13bbacbc15d28db38927d9d856405b2684649eef453e88",
+      "access_status": "full_text",
+      "accessed_at": "2026-09-11"
+    },
+    {
+      "id": "S060",
+      "record_sha256": "b935a3752b77e9ae363ce8a081b5e38b599ca564d1eccaa9b436bbffef5ae4c9",
+      "access_status": "excerpt",
+      "accessed_at": "2026-09-11"
+    },
+    {
+      "id": "S061",
+      "record_sha256": "a221c6c76b9e2195a31e82dd38a650165ebd8e217a53f44d5c81b9fd22d72cee",
+      "access_status": "full_text",
+      "accessed_at": "2026-09-11"
+    },
+    {
+      "id": "S062",
+      "record_sha256": "cb39e71ca0f0d0669d98b24c6e088fae7cd9b513f9e50c410ac26ad0d6c40895",
+      "access_status": "full_text",
+      "accessed_at": "2026-09-11"
+    },
+    {
+      "id": "S063",
+      "record_sha256": "1b80d12f56e0bcd7b614f35025624333c468788579d732f53857b897294d22a8",
+      "access_status": "full_text",
+      "accessed_at": "2026-09-11"
+    },
+    {
+      "id": "S064",
+      "record_sha256": "79d5f0be79c29369f163347af280b78ce7c67ce84685f35aad8cd0547087a712",
+      "access_status": "full_text",
+      "accessed_at": "2026-09-11"
+    },
+    {
+      "id": "S065",
+      "record_sha256": "75a587443f7289e3de6604db9ab8821157b00363a3a2f1b88075f5a15e49130c",
+      "access_status": "full_text",
+      "accessed_at": "2026-09-11"
+    },
+    {
+      "id": "S066",
+      "record_sha256": "3932214d9b6024f4fe44d169c85456949aa23fcf1bd83bb0d874cf226744794d",
+      "access_status": "full_text",
+      "accessed_at": "2026-09-11"
+    },
+    {
+      "id": "S067",
+      "record_sha256": "95fbf276cf33a1b4ef83b8a4ee7bf0e4bbf603922cbf3e67237491d6dce37d48",
+      "access_status": "full_text",
+      "accessed_at": "2026-09-11"
+    },
+    {
+      "id": "S068",
+      "record_sha256": "20fe025fc0e2bbdef9d6b261dbb0e4b688bbd54c056f2cd1345d34364e49a90b",
+      "access_status": "full_text",
+      "accessed_at": "2026-09-11"
+    },
+    {
+      "id": "S069",
+      "record_sha256": "be6e622035f05fd1b58b83e7330a70672505b31321f5cc66e02b45e3095b2cda",
+      "access_status": "full_text",
+      "accessed_at": "2026-09-11"
+    },
+    {
+      "id": "S070",
+      "record_sha256": "4e5ed7f40571fc28073275a0bc4c1f71989e57d081d54b953cf2e32168e1474e",
+      "access_status": "full_text",
+      "accessed_at": "2026-09-11"
+    },
+    {
+      "id": "S071",
+      "record_sha256": "88833b0e3734543b017210e40d131a090f3038f4f1772e3c20e25b8fbbcbb1b8",
+      "access_status": "metadata",
+      "accessed_at": "2026-09-11"
+    },
+    {
+      "id": "S072",
+      "record_sha256": "1ea58b0daab00972675b6f124c9ec66a01bd12bde677f7be8a109bd41c72c2c8",
+      "access_status": "full_text",
+      "accessed_at": "2026-09-11"
+    },
+    {
+      "id": "S073",
+      "record_sha256": "d57074ffebc745bd17d32668503e0ba6fec79563a9be78b07f13200b273aa2c2",
+      "access_status": "full_text",
+      "accessed_at": "2026-09-11"
+    },
+    {
+      "id": "S074",
+      "record_sha256": "f1746fd28316c4ec4a102e1640984981ec2f3d3400ee5e24a9a9c818551549f5",
+      "access_status": "full_text",
+      "accessed_at": "2026-09-11"
+    },
+    {
+      "id": "S075",
+      "record_sha256": "76ccb4a6e3f76540b675a27949f006a7dca84b03f6850ceba1e7f57fa81165df",
+      "access_status": "metadata",
+      "accessed_at": "2026-09-11"
+    },
+    {
+      "id": "S076",
+      "record_sha256": "0547950b042def4251b39ca02cf1abb20e007a84fe03421d5b4a401bb5ff2d99",
+      "access_status": "excerpt",
+      "accessed_at": "2026-09-11"
+    },
+    {
+      "id": "S077",
+      "record_sha256": "252c7a954ece23576e724b24fa0dbafe8177745545e109d55a0d6483438cff40",
+      "access_status": "excerpt",
+      "accessed_at": "2026-09-11"
+    },
+    {
+      "id": "S078",
+      "record_sha256": "5198ef88a28813f6bf5fc0bc5fb7297d8680d6f92e7bb07c67d94b0cc2b68a00",
+      "access_status": "full_text",
+      "accessed_at": "2026-09-11"
+    },
+    {
+      "id": "S079",
+      "record_sha256": "7562f02a89045384d430932ead488667975f4a84c0ec5d98a5ac0028eae97c98",
+      "access_status": "full_text",
+      "accessed_at": "2026-09-11"
+    },
+    {
+      "id": "S080",
+      "record_sha256": "ff293f85af37f3b6cc644717301b0ee35d0b08c9ee11bc96651dd498bb635621",
+      "access_status": "full_text",
+      "accessed_at": "2026-09-11"
+    },
+    {
+      "id": "S081",
+      "record_sha256": "2d927364f925f97d416dd54746a482f8c976c6c423304efa5d3f02aec9d34b66",
+      "access_status": "full_text",
+      "accessed_at": "2026-09-11"
+    },
+    {
+      "id": "S082",
+      "record_sha256": "c8be9ebe54dfea357494e9b696493f29d47f59ce6c1ac48ee03527d5a261a785",
+      "access_status": "full_text",
+      "accessed_at": "2026-09-11"
+    },
+    {
+      "id": "S083",
+      "record_sha256": "c5ddf8977870e726010c16f168c4a1a5a77e2d863deff2079cbdca7ee3858ceb",
+      "access_status": "full_text",
+      "accessed_at": "2026-09-11"
+    },
+    {
+      "id": "S084",
+      "record_sha256": "26a60254787d2a8622403b3ab34737f7d12c91ae09fd79f94256a033993f1f46",
+      "access_status": "excerpt",
+      "accessed_at": "2026-09-11"
+    },
+    {
+      "id": "S085",
+      "record_sha256": "3630d78ef4f36b3054df49495cf2e88e0bc9ac4c20deb3d792177e08bcb0ecf2",
+      "access_status": "excerpt",
+      "accessed_at": "2026-09-11"
+    },
+    {
+      "id": "S086",
+      "record_sha256": "aa85e9cb96643e83a4a0cff419a4b9e6c34dbd1ce3191a2d1bf64e42ec8b6169",
+      "access_status": "excerpt",
+      "accessed_at": "2026-09-11"
+    },
+    {
+      "id": "S087",
+      "record_sha256": "051493aa85f99873ec3eb2f6030f2cb25e8353e186101c93541823ad96d83a3e",
+      "access_status": "full_text",
+      "accessed_at": "2026-09-11"
+    },
+    {
+      "id": "S088",
+      "record_sha256": "23c7008393ba217b21898f736f8e2659c7b1c45dab83e8440d8ca3e1e3bc8997",
+      "access_status": "abstract",
+      "accessed_at": "2026-09-11"
+    },
+    {
+      "id": "S089",
+      "record_sha256": "8e96044ee4e072f463f8df03fdc670ac0b14d67c3869e8770380a0bd77271406",
+      "access_status": "excerpt",
+      "accessed_at": "2026-09-11"
+    },
+    {
+      "id": "S090",
+      "record_sha256": "c11af99b271b6668c8f7b44a6c70bad4ee264509687c8695de17584599d85989",
+      "access_status": "full_text",
+      "accessed_at": "2026-09-11"
+    },
+    {
+      "id": "S091",
+      "record_sha256": "ace967fb06cdbee755853f6fb210a26bd8d7fcee5652d4e0a0b95d7b06b2c51e",
+      "access_status": "full_text",
+      "accessed_at": "2026-09-11"
+    },
+    {
+      "id": "S092",
+      "record_sha256": "6acb8024bbf6d6bb641cf1bbcb01ac0e42e874072cc7cd94422232f2c3482e57",
+      "access_status": "abstract",
+      "accessed_at": "2026-09-11"
+    },
+    {
+      "id": "S093",
+      "record_sha256": "c620ba654a805390341bfa918a0d70345e1d9b40d986fec75435979cf0628b63",
+      "access_status": "full_text",
+      "accessed_at": "2026-09-11"
+    },
+    {
+      "id": "S094",
+      "record_sha256": "a6aecac6d89a085fbf73c8e1f2e8b5c70c0d97b1b104419fb742fd77fe06cce1",
+      "access_status": "metadata",
+      "accessed_at": "2026-09-11"
+    },
+    {
+      "id": "S095",
+      "record_sha256": "69667ed7f9802f7bd59294ec76c99276c00cde69f02c79ef4325802453d28516",
+      "access_status": "full_text",
+      "accessed_at": "2026-09-11"
+    },
+    {
+      "id": "S096",
+      "record_sha256": "5a89972380c6738409ea965b24814f4a46f9aba228e979dbd9a6b07f1d46eede",
+      "access_status": "full_text",
+      "accessed_at": "2026-09-11"
+    },
+    {
+      "id": "S097",
+      "record_sha256": "d44375da5119a7a381b5f916f3475e21495e8a21298a80c2bd87d494a5d8b7f2",
+      "access_status": "full_text",
+      "accessed_at": "2026-09-11"
+    },
+    {
+      "id": "S098",
+      "record_sha256": "ba8b1367157e21da4e77e8071281e7fe6b34f7ece33b9b40dfdfafe8c96a7476",
+      "access_status": "full_text",
+      "accessed_at": "2026-09-11"
+    },
+    {
+      "id": "S099",
+      "record_sha256": "ed814f8aec10cc0ac0ea58fa3ae8e6147266acf360fbb6fccdc92bbe3a1b5105",
+      "access_status": "metadata",
+      "accessed_at": "2026-09-11"
+    },
+    {
+      "id": "S100",
+      "record_sha256": "fbcf819a288976b5f2c8241a69cd06f28abd1416b7048d6a822127a2917549ed",
+      "access_status": "full_text",
+      "accessed_at": "2026-09-11"
+    },
+    {
+      "id": "S101",
+      "record_sha256": "77b0313d3a5ed241663edc504b63930a1182dfc543fbf1b7cfd12435848e44ca",
+      "access_status": "full_text",
+      "accessed_at": "2026-09-11"
+    },
+    {
+      "id": "S102",
+      "record_sha256": "3bc7941c5b2fbdf32050aaf8d41b7e8d3504fe468837b974cb2115a05a0df6f9",
+      "access_status": "full_text",
+      "accessed_at": "2026-09-11"
+    },
+    {
+      "id": "S103",
+      "record_sha256": "af53edbfb8d76ec2bec5a7cc3e0a82455a28b748c5ccb08524ee38a90b86b0c9",
+      "access_status": "abstract",
+      "accessed_at": "2026-09-11"
+    },
+    {
+      "id": "S104",
+      "record_sha256": "a7ed6ece0fa9a41ecd023684e0aaec31727f4545b2b64caf1c83f112bb98acee",
+      "access_status": "full_text",
+      "accessed_at": "2026-09-11"
+    },
+    {
+      "id": "S105",
+      "record_sha256": "6dc2e0101dcf69ce7a7974183ae4dec1b2e40b763d59b84d13b113418df11736",
+      "access_status": "full_text",
+      "accessed_at": "2026-09-11"
+    },
+    {
+      "id": "S106",
+      "record_sha256": "1abb2b52fdef3dc0cdab71bd651672e3eceb3252d092eda545d5baf7e7aaf149",
+      "access_status": "full_text",
+      "accessed_at": "2026-09-11"
+    },
+    {
+      "id": "S107",
+      "record_sha256": "668a4fcb31946beddb9205903c4cc43beca064c8772f7984de34ba0b5b6d2e2d",
+      "access_status": "full_text",
+      "accessed_at": "2026-09-11"
+    },
+    {
+      "id": "S108",
+      "record_sha256": "15d21b263f8b98ef91d610c10f405202ccf8d97796dd1c6e5ed2470f206ac77b",
+      "access_status": "full_text",
+      "accessed_at": "2026-09-11"
+    },
+    {
+      "id": "S109",
+      "record_sha256": "a422ef42257bae73c532ecaaebdda62bd6942140282018d3be3cfe334bcd9c76",
+      "access_status": "full_text",
+      "accessed_at": "2026-09-11"
+    },
+    {
+      "id": "S110",
+      "record_sha256": "f146078e80c739f3ec7053595838e9e9e4e2863d167a96643e4daa0fd6df198f",
+      "access_status": "full_text",
+      "accessed_at": "2026-09-11"
+    },
+    {
+      "id": "S111",
+      "record_sha256": "b0c2d8a705dfc8e7b18bee88e22fbae30e0785135907c7b2d9a7fda1274f4449",
+      "access_status": "full_text",
+      "accessed_at": "2026-09-11"
+    },
+    {
+      "id": "S112",
+      "record_sha256": "69dbb0a238667f9308ed3483263aa503e4907e2eb6615b879d8cb8bca9bda7c2",
+      "access_status": "abstract",
+      "accessed_at": "2026-09-11"
+    },
+    {
+      "id": "S113",
+      "record_sha256": "05ea9ae212625560f27b9c048992d4c4804797d2e7d43f3237de13fd958e23a4",
+      "access_status": "abstract",
+      "accessed_at": "2026-09-11"
+    },
+    {
+      "id": "S114",
+      "record_sha256": "56ee6381b492a4863be7e006303a51f070ac6a4fd2bf3ed347fcd99c33fe94d7",
+      "access_status": "full_text",
+      "accessed_at": "2026-09-11"
+    },
+    {
+      "id": "S115",
+      "record_sha256": "3ecae3998f8fd507dcf8609caf7bbc8f1004f778d2a09bd4103cdf66bcf4e393",
+      "access_status": "full_text",
+      "accessed_at": "2026-09-11"
+    },
+    {
+      "id": "S116",
+      "record_sha256": "7b451fd4efb9337940d9243bcde7180d513f6eb2c665b0638f5310d028562379",
+      "access_status": "excerpt",
+      "accessed_at": "2026-09-11"
+    },
+    {
+      "id": "S117",
+      "record_sha256": "584bf93b34e6085cbda4825390d2ed564993a32d0b272f5ff902a69020ed67a7",
+      "access_status": "metadata",
+      "accessed_at": "2026-09-11"
+    },
+    {
+      "id": "S118",
+      "record_sha256": "0ea90575582670a1c13e956fee3e6d41b99f978ffa81d91ba1c724ac5301cdbf",
+      "access_status": "full_text",
+      "accessed_at": "2026-09-11"
+    },
+    {
+      "id": "S119",
+      "record_sha256": "b358f41a5efd0463ee30fe4422cb2ecca1127f1c59fecbf03f281b666fc495e6",
+      "access_status": "excerpt",
+      "accessed_at": "2026-09-11"
+    },
+    {
+      "id": "S120",
+      "record_sha256": "7d195ac751b696f2883801243e5b42d2300f359ebf3e6ac3874db89acfaff9b1",
+      "access_status": "abstract",
+      "accessed_at": "2026-09-11"
+    },
+    {
+      "id": "S121",
+      "record_sha256": "6437a669681071d2d289c1ce51c45be6e81c25dd6b02ad59da056f91c02c061f",
+      "access_status": "abstract",
+      "accessed_at": "2026-09-11"
+    },
+    {
+      "id": "S122",
+      "record_sha256": "8e3c5ba9736a932b959207f8ce0ecf83cb37008f927d08dea0c3f68642956d3d",
+      "access_status": "full_text",
+      "accessed_at": "2026-09-11"
+    },
+    {
+      "id": "S123",
+      "record_sha256": "414c1ad9a12088911c6efaab16250ebb04f8a8b11eaba446c403bb0253bf3f6e",
+      "access_status": "abstract",
+      "accessed_at": "2026-09-11"
+    },
+    {
+      "id": "S124",
+      "record_sha256": "b5a4be4ce4a42adb69983b5f4c7448c865b8862623654f126dc8398bf84b745d",
+      "access_status": "full_text",
+      "accessed_at": "2026-09-11"
+    },
+    {
+      "id": "S125",
+      "record_sha256": "3543cb41285f983123b7e092de756a8665970f7d5c651e99bc8305503b83e9d5",
+      "access_status": "abstract",
+      "accessed_at": "2026-09-11"
+    },
+    {
+      "id": "S126",
+      "record_sha256": "45205c8cf235a8d78915105aac9876c50a30590325061764942b7e968d91be1f",
+      "access_status": "full_text",
+      "accessed_at": "2026-09-11"
+    },
+    {
+      "id": "S127",
+      "record_sha256": "30b0fd54d84c48c8b72af5e357e73a498201429c13beb8acfae640a13372e088",
+      "access_status": "abstract",
+      "accessed_at": "2026-09-11"
+    },
+    {
+      "id": "S128",
+      "record_sha256": "b7faf57c6e93a5fbd371a19f56a8a7a079c4d9d32336a3969bbbd09af1ec4fb2",
+      "access_status": "excerpt",
+      "accessed_at": "2026-09-11"
+    },
+    {
+      "id": "S129",
+      "record_sha256": "929f22f2d2e6b7dc1723823b0a29d1ba79975b5647254f7336b5fabfaa2148c3",
+      "access_status": "full_text",
+      "accessed_at": "2026-09-11"
+    },
+    {
+      "id": "S130",
+      "record_sha256": "69b87abd1d213777472e4d2f9a01454b3346d5f96bf04f5bb34fcabb39d47a97",
+      "access_status": "full_text",
+      "accessed_at": "2026-09-11"
+    }
+  ]
+}

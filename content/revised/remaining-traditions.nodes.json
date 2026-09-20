@@ -1,0 +1,847 @@
+[
+  {
+    "id": "r2-semiotics",
+    "slug": "semiotics",
+    "record_level": "complete",
+    "type": "tradition",
+    "subtype": null,
+    "name_zh": "符号学",
+    "name_original": "Semiotics",
+    "aliases": [
+      {
+        "name": "符号论",
+        "kind": "alternate_translation",
+        "note": "不同文献的译名和学科边界不完全一致。"
+      }
+    ],
+    "summary": "符号学研究符号如何指代、表征并参与意义生成。传播学入门至少要区分两条重要路线：索绪尔路线把符号理解为能指与所指的结合并强调符号系统中的差异关系；皮尔斯路线则用符号、对象与解释项的三元关系理解符号过程。",
+    "why_it_matters": "它为语言、图像、广告、新闻、界面和文化仪式的意义分析提供基本词汇，也提醒学生：意义不是对象天然携带的属性，而是在符号关系、解释过程和社会惯例中形成。",
+    "central_questions": [
+      "符号如何指向对象并被解释为有意义？",
+      "一个符号的意义来自自身、与其他符号的差异，还是具体解释过程？",
+      "语言之外的图像、声音、姿态和界面怎样构成符号系统？"
+    ],
+    "internal_differences": [
+      {
+        "id": "r2semi-i1",
+        "statement": "索绪尔路线通常从能指／所指及其在符号系统中的关系入手，皮尔斯路线则强调符号、对象与解释项的三元关系；二者不能用一套术语无损互换。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S064",
+            "locator": "Introduction；The Signifying Element of Signs；The Object；The Interpretant",
+            "support_note": "条目直接说明皮尔斯理论关注表意、表征、指称与解释，并展开三元关系。",
+            "support_role": "supports"
+          },
+          {
+            "source_id": "S065",
+            "locator": "The signifier and signified；lines 177–192",
+            "support_note": "开放教材直接讲解索绪尔路线的能指、所指、任意性与系统关系。",
+            "support_role": "supports"
+          }
+        ]
+      }
+    ],
+    "naming_boundary": "本知识点是跨越语言学、哲学与传播研究的理论传统，不是一种单一方法；“符号学分析”也不能只靠给图像贴象征意义标签，必须说明采用哪一路线、分析单位和解释证据。",
+    "key_points": [
+      {
+        "id": "r2semi-k1",
+        "statement": "在索绪尔路线的入门表述中，符号由能指与所指共同构成，两者的联系依赖惯例而非天然必然关系。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S065",
+            "locator": "lines 177–181",
+            "support_note": "教材明确说明能指、所指、二者结合以及惯例性联系。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r2semi-k2",
+        "statement": "皮尔斯符号理论把解释视为表意不可缺少的环节，并在其思想发展中形成多个并不完全相同的版本。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S064",
+            "locator": "Introduction；Early, Interim and Final Accounts",
+            "support_note": "SEP 概括解释在皮尔斯符号理论中的重要性，并区分早期、中期与晚期论述。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r2semi-k3",
+        "statement": "符号意义既可以在特定时点考察，也可以追踪其历史变化；同一形式的意义会随系统和语境变化。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S065",
+            "locator": "lines 183–190，synchronic and diachronic axes",
+            "support_note": "教材直接区分共时与历时分析，并说明能指与所指的结合会变化。",
+            "support_role": "supports"
+          }
+        ]
+      }
+    ],
+    "limits_or_debates": [
+      {
+        "id": "r2semi-l1",
+        "statement": "把索绪尔的二元模型和皮尔斯的三元模型压缩成一张通用‘符号分类表’，会掩盖二者问题意识与术语体系的差异。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "S064",
+            "locator": "Introduction and the triadic account",
+            "support_note": "据皮尔斯路线的理论结构形成教学边界。",
+            "support_role": "qualifies"
+          },
+          {
+            "source_id": "S065",
+            "locator": "The Sign",
+            "support_note": "与索绪尔路线的二元说明对照，支持不可简单合并的编辑判断。",
+            "support_role": "qualifies"
+          }
+        ]
+      },
+      {
+        "id": "r2semi-l2",
+        "statement": "开放教材适合入门，但不能替代索绪尔文本版本、翻译史与后续争论的专门研读。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "S065",
+            "locator": "全章",
+            "support_note": "来源性质为教学性二手材料，因此限定其证据用途。",
+            "support_role": "qualifies"
+          }
+        ]
+      }
+    ],
+    "area_memberships": [
+      {
+        "area_id": "meaning",
+        "is_primary": true,
+        "rationale": "符号如何产生与组织意义是该传统的核心问题。"
+      },
+      {
+        "area_id": "power_culture",
+        "is_primary": false,
+        "rationale": "符号系统可用于分析文化分类、身份与自然化意义。"
+      },
+      {
+        "area_id": "research_application",
+        "is_primary": false,
+        "rationale": "符号学可转化为文本、图像与多模态材料的分析路径。"
+      }
+    ],
+    "learning_resources": [
+      {
+        "title": "The Sign",
+        "source_id": "S065",
+        "purpose": "先掌握索绪尔路线中能指、所指、任意性与共时／历时的基本区分。",
+        "level": "introductory",
+        "locator": "The signifier and signified；synchronic and diachronic axes"
+      },
+      {
+        "title": "Peirce’s Theory of Signs",
+        "source_id": "S064",
+        "purpose": "再比较皮尔斯三元关系及解释项，避免把两条路线混为一谈。",
+        "level": "advanced",
+        "locator": "Introduction；Elements of the Sign"
+      }
+    ],
+    "learning_links": [
+      {
+        "target_id": "r2-representation",
+        "reason": "从符号关系进入文化表征如何组织意义。",
+        "sequence_hint": "after"
+      },
+      {
+        "target_id": "r2-visual",
+        "reason": "把符号学问题带入图像、声音和多模态传播材料。",
+        "sequence_hint": "after"
+      },
+      {
+        "target_id": "r8-interpretive-methods",
+        "reason": "比较理论传统与具体解释型研究方法之间的区别。",
+        "sequence_hint": "compare"
+      }
+    ],
+    "temporal_profile": "relatively_stable",
+    "last_evidence_check": "2026-09-11",
+    "controversy_status": "contested",
+    "controversy_note": "争议主要涉及不同符号学传统的术语、范围与可通约性；本知识点只建立入门级双路线骨架。",
+    "review_status": "ready_for_review",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-11",
+    "reviewed_at": null
+  },
+  {
+    "id": "r2-rhetoric",
+    "slug": "rhetoric-persuasion",
+    "record_level": "complete",
+    "type": "tradition",
+    "subtype": null,
+    "name_zh": "修辞传统",
+    "name_original": "Rhetorical tradition",
+    "aliases": [
+      {
+        "name": "修辞与说服",
+        "kind": "common_name",
+        "note": "保留骨架原名作为检索别名，但本知识点不等同于经验性说服效果研究。"
+      }
+    ],
+    "summary": "修辞传统研究人们如何在具体情境中运用话语与其他符号资源形成判断、行动和公共生活。古典修辞把可系统分析的说服置于核心，现代传播学中的修辞研究则继续发展为理论、批评与实践并存的领域。",
+    "why_it_matters": "它训练学生分析谁在何种场合向何种受众说什么、如何建立可信度和论证、如何调动情感，以及文本和公共话语怎样回应争议；同时可与实验性的态度改变研究形成互补。",
+    "central_questions": [
+      "什么在特定情境中构成有说服力或适切的表达？",
+      "说话者、论证、受众情感与场合如何共同影响判断？",
+      "公共话语如何塑造共同问题、身份与行动可能？"
+    ],
+    "internal_differences": [
+      {
+        "id": "r2rhet-i1",
+        "statement": "修辞批评通常解释具体话语、情境与公共意义，经验说服研究则常用调查或实验估计信息对态度和行为的影响；二者可以对话但不能互相替代。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "S067",
+            "locator": "disciplinary history, paragraphs on rhetoric and later social-scientific expansion",
+            "support_note": "NCA 的学科史将公共演说、修辞理论与后来的效果、说服及社会影响课程并列呈现。",
+            "support_role": "supports"
+          }
+        ]
+      }
+    ],
+    "naming_boundary": "本知识点指修辞作为历史悠久且不断发展的传播研究传统，不把它缩减为‘漂亮话’或操纵技巧，也不与“说服与态度改变”这一经验研究主题合并。",
+    "key_points": [
+      {
+        "id": "r2rhet-k1",
+        "statement": "亚里士多德把修辞视为可系统研究的技艺，其技术性说服手段来自说话者呈现的品格、受众的情感状态和论证本身。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S066",
+            "locator": "section 4.1 and section 5, The Three Means of Persuasion",
+            "support_note": "SEP 直接梳理修辞定义与 ethos、pathos、logos 三类技术性手段。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r2rhet-k2",
+        "statement": "古典修辞是现代传播学的重要历史来源之一，但现代学科还吸纳了人际传播、大众传播效果、说服与社会影响等社会科学方向。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S067",
+            "locator": "disciplinary history, paragraphs 57–62",
+            "support_note": "NCA 官方学科史明确呈现古典修辞基础与20世纪社会科学扩展。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r2rhet-k3",
+        "statement": "在古典框架中，说服不是只靠论点：说话者的可信形象和受众的情感状态也会改变判断。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S066",
+            "locator": "sections 5.1 and 5.2",
+            "support_note": "条目分别说明品格与情感如何参与听众判断。",
+            "support_role": "supports"
+          }
+        ]
+      }
+    ],
+    "limits_or_debates": [
+      {
+        "id": "r2rhet-l1",
+        "statement": "ethos、pathos、logos 是古典理论中的分析框架，不应变成脱离文本、受众和场合的三项营销口诀。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "S066",
+            "locator": "section 5",
+            "support_note": "SEP 将三类手段置于演说、判断和技术性说服的完整论述中；本条据此形成教学警示。",
+            "support_role": "qualifies"
+          }
+        ]
+      },
+      {
+        "id": "r2rhet-l2",
+        "statement": "修辞传统内部跨越不同历史时期、媒介和批评取向，本知识点只提供古典入口与现代学科分流，不能代表全部修辞研究。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "S067",
+            "locator": "full disciplinary overview",
+            "support_note": "NCA 概览展示学科历史扩展，支持保留范围边界。",
+            "support_role": "qualifies"
+          }
+        ]
+      }
+    ],
+    "area_memberships": [
+      {
+        "area_id": "meaning",
+        "is_primary": true,
+        "rationale": "修辞关注符号表达如何在情境中形成意义与判断。"
+      },
+      {
+        "area_id": "effects",
+        "is_primary": false,
+        "rationale": "说服结果与态度改变相邻，但研究传统和证据路径不同。"
+      },
+      {
+        "area_id": "institutions",
+        "is_primary": false,
+        "rationale": "公共演说、法律与政治话语经常发生在制度化场域。"
+      }
+    ],
+    "learning_resources": [
+      {
+        "title": "Aristotle’s Rhetoric",
+        "source_id": "S066",
+        "purpose": "理解古典修辞的技艺观、情境与三类技术性说服手段。",
+        "level": "intermediate",
+        "locator": "sections 4–5"
+      },
+      {
+        "title": "What is Communication?",
+        "source_id": "S067",
+        "purpose": "把修辞放回现代传播学的历史形成与多方法格局。",
+        "level": "introductory",
+        "locator": "disciplinary history"
+      }
+    ],
+    "learning_links": [
+      {
+        "target_id": "r4-persuasion",
+        "reason": "比较修辞分析与经验性态度改变研究的问题和证据。",
+        "sequence_hint": "compare"
+      },
+      {
+        "target_id": "r8-interpretive-methods",
+        "reason": "进入修辞批评、话语与文本解释的研究设计。",
+        "sequence_hint": "after"
+      },
+      {
+        "target_id": "r5-public-sphere",
+        "reason": "把公共论辩放入公共领域及民主传播问题。",
+        "sequence_hint": "after"
+      }
+    ],
+    "temporal_profile": "relatively_stable",
+    "last_evidence_check": "2026-09-11",
+    "controversy_status": "contested",
+    "controversy_note": "修辞的范围、规范目的与方法边界随传统而异；知识点不主张单一统一定义。",
+    "review_status": "ready_for_review",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-11",
+    "reviewed_at": null
+  },
+  {
+    "id": "r2-huaxia",
+    "slug": "huaxia-communication",
+    "record_level": "complete",
+    "type": "tradition",
+    "subtype": "forming_research_program",
+    "name_zh": "华夏传播研究",
+    "name_original": "Huaxia communication studies",
+    "aliases": [
+      {
+        "name": "华夏传播",
+        "kind": "common_name",
+        "note": "常用简称。"
+      },
+      {
+        "name": "华夏传播学",
+        "kind": "common_name",
+        "note": "带有体系建构目标的称谓；本知识点不预设该体系已完成。"
+      }
+    ],
+    "summary": "华夏传播研究是面向中国历史、传统与本土经验的传播学研究取向，尝试从经典、制度、媒介与具体传播实践中提炼问题和概念。它更适合被呈现为仍在形成和自我反思的研究计划，而不是已经边界统一、命题完备的单一理论。",
+    "why_it_matters": "它促使学生不只把中国经验当作西方理论的例子，而是从材料、历史语境与本土问题出发提出概念；同时也要求警惕厚古薄今、以价值认同代替证据，或把跨领域材料笼统归入一个标签。",
+    "central_questions": [
+      "中国历史中的传播活动、观念与制度可以提出哪些传播学问题？",
+      "如何从扎实史料与个案中形成可比较、可讨论的本土概念？",
+      "传统经验怎样与当代问题及跨文化理论对话，而不被浪漫化？"
+    ],
+    "internal_differences": [
+      {
+        "id": "r2hx-i1",
+        "statement": "相关研究既包含对古代媒介、制度与传播实践的历史研究，也包含从传统材料提炼本土概念和建构知识体系的理论诉求；两者的证据任务并不相同。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "S070",
+            "locator": "pp. 10–12，华夏传播研究、本土问题意识和方法段落",
+            "support_note": "笔谈同时讨论经验史料、个案方法、本土概念与知识体系建构，据此区分历史研究和理论建构任务。",
+            "support_role": "supports"
+          }
+        ]
+      }
+    ],
+    "naming_boundary": "本知识点不是所有‘中华文化对外传播’的总称，也不等同于国际传播实践；它聚焦从中国历史传统与本土经验出发的研究取向。‘华夏传播学’是一项目标性称谓，不表示统一理论体系已经完成。",
+    "key_points": [
+      {
+        "id": "r2hx-k1",
+        "statement": "2023年的学术笔谈把华夏传播概括为一种面向历史和传统的本土化传播学研究，并指出其与政治传播等领域既关联又难以严格划界。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S070",
+            "locator": "PDF pp. 11–12，正文 lines 467–477",
+            "support_note": "原文直接说明研究取向、发展历程及与政治传播议题的交叠。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r2hx-k2",
+        "statement": "从历史材料提炼本土概念需要经验材料、多元史料、个案研究与明确的方法意识，而不能只从宏大价值判断推演。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S070",
+            "locator": "PDF pp. 10–11，正文 lines 416–440",
+            "support_note": "笔谈明确强调方法、传统考据、经验材料、多元史料、个案研究和开放比较。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r2hx-k3",
+        "statement": "可核书目显示，围绕《华夏传播论》的学术讨论至少在1998年已经出现；这只能证明讨论历史，不能单独证明理论成熟度。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S071",
+            "locator": "平台元数据：篇名、作者、57/1998/7、pp. 229–238",
+            "support_note": "元数据可直接支持讨论存在及发表时间；证据用途被限定为书目史。",
+            "support_role": "supports"
+          }
+        ]
+      }
+    ],
+    "limits_or_debates": [
+      {
+        "id": "r2hx-l1",
+        "statement": "华夏传播与政治传播史、新闻史、思想史等边界存在交叠，条目归属不能代替对研究问题、材料和方法的说明。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S070",
+            "locator": "PDF pp. 11–12，正文 lines 450–475",
+            "support_note": "原文直接讨论学科归属、路径依赖和领域边界不清问题。",
+            "support_role": "qualifies"
+          }
+        ]
+      },
+      {
+        "id": "r2hx-l2",
+        "statement": "本轮证据不足以宣布一个统一、成熟的‘华夏传播学’已经形成；因此知识点保留形成中状态，并把体系建构写成研究诉求。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "S070",
+            "locator": "全文，尤其 pp. 10–12 的方法与边界反思",
+            "support_note": "现有来源显示持续探索和反思，未提供统一本体、命题与验证体系的证据。",
+            "support_role": "qualifies"
+          },
+          {
+            "source_id": "S071",
+            "locator": "metadata only",
+            "support_note": "早期书评全文尚未读取，不能扩大其证明范围。",
+            "support_role": "qualifies"
+          }
+        ]
+      }
+    ],
+    "area_memberships": [
+      {
+        "area_id": "meaning",
+        "is_primary": true,
+        "rationale": "核心任务之一是从中国传统材料中解释传播观念与意义秩序。"
+      },
+      {
+        "area_id": "power_culture",
+        "is_primary": false,
+        "rationale": "历史政治传播、文化传统与本土知识生产是重要问题。"
+      },
+      {
+        "area_id": "research_application",
+        "is_primary": false,
+        "rationale": "其成熟度取决于史料、个案、考据与比较等研究实践。"
+      }
+    ],
+    "learning_resources": [
+      {
+        "title": "政治传播史论研究笔谈",
+        "source_id": "S070",
+        "purpose": "从方法、学科边界与价值立场的反思进入华夏传播，而非先接受一个完成式定义。",
+        "level": "intermediate",
+        "locator": "pp. 10–12"
+      },
+      {
+        "title": "探索中国传播理论的可喜尝试——介绍《华夏传播论》",
+        "source_id": "S071",
+        "purpose": "作为研究史线索；取得全文后再核读早期概念与评价。",
+        "level": "advanced",
+        "locator": "当前仅核元数据"
+      }
+    ],
+    "learning_links": [
+      {
+        "target_id": "r5-china-history",
+        "reason": "先建立中国新闻传播学术史和机构史背景。",
+        "sequence_hint": "before"
+      },
+      {
+        "target_id": "r8-interpretive-methods",
+        "reason": "理解史料解释、话语分析和方法透明度。",
+        "sequence_hint": "after"
+      },
+      {
+        "target_id": "r6-decolonial",
+        "reason": "比较本土知识建构与去殖民传播研究的问题意识及差异。",
+        "sequence_hint": "compare"
+      }
+    ],
+    "temporal_profile": "evolving",
+    "as_of": "2026-09-11",
+    "last_evidence_check": "2026-09-11",
+    "next_review_due": "2027-03-01",
+    "controversy_status": "contested",
+    "controversy_note": "研究对象、学科边界、概念成熟度、价值立场及传统材料如何进入当代理论仍需持续讨论。",
+    "review_status": "ready_for_review",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-11",
+    "reviewed_at": null
+  },
+  {
+    "id": "r3-political-economy",
+    "slug": "political-economy-communication",
+    "record_level": "complete",
+    "type": "tradition",
+    "subtype": null,
+    "name_zh": "传播政治经济学",
+    "name_original": "Political economy of communication",
+    "aliases": [],
+    "summary": "传播政治经济学研究权力关系如何共同构成传播资源的生产、分配与消费，并把媒介与信息系统放进更广的经济、政治、社会和文化关系中。它关注所有权、劳动、商品化、制度与历史变迁，但内部包含多种立场。",
+    "why_it_matters": "它帮助学生追问平台、媒体和内容背后的资源从哪里来、由谁控制、劳动如何组织、收益和风险如何分配，以及传播制度怎样连接阶级、性别、种族、全球化与民主问题。",
+    "central_questions": [
+      "谁控制传播资源的生产、分配与消费，权力如何运作？",
+      "传播商品、劳动和制度如何嵌入资本与国家关系？",
+      "技术与媒介变迁是在改造资本主义，还是形成了不同社会秩序？"
+    ],
+    "internal_differences": [
+      {
+        "id": "r3pe-i1",
+        "statement": "政治经济研究并非单一马克思主义版本；Mosco列举制度主义、保守主义、新马克思主义、自主主义、女性主义与环境取向等不同路线。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S068",
+            "locator": "chapter excerpt pp. 2–3，social totality paragraph",
+            "support_note": "作者直接列举不同政治经济学派，并说明其共同关注整体社会关系。",
+            "support_role": "supports"
+          }
+        ]
+      }
+    ],
+    "naming_boundary": "传播政治经济学不等同于媒介企业的财务分析，也不只是对资本主义的态度表达；合格研究需要把权力判断与所有权、政策、劳动、市场或资源流动的证据连接起来。",
+    "key_points": [
+      {
+        "id": "r3pe-k1",
+        "statement": "Mosco的窄义定义把政治经济学界定为研究共同构成资源生产、分配和消费的社会关系，尤其是权力关系，并明确包括传播资源。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S068",
+            "locator": "chapter excerpt p. 1, lines 46–62",
+            "support_note": "作者章节直接给出定义并说明其对传播产业运作的关注。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r3pe-k2",
+        "statement": "该传统强调历史变迁、社会总体、道德哲学与实践，而不是把经济、政治和文化切成彼此无关的部分。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S068",
+            "locator": "chapter excerpt pp. 2–3, lines 77–111",
+            "support_note": "章节直接列出四项共同品质并展开历史与社会总体。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r3pe-k3",
+        "statement": "传播政治经济学既分析传播系统怎样受权力与财富影响，也分析这些系统如何反过来影响更广的社会与文化生活。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S068",
+            "locator": "chapter excerpt p. 3, lines 97–108",
+            "support_note": "作者明确把传播、信息和娱乐系统与权力、财富及社会文化生活的双向关系相连。",
+            "support_role": "supports"
+          }
+        ]
+      }
+    ],
+    "limits_or_debates": [
+      {
+        "id": "r3pe-l1",
+        "statement": "只列平台市值、市场份额或所有者名单还不是完整政治经济分析；研究需要解释这些资源结构如何构成权力和社会关系。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "S068",
+            "locator": "definition and social totality sections",
+            "support_note": "据定义中对社会关系、权力和总体性的强调形成方法边界。",
+            "support_role": "qualifies"
+          }
+        ]
+      },
+      {
+        "id": "r3pe-l2",
+        "statement": "不同政治经济传统在国家、市场、阶级、性别、种族、环境与变革路径上的判断并不一致。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S068",
+            "locator": "chapter excerpt pp. 2–3",
+            "support_note": "作者列举多种学派并说明其存在分歧。",
+            "support_role": "qualifies"
+          }
+        ]
+      }
+    ],
+    "area_memberships": [
+      {
+        "area_id": "media_society",
+        "is_primary": true,
+        "rationale": "研究传播系统与经济、政治及社会结构的相互构成。"
+      },
+      {
+        "area_id": "institutions",
+        "is_primary": false,
+        "rationale": "所有权、政策、组织和劳动制度是主要分析对象。"
+      },
+      {
+        "area_id": "power_culture",
+        "is_primary": false,
+        "rationale": "权力、阶级及不平等贯穿该传统。"
+      },
+      {
+        "area_id": "digital_ai",
+        "is_primary": false,
+        "rationale": "平台资本、数据与自动化延伸了传播资源的政治经济问题。"
+      }
+    ],
+    "learning_resources": [
+      {
+        "title": "Overview of the Political Economy of Communication",
+        "source_id": "S068",
+        "purpose": "先掌握定义、共同特征与内部学派，再进入平台或产业个案。",
+        "level": "intermediate",
+        "locator": "pp. 1–4"
+      }
+    ],
+    "learning_links": [
+      {
+        "target_id": "r3-media-industries",
+        "reason": "把资源与权力框架用于具体媒介产业。",
+        "sequence_hint": "after"
+      },
+      {
+        "target_id": "r3-platformization",
+        "reason": "观察平台商业模式、基础设施与资本关系。",
+        "sequence_hint": "after"
+      },
+      {
+        "target_id": "r6-cultural-studies",
+        "reason": "比较制度资源分析与文化意义、日常实践分析。",
+        "sequence_hint": "compare"
+      }
+    ],
+    "temporal_profile": "relatively_stable",
+    "last_evidence_check": "2026-09-11",
+    "controversy_status": "contested",
+    "controversy_note": "传统内部对理论基础、分析尺度与变革方案存在分歧；本知识点采用Mosco的综合入口而非宣称统一立场。",
+    "review_status": "ready_for_review",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-11",
+    "reviewed_at": null
+  },
+  {
+    "id": "r4-effects",
+    "slug": "communication-effects",
+    "record_level": "complete",
+    "type": "tradition",
+    "subtype": null,
+    "name_zh": "传播效果研究",
+    "name_original": "Media effects research",
+    "aliases": [
+      {
+        "name": "媒介效果",
+        "kind": "common_name",
+        "note": "本知识点以媒介效果研究为主要证据入口。"
+      }
+    ],
+    "summary": "传播效果研究考察媒介使用如何在特定条件下与认知、情绪、态度和行为的短期或长期变化相关。它不是一条从‘强效果’到‘无效果’的单线故事，而是一组解释效果何时、对谁、通过何种过程发生的理论与证据传统。",
+    "why_it_matters": "它让学生能审慎回答‘媒介有没有影响’：先明确媒介使用、结果变量、时间尺度、个体差异、情境和研究设计，再评估效应大小与替代解释，而不是从个案或相关性直接推出普遍因果。",
+    "central_questions": [
+      "什么媒介使用会对哪些人产生何种变化？",
+      "效果通过哪些心理、社会或互动过程形成？",
+      "选择性接触、个体差异和媒介环境如何限定效果？"
+    ],
+    "internal_differences": [
+      {
+        "id": "r4eff-i1",
+        "statement": "不同效果理论聚焦的结果、时间尺度与机制不同；议程设置、培养、框架和说服不能被压缩为一个通用‘媒介影响模型’。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "S069",
+            "locator": "abstract；the five features of media effects theories；conclusion",
+            "support_note": "综述比较多个著名理论的共同特征与不同条件，据此形成不可合并的教学边界。",
+            "support_role": "supports"
+          }
+        ]
+      }
+    ],
+    "naming_boundary": "本知识点是研究传统而非单一理论，也不等同于‘媒体操纵人’的强效果假设。它与受众研究、选择性接触和人际互动相连，效果可以很小、间接、累积、相互作用或只在特定人群中出现。",
+    "key_points": [
+      {
+        "id": "r4eff-k1",
+        "statement": "Valkenburg等把媒介效果界定为媒介使用导致的认知、情绪、态度与行为的有意或无意、短期或长期的个体内变化。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S069",
+            "locator": "PDF p. 2, definition box, lines 40–59",
+            "support_note": "综述全文直接给出 media use 与 media effects 的定义。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r4eff-k2",
+        "statement": "当代效果理论更关注效果发生的条件、个体差异和交易性过程，而不是假定信息对所有受众产生同样的单向影响。",
+        "evidence_status": "direct",
+        "evidence": [
+          {
+            "source_id": "S069",
+            "locator": "abstract and sections on conditional and transactional media effects",
+            "support_note": "综述摘要与正文明确强调条件性、个体差异及从单向接收者模型走向交易性解释。",
+            "support_role": "supports"
+          }
+        ]
+      },
+      {
+        "id": "r4eff-k3",
+        "statement": "效果研究同时依赖具体理论、研究设计与累积证据；单项研究或单个显著结果不足以代表整个传统。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "S069",
+            "locator": "abstract；Meta-Analyses of Media Effects",
+            "support_note": "综述以元分析和高被引理论的文献计量结果评估共同特征，支持强调累积证据。",
+            "support_role": "supports"
+          }
+        ]
+      }
+    ],
+    "limits_or_debates": [
+      {
+        "id": "r4eff-l1",
+        "statement": "观察到媒介接触与态度相关，不足以证明媒介造成态度变化；选择、反向因果与共同原因必须由设计处理。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "S069",
+            "locator": "sections on selectivity and transactional effects",
+            "support_note": "据综述对选择性与交易性关系的强调形成因果推断边界。",
+            "support_role": "qualifies"
+          }
+        ]
+      },
+      {
+        "id": "r4eff-l2",
+        "statement": "‘强效果—有限效果—新强效果’的简化阶段史会遮蔽不同理论、方法和问题长期共存的事实。",
+        "evidence_status": "interpretive",
+        "evidence": [
+          {
+            "source_id": "S069",
+            "locator": "full review",
+            "support_note": "综述以跨理论共同特征而非线性阶段划分组织材料；本条是据此形成的教学警示。",
+            "support_role": "qualifies"
+          }
+        ]
+      }
+    ],
+    "area_memberships": [
+      {
+        "area_id": "effects",
+        "is_primary": true,
+        "rationale": "核心是媒介使用与认知、情绪、态度及行为变化。"
+      },
+      {
+        "area_id": "media_society",
+        "is_primary": false,
+        "rationale": "长期累积效果和媒介环境会连接社会层次问题。"
+      },
+      {
+        "area_id": "research_application",
+        "is_primary": false,
+        "rationale": "效果主张的可信度高度依赖测量、设计和证据综合。"
+      }
+    ],
+    "learning_resources": [
+      {
+        "title": "Media Effects: Theory and Research",
+        "source_id": "S069",
+        "purpose": "用综述建立‘条件性效果’框架，再进入具体理论。",
+        "level": "intermediate",
+        "locator": "abstract；definitions；five features；conclusion"
+      }
+    ],
+    "learning_links": [
+      {
+        "target_id": "r4-agenda-setting",
+        "reason": "学习效果传统中的认知显著性路径。",
+        "sequence_hint": "after"
+      },
+      {
+        "target_id": "r4-cultivation",
+        "reason": "比较长期累积暴露与其他效果路径。",
+        "sequence_hint": "after"
+      },
+      {
+        "target_id": "r4-audience",
+        "reason": "把受众选择、解释和能动性带回效果研究。",
+        "sequence_hint": "compare"
+      },
+      {
+        "target_id": "r8-experiment",
+        "reason": "理解一种常见因果识别设计及其外部效度限制。",
+        "sequence_hint": "after"
+      }
+    ],
+    "temporal_profile": "relatively_stable",
+    "last_evidence_check": "2026-09-11",
+    "controversy_status": "contested",
+    "controversy_note": "效果大小、因果识别、选择性、可复制性、媒介环境变化与个体差异持续构成争论。",
+    "review_status": "ready_for_review",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-11",
+    "reviewed_at": null
+  }
+]

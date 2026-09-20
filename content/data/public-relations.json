@@ -1,0 +1,1184 @@
+[
+  {
+    "id": "rel-china-introduction-contrasts-china-history",
+    "source_id": "r1-china-introduction",
+    "target_id": "r5-china-history",
+    "relation_type": "contrasts_with",
+    "statement_zh": "传播学再引进与学科化知识点观察1978年前后的知识译介和学术建制，中国新闻传播史知识点则以新闻媒介、制度与实践的长时段变化为对象；两者有交叉，但研究对象和时间尺度不同。",
+    "scope_note": "这是对两个导览知识点范围的编辑比较，不声称两个研究领域在学理上对立；对称关系仅保存此一条。",
+    "evidence_status": "interpretive",
+    "evidence": [
+      {
+        "source_id": "C17",
+        "locator": "改革开放后传播学发展相关段落",
+        "support_note": "支持传播学知识译介与学科建制的学术史范围。",
+        "support_role": "supports"
+      },
+      {
+        "source_id": "C15",
+        "locator": "绪论及第一章至第十三章目录",
+        "support_note": "支持所引新闻传播史教材的长时段新闻事业范围。",
+        "support_role": "supports"
+      }
+    ],
+    "controversy_note": null,
+    "review_status": "reviewed",
+    "reviewed_at": "2026-09-11"
+  },
+  {
+    "id": "rel-marxist-journalism-addresses-journalism",
+    "source_id": "r5-marxist-journalism",
+    "target_id": "r5-journalism",
+    "relation_type": "addresses",
+    "statement_zh": "2019年《马克思主义新闻观十二讲》围绕新闻事实与真实、新闻事业性质、权利责任及法治道德等问题组织该规范性与理论性传统，因而为新闻学与新闻研究的相关问题提供一个特定教学入口。",
+    "scope_note": "关系限定为2019年该教材所组织的问题范围；不声称其规范性回答已获经验验证，也不覆盖全部新闻研究。",
+    "evidence_status": "direct",
+    "evidence": [
+      {
+        "source_id": "C19",
+        "locator": "第二讲至第十讲目录",
+        "support_note": "目录直接显示该教材以新闻事实、真实、事业性质、权利责任和法治道德等问题组织内容。",
+        "support_role": "supports"
+      }
+    ],
+    "controversy_note": null,
+    "review_status": "reviewed",
+    "reviewed_at": "2026-09-11"
+  },
+  {
+    "id": "rel-china-history-contrasts-marxist-journalism",
+    "source_id": "r5-china-history",
+    "target_id": "r5-marxist-journalism",
+    "relation_type": "contrasts_with",
+    "statement_zh": "中国新闻传播史知识点以史料重建不同时期的新闻制度与实践，马克思主义新闻观知识点则组织规范性与理论性命题；这是知识点任务的比较，不意味着两者学术对立或史学没有解释立场。",
+    "scope_note": "只比较历史重建与规范／理论组织两种页面任务；规范文本不替代历史事实证据。",
+    "evidence_status": "interpretive",
+    "evidence": [
+      {
+        "source_id": "C15",
+        "locator": "全书目录，尤其第十二章第一节“新闻传播观念更新与马克思主义新闻观教育”",
+        "support_note": "教材把新闻观教育置于具体历史阶段中，显示历史对象与规范传统的交点。",
+        "support_role": "supports"
+      },
+      {
+        "source_id": "C19",
+        "locator": "全书简介与目录",
+        "support_note": "支持马克思主义新闻观知识点的规范性、理论性组织方式。",
+        "support_role": "supports"
+      }
+    ],
+    "controversy_note": null,
+    "review_status": "reviewed",
+    "reviewed_at": "2026-09-11"
+  },
+  {
+    "id": "rel-rogers-proposed-diffusion",
+    "source_id": "p-everett-rogers",
+    "target_id": "r4-diffusion-innovations",
+    "relation_type": "proposed",
+    "statement_zh": "埃弗雷特·罗杰斯通过《创新扩散》系列著作系统建立并传播了创新扩散理论。",
+    "scope_note": "“提出”在此指对理论框架的系统化发展，不抹去更早的扩散研究传统。",
+    "evidence_status": "direct",
+    "evidence": [
+      {
+        "source_id": "S110",
+        "locator": "Biography",
+        "support_note": "机构人物页明确将 Rogers 的著述与创新扩散理论、早期采用者术语及同伴传播联系起来。",
+        "support_role": "supports"
+      }
+    ],
+    "controversy_note": null,
+    "review_status": "reviewed",
+    "reviewed_at": "2026-09-11"
+  },
+  {
+    "id": "rel-noelle-proposed-spiral",
+    "source_id": "p-noelle-neumann",
+    "target_id": "r4-spiral-silence",
+    "relation_type": "proposed",
+    "statement_zh": "伊丽莎白·诺尔-诺依曼提出并发展了沉默的螺旋理论。",
+    "scope_note": "只确认理论提出与人物研究线索，不把后续所有修正归于单一作者。",
+    "evidence_status": "direct",
+    "evidence": [
+      {
+        "source_id": "S111",
+        "locator": "Scientific Work: Spiral of Silence",
+        "support_note": "人物科学工作档案以专栏记录她与沉默的螺旋理论的关系。",
+        "support_role": "supports"
+      }
+    ],
+    "controversy_note": null,
+    "review_status": "reviewed",
+    "reviewed_at": "2026-09-11"
+  },
+  {
+    "id": "rel-katz-developed-two-step",
+    "source_id": "p-elihu-katz",
+    "target_id": "r4-two-step",
+    "relation_type": "developed",
+    "statement_zh": "伊莱休·卡茨通过《个人影响》及其后续研究发展了两级传播和个人影响研究。",
+    "scope_note": "两级传播有《人民的选择》等前史，此处采用“发展”而非单独“发明”。",
+    "evidence_status": "direct",
+    "evidence": [
+      {
+        "source_id": "S114",
+        "locator": "Biography and Personal Influence",
+        "support_note": "宾大纪念页记录卡茨在哥伦比亚研究环境中完成《个人影响》并影响传播研究。",
+        "support_role": "supports"
+      },
+      {
+        "source_id": "S116",
+        "locator": "Publisher description",
+        "support_note": "出版社简介将合著与意见领袖、人际网络中的媒介信息流联系起来。",
+        "support_role": "supports"
+      }
+    ],
+    "controversy_note": null,
+    "review_status": "reviewed",
+    "reviewed_at": "2026-09-11"
+  },
+  {
+    "id": "rel-katz-developed-opinion-leadership",
+    "source_id": "p-elihu-katz",
+    "target_id": "c-opinion-leadership",
+    "relation_type": "developed",
+    "statement_zh": "卡茨与合作者通过 Decatur 研究系统发展了意见领袖与个人影响概念。",
+    "scope_note": "概念源流包含更早的选举研究和多位研究者，关系不作单人归功。",
+    "evidence_status": "direct",
+    "evidence": [
+      {
+        "source_id": "S116",
+        "locator": "Publisher description",
+        "support_note": "出版社简介直接说明《个人影响》研究意见领袖如何解释并向个人网络扩散媒介信息。",
+        "support_role": "supports"
+      }
+    ],
+    "controversy_note": null,
+    "review_status": "reviewed",
+    "reviewed_at": "2026-09-11"
+  },
+  {
+    "id": "rel-katz-developed-uses-gratifications",
+    "source_id": "p-elihu-katz",
+    "target_id": "r4-uses-gratifications",
+    "relation_type": "developed",
+    "statement_zh": "卡茨对使用与满足研究路线的发展作出了持续贡献。",
+    "scope_note": "该理论有多位共同奠基者和不同版本，不表述为卡茨单独提出。",
+    "evidence_status": "direct",
+    "evidence": [
+      {
+        "source_id": "S114",
+        "locator": "Career and contributions",
+        "support_note": "宾大官方纪念页明确把 uses and gratifications 列为卡茨的传播学贡献领域。",
+        "support_role": "supports"
+      }
+    ],
+    "controversy_note": null,
+    "review_status": "reviewed",
+    "reviewed_at": "2026-09-11"
+  },
+  {
+    "id": "rel-lazarsfeld-developed-two-step",
+    "source_id": "p-paul-lazarsfeld",
+    "target_id": "r4-two-step",
+    "relation_type": "developed",
+    "statement_zh": "拉扎斯菲尔德及其合作网络通过选举与个人影响研究发展了两级传播问题。",
+    "scope_note": "强调合作网络和研究序列，不将模型归功于单一论文或个人。",
+    "evidence_status": "direct",
+    "evidence": [
+      {
+        "source_id": "S119",
+        "locator": "Chapters 13-16 and publisher description",
+        "support_note": "《人民的选择》目录与出版社介绍把媒介接触、群体结构和个人影响置于同一研究中。",
+        "support_role": "supports"
+      },
+      {
+        "source_id": "S116",
+        "locator": "Publisher description",
+        "support_note": "《个人影响》出版社简介明确记录 Lazarsfeld 与 Katz 的合著及意见领袖研究。",
+        "support_role": "supports"
+      }
+    ],
+    "controversy_note": null,
+    "review_status": "reviewed",
+    "reviewed_at": "2026-09-11"
+  },
+  {
+    "id": "rel-lazarsfeld-developed-opinion-leadership",
+    "source_id": "p-paul-lazarsfeld",
+    "target_id": "c-opinion-leadership",
+    "relation_type": "developed",
+    "statement_zh": "拉扎斯菲尔德及其同事通过选举研究和《个人影响》发展了意见领导问题。",
+    "scope_note": "不把非正式社会影响缩减为一个固定的“意见领袖人格”。",
+    "evidence_status": "direct",
+    "evidence": [
+      {
+        "source_id": "S116",
+        "locator": "Publisher description",
+        "support_note": "来源直接把 Lazarsfeld 的合作研究与意见领袖、信息解释和个人网络扩散联系起来。",
+        "support_role": "supports"
+      }
+    ],
+    "controversy_note": null,
+    "review_status": "reviewed",
+    "reviewed_at": "2026-09-11"
+  },
+  {
+    "id": "rel-gerbner-developed-cultivation",
+    "source_id": "p-gerbner",
+    "target_id": "r4-cultivation",
+    "relation_type": "developed",
+    "statement_zh": "乔治·格伯纳领导 Cultural Indicators 研究计划并发展涵化分析。",
+    "scope_note": "关系指研究计划和理论路线，不表示后续所有涵化研究都由他单独完成。",
+    "evidence_status": "direct",
+    "evidence": [
+      {
+        "source_id": "S044",
+        "locator": "Cultivation Analysis, archival document pp. 6-7",
+        "support_note": "档案材料直接说明信息系统分析、调查与不同观看量比较的涵化程序。",
+        "support_role": "supports"
+      },
+      {
+        "source_id": "S053",
+        "locator": "The Gerbner Years",
+        "support_note": "学院历史页记录其研究与学科建设。",
+        "support_role": "supports"
+      }
+    ],
+    "controversy_note": null,
+    "review_status": "reviewed",
+    "reviewed_at": "2026-09-11"
+  },
+  {
+    "id": "rel-lasswell-developed-process",
+    "source_id": "p-lasswell",
+    "target_id": "r1-process",
+    "relation_type": "developed",
+    "statement_zh": "拉斯韦尔以“谁—说什么—通过何种渠道—对谁—产生什么效果”的问题链发展了传播过程分析框架。",
+    "scope_note": "这一公式是过程分析入口，不等同于完整传播理论，也不覆盖反馈、语境和权力。",
+    "evidence_status": "direct",
+    "evidence": [
+      {
+        "source_id": "S048",
+        "locator": "The Structure and Function of Communication in Society, opening formulation",
+        "support_note": "原文直接列出传播行为研究的五个问题。",
+        "support_role": "supports"
+      }
+    ],
+    "controversy_note": null,
+    "review_status": "reviewed",
+    "reviewed_at": "2026-09-11"
+  },
+  {
+    "id": "rel-elm-addresses-persuasion",
+    "source_id": "r4-elaboration-likelihood",
+    "target_id": "r4-persuasion",
+    "relation_type": "addresses",
+    "statement_zh": "精细加工可能性模型用于分析受众在不同动机与能力条件下如何加工说服信息。",
+    "scope_note": "它解释说服加工的一组机制，不等于覆盖说服研究的全部社会、文化和制度层面。",
+    "evidence_status": "direct",
+    "evidence": [
+      {
+        "source_id": "S112",
+        "locator": "Publisher summary",
+        "support_note": "出版社摘要明确列出两条说服路径及变量改变论据审视程度的命题。",
+        "support_role": "supports"
+      }
+    ],
+    "controversy_note": null,
+    "review_status": "reviewed",
+    "reviewed_at": "2026-09-11"
+  },
+  {
+    "id": "rel-third-person-addresses-political",
+    "source_id": "r4-third-person-effect",
+    "target_id": "r5-political",
+    "relation_type": "addresses",
+    "statement_zh": "第三人效果可用于分析政治传播中对宣传影响的判断以及由此产生的审查或管制倾向。",
+    "scope_note": "现有来源支持宣传、统治者与审查例子，不扩展为政治传播的全部机制。",
+    "evidence_status": "direct",
+    "evidence": [
+      {
+        "source_id": "S113",
+        "locator": "Abstract",
+        "support_note": "原始论文摘要直接讨论宣传、政治统治者的担忧和审查行为。",
+        "support_role": "supports"
+      }
+    ],
+    "controversy_note": null,
+    "review_status": "reviewed",
+    "reviewed_at": "2026-09-11"
+  },
+  {
+    "id": "rel-two-step-has-opinion-leadership",
+    "source_id": "r4-two-step",
+    "target_id": "c-opinion-leadership",
+    "relation_type": "has_concept",
+    "statement_zh": "意见领袖是两级传播与个人影响研究中的核心概念。",
+    "scope_note": "只说明经典模型内部的概念位置，不把当代传播流动限定为两个阶段。",
+    "evidence_status": "direct",
+    "evidence": [
+      {
+        "source_id": "S116",
+        "locator": "Publisher description",
+        "support_note": "出版社简介直接以意见领袖解释媒介消息在人际网络中的中介与扩散。",
+        "support_role": "supports"
+      }
+    ],
+    "controversy_note": null,
+    "review_status": "reviewed",
+    "reviewed_at": "2026-09-11"
+  },
+  {
+    "id": "rel-bandura-developed-social-cognitive",
+    "source_id": "p-albert-bandura",
+    "target_id": "r4-social-cognitive",
+    "relation_type": "developed",
+    "statement_zh": "阿尔伯特·班杜拉发展了社会认知理论，并将其系统用于大众传播。",
+    "scope_note": "这是跨学科理论；关系不表示理论只属于传播学。",
+    "evidence_status": "direct",
+    "evidence": [
+      {
+        "source_id": "S121",
+        "locator": "Byline and abstract",
+        "support_note": "原论文由 Bandura 署名，摘要明确以社会认知理论分析大众传播。",
+        "support_role": "supports"
+      },
+      {
+        "source_id": "S122",
+        "locator": "Career overview",
+        "support_note": "斯坦福官方资料确认其观察学习、自我效能和社会认知贡献。",
+        "support_role": "supports"
+      }
+    ],
+    "controversy_note": null,
+    "review_status": "reviewed",
+    "reviewed_at": "2026-09-11"
+  },
+  {
+    "id": "rel-berger-developed-uncertainty-reduction",
+    "source_id": "p-charles-berger",
+    "target_id": "r1-uncertainty-reduction",
+    "relation_type": "developed",
+    "statement_zh": "查尔斯·伯格与理查德·卡拉布里斯合作发展了不确定性降低理论。",
+    "scope_note": "强调合著，且原始论文范围是初次交往。",
+    "evidence_status": "direct",
+    "evidence": [
+      {
+        "source_id": "S123",
+        "locator": "Byline and abstract",
+        "support_note": "原文署名 Berger 与 Calabrese，并概括初次交往理论。",
+        "support_role": "supports"
+      },
+      {
+        "source_id": "S124",
+        "locator": "Memorial overview",
+        "support_note": "UC Davis 纪念页将不确定性降低理论列为 Berger 最知名的贡献。",
+        "support_role": "supports"
+      }
+    ],
+    "controversy_note": null,
+    "review_status": "reviewed",
+    "reviewed_at": "2026-09-11"
+  },
+  {
+    "id": "rel-ball-rokeach-developed-media-dependency",
+    "source_id": "p-sandra-ball-rokeach",
+    "target_id": "r4-media-dependency",
+    "relation_type": "developed",
+    "statement_zh": "桑德拉·鲍尔-罗奇与梅尔文·德弗勒合作提出媒介系统依赖模型。",
+    "scope_note": "这是合著的系统关系模型，不等于个人媒介成瘾。",
+    "evidence_status": "direct",
+    "evidence": [
+      {
+        "source_id": "S125",
+        "locator": "Byline and abstract",
+        "support_note": "原始论文的合著与摘要直接支持这一关系。",
+        "support_role": "supports"
+      }
+    ],
+    "controversy_note": null,
+    "review_status": "reviewed",
+    "reviewed_at": "2026-09-11"
+  },
+  {
+    "id": "rel-carey-developed-ritual-view",
+    "source_id": "p-james-carey",
+    "target_id": "c-ritual-view",
+    "relation_type": "developed",
+    "statement_zh": "詹姆斯·凯里发展并普及了传播的仪式观。",
+    "scope_note": "“发展”不表示共享与仪式的传播思想在 Carey 之前不存在。",
+    "evidence_status": "direct",
+    "evidence": [
+      {
+        "source_id": "S129",
+        "locator": "James Carey legacy and ritual view",
+        "support_note": "伊利诺伊大学媒体学院官方资料将 ritual view 列为其标志性贡献。",
+        "support_role": "supports"
+      }
+    ],
+    "controversy_note": null,
+    "review_status": "reviewed",
+    "reviewed_at": "2026-09-11"
+  },
+  {
+    "id": "rel-mead-developed-symbolic-interaction",
+    "source_id": "p-george-herbert-mead",
+    "target_id": "c-symbolic-interaction",
+    "relation_type": "developed",
+    "statement_zh": "乔治·赫伯特·米德的语言、自我与社会理论奠定了符号互动传统的重要基础。",
+    "scope_note": "Mead 本人未使用“符号互动论”这一名称，因此采用“奠定重要基础”而非单独提出。",
+    "evidence_status": "direct",
+    "evidence": [
+      {
+        "source_id": "S130",
+        "locator": "Introduction; Language and Mind",
+        "support_note": "SEP 称 Mead 常被视为该学派之父，同时明确他未使用该名称。",
+        "support_role": "qualifies"
+      }
+    ],
+    "controversy_note": "学派命名与人物追溯需保留历史边界。",
+    "review_status": "reviewed",
+    "reviewed_at": "2026-09-11"
+  },
+  {
+    "id": "rel-social-presence-addresses-cmc",
+    "source_id": "r1-social-presence",
+    "target_id": "r1-cmc",
+    "relation_type": "addresses",
+    "statement_zh": "社会临场感理论是分析计算机中介传播中他人在场感的一条经典理论路径。",
+    "scope_note": "CMC 还有线索过滤、社会信息处理、超人际等其他理论，不由临场感单独覆盖。",
+    "evidence_status": "direct",
+    "evidence": [
+      {
+        "source_id": "S128",
+        "locator": "Chapter title and overview",
+        "support_note": "Cambridge 章节直接以 Social Presence in CMC and VR 为题讨论其应用。",
+        "support_role": "supports"
+      }
+    ],
+    "controversy_note": null,
+    "review_status": "reviewed",
+    "reviewed_at": "2026-09-11"
+  },
+  {
+    "id": "rel-media-richness-addresses-organizational",
+    "source_id": "c-media-richness",
+    "target_id": "r1-organizational",
+    "relation_type": "addresses",
+    "statement_zh": "媒介丰富度概念用于分析组织如何以结构与信息机制应对不确定性和模棱两可性。",
+    "scope_note": "概念原始来自组织设计问题，不是一张脱离任务的通用媒介排名。",
+    "evidence_status": "direct",
+    "evidence": [
+      {
+        "source_id": "S127",
+        "locator": "Abstract",
+        "support_note": "原文摘要直接将组织结构、信息丰富度与不确定性和模棱两可性联系起来。",
+        "support_role": "supports"
+      }
+    ],
+    "controversy_note": null,
+    "review_status": "reviewed",
+    "reviewed_at": "2026-09-11"
+  },
+  {
+    "id": "rel-hall-proposed-encoding-decoding",
+    "source_id": "p-hall",
+    "target_id": "r2-encoding-decoding",
+    "relation_type": "proposed",
+    "statement_zh": "霍尔在1973年讨论稿中系统提出以编码与解码重构电视传播过程的模型。",
+    "scope_note": "此关系不概括解码位置数量；1973年稿的四种位置与后来常见三分版本须分开处理。",
+    "evidence_status": "direct",
+    "evidence": [
+      {
+        "source_id": "G16",
+        "locator": "PDF pp. 3-5（文内 pp. 2-4），流程模型与代码不对称段落",
+        "support_note": "霍尔署名的1973年讨论稿直接以编码与解码环节重构电视传播过程。",
+        "support_role": "supports"
+      }
+    ],
+    "controversy_note": null,
+    "review_status": "reviewed",
+    "reviewed_at": "2026-09-11"
+  },
+  {
+    "id": "rel-encoding-decoding-addresses-audience",
+    "source_id": "r2-encoding-decoding",
+    "target_id": "r4-audience",
+    "relation_type": "addresses",
+    "statement_zh": "编码／解码模型为研究受众如何接受、协商或反对媒介意义提供理论入口，但不能替代多维的经验受众研究。",
+    "scope_note": "关系只说明受众与接受研究的问题入口，不声称常见三分框架足以描述全部接收过程。",
+    "evidence_status": "interpretive",
+    "evidence": [
+      {
+        "source_id": "S006",
+        "locator": "摘要",
+        "support_note": "摘要把三种意识形态解读位置放入经验受众话语研究并提出多维修正，为该有限关系提供支持。",
+        "support_role": "qualifies"
+      }
+    ],
+    "controversy_note": null,
+    "review_status": "reviewed",
+    "reviewed_at": "2026-09-11"
+  },
+  {
+    "id": "rel-mcluhan-associated-medium-theory",
+    "source_id": "p-mcluhan",
+    "target_id": "r3-medium-theory",
+    "relation_type": "associated_with",
+    "statement_zh": "McLuhan的媒介形式取向是Meyrowitz所称medium theory的重要思想参照；这一关联不表示传统等同于McLuhan一人的思想。",
+    "scope_note": "只记录Meyrowitz对该取向与McLuhan的明确关联及超越他的主张；不用proposed或developed，不声称单一创始权。",
+    "evidence_status": "direct",
+    "evidence": [
+      {
+        "source_id": "P01",
+        "locator": "印刷pp.8–10（PDF第1–3页），开场及Four Temptations第一项；p.20（PDF第13页），Conclusion",
+        "support_note": "p.10作者明确将其所称medium theory联系到McLuhan的媒介形式分析；开场与结语要求在其贡献基础上超越单一作者。",
+        "support_role": "supports"
+      }
+    ],
+    "controversy_note": "这是传统内部作者对思想参照的明确陈述，不裁定所有媒介理论谱系或对McLuhan具体预测的争论。",
+    "review_status": "reviewed",
+    "reviewed_at": "2026-09-14"
+  },
+  {
+    "id": "rel-medium-theory-contrasts-effects",
+    "source_id": "r3-medium-theory",
+    "target_id": "r4-effects",
+    "relation_type": "contrasts_with",
+    "statement_zh": "媒介理论优先比较传播环境和技术形式本身的差异，与效果研究中主要追问特定内容如何影响态度或行为的子范围形成对照。",
+    "scope_note": "对照仅限以具体信息内容及态度或行为变化为问题的效果研究，不概括全部传播效果传统。",
+    "evidence_status": "interpretive",
+    "evidence": [
+      {
+        "source_id": "S002",
+        "locator": "摘要",
+        "support_note": "摘要支持媒介理论一侧对媒介技术影响与具体信息内容影响的区分；跨知识点对照是编辑比较。",
+        "support_role": "qualifies"
+      }
+    ],
+    "controversy_note": null,
+    "review_status": "reviewed",
+    "reviewed_at": "2026-09-11"
+  },
+  {
+    "id": "rel-mccombs-proposed-agenda-setting",
+    "source_id": "p-mccombs",
+    "target_id": "r4-agenda-setting",
+    "relation_type": "proposed",
+    "statement_zh": "Maxwell E. McCombs与Donald L. Shaw在1972年论文中共同把既有的媒介议题突出问题表述为议程设置假说并作初步检验。",
+    "scope_note": "此边不主张相关思想没有前史，也不把论文中的相关证据说成因果证明。",
+    "evidence_status": "direct",
+    "evidence": [
+      {
+        "source_id": "G17",
+        "locator": "重印 pp. 105-113／原刊 pp. 176-184，论文署名、假说、METHOD与DISCUSSION",
+        "support_note": "完整重印文本的署名、假说、方法和讨论共同支持两位作者表述并初步检验议程设置假说。",
+        "support_role": "supports"
+      }
+    ],
+    "controversy_note": null,
+    "review_status": "reviewed",
+    "reviewed_at": "2026-09-11"
+  },
+  {
+    "id": "rel-shaw-proposed-agenda-setting",
+    "source_id": "p-shaw",
+    "target_id": "r4-agenda-setting",
+    "relation_type": "proposed",
+    "statement_zh": "Donald L. Shaw与Maxwell E. McCombs在1972年论文中共同把既有的媒介议题突出问题表述为议程设置假说并作初步检验。",
+    "scope_note": "此边不主张相关思想没有前史，也不把论文中的相关证据说成因果证明。",
+    "evidence_status": "direct",
+    "evidence": [
+      {
+        "source_id": "G17",
+        "locator": "重印 pp. 105-113／原刊 pp. 176-184，论文署名、假说、METHOD与DISCUSSION",
+        "support_note": "完整重印文本的署名、假说、方法和讨论共同支持两位作者表述并初步检验议程设置假说。",
+        "support_role": "supports"
+      }
+    ],
+    "controversy_note": null,
+    "review_status": "reviewed",
+    "reviewed_at": "2026-09-11"
+  },
+  {
+    "id": "rel-agenda-setting-addresses-political",
+    "source_id": "r4-agenda-setting",
+    "target_id": "r5-political",
+    "relation_type": "addresses",
+    "statement_zh": "经典议程设置研究分析总统竞选中新闻议题强调与选民议题重要性判断之间的关系。",
+    "scope_note": "限定于1968年美国总统竞选与教堂山研究，不代表政治传播领域的全部问题。",
+    "evidence_status": "direct",
+    "evidence": [
+      {
+        "source_id": "G17",
+        "locator": "重印 pp. 106-107／原刊 pp. 177-178，研究问题与METHOD",
+        "support_note": "原文明确以1968年美国总统竞选、竞选新闻和选民议题排序为研究对象。",
+        "support_role": "supports"
+      }
+    ],
+    "controversy_note": null,
+    "review_status": "reviewed",
+    "reviewed_at": "2026-09-11"
+  },
+  {
+    "id": "rel-agenda-setting-contrasts-persuasion",
+    "source_id": "r4-agenda-setting",
+    "target_id": "r4-persuasion",
+    "relation_type": "contrasts_with",
+    "statement_zh": "经典议程设置主要考察公众认为哪些议题重要，与说服和态度改变研究中考察立场方向或态度强度的问题形成对照。",
+    "scope_note": "比较维度限于1972年论文明确区分的议题显著性与态度方向或强度，不概括全部说服研究。",
+    "evidence_status": "interpretive",
+    "evidence": [
+      {
+        "source_id": "G17",
+        "locator": "重印 p. 106／原刊 p. 177",
+        "support_note": "原文支持议程设置一侧对态度方向、强度与议题显著性的区分；与说服研究知识点的对照是编辑比较。",
+        "support_role": "qualifies"
+      }
+    ],
+    "controversy_note": null,
+    "review_status": "reviewed",
+    "reviewed_at": "2026-09-11"
+  },
+  {
+    "id": "rel-hall-associated-cultural-studies",
+    "source_id": "p-hall",
+    "target_id": "r6-cultural-studies",
+    "relation_type": "associated_with",
+    "statement_zh": "霍尔通过CCCS的理论、协作研究和教学实践成为英国文化研究的关键代表，但不是整个传统的唯一创立者。",
+    "scope_note": "关联限定为英国／伯明翰谱系，并保留Hoggart、Johnson、同事、学生和研究小组的集体机构史。",
+    "evidence_status": "interpretive",
+    "evidence": [
+      {
+        "source_id": "G21",
+        "locator": "1964年任职及协作研究段落",
+        "support_note": "伯明翰大学记录霍尔在CCCS的研究、理论与协作组织作用。",
+        "support_role": "supports"
+      },
+      {
+        "source_id": "S005",
+        "locator": "Administrative History",
+        "support_note": "档案史将其置于多位负责人、同事、学生和研究小组共同参与的机构脉络。",
+        "support_role": "qualifies"
+      }
+    ],
+    "controversy_note": null,
+    "review_status": "reviewed",
+    "reviewed_at": "2026-09-11"
+  },
+  {
+    "id": "rel-cultural-studies-addresses-race",
+    "source_id": "r6-cultural-studies",
+    "target_id": "r6-race",
+    "relation_type": "addresses",
+    "statement_zh": "霍尔所代表的英国文化研究路线分析种族、表征与身份问题，伯明翰中心的机构史也记录黑人政治进入其研究议程。",
+    "scope_note": "限定于现有英国／伯明翰材料，不据此代表全球种族与媒介研究。",
+    "evidence_status": "interpretive",
+    "evidence": [
+      {
+        "source_id": "S005",
+        "locator": "Administrative History，关于1980年代初黑人政治的段落",
+        "support_note": "档案直接记录黑人政治问题进入中心议程。",
+        "support_role": "supports"
+      },
+      {
+        "source_id": "S007",
+        "locator": "accepted manuscript pp. 1-2",
+        "support_note": "学术综述概括霍尔对种族、表征与后殖民身份研究的贡献。",
+        "support_role": "supports"
+      }
+    ],
+    "controversy_note": null,
+    "review_status": "reviewed",
+    "reviewed_at": "2026-09-11"
+  },
+  {
+    "id": "rel-hall-developed-representation",
+    "source_id": "p-hall",
+    "target_id": "r2-representation",
+    "relation_type": "developed",
+    "statement_zh": "霍尔推动文化与传播研究把表征作为与权力、差异和身份形成相联的问题来分析。",
+    "scope_note": "这是对其具体分析贡献的二手学术归纳，不主张霍尔原创提出“表征”概念。",
+    "evidence_status": "interpretive",
+    "evidence": [
+      {
+        "source_id": "S007",
+        "locator": "accepted manuscript pp. 1-2",
+        "support_note": "Evans将霍尔的贡献概括为推动表征政治及通过差异形成的身份研究。",
+        "support_role": "supports"
+      }
+    ],
+    "controversy_note": null,
+    "review_status": "reviewed",
+    "reviewed_at": "2026-09-11"
+  },
+  {
+    "id": "rel-gatekeeping-addresses-journalism",
+    "source_id": "r5-gatekeeping",
+    "target_id": "r5-journalism",
+    "relation_type": "addresses",
+    "statement_zh": "把关理论可用于分析新闻电讯稿如何被编辑采用或拒绝，以及编辑给出的取舍理由。",
+    "scope_note": "证据只是一家非都市报纸一位电讯编辑七天工作的个案，不外推为所有新闻组织的选择机制。",
+    "evidence_status": "direct",
+    "evidence": [
+      {
+        "source_id": "G18",
+        "locator": "pp. 383–390，电讯稿采用／拒绝材料与编辑理由分析",
+        "support_note": "全文直接展示新闻材料选择及其理由的研究实例。",
+        "support_role": "supports"
+      }
+    ],
+    "controversy_note": null,
+    "review_status": "reviewed",
+    "reviewed_at": "2026-09-11"
+  },
+  {
+    "id": "rel-gatekeeping-addresses-platform-governance",
+    "source_id": "r5-gatekeeping",
+    "target_id": "r7-platform-governance",
+    "relation_type": "addresses",
+    "statement_zh": "数字新闻把关模型把个人、算法与平台纳入信息选择和可见性分析，可作为平台治理中研究选择权的一种有限视角。",
+    "scope_note": "只限数字新闻传播中的选择与可见性，不代表把关理论能够解释平台治理的全部法律、市场、劳动和数据问题。",
+    "evidence_status": "interpretive",
+    "evidence": [
+      {
+        "source_id": "S014",
+        "locator": "Abstract",
+        "support_note": "摘要明确纳入个人、算法和平台；将其放入平台治理是有范围限制的编辑归纳。",
+        "support_role": "supports"
+      }
+    ],
+    "controversy_note": null,
+    "review_status": "reviewed",
+    "reviewed_at": "2026-09-11"
+  },
+  {
+    "id": "rel-gatekeeping-contrasts-agenda-setting",
+    "source_id": "r5-gatekeeping",
+    "target_id": "r4-agenda-setting",
+    "relation_type": "contrasts_with",
+    "statement_zh": "把关研究首先追问信息如何进入传播流，议程设置研究首先比较媒介议题显著性与公众议题显著性；两者可连续研究，但不能互作同义词。",
+    "scope_note": "比较的是经典研究问题，不把两个领域的全部后续研究压缩为单一差异。",
+    "evidence_status": "interpretive",
+    "evidence": [
+      {
+        "source_id": "G18",
+        "locator": "pp. 383–390，电讯稿选择与拒绝",
+        "support_note": "来源支持把关一侧对新闻材料选择过程的研究对象。",
+        "support_role": "supports"
+      },
+      {
+        "source_id": "G17",
+        "locator": "重印 p.106／原刊 p.177；重印 pp.106–107／原刊 pp.177–178；重印 p.109／原刊 p.180；重印 p.113／原刊 p.184",
+        "support_note": "原文区分态度与议题显著性，交代媒介样本和公众判断的聚合比较，并报告相关结果与因果限制；跨知识点对照仍是编辑解释。",
+        "support_role": "supports"
+      }
+    ],
+    "controversy_note": null,
+    "review_status": "reviewed",
+    "reviewed_at": "2026-09-11"
+  },
+  {
+    "id": "rel-habermas-developed-public-sphere",
+    "source_id": "p-habermas",
+    "target_id": "r5-public-sphere",
+    "relation_type": "developed",
+    "statement_zh": "Habermas 通过对资产阶级公共领域结构转型的研究和简明概念论述发展了公共领域理论。",
+    "scope_note": "不主张 Habermas 首次提出公共领域，也不使用“最具影响力”等缺少比较证据的排序。",
+    "evidence_status": "direct",
+    "evidence": [
+      {
+        "source_id": "G19",
+        "locator": "MIT Press 书目页的题名、副标题与历史—社会学研究范围",
+        "support_note": "书目确认 Habermas 的著作及其资产阶级公共领域结构转型研究范围。",
+        "support_role": "supports"
+      },
+      {
+        "source_id": "G23",
+        "locator": "pp. 49–50，Section 1 “The Concept”；pp. 54–55",
+        "support_note": "全文直接给出公共领域定义、制度边界和历史变化说明，支持“发展”而非“首次提出”的有限关系。",
+        "support_role": "supports"
+      }
+    ],
+    "controversy_note": null,
+    "review_status": "reviewed",
+    "reviewed_at": "2026-09-11"
+  },
+  {
+    "id": "rel-public-sphere-addresses-political-communication",
+    "source_id": "r5-public-sphere",
+    "target_id": "r5-political",
+    "relation_type": "addresses",
+    "statement_zh": "公共领域理论分析公众讨论、公共意见以及社会与国家之间制度化中介的联系。",
+    "scope_note": "这是一条规范与制度分析路径，不代表政治传播的全部研究范围。",
+    "evidence_status": "direct",
+    "evidence": [
+      {
+        "source_id": "G23",
+        "locator": "pp. 49–50，Section 1 “The Concept”",
+        "support_note": "原文定义公共意见形成，并说明公共领域位于社会与国家之间的中介位置。",
+        "support_role": "supports"
+      }
+    ],
+    "controversy_note": null,
+    "review_status": "reviewed",
+    "reviewed_at": "2026-09-11"
+  },
+  {
+    "id": "rel-public-sphere-addresses-gender",
+    "source_id": "r5-public-sphere",
+    "target_id": "r6-gender",
+    "relation_type": "addresses",
+    "statement_zh": "女性主义公共领域批评把性别化排斥、非正式不平等与从属反公共纳入对民主传播条件的分析。",
+    "scope_note": "该关系来自对经典公共领域理论的批评性展开，不表示原初模型已解决性别问题，并保留分层社会条件；它不覆盖复合目标中的全部酷儿传播研究。",
+    "evidence_status": "direct",
+    "evidence": [
+      {
+        "source_id": "S015",
+        "locator": "pp. 60–61、63–68；结论 p.77",
+        "support_note": "Fraser 直接讨论妇女等群体的排斥、participatory parity、multiple publics 与 subaltern counterpublics。",
+        "support_role": "supports"
+      }
+    ],
+    "controversy_note": null,
+    "review_status": "reviewed",
+    "reviewed_at": "2026-09-11"
+  },
+  {
+    "id": "rel-content-analysis-used-in-journalism",
+    "source_id": "r8-content-analysis",
+    "target_id": "r5-journalism",
+    "relation_type": "used_in",
+    "statement_zh": "内容分析可用于对新闻材料作明确分类，并比较材料的采用、拒绝及所记录的取舍理由。",
+    "scope_note": "现有直接实例只支持材料分类与选择结果，不扩写为已验证主题、来源、框架和呈现等全部新闻内容分析用途。",
+    "evidence_status": "direct",
+    "evidence": [
+      {
+        "source_id": "G18",
+        "locator": "pp. 383–390，电讯稿材料分类、采用／拒绝结果及编辑理由",
+        "support_note": "White 个案提供新闻材料分类与选择结果的直接应用实例。",
+        "support_role": "supports"
+      }
+    ],
+    "controversy_note": null,
+    "review_status": "reviewed",
+    "reviewed_at": "2026-09-11"
+  },
+  {
+    "id": "rel-decolonial-addresses-race-representation",
+    "source_id": "r6-decolonial",
+    "target_id": "r6-race",
+    "relation_type": "addresses",
+    "statement_zh": "后殖民表征批判分析殖民根源的种族化媒介叙事，以及哪些声音获得可见性并参与反驳；肯尼亚受众批评CNN的研究展示了这一问题路径。",
+    "scope_note": "仅限伞形入口中的后殖民表征批判及Nothias与Cheruiyot的肯尼亚案例；不代表整个非洲、所有受众或全部去殖民研究。addresses表示已有分析用途，不表示争议已获统一答案。",
+    "evidence_status": "direct",
+    "evidence": [
+      {
+        "source_id": "P02",
+        "locator": "p.142末段；p.151 Voices开头；pp.153–154 Discussion（分别为PDF第7、16、18–19页）",
+        "support_note": "p.142将Afro-pessimism明确为具有殖民根源的种族化话语；p.151把声音与权力问题直接归入非洲媒介形象的后殖民批判，并以#SomeoneTellCNN开展分析。讨论同时保留反叙事受当地精英与国家品牌逻辑牵引的限制。",
+        "support_role": "supports"
+      }
+    ],
+    "controversy_note": "挑战西方刻板表征不自动等于普遍赋权；该研究也发现本地可见性与资源不平等。",
+    "review_status": "reviewed",
+    "reviewed_at": "2026-09-14"
+  },
+  {
+    "id": "rel-political-economy-addresses-platform-governance",
+    "source_id": "r3-political-economy",
+    "target_id": "r7-platform-governance",
+    "relation_type": "addresses",
+    "statement_zh": "传播领域的政治经济研究把平台治理放进国家、资本、劳动及制度关系中分析；Yuan与Zhang以中国平台经济说明这一路径。",
+    "scope_note": "限于2025年该特刊导论明确采用的政治经济研究取向和中国问题框架；不声称所有政治经济路线共享结论，也不把文章所述历史政策当作2026年当前有效规则。",
+    "evidence_status": "direct",
+    "evidence": [
+      {
+        "source_id": "P03",
+        "locator": "pp.4–5 Platform Governance；p.7 Digital China—Beyond ‘Platformization’ and ‘Infrastructuralization’",
+        "support_note": "平台治理专节直接讨论国家与平台企业、劳动及公众的关系；p.7明确将研究定位为国家—资本—劳动关系的政治经济分析，并概括其对治理制度的研究。不是仅因政治与经济术语共现而连边。",
+        "support_role": "supports"
+      }
+    ],
+    "controversy_note": "来源是问题建构与特刊导论，支持这一路径确已用于研究平台治理，不单独证明治理成效或所有因果解释。",
+    "review_status": "reviewed",
+    "reviewed_at": "2026-09-14"
+  },
+  {
+    "id": "rel-shannon-developed-process",
+    "source_id": "p-shannon",
+    "target_id": "r1-process",
+    "relation_type": "developed",
+    "statement_zh": "香农建立了本知识点所介绍的工程通信模型，以信息源、发送器、信道、接收器和信宿组织消息传输，并标示噪声源。",
+    "scope_note": "限1948年工程通信框架；不表示香农提出整个传播过程综合入口，也不涵盖人类意义、文化、互动或权力解释。",
+    "evidence_status": "direct",
+    "evidence": [
+      {
+        "source_id": "S010",
+        "locator": "Introduction与Figure 1，校正版重印PDF第1—2页",
+        "support_note": "原文直接界定工程通信问题并给出五个主要组件与噪声源。",
+        "support_role": "supports"
+      }
+    ],
+    "controversy_note": "‘developed’只指工程模型对综合入口中的一条模型路线，不将全部传播过程归于香农。",
+    "review_status": "reviewed",
+    "reviewed_at": "2026-09-19"
+  },
+  {
+    "id": "rel-innis-associated-medium-theory",
+    "source_id": "p-harold-innis",
+    "target_id": "r3-medium-theory",
+    "relation_type": "associated_with",
+    "statement_zh": "伊尼斯是媒介理论传统的重要代表，以媒介偏向及知识的时空组织推进了这一研究取向。",
+    "scope_note": "关系只说明伊尼斯对媒介理论传统的一条核心路线；不把整个传统归为单人创立，也不把媒介偏向写成技术单因决定论。",
+    "evidence_status": "direct",
+    "evidence": [
+      {
+        "source_id": "S002",
+        "locator": "作者上传版本内部pp.4–5，The History of Medium Theory与Sub-genres of Medium Theory",
+        "support_note": "学术百科条目正文明确把Innis置于媒介理论历史及媒介偏向分支中。",
+        "support_role": "supports"
+      },
+      {
+        "source_id": "S003",
+        "locator": "p.457开篇段落",
+        "support_note": "Innis原文片段直接呈现媒介特征、知识时空传播与文化环境问题，补充关系的具体内容。",
+        "support_role": "supports"
+      }
+    ],
+    "controversy_note": null,
+    "review_status": "reviewed",
+    "reviewed_at": "2026-09-19"
+  },
+  {
+    "id": "rel-agenda-setting-addresses-journalism",
+    "source_id": "r4-agenda-setting",
+    "target_id": "r5-journalism",
+    "relation_type": "addresses",
+    "statement_zh": "议程设置的教堂山研究分析竞选新闻对不同议题的突出程度，并把新闻议题排序与选民的议题判断进行比较。",
+    "scope_note": "限1968年教堂山研究中的竞选新闻与社论评论样本；不表示议程设置覆盖全部新闻研究，也不能从聚合相关推出因果。",
+    "evidence_status": "direct",
+    "evidence": [
+      {
+        "source_id": "G17",
+        "locator": "2017年重印校样内部pp.106–107，Method",
+        "support_note": "方法部分直接说明报纸、杂志和电视新闻样本，以及议题类别和突出程度的编码。",
+        "support_role": "supports"
+      }
+    ],
+    "controversy_note": "这是一项具体研究关系，不把后续议程设置研究的全部版本倒灌入1972年论文。",
+    "review_status": "reviewed",
+    "reviewed_at": "2026-09-19"
+  },
+  {
+    "id": "rel-shannon-associated-information-cybernetics",
+    "source_id": "p-shannon",
+    "target_id": "r1-information-cybernetics",
+    "relation_type": "associated_with",
+    "statement_zh": "香农以1948年的数学通信理论奠定了本传统入口中的信息传输路线。",
+    "scope_note": "只指信息论分支，不把控制论、反馈理论或整个人类传播研究归于香农。",
+    "evidence_status": "direct",
+    "evidence": [
+      {
+        "source_id": "S010",
+        "locator": "Introduction与Figure 1，校正版重印PDF第1—2页",
+        "support_note": "原文直接界定工程通信问题、消息选择、系统组件与噪声。",
+        "support_role": "supports"
+      },
+      {
+        "source_id": "S046",
+        "locator": "人物页关于1948年论文与information theory的段落",
+        "support_note": "IEEE学会人物页确认香农及其1948年论文在信息论中的学科位置。",
+        "support_role": "supports"
+      }
+    ],
+    "controversy_note": null,
+    "review_status": "reviewed",
+    "reviewed_at": "2026-09-19"
+  },
+  {
+    "id": "rel-information-cybernetics-has-feedback-noise",
+    "source_id": "r1-information-cybernetics",
+    "target_id": "r1-feedback-noise",
+    "relation_type": "has_concept",
+    "statement_zh": "这个复合传统入口分别提供了噪音与反馈的经典来源：噪音位于香农的工程通信模型，反馈位于维纳的控制论与系统调节问题。",
+    "scope_note": "两份来源分别支持复合知识点的两部分；不把噪音和反馈写成香农同一模型中的成对概念，也不把所有人类回应等同于控制论反馈。",
+    "evidence_status": "direct",
+    "evidence": [
+      {
+        "source_id": "S010",
+        "locator": "Figure 1及noise source说明，校正版重印PDF第2页",
+        "support_note": "原文直接支持噪音在工程通信模型中的位置。",
+        "support_role": "supports"
+      },
+      {
+        "source_id": "S073",
+        "locator": "MIT Press出版社概述；Part I Chapter IV ‘Feedback and Oscillation’目录（DOI 10.7551/mitpress/11810.003.0009）",
+        "support_note": "出版社概述与章节目录直接把控制、通信和反馈回路置于机器与有机体的共同研究框架。",
+        "support_role": "supports"
+      }
+    ],
+    "controversy_note": "复合端点有误读风险，因此页面必须保留两条来源和两条概念路线的分开说明。",
+    "review_status": "reviewed",
+    "reviewed_at": "2026-09-19"
+  },
+  {
+    "id": "rel-dewey-associated-pragmatism-chicago",
+    "source_id": "p-john-dewey",
+    "target_id": "r1-pragmatism-chicago",
+    "relation_type": "associated_with",
+    "statement_zh": "杜威以实用主义、经验、教育、民主和公共知识问题构成这条传播思想路线的重要来源。",
+    "scope_note": "不声称杜威单独创建了‘芝加哥传播学派’；关系限于实用主义与传播—参与—共同体问题。",
+    "evidence_status": "direct",
+    "evidence": [
+      {
+        "source_id": "P209",
+        "locator": "关于pragmatism、democracy、public knowledge及1894年赴芝加哥的段落",
+        "support_note": "校方人物页直接支持其实用主义、民主公共取向与芝加哥经历。",
+        "support_role": "supports"
+      },
+      {
+        "source_id": "P210",
+        "locator": "Communication and Participation，第6节",
+        "support_note": "大学Dewey中心的教学整理将传播、共同体、参与和民主生活相联。",
+        "support_role": "supports"
+      }
+    ],
+    "controversy_note": null,
+    "review_status": "reviewed",
+    "reviewed_at": "2026-09-19"
+  },
+  {
+    "id": "rel-mead-associated-pragmatism-chicago",
+    "source_id": "p-george-herbert-mead",
+    "target_id": "r1-pragmatism-chicago",
+    "relation_type": "associated_with",
+    "statement_zh": "米德把实用主义语境中的传播、语言、角色承担和自我形成连接起来，是这条思想路线的重要人物。",
+    "scope_note": "不把后来符号互动论的全部发展倒推给米德，也不把复合传统归于一人。",
+    "evidence_status": "direct",
+    "evidence": [
+      {
+        "source_id": "S130",
+        "locator": "Introduction；Life and Influences；Language and Mind；Roles, the Self, and the Generalized Other",
+        "support_note": "SEP条目直接支持其实用主义位置、与杜威及芝加哥的关系，以及通过传播形成自我的理论。",
+        "support_role": "supports"
+      }
+    ],
+    "controversy_note": "米德没有使用‘符号互动论’这一名称。",
+    "review_status": "reviewed",
+    "reviewed_at": "2026-09-19"
+  },
+  {
+    "id": "rel-park-associated-pragmatism-chicago",
+    "source_id": "p-robert-park",
+    "target_id": "r1-pragmatism-chicago",
+    "relation_type": "associated_with",
+    "statement_zh": "帕克以新闻实践、公共舆论设想、城市研究和芝加哥社会学把传播问题带入经验社会研究。",
+    "scope_note": "限新闻、公共舆论、城市与芝加哥社会学的机构和问题谱系；不把整个芝加哥社会学改写成传播学派。",
+    "evidence_status": "direct",
+    "evidence": [
+      {
+        "source_id": "P211",
+        "locator": "记者经历、Thought News与Chicago School of Sociology段落",
+        "support_note": "芝加哥大学图书馆页面直接记录其新闻经历、公共舆论设想和芝加哥学派位置。",
+        "support_role": "supports"
+      },
+      {
+        "source_id": "P212",
+        "locator": "About the Book",
+        "support_note": "芝加哥大学出版社页面补充《城市》的经验观察与社会理论定位。",
+        "support_role": "supports"
+      }
+    ],
+    "controversy_note": null,
+    "review_status": "reviewed",
+    "reviewed_at": "2026-09-19"
+  },
+  {
+    "id": "rel-adorno-associated-frankfurt-critical-theory",
+    "source_id": "p-theodor-adorno",
+    "target_id": "r6-frankfurt-critical-theory",
+    "relation_type": "associated_with",
+    "statement_zh": "阿多诺是法兰克福社会研究所及其批判理论传统的核心人物，其文化工业研究直接进入媒介与传播批判。",
+    "scope_note": "关系不把整个传统归于阿多诺，也不把其全部哲学、美学和社会理论缩减为媒介批评。",
+    "evidence_status": "direct",
+    "evidence": [
+      {
+        "source_id": "P223",
+        "locator": "Biography与Critical Social Theory相关段落",
+        "support_note": "SEP条目直接说明阿多诺在研究所与法兰克福学派中的核心位置及文化工业研究。",
+        "support_role": "supports"
+      },
+      {
+        "source_id": "P224",
+        "locator": "章节开头关于film、radio、magazines及standardisation的段落",
+        "support_note": "合著章节直接显示该传统对大众媒介与文化生产的批判内容。",
+        "support_role": "supports"
+      }
+    ],
+    "controversy_note": null,
+    "review_status": "reviewed",
+    "reviewed_at": "2026-09-19"
+  },
+  {
+    "id": "rel-habermas-associated-frankfurt-critical-theory",
+    "source_id": "p-habermas",
+    "target_id": "r6-frankfurt-critical-theory",
+    "relation_type": "associated_with",
+    "statement_zh": "哈贝马斯常被归入法兰克福学派的后续批判理论，但这一关联只是其复杂思想来源之一，不能理解为对早期学派固定教义的简单继承。",
+    "scope_note": "关系明确保留其在研究所任职时间较短、理论路线重构以及‘第二代’标签可能误导的边界。",
+    "evidence_status": "direct",
+    "evidence": [
+      {
+        "source_id": "S054",
+        "locator": "Introduction与Biography中Frankfurt School、Institute for Social Research及no coherent doctrine段落",
+        "support_note": "SEP条目直接说明他常被贴上第二代标签，同时系统限定其与学派的复杂关系。",
+        "support_role": "qualifies"
+      }
+    ],
+    "controversy_note": "该关系的核心正是防止把‘第二代’当作无争议的成员和线性继承标签。",
+    "review_status": "reviewed",
+    "reviewed_at": "2026-09-19"
+  },
+  {
+    "id": "rel-diffusion-applied-development-communication",
+    "source_id": "r4-diffusion-innovations",
+    "target_id": "r8-development-communication",
+    "relation_type": "applied_to",
+    "statement_zh": "创新扩散是发展传播中用于信息传递、创新采用和行为改变的一条重要路线。",
+    "scope_note": "只说明扩散范式在发展传播中的应用，不把它写成该领域唯一模式；参与式路线对问题界定、对话和决策权提出不同要求。",
+    "evidence_status": "direct",
+    "evidence": [
+      {
+        "source_id": "Q351",
+        "locator": "PDF pp.41–52、76–78与94",
+        "support_note": "来源直接讨论扩散范式在发展传播中的历史位置，并与参与式模式比较。",
+        "support_role": "supports"
+      }
+    ],
+    "controversy_note": "关系只标示一条实践路线，不把扩散与参与处理为非此即彼。",
+    "review_status": "reviewed",
+    "reviewed_at": "2026-09-19"
+  },
+  {
+    "id": "rel-ethnography-used-in-development-communication",
+    "source_id": "r8-ethnography",
+    "target_id": "r8-development-communication",
+    "relation_type": "used_in",
+    "statement_zh": "民族志取向可用于参与式发展传播的前期沟通评估，帮助研究者理解社区、在地知识与问题情境。",
+    "scope_note": "限FAO参与式农村传播评估所说明的混合方法实践；不表示所有发展传播都采用民族志，也不把短期参与活动等同于完整民族志。",
+    "evidence_status": "direct",
+    "evidence": [
+      {
+        "source_id": "Q354",
+        "locator": "§1.4.1与§1.5.1",
+        "support_note": "FAO方法手册直接说明PRCA在规划阶段的作用，并列出访谈、小组工作、现场可视化及对民族志的借鉴。",
+        "support_role": "supports"
+      }
+    ],
+    "controversy_note": "方法借鉴不等于完整民族志设计，页面应保留时间、关系建立和研究伦理边界。",
+    "review_status": "reviewed",
+    "reviewed_at": "2026-09-19"
+  }
+]

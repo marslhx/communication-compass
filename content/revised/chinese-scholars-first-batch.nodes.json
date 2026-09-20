@@ -1,0 +1,121 @@
+[
+  {
+    "id": "p-zhang-longdong",
+    "slug": "zhang-longdong",
+    "record_level": "complete",
+    "type": "person",
+    "subtype": "scholar",
+    "name_zh": "张隆栋",
+    "name_original": "Zhang Longdong",
+    "aliases": [],
+    "summary": "张隆栋是中国新闻传播教育者和早期传播学译介者。现有院系史与学术史资料把他与20世纪50年代对传播学的介绍、20世纪60年代《报刊的四种理论》的内部翻译联系起来。",
+    "why_it_matters": "从他出发，学生可以看到传播学在中国大陆并非1978年突然出现，而有更早的概念介绍、译介与新闻教育线索。",
+    "roles": ["新闻传播教育者", "传播学早期译介者"],
+    "communication_relevance": "连接中国大陆传播学的早期译介、新闻教育与改革开放后的再引进史。",
+    "key_points": [
+      {"id":"pzl-k1","statement":"中国人民大学新闻学院项目介绍把张隆栋在20世纪50年代于《国际新闻界》介绍传播学列为该院传播学教学史的早期线索。","evidence_status":"direct","evidence":[{"source_id":"P101","locator":"项目介绍中传播学教学历史段落的可访问索引片段","support_note":"机构页面片段直接支持人物、刊物与时间范围；页面本轮打开超时，不扩写文章题目或具体年份。","support_role":"supports"}]},
+      {"id":"pzl-k2","statement":"刘涛的学术史综述记载，张隆栋在20世纪60年代翻译施拉姆等人的《报刊的四种理论》，主要用于内部交流。","evidence_status":"direct","evidence":[{"source_id":"P102","locator":"一、理论译介，20世纪50—70年代段落","support_note":"全文直接作出该项学术史记述；当前知识点报告综述的记载，不声称已核译稿原件。","support_role":"supports"}]}
+    ],
+    "limits_or_debates": [{"id":"pzl-l1","statement":"当前可访问材料足以确认早期译介线索，但不足以重建其全部任职、著述和翻译版本史；人物卡不使用“第一人”等排他性称号。","evidence_status":"interpretive","evidence":[{"source_id":"P101","locator":"院系史片段","support_note":"机构材料提供有限线索，支持收窄表述。","support_role":"qualifies"},{"source_id":"P102","locator":"理论译介段落","support_note":"综述提供学术史定位，但不等于人物传记。","support_role":"qualifies"}]}],
+    "area_memberships": [{"area_id":"communication","is_primary":true,"rationale":"其知识点主要解释传播学在中国的早期译介。"},{"area_id":"institutions","is_primary":false,"rationale":"该线索与中国新闻传播教育史相连。"}],
+    "learning_resources": [{"title":"中国人民大学新闻学院传播学项目介绍","source_id":"P101","purpose":"查看院系如何叙述早期传播学教学线索。","level":"introductory","locator":"传播学教学历史段落"},{"title":"理论谱系与本土探索","source_id":"P102","purpose":"把张隆栋置于新中国传播理论译介史中理解。","level":"intermediate","locator":"一、理论译介"}],
+    "learning_links": [{"target_id":"r1-china-introduction","reason":"继续查看传播学在中国大陆的再引进与学科化。","sequence_hint":"after"},{"target_id":"r5-china-history","reason":"把人物放回中国新闻传播教育史与知识史。","sequence_hint":"after"},{"target_id":"p-guo","reason":"对照早期译介者与后来中文传播学教材作者的不同角色。","sequence_hint":"compare"}],
+    "temporal_profile":"relatively_stable","last_evidence_check":"2026-09-15","controversy_status":"not_assessed","controversy_note":"现阶段只建立早期译介与教育线索，人物生平和版本史仍可由读者提供材料补正。","review_status":"ready_for_review","created_at":"2026-09-15","updated_at":"2026-09-15","reviewed_at":null
+  },
+  {
+    "id":"p-zhang-guoliang","slug":"zhang-guoliang","record_level":"complete","type":"person","subtype":"scholar","name_zh":"张国良","name_original":"Zhang Guoliang","aliases":[],
+    "summary":"张国良是中国传播学者与新闻传播教育者，研究和著述涉及传播学原理、媒介生态、发展传播以及中国语境中的传播效果研究。",
+    "why_it_matters":"他的经历连接传播学社团建设、中文教材组织和经典理论在中国经验中的实证检验。",
+    "roles":["传播学者","新闻传播教育者","学术组织者"],"communication_relevance":"参与中国传播学组织建设，并通过教材、研究和教育工作推动传播学在中国的发展。",
+    "key_points":[{"id":"pzg-k1","statement":"上海交通大学机构页记载，张国良于2002年发起成立中国传播学会并任首任会长。","evidence_status":"direct","evidence":[{"source_id":"P103","locator":"人物页第90行附近的学术组织经历","support_note":"机构页面直接列出年份、发起成立与首任会长信息。","support_role":"supports"}]},{"id":"pzg-k2","statement":"该机构页列《传播学原理》《中国发展传播学》《20世纪传播学经典文本》等为其代表作，并列出一项中国议程设置效果研究。","evidence_status":"direct","evidence":[{"source_id":"P103","locator":"部分代表作列表","support_note":"页面直接列出著作和论文题名；知识点不据列表判断单项成果质量。","support_role":"supports"}]}],
+    "limits_or_debates":[{"id":"pzg-l1","statement":"机构页能够证明履历与成果目录；“在中国经验中检验经典理论”的更具体结论仍应回到相应论文全文。","evidence_status":"interpretive","evidence":[{"source_id":"P103","locator":"代表作列表","support_note":"目录可建立阅读入口，不能替代论文全文。","support_role":"qualifies"},{"source_id":"P102","locator":"社会心理学传统中议程设置研究段落","support_note":"学术史综述提供研究脉络，但不是各项研究的原始报告。","support_role":"qualifies"}]}],
+    "area_memberships":[{"area_id":"communication","is_primary":true,"rationale":"其教材与组织工作服务传播学基础知识和学科建制。"},{"area_id":"research_application","is_primary":false,"rationale":"其研究涉及经典理论的经验检验。"}],
+    "learning_resources":[{"title":"张国良：上海交通大学机构人物页","source_id":"P103","purpose":"核对教育、组织经历与代表作。","level":"introductory","locator":"全页"},{"title":"理论谱系与本土探索","source_id":"P102","purpose":"了解其在中国传播效果研究脉络中的位置。","level":"intermediate","locator":"社会心理学传统相关段落"}],
+    "learning_links":[{"target_id":"r1-china-introduction","reason":"把学会、教材和研究放回中国传播学学科化过程。","sequence_hint":"after"},{"target_id":"r4-agenda-setting","reason":"进入其代表作所涉及的议程设置研究。","sequence_hint":"after"},{"target_id":"r4-effects","reason":"扩展到传播效果研究的多种传统。","sequence_hint":"after"}],
+    "temporal_profile":"relatively_stable","last_evidence_check":"2026-09-15","controversy_status":"not_assessed","controversy_note":"机构页中的荣誉性评价未进入关键结论。","review_status":"ready_for_review","created_at":"2026-09-15","updated_at":"2026-09-15","reviewed_at":null
+  },
+  {
+    "id":"p-shao-peiren","slug":"shao-peiren","record_level":"complete","type":"person","subtype":"scholar","name_zh":"邵培仁","name_original":"Shao Peiren","aliases":[],
+    "summary":"邵培仁是中国传播学者，长期研究传播学本土化、华夏传播、媒介经营管理与媒介理论。",
+    "why_it_matters":"他的工作让学生同时看到传播学知识引进、本土文化资源发掘和媒介管理等应用领域之间的联系。",
+    "roles":["传播学者","媒介管理研究者","新闻传播教育者"],"communication_relevance":"参与早期中文传播学著述，并持续探索传播学本土化、华夏传播与媒介研究。",
+    "key_points":[{"id":"psp-k1","statement":"学术史综述将戴元光、邵培仁、龚炜合著的《传播学原理与应用》列为1980年代中国传播学理论译介与著述的重要节点。","evidence_status":"direct","evidence":[{"source_id":"P102","locator":"一、理论译介，20世纪80年代著述段落","support_note":"全文直接给出作者、书名、年代及学术史评价；知识点不将其写成无争议的唯一“第一本”。","support_role":"supports"}]},{"id":"psp-k2","statement":"林凯的成果述评把邵培仁的研究脉络概括为传播学本土化、媒介经营管理和华夏传播等阶段与方向。","evidence_status":"direct","evidence":[{"source_id":"P105","locator":"第二部分各阶段及华夏传播研究段落","support_note":"述评全文直接组织这些研究方向；此处报告作者的概括。","support_role":"supports"}]}],
+    "limits_or_debates":[{"id":"psp-l1","statement":"华夏传播研究提出从传统思想提炼传播概念的可能性，同时仍需说明概念边界、材料选择和由思想到理论的论证步骤。","evidence_status":"direct","evidence":[{"source_id":"P105","locator":"华夏传播研究期望及难点段落","support_note":"述评明确写到研究对象、范围与核心概念边界仍需解决。","support_role":"qualifies"}]}],
+    "area_memberships":[{"area_id":"meaning","is_primary":true,"rationale":"华夏传播研究关注本土传播观念与意义资源。"},{"area_id":"institutions","is_primary":false,"rationale":"其工作也涉及媒介经营管理与传播教育。"}],
+    "learning_resources":[{"title":"中国传播学领域的先行者和开拓者","source_id":"P105","purpose":"按阶段了解其本土化、媒介管理与华夏传播研究。","level":"introductory","locator":"第二部分"},{"title":"理论谱系与本土探索","source_id":"P102","purpose":"把早期著述放回中国传播理论译介史。","level":"intermediate","locator":"一、理论译介"}],
+    "learning_links":[{"target_id":"r2-huaxia","reason":"进入华夏传播与本土传播思想入口。","sequence_hint":"after"},{"target_id":"r3-media-industries","reason":"延伸到媒介经营、组织与产业问题。","sequence_hint":"after"},{"target_id":"r1-china-introduction","reason":"理解其早期著述所处的学科化阶段。","sequence_hint":"after"}],
+    "temporal_profile":"relatively_stable","last_evidence_check":"2026-09-15","controversy_status":"contested","controversy_note":"本土传播理论建构的对象、范围和概念边界仍需持续论证。","review_status":"ready_for_review","created_at":"2026-09-15","updated_at":"2026-09-15","reviewed_at":null
+  },
+  {
+    "id":"p-tong-bing","slug":"tong-bing","record_level":"complete","type":"person","subtype":"scholar","name_zh":"童兵","name_original":"Tong Bing","aliases":[],
+    "summary":"童兵是中国新闻学者与教育者，研究涉及理论新闻传播学、比较新闻传播和马克思主义新闻思想。",
+    "why_it_matters":"他的工作帮助学生区分新闻传播的一般原理、规范性新闻思想与比较新闻研究，并看到这些内容如何进入中文教材。",
+    "roles":["新闻学者","新闻传播教育者","比较新闻研究者"],"communication_relevance":"围绕新闻传播原理、马克思主义新闻思想和比较新闻传播开展研究与教材建设。",
+    "key_points":[{"id":"ptb-k1","statement":"1999年《中国人民大学学报》人物述评把童兵的研究概括为马克思主义新闻思想和新闻传播原理等方向。","evidence_status":"direct","evidence":[{"source_id":"P106","locator":"第二部分“关于新闻传播原理的研究”及前文","support_note":"全文直接列出这些研究方向和若干主要论点；此处只报告述评的概括。","support_role":"supports"}]},{"id":"ptb-k2","statement":"人大图书馆书目显示，童兵《理论新闻传播学导论》以新闻传播的行为、传播者、内容、过程、媒介、受众、效果和调控等组织教材。","evidence_status":"direct","evidence":[{"source_id":"P107","locator":"《理论新闻传播学导论》第2版书目与摘要","support_note":"馆藏记录直接支持作者、版本与内容范围；当前未核读全书。","support_role":"supports"}]}],
+    "limits_or_debates":[{"id":"ptb-l1","statement":"人物述评和馆藏摘要可建立研究与教材入口，但具体概念、历史分期和规范判断仍需回到相应原著与版本。","evidence_status":"interpretive","evidence":[{"source_id":"P106","locator":"全文","support_note":"人物述评并非全部原作。","support_role":"qualifies"},{"source_id":"P107","locator":"书目与摘要","support_note":"元数据不能替代全书阅读。","support_role":"qualifies"}]}],
+    "area_memberships":[{"area_id":"institutions","is_primary":true,"rationale":"其主要教学入口位于新闻学与新闻传播原理。"},{"area_id":"research_application","is_primary":false,"rationale":"比较新闻传播涉及跨制度、跨语境研究。"}],
+    "learning_resources":[{"title":"新闻学家——童兵","source_id":"P106","purpose":"了解其研究问题和理论主张的述评线索。","level":"intermediate","locator":"全文"},{"title":"《理论新闻传播学导论》馆藏书目","source_id":"P107","purpose":"查看教材的主题范围并据此寻找正式版本。","level":"introductory","locator":"书目1"}],
+    "learning_links":[{"target_id":"r5-journalism","reason":"进入新闻学与新闻研究的整体入口。","sequence_hint":"after"},{"target_id":"r5-marxist-journalism","reason":"继续辨析马克思主义新闻观的理论与规范层次。","sequence_hint":"after"},{"target_id":"r1-process","reason":"对照新闻传播原理与一般传播过程模型。","sequence_hint":"compare"}],
+    "temporal_profile":"relatively_stable","last_evidence_check":"2026-09-15","controversy_status":"not_assessed","controversy_note":"当前知识点未评价具体理论判断的当代适用性。","review_status":"ready_for_review","created_at":"2026-09-15","updated_at":"2026-09-15","reviewed_at":null
+  },
+  {
+    "id":"p-chen-lidan","slug":"chen-lidan","record_level":"complete","type":"person","subtype":"scholar","name_zh":"陈力丹","name_original":"Chen Lidan","aliases":[],
+    "summary":"陈力丹是中国新闻传播学者，研究涉及新闻理论、传播学理论、中外新闻史与舆论学，代表作包括《精神交往论》。",
+    "why_it_matters":"他的研究让学生看到马克思主义思想资源、传播理论、新闻理论和舆论研究如何在中国学术语境中交汇。",
+    "roles":["新闻传播学者","新闻传播教育者","舆论研究者"],"communication_relevance":"以新闻理论、传播理论、新闻史和舆论学研究连接多个基础板块。",
+    "key_points":[{"id":"pcl-k1","statement":"中国人民大学新闻学院荣休教师页列陈力丹的研究方向为新闻理论、传播学理论、中外新闻史和舆论学。","evidence_status":"direct","evidence":[{"source_id":"P108","locator":"研究方向","support_note":"学院页面直接列出四项方向。","support_role":"supports"}]},{"id":"pcl-k2","statement":"该页将《精神交往论》列为代表著作，并记录其多个版本及相关奖项。","evidence_status":"direct","evidence":[{"source_id":"P108","locator":"代表著作：《精神交往论》条目","support_note":"学院页面直接列出版本与奖项；知识点不据奖项断言全书观点无争议。","support_role":"supports"}]}],
+    "limits_or_debates":[{"id":"pcl-l1","statement":"机构人物页适合核对研究方向与著作线索；理解“精神交往”等具体概念仍需阅读原作及相关讨论。","evidence_status":"interpretive","evidence":[{"source_id":"P108","locator":"研究方向与代表著作","support_note":"机构页是入口材料，不替代原著论证。","support_role":"qualifies"}]}],
+    "area_memberships":[{"area_id":"institutions","is_primary":true,"rationale":"其研究以新闻理论、新闻史和舆论学为重要支点。"},{"area_id":"meaning","is_primary":false,"rationale":"其传播理论工作涉及意义与精神交往问题。"}],
+    "learning_resources":[{"title":"陈力丹：荣休教师","source_id":"P108","purpose":"核对研究方向、教育背景和代表作。","level":"introductory","locator":"全页"},{"title":"理论谱系与本土探索","source_id":"P102","purpose":"了解其在中国传播理论发展综述中的位置。","level":"intermediate","locator":"符号学传统及相关段落"}],
+    "learning_links":[{"target_id":"r5-marxist-journalism","reason":"进入其新闻理论研究涉及的重要规范传统。","sequence_hint":"after"},{"target_id":"r5-public-opinion","reason":"继续学习舆论概念与研究问题。","sequence_hint":"after"},{"target_id":"r1-china-introduction","reason":"把人物放回中国传播理论发展史。","sequence_hint":"after"}],
+    "temporal_profile":"relatively_stable","last_evidence_check":"2026-09-15","controversy_status":"not_assessed","controversy_note":"当前只建立研究范围和代表作入口，未代替对原作的理论评议。","review_status":"ready_for_review","created_at":"2026-09-15","updated_at":"2026-09-15","reviewed_at":null
+  },
+  {
+    "id":"p-shan-bo","slug":"shan-bo","record_level":"complete","type":"person","subtype":"scholar","name_zh":"单波","name_original":"Shan Bo","aliases":[],
+    "summary":"单波是中国跨文化传播与比较新闻学研究者，关注跨文化理解、传播伦理、中国传播学反思及比较新闻问题。",
+    "why_it_matters":"他的工作提示学生：跨文化传播不只是传播技巧，还涉及理解的可能性、伦理关系、知识立场与比较方法。",
+    "roles":["跨文化传播学者","比较新闻学者","新闻传播教育者"],"communication_relevance":"以跨文化传播和比较新闻研究连接文化差异、传播伦理与中国传播学反思。",
+    "key_points":[{"id":"psb-k1","statement":"武汉大学新闻与传播学院教师页将单波的主要研究方向列为比较新闻学与跨文化传播。","evidence_status":"direct","evidence":[{"source_id":"P109","locator":"人物页开头","support_note":"学院页面直接列出学位、职称与主要研究方向。","support_role":"supports"}]},{"id":"psb-k2","statement":"该页列出的代表作包括《跨文化传播的问题与可能性》和共同主编的The Ethics of Intercultural Communication。","evidence_status":"direct","evidence":[{"source_id":"P109","locator":"主要论文及著述第2、3项","support_note":"机构页直接支持书名、出版信息和合作性质。","support_role":"supports"}]}],
+    "limits_or_debates":[{"id":"psb-l1","statement":"把跨文化传播组织为“问题域”是一种理论进入方式，不等于否认调查、实验或语言能力等其他研究与实践路径。","evidence_status":"interpretive","evidence":[{"source_id":"P110","locator":"全文的问题域论述","support_note":"作者以问题域组织讨论；对其非排他性的提醒是本站教学限定。","support_role":"qualifies"}]}],
+    "area_memberships":[{"area_id":"power_culture","is_primary":true,"rationale":"跨文化传播直接处理文化差异、理解和伦理。"},{"area_id":"research_application","is_primary":false,"rationale":"比较新闻学涉及跨语境研究设计。"}],
+    "learning_resources":[{"title":"单波：武汉大学教师页","source_id":"P109","purpose":"核对研究方向与代表作。","level":"introductory","locator":"全页"},{"title":"跨文化传播的问题域","source_id":"P110","purpose":"阅读其如何从问题而非技巧清单进入跨文化传播。","level":"intermediate","locator":"全文"}],
+    "learning_links":[{"target_id":"r6-intercultural","reason":"进入跨文化传播的核心问题与理论。","sequence_hint":"after"},{"target_id":"r6-china-global","reason":"继续考察中国经验、国家形象与跨文化关系。","sequence_hint":"after"},{"target_id":"r8-qual","reason":"了解解释性和质化研究如何处理文化语境。","sequence_hint":"after"}],
+    "temporal_profile":"relatively_stable","last_evidence_check":"2026-09-15","controversy_status":"not_assessed","controversy_note":"跨文化传播的理论范围与方法选择仍需结合具体问题判断。","review_status":"ready_for_review","created_at":"2026-09-15","updated_at":"2026-09-15","reviewed_at":null
+  },
+  {
+    "id":"p-pan-zhongdang","slug":"pan-zhongdang","record_level":"complete","type":"person","subtype":"scholar","name_zh":"潘忠党","name_original":"Zhongdang Pan","aliases":[],
+    "summary":"潘忠党是传播科学学者，研究涉及框架、公共讨论、媒介效果、新闻业与中国社会变迁，并参与发展新闻话语的框架分析路径。",
+    "why_it_matters":"他的工作把理论概念、新闻文本分析、公众讨论和跨社会经验研究连接起来，也展示中国背景学者如何参与国际传播理论发展。",
+    "roles":["传播科学学者","政治传播研究者","新闻话语研究者"],"communication_relevance":"在框架分析、公共讨论、媒介效果与中国传媒研究之间建立联系。",
+    "key_points":[{"id":"ppz-k1","statement":"威斯康星大学麦迪逊分校院系页列潘忠党的研究兴趣包括媒介效果、公共讨论、公民文化、框架和中国传媒改革。","evidence_status":"direct","evidence":[{"source_id":"P111","locator":"Expertise and Activities","support_note":"院系页面直接列出这些研究主题；动态项目按2026-09-15访问状态理解。","support_role":"supports"}]},{"id":"ppz-k2","statement":"Pan与Kosicki 1993年的论文把新闻话语的框架分析置于消息来源、记者、受众与共享文化参与的社会认知过程中。","evidence_status":"direct","evidence":[{"source_id":"P112","locator":"Abstract","support_note":"摘要直接支持这一总体定位；当前不扩写未核全文的具体结构维度。","support_role":"supports"}]}],
+    "limits_or_debates":[{"id":"ppz-l1","statement":"框架分析不能只凭若干关键词判断；具体研究仍需说明文本结构、生产过程、受众解释及其证据。","evidence_status":"interpretive","evidence":[{"source_id":"P112","locator":"Abstract","support_note":"摘要将框架化置于多行动者社会认知过程；本站据此作出方法边界提醒。","support_role":"qualifies"}]}],
+    "area_memberships":[{"area_id":"effects","is_primary":true,"rationale":"框架、媒介效果和公共讨论位于影响研究核心。"},{"area_id":"institutions","is_primary":false,"rationale":"其研究还涉及新闻业与中国传媒改革。"}],
+    "learning_resources":[{"title":"Zhongdang Pan：UW–Madison教师页","source_id":"P111","purpose":"核对教育、研究领域与代表论文。","level":"introductory","locator":"Biography, Expertise, Education, Articles"},{"title":"Framing Analysis: An Approach to News Discourse","source_id":"P112","purpose":"从原始论文摘要进入新闻话语框架分析。","level":"intermediate","locator":"Abstract"}],
+    "learning_links":[{"target_id":"r2-framing","reason":"进入其代表性贡献涉及的框架与框架化。","sequence_hint":"after"},{"target_id":"r5-political","reason":"扩展到公共讨论、政治传播与公民文化。","sequence_hint":"after"},{"target_id":"r4-effects","reason":"把框架研究与更广泛的媒介效果传统对照。","sequence_hint":"after"}],
+    "temporal_profile":"relatively_stable","last_evidence_check":"2026-09-15","controversy_status":"contested","controversy_note":"框架概念的定义、测量和跨文本推断一直存在方法争论。","review_status":"ready_for_review","created_at":"2026-09-15","updated_at":"2026-09-15","reviewed_at":null
+  },
+  {
+    "id":"p-zhu-jianhua","slug":"zhu-jianhua","record_level":"complete","type":"person","subtype":"scholar","name_zh":"祝建华","name_original":"Jian Hua Jonathan Zhu","aliases":[],
+    "summary":"祝建华是传播学者，长期从事定量、纵向与计算传播研究，并研究新媒体、网络关系和传播行为。",
+    "why_it_matters":"他的工作帮助学生把中国传播研究中的量化传统与国际计算社会科学、纵向研究和数字媒介问题连接起来。",
+    "roles":["传播学者","计算传播研究者","量化方法教育者"],"communication_relevance":"连接传播理论、定量方法、计算社会科学与数字媒介研究。",
+    "key_points":[{"id":"pzj-k1","statement":"香港城市大学学者档案将计算传播研究、纵向传播研究、新媒体理论与定量方法列为祝建华的教学研究线索。","evidence_status":"direct","evidence":[{"source_id":"P113","locator":"Person profile, research topics and outputs","support_note":"机构档案直接列出相关主题和成果目录；动态成果按访问日记录。","support_role":"supports"}]},{"id":"pzj-k2","statement":"中国传播学学术史综述把祝建华在20世纪80年代对受众调查、内容分析和控制实验方法的介绍列为量化研究进程中的一条线索。","evidence_status":"direct","evidence":[{"source_id":"P102","locator":"控制论传统段落","support_note":"全文直接作出该项学术史概括；当前未以此替代具体文章原文。","support_role":"supports"}]}],
+    "limits_or_debates":[{"id":"pzj-l1","statement":"计算传播不等于数据越大越好；研究仍需把问题、理论、测量、算法与有效性放在同一设计中。","evidence_status":"direct","evidence":[{"source_id":"S061","locator":"全文关于数据作为方法催化剂而非充分条件的论述","support_note":"开放全文直接强调数据并非计算传播科学的充要条件。","support_role":"qualifies"}]}],
+    "area_memberships":[{"area_id":"research_application","is_primary":true,"rationale":"其知识点主要连接量化、纵向与计算方法。"},{"area_id":"digital_ai","is_primary":false,"rationale":"相关研究处理数字媒介与网络关系。"}],
+    "learning_resources":[{"title":"Jian Hua Jonathan Zhu：CityUHK Scholars","source_id":"P113","purpose":"浏览其研究主题、课程和成果线索。","level":"introductory","locator":"Profile and research outputs"},{"title":"Computational Communication Science","source_id":"S061","purpose":"理解计算传播的方法论边界，而非只看工具清单。","level":"intermediate","locator":"全文"}],
+    "learning_links":[{"target_id":"r8-quant","reason":"先掌握量化研究设计与统计推断基础。","sequence_hint":"before"},{"target_id":"r8-computational","reason":"进入计算传播、网络分析与文本挖掘。","sequence_hint":"after"},{"target_id":"r8-content-analysis","reason":"理解传统内容分析与计算文本分析的连续与差异。","sequence_hint":"compare"}],
+    "temporal_profile":"relatively_stable","last_evidence_check":"2026-09-15","controversy_status":"contested","controversy_note":"计算方法的有效性、可重复性和伦理边界需在具体研究中逐项判断。","review_status":"ready_for_review","created_at":"2026-09-15","updated_at":"2026-09-15","reviewed_at":null
+  },
+  {
+    "id":"p-liu-hailong","slug":"liu-hailong","record_level":"complete","type":"person","subtype":"scholar","name_zh":"刘海龙","name_original":"Liu Hailong","aliases":[],
+    "summary":"刘海龙是中国传播学者，研究和教学涉及传播思想史、政治传播、传媒文化与传播理论，著有《大众传播理论：范式与流派》《重访灰色地带》等。",
+    "why_it_matters":"他的工作鼓励学生把传播理论放回概念、语境和学术史中阅读，而不是只背诵流派标签。",
+    "roles":["传播学者","传播理论教育者","传播思想史研究者"],"communication_relevance":"以传播思想史、政治传播与传媒文化研究反思传播理论的形成和中文知识组织。",
+    "key_points":[{"id":"plh-k1","statement":"中国人民大学新闻学院教师页列刘海龙的研究方向为传播思想史、政治传播和传媒文化，并列出传播理论、政治传播、传播思想史等课程。","evidence_status":"direct","evidence":[{"source_id":"P114","locator":"研究方向与任教课程","support_note":"学院教师页直接列出研究方向和课程。","support_role":"supports"}]},{"id":"plh-k2","statement":"该页列《大众传播理论：范式与流派》《重访灰色地带：传播研究史的书写与记忆》和《宣传：观念、话语及其正当化》等为其著作。","evidence_status":"direct","evidence":[{"source_id":"P114","locator":"学术成果—著作","support_note":"学院页面直接列出书名与版本线索。","support_role":"supports"}]}],
+    "limits_or_debates":[{"id":"plh-l1","statement":"以范式、流派或思想史组织理论有助于看到知识脉络，但不应把分类当作永恒不变的学科边界。","evidence_status":"interpretive","evidence":[{"source_id":"P114","locator":"研究方向、课程与著作目录","support_note":"材料支持其知识史取向；对分类边界的提醒是本站教学归纳。","support_role":"qualifies"},{"source_id":"P115","locator":"传播学专业介绍全文","support_note":"专业说明把传播学呈现为连接多类现实问题的开放领域。","support_role":"supports"}]}],
+    "area_memberships":[{"area_id":"communication","is_primary":true,"rationale":"其传播理论与思想史教学帮助学生理解学科知识结构。"},{"area_id":"power_culture","is_primary":false,"rationale":"政治传播、宣传与传媒文化涉及权力和文化。"}],
+    "learning_resources":[{"title":"刘海龙：中国人民大学教师页","source_id":"P114","purpose":"核对研究方向、课程和代表作。","level":"introductory","locator":"全页"},{"title":"传播学专业介绍","source_id":"P115","purpose":"观察其如何面向本科生解释传播学的对象与价值。","level":"introductory","locator":"全文"}],
+    "learning_links":[{"target_id":"r1-china-introduction","reason":"把传播思想史研究放回中国传播学知识形成过程。","sequence_hint":"after"},{"target_id":"r5-political","reason":"进入政治传播及公共生活问题。","sequence_hint":"after"},{"target_id":"r3-political-economy","reason":"对照传媒文化、宣传与结构性权力分析。","sequence_hint":"compare"}],
+    "temporal_profile":"relatively_stable","last_evidence_check":"2026-09-15","controversy_status":"contested","controversy_note":"传播理论史的经典叙事、范式分类与本土化路径本身就是可讨论对象。","review_status":"ready_for_review","created_at":"2026-09-15","updated_at":"2026-09-15","reviewed_at":null
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "id":"r7-algorithm","slug":"algorithms-recommender-systems","record_level":"complete","type":"research_topic","subtype":"frontier","name_zh":"算法与推荐系统","name_original":"Algorithms and recommender systems","aliases":[],
+    "summary":"算法与推荐系统研究自动化排序、预测和个性化如何参与内容的选择、可见性与分发。在新闻场景中，它同时涉及编辑供给、用户需求、平台目标与公共价值，不只是技术准确率问题。",
+    "why_it_matters":"它决定学生看到什么、以何种顺序看到，也连接新闻编辑、信息多样性、个性化、商业模式和公平性。",
+    "key_points":[
+      {"id":"r7alg-k1","statement":"新闻推荐系统应同时从新闻供给与用户需求两侧研究，并关注系统、编辑室和个人层面。","evidence_status":"direct","evidence":[{"source_id":"S103","locator":"abstract, programmatic research review","support_note":"综述摘要直接提出供给侧、需求侧与多层研究议程。","support_role":"supports"}]},
+      {"id":"r7alg-k2","statement":"推荐效果不能只用点击率衡量；还应分析多样性、暴露、编辑自主、用户信任和社会后果。","evidence_status":"interpretive","evidence":[{"source_id":"S103","locator":"abstract, supply and demand perspectives","support_note":"双侧与多层框架支持将评估超越单一互动指标。","support_role":"qualifies"},{"source_id":"S107","locator":"principles on transparency, public empowerment and independent media","support_note":"联合国原则提供公共价值的规范性评估维度。","support_role":"qualifies"}]}
+    ],
+    "limits_or_debates":[{"id":"r7alg-l1","statement":"算法不是拥有单一意图的黑箱；结果由数据、目标函数、产品规则、编辑干预与用户行为共同形成。","evidence_status":"interpretive","evidence":[{"source_id":"S103","locator":"multi-level and two-sided framework","support_note":"综述将推荐放入多行动者、多层系统，支持反对单一算法决定论。","support_role":"qualifies"}]}],
+    "area_memberships":[{"area_id":"digital_ai","is_primary":true,"rationale":"聚焦自动化选择、排序与个性化。"},{"area_id":"media_society","is_primary":false,"rationale":"推荐重组公共可见性和媒介分发。"},{"area_id":"effects","is_primary":false,"rationale":"暴露和选择可影响认知、信任与行为。"}],
+    "learning_resources":[{"title":"News Recommender Systems: A Programmatic Research Review","source_id":"S103","purpose":"用供给—需求与多层框架建立问题地图。","level":"intermediate","locator":"abstract and article"}],
+    "learning_links":[{"target_id":"r7-affordance","reason":"理解系统可能性如何与用户行动相遇。","sequence_hint":"before"},{"target_id":"r5-journalism","reason":"观察推荐与新闻专业判断的交汇。","sequence_hint":"compare"},{"target_id":"r7-integrity","reason":"评估分发对信息环境的后果。","sequence_hint":"after"}],
+    "temporal_profile":"evolving","as_of":"2026-09-11","last_evidence_check":"2026-09-11","next_review_due":"2027-03-01","controversy_status":"contested","controversy_note":"优化目标、透明度、编辑自主、用户控制、多样性与个性化存在持续张力。","review_status":"ready_for_review","created_at":"2026-09-11","updated_at":"2026-09-11","reviewed_at":null
+  },
+  {
+    "id":"r7-datafication","slug":"datafication-automation","record_level":"complete","type":"research_topic","subtype":"frontier","name_zh":"数据化与自动化","name_original":"Datafication and automation","aliases":[],
+    "summary":"数据化把行为、关系和内容转换为可记录、可计算和可比较的数据；自动化则把部分判断、生产或分发交给机器系统。传播研究关心的不只是工具，而是分类、可见性、劳动和责任如何被重组。",
+    "why_it_matters":"它连接了平台指标、新闻生产、内容审核、用户画像和AI系统，帮助学生看见‘数据’与‘自动’背后的选择。",
+    "key_points":[
+      {"id":"r7dat-k1","statement":"自动化传播研究可区分自动化的实质、有关自动化的话语以及实际使用实践。","evidence_status":"direct","evidence":[{"source_id":"S104","locator":"title, abstract and review framework","support_note":"综述直接以substance、discourse和practice组织现有研究。","support_role":"supports"}]},
+      {"id":"r7dat-k2","statement":"数据化不是现实的中性复制；指标、分类与模型会选择什么被看见并反过来影响实践。","evidence_status":"direct","evidence":[{"source_id":"S104","locator":"review discussion of datafication and automation","support_note":"综述将数据化理解为会形成社会现实的传播过程。","support_role":"supports"}]}
+    ],
+    "limits_or_debates":[{"id":"r7dat-l1","statement":"不能因为系统自动运行就忽略人类的设计、标注、维护和申诉劳动，也不能把责任推给抽象的‘算法’。","evidence_status":"interpretive","evidence":[{"source_id":"S104","locator":"practice and agency discussion","support_note":"实践路径将自动化放回组织与社会技术关系中。","support_role":"qualifies"}]}],
+    "area_memberships":[{"area_id":"digital_ai","is_primary":true,"rationale":"关注数据表达与机器执行如何改变传播。"},{"area_id":"media_society","is_primary":false,"rationale":"数据和自动化重组媒介劳动与制度。"},{"area_id":"research_application","is_primary":false,"rationale":"计算研究本身也需反思数据化的边界。"}],
+    "learning_resources":[{"title":"Substance, Discourse, and Practice","source_id":"S104","purpose":"用实质—话语—实践框架区分自动化问题。","level":"intermediate","locator":"full article"}],
+    "learning_links":[{"target_id":"r3-platformization","reason":"理解数据收集与处理的制度语境。","sequence_hint":"before"},{"target_id":"r7-algorithm","reason":"进入排序和推荐的具体自动化。","sequence_hint":"after"},{"target_id":"r8-computational","reason":"反思计算方法所依赖的数据化。","sequence_hint":"compare"}],
+    "temporal_profile":"evolving","as_of":"2026-09-11","last_evidence_check":"2026-09-11","next_review_due":"2027-03-01","controversy_status":"contested","controversy_note":"机器能动性、人类劳动的隐身、指标的构成力与责任分配仍在演变。","review_status":"ready_for_review","created_at":"2026-09-11","updated_at":"2026-09-11","reviewed_at":null
+  },
+  {
+    "id":"r7-hmc","slug":"human-machine-communication","record_level":"complete","type":"research_topic","subtype":"field","name_zh":"人机传播","name_original":"Human-machine communication","aliases":[{"name":"HMC","kind":"abbreviation","note":null}],
+    "summary":"人机传播把计算机、机器人和智能代理视为传播者或传播参与者，而不仅是人与人之间的管道。它研究人如何赋予机器社会意义，以及设计、数据和制度如何塑造这种互动。",
+    "why_it_matters":"当对话式AI、语音助手和机器人直接与人互动时，传播学需要重新思考沟通者、意图、信任、关系与责任。",
+    "key_points":[
+      {"id":"r7hmc-k1","statement":"HMC的关键转向是从‘通过机器与人沟通’转向‘与机器沟通’。","evidence_status":"direct","evidence":[{"source_id":"S105","locator":"abstract and HMC research agenda","support_note":"论文直接将AI定位为传播者并提出HMC议程。","support_role":"supports"}]},
+      {"id":"r7hmc-k2","statement":"机器作为沟通者的外观、行为和能力由人类设计，所以用户感知与产业生产过程需同时研究。","evidence_status":"direct","evidence":[{"source_id":"S105","locator":"research agenda, machine communicators and design","support_note":"论文把人对机器的感知与技术生产者的设计选择并列。","support_role":"supports"}]}
+    ],
+    "limits_or_debates":[{"id":"r7hmc-l1","statement":"用户体验到机器的社会存在，不等于机器具有人类式意识或意图；分析必须区分归因、功能和本体主张。","evidence_status":"interpretive","evidence":[{"source_id":"S105","locator":"theoretical discussion of machine as communicator","support_note":"论文建立传播角色而非意识证明，支持这一边界。","support_role":"qualifies"}]}],
+    "area_memberships":[{"area_id":"digital_ai","is_primary":true,"rationale":"研究人与智能机器的传播关系。"},{"area_id":"communication","is_primary":false,"rationale":"扩展了对传播者与互动的基本定义。"},{"area_id":"effects","is_primary":false,"rationale":"信任、归因和关系是重要结果。"}],
+    "learning_resources":[{"title":"Artificial Intelligence and Communication: A Human–Machine Communication Research Agenda","source_id":"S105","purpose":"理解机器从媒介到沟通者的理论转向。","level":"intermediate","locator":"full article"}],
+    "learning_links":[{"target_id":"r1-cmc","reason":"先理解计算机作为人际渠道的研究。","sequence_hint":"before"},{"target_id":"r7-ai-mediated","reason":"区分AI参与人际消息生产与AI直接作为互动对象。","sequence_hint":"compare"},{"target_id":"r8-ethics","reason":"评估操纵、欺骗、伤害和责任。","sequence_hint":"after"}],
+    "temporal_profile":"evolving","as_of":"2026-09-11","last_evidence_check":"2026-09-11","next_review_due":"2027-03-01","controversy_status":"contested","controversy_note":"机器的传播者地位、社会归因、主体性语言与人类责任边界尚未稳定。","review_status":"ready_for_review","created_at":"2026-09-11","updated_at":"2026-09-11","reviewed_at":null
+  },
+  {
+    "id":"r7-ai-mediated","slug":"ai-mediated-communication","record_level":"complete","type":"research_topic","subtype":"frontier","name_zh":"AI中介传播","name_original":"AI-mediated communication","aliases":[{"name":"AI-MC","kind":"abbreviation","note":null}],
+    "summary":"AI中介传播指机器代理代表人来修改、增强或生成人与人之间的消息，以实现沟通目标。核心问题是AI如何改变表达、解释、关系和责任，而不是把任何与AI有关的传播都纳入。",
+    "why_it_matters":"智能回复、机器翻译、文本生成和修图工具已经介入日常人际沟通，会同时提高能力并带来真实性、透明度与信任风险。",
+    "key_points":[
+      {"id":"r7aim-k1","statement":"AI-MC的定义要件包括：机器代理为人际沟通者修改、增强或生成消息，以达成沟通目标。","evidence_status":"direct","evidence":[{"source_id":"S106","locator":"abstract and definition section","support_note":"原始论文直接给出AI-MC定义。","support_role":"supports"}]},
+      {"id":"r7aim-k2","statement":"AI-MC的研究议程横跨设计、心理、语言、关系、政策和伦理，因此不能只用生成质量评估。","evidence_status":"direct","evidence":[{"source_id":"S106","locator":"research agenda and ethical considerations","support_note":"论文直接组织这些多层议题。","support_role":"supports"}]}
+    ],
+    "limits_or_debates":[{"id":"r7aim-l1","statement":"AI介入程度、使用者控制、披露与接收者预期会改变后果；不应把所有AI辅助消息视为同一处理。","evidence_status":"direct","evidence":[{"source_id":"S106","locator":"design and ethical dimensions","support_note":"论文将代理程度、身份和伦理条件列为核心研究问题。","support_role":"qualifies"}]}],
+    "area_memberships":[{"area_id":"digital_ai","is_primary":true,"rationale":"聚焦AI对人际消息生产与解释的介入。"},{"area_id":"communication","is_primary":false,"rationale":"直接改变表达、理解和关系过程。"},{"area_id":"institutions","is_primary":false,"rationale":"应用规则、披露与责任分配需制度化。"}],
+    "learning_resources":[{"title":"AI-Mediated Communication: Definition, Research Agenda, and Ethical Considerations","source_id":"S106","purpose":"从严格定义出发，区分不同AI介入方式。","level":"intermediate","locator":"full article"}],
+    "learning_links":[{"target_id":"r1-cmc","reason":"掌握人际传播的计算机中介基线。","sequence_hint":"before"},{"target_id":"r7-hmc","reason":"区分AI作为消息代理与机器作为对话者。","sequence_hint":"compare"},{"target_id":"r7-privacy","reason":"检查数据、披露、偏见和信任。","sequence_hint":"after"}],
+    "temporal_profile":"evolving","as_of":"2026-09-11","last_evidence_check":"2026-09-11","next_review_due":"2027-03-01","controversy_status":"contested","controversy_note":"介入程度、披露规范、作者性、真实性、信任与责任尚在快速演变。","review_status":"ready_for_review","created_at":"2026-09-11","updated_at":"2026-09-11","reviewed_at":null
+  },
+  {
+    "id":"r7-integrity","slug":"information-integrity-deepfakes","record_level":"complete","type":"research_topic","subtype":"frontier","name_zh":"信息完整性与深度伪造","name_original":"Information integrity and deepfakes","aliases":[],
+    "summary":"信息完整性关心信息生态是否支持自由、多元、可核验和可信的公共传播。深度伪造是其中一类生成式操纵，问题不只是真假鉴定，还包括分发、商业激励、治理、媒介能力与公共信任。",
+    "why_it_matters":"合成媒介和低成本生成工具扩大了欺骗与怀疑的规模，学生需要同时识别个别内容和它所在的信息系统。",
+    "key_points":[
+      {"id":"r7int-k1","statement":"联合国的信息完整性框架以社会信任与韧性、独立自由多元的媒体、健康激励、透明度与研究、公众赋能为五项原则。","evidence_status":"direct","evidence":[{"source_id":"S107","locator":"Global Principles overview and five principles","support_note":"联合国原则文件直接列出五个维度。","support_role":"supports"}]},
+      {"id":"r7int-k2","statement":"深度伪造宜作为信息生态中的一类具体对象研究，不应代替对平台分发、组织激励和社会信任的分析。","evidence_status":"interpretive","evidence":[{"source_id":"S107","locator":"system-level principles","support_note":"该文件将风险放入媒体、平台、广告、研究与公众的系统性责任中。","support_role":"qualifies"}]}
+    ],
+    "limits_or_debates":[{"id":"r7int-l1","statement":"信息完整性是规范性治理框架，不是单一传播理论；具体效果、因果机制和政策成效仍需独立研究。","evidence_status":"direct","evidence":[{"source_id":"S107","locator":"nature and scope of the Global Principles","support_note":"来源是原则性政策文件，可支持治理目标而不能证明效果。","support_role":"qualifies"}]}],
+    "area_memberships":[{"area_id":"digital_ai","is_primary":true,"rationale":"数字生成、分发与治理是当前主要场景。"},{"area_id":"effects","is_primary":false,"rationale":"涉及信念、怀疑、信任和行动。"},{"area_id":"institutions","is_primary":false,"rationale":"独立媒体、平台治理和透明度是制度条件。"},{"area_id":"power_culture","is_primary":false,"rationale":"话语权、公众赋能和多元性关系权力分配。"}],
+    "learning_resources":[{"title":"United Nations Global Principles for Information Integrity","source_id":"S107","purpose":"用五原则将单条内容判定扩展为信息生态分析。","level":"intermediate","locator":"full report"}],
+    "learning_links":[{"target_id":"r4-info-disorder","reason":"先区分错误信息、虚假信息和恶意信息。","sequence_hint":"before"},{"target_id":"r7-algorithm","reason":"分析推荐与可见性。","sequence_hint":"compare"},{"target_id":"r8-ethics","reason":"审查介入的伤害、权利和责任。","sequence_hint":"after"}],
+    "temporal_profile":"evolving","as_of":"2026-09-11","last_evidence_check":"2026-09-11","next_review_due":"2027-03-01","controversy_status":"contested","controversy_note":"内容治理、言论自由、鉴定技术、平台责任和国际规范持续变化。","review_status":"ready_for_review","created_at":"2026-09-11","updated_at":"2026-09-11","reviewed_at":null
+  },
+  {
+    "id":"r7-privacy","slug":"privacy-surveillance-bias-trust","record_level":"complete","type":"research_topic","subtype":"frontier","name_zh":"隐私、监视、偏见与信任","name_original":"Privacy, surveillance, bias, and trust","aliases":[],
+    "summary":"这一问题簇研究数据收集、推断和自动化判断如何改变个人和群体的可见性、自主性、公平对待与信任。隐私不只是个人隐藏信息，也是随关系、情境、规范和媒介实践变化的沟通过程。",
+    "why_it_matters":"它把个人平台使用与组织数据治理连起来，帮助学生识别沟通便利、个性化与监视、歧视、不对称风险之间的交换。",
+    "key_points":[
+      {"id":"r7pri-k1","statement":"情境隐私把隐私理解为关系性、情境性和时间性的传播与媒介实践，而非固定的个人偏好。","evidence_status":"direct","evidence":[{"source_id":"S108","locator":"abstract and theoretical framework","support_note":"理论论文直接提出situational privacy及其关系、情境和实践维度。","support_role":"supports"}]},
+      {"id":"r7pri-k2","statement":"AI风险管理需要在全生命周期持续实施治理、映射、测量与管理，并把可靠性、透明、隐私和公平性放在一起评估。","evidence_status":"direct","evidence":[{"source_id":"S109","locator":"AI RMF 1.0 core functions and trustworthy characteristics","support_note":"NIST框架直接提出GOVERN、MAP、MEASURE、MANAGE及可信AI特征。","support_role":"supports"}]}
+    ],
+    "limits_or_debates":[{"id":"r7pri-l1","statement":"将隐私、监视、偏见和信任放在同一知识点是导航上的问题簇，不表示它们是同一概念或可由一个指标解决。","evidence_status":"interpretive","evidence":[{"source_id":"S108","locator":"privacy as communication and media practice","support_note":"隐私理论强调其独立的关系性和情境性。","support_role":"qualifies"},{"source_id":"S109","locator":"risk management framework scope","support_note":"框架将多项可信性特征作为彼此关联但可冲突的维度。","support_role":"qualifies"}]}],
+    "area_memberships":[{"area_id":"digital_ai","is_primary":true,"rationale":"数据系统与AI放大收集、推断和自动判断。"},{"area_id":"media_society","is_primary":false,"rationale":"监视与数据基础设施改变社会可见性。"},{"area_id":"effects","is_primary":false,"rationale":"风险感知和信任会影响行为。"},{"area_id":"power_culture","is_primary":false,"rationale":"监视与偏见关系资源和权利的不对称分配。"}],
+    "learning_resources":[{"title":"Situational Privacy","source_id":"S108","purpose":"把隐私从固定偏好转向情境与传播实践。","level":"intermediate","locator":"full article"},{"title":"Artificial Intelligence Risk Management Framework 1.0","source_id":"S109","purpose":"用全生命周期框架评估AI风险与可信性。","level":"intermediate","locator":"full report"}],
+    "learning_links":[{"target_id":"r7-datafication","reason":"理解个人与群体如何被转换为数据。","sequence_hint":"before"},{"target_id":"r7-ai-mediated","reason":"检查AI介入人际沟通的数据和信任条件。","sequence_hint":"compare"},{"target_id":"r8-ethics","reason":"进入权利、伤害、公平与责任审查。","sequence_hint":"after"}],
+    "temporal_profile":"evolving","as_of":"2026-09-11","last_evidence_check":"2026-09-11","next_review_due":"2027-03-01","controversy_status":"contested","controversy_note":"隐私规范、监视正当性、公平指标、透明度与信任之间的关系需分情境更新。","review_status":"ready_for_review","created_at":"2026-09-11","updated_at":"2026-09-11","reviewed_at":null
+  }
+]

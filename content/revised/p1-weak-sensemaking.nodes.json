@@ -1,0 +1,37 @@
+[
+  {
+    "id": "c-sensemaking",
+    "slug": "sensemaking",
+    "record_level": "complete",
+    "type": "concept",
+    "subtype": "organizing_process",
+    "name_zh": "意义建构",
+    "name_original": "Sensemaking",
+    "aliases": [{"name": "意义赋予", "kind": "alternate_translation", "note": "中文组织传播中的另一译法。"}],
+    "summary": "意义建构指人们在模糊、意外或快速变化的情境中，通过提取线索、交谈和回顾性叙事，暂时回答“这里发生了什么”与“我们该怎么做”。",
+    "why_it_matters": "它让组织传播不只是信息传递，而是共同建立可行解释、协调行动和修正现实的过程。",
+    "propositions": [
+      {"id": "sm-p1", "statement": "意义建构把情境转化为能够用语言明确理解、并可作为行动起点的情境。", "evidence_status": "direct", "evidence": [{"source_id": "Q347", "locator": "publisher-formatted full text, printed p. 409, opening discussion", "support_note": "正文将 sensemaking 放在持续的组织过程内：行动者在社会情境中从进行中的 circumstances 提取线索，并以语言把组织情境转化为可明确理解、可导向行动的 situation；这里不是把任何一般理解都等同于 sensemaking。", "support_role": "supports"}]},
+      {"id": "sm-p2", "statement": "意义建构是意义形成的关键场所，而这些意义会影响并约束身份与行动。", "evidence_status": "direct", "evidence": [{"source_id": "Q347", "locator": "publisher-formatted full text, printed p. 409, opening discussion", "support_note": "正文明确称 sensemaking 是 meanings materialize 的主要场所，这些意义会影响并约束 identity and action；紧接着把这种形成说明为语言、谈话和传播问题。", "support_role": "supports"}]}
+    ],
+    "key_points": [
+      {"id": "sm-k1", "statement": "意义建构通常被事后回顾、身份和可用线索组织，它追求可行性而不总是完全准确。", "evidence_status": "interpretive", "evidence": [{"source_id": "T001", "locator": "Sensemaking 条目", "support_note": "Twente 教学综述用于基本属性的入门归纳。", "support_role": "supports"}]},
+      {"id": "sm-k2", "statement": "交流不只表达已经存在的理解，也在对话中选择线索、形成情境。", "evidence_status": "interpretive", "evidence": [{"source_id": "T001", "locator": "Sensemaking 条目", "support_note": "教学条目支持将 sensemaking 定位为组织和传播过程。", "support_role": "supports"}]}
+    ],
+    "limits_or_debates": [{"id": "sm-l1", "statement": "强调可行解释时也要追问：谁有权界定情境，哪些线索被排除，错误叙事如何被组织化。", "evidence_status": "interpretive", "evidence": [{"source_id": "T001", "locator": "Sensemaking 条目", "support_note": "来源支持意义建构范围；权力问题作为教学上的必要补充。", "support_role": "qualifies"}]}],
+    "area_memberships": [{"area_id": "meaning", "is_primary": true, "rationale": "直接关注模糊情境中的意义形成。"}, {"area_id": "institutions", "is_primary": false, "rationale": "常用于组织、危机和变革研究。"}],
+    "learning_resources": [
+      {"title": "Communication Theories", "source_id": "T001", "purpose": "建立 sensemaking 的入门概念结构，再追踪原始著作。", "level": "introductory", "locator": "Sensemaking 条目"},
+      {"title": "Organizing and the Process of Sensemaking", "source_id": "Q347", "purpose": "从全文核对意义建构如何连接情境的语言化理解、身份与行动，并辨明中断、线索、交流与行动的概念边界。", "level": "intermediate", "locator": "publisher-formatted full text, printed pp. 409–410"}
+    ],
+    "learning_links": [{"target_id": "r1-organizational", "reason": "将意义建构放入组织协调、变革与决策。", "sequence_hint": "after"}, {"target_id": "r5-crisis", "reason": "观察信息不全和时间压力下的集体解释。", "sequence_hint": "after"}, {"target_id": "r2-framing", "reason": "比较情境线索的选择与公共议题的框架化。", "sequence_hint": "compare"}],
+    "temporal_profile": "relatively_stable",
+    "last_evidence_check": "2026-09-16",
+    "controversy_status": "contested",
+    "controversy_note": "概念容易被过度泛化；本知识点把它限定为组织情境中由中断或含混触发、通过线索提取、回顾、社会互动与语言表达形成可行动解释的过程，不把任何一般性的理解或信息接收都称为意义建构。",
+    "review_status": "ready_for_review",
+    "created_at": "2026-09-11",
+    "updated_at": "2026-09-16",
+    "reviewed_at": null
+  }
+]

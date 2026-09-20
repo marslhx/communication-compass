@@ -1,0 +1,33 @@
+node_modules/
+dist/
+.venv/
+__pycache__/
+*.pyc
+*.tsbuildinfo
+.DS_Store
+
+# Local configuration and credentials (keep an optional documented example).
+.env
+.env.*
+!.env.example
+!.env.example
+.npmrc
+*.log
+
+# Temporary research downloads and generated browser/visual QA output.
+/tmp/
+/temp/
+/output/
+/outputs/
+/artifacts/
+/.playwright-cli/
+/.playwright-mcp/
+/playwright-report/
+/test-results/
+/coverage/
+
+# Local editor/agent state; do not exclude public assets or design references.
+/.idea/
+/.vscode/
+/.codex/
+/.agents/

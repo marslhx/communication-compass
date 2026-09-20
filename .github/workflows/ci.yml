@@ -1,0 +1,48 @@
+name: Validate and build preview
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    strategy:
+      matrix:
+        base: ['/', '/commpass-preview/']
+    env:
+      VITE_BASE_PATH: ${{ matrix.base }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: pip
+      - name: Install locked frontend and content dependencies
+        run: |
+          npm ci
+          python -m pip install -r requirements.txt
+      - name: Check isolated deterministic content rebuild
+        run: |
+          python scripts/check_content_rebuild.py
+          python -m unittest discover -s scripts/tests -v
+          python scripts/validate_content.py
+      - run: npm run typecheck
+      - run: npm run lint
+      # Route tests exercise their own root/project bases explicitly.
+      - run: npm test
+        env:
+          VITE_BASE_PATH: /
+      - run: npm run build
+      - run: npm run pages:check
+
+# Deliberately no Pages deployment, artifact upload, secrets or write permissions.
