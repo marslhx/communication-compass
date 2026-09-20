@@ -13,6 +13,6 @@ export const siteConfig = {
   contactLabel: configured(import.meta.env.VITE_SITE_CONTACT_LABEL, 'lohoso@qq.com'),
   contactUrl: configured(import.meta.env.VITE_SITE_CONTACT_URL, 'mailto:lohoso@qq.com'),
   feedbackUrl: configured(import.meta.env.VITE_SITE_FEEDBACK_URL, 'https://github.com/marslhx/communication-compass/discussions'),
-  contentLicense: optional(import.meta.env.VITE_CONTENT_LICENSE),
-  codeLicense: optional(import.meta.env.VITE_CODE_LICENSE),
+  contentLicense: configured(import.meta.env.VITE_CONTENT_LICENSE, '除另有说明，保留所有权利'),
+  codeLicense: configured(import.meta.env.VITE_CODE_LICENSE, '除另有说明，保留所有权利'),
 }

@@ -84,8 +84,8 @@ npm run build
 
 用户提供的 Twente 教学 PDF 用于核对和撰写可追溯的入门说明；上传行为不构成整本再发布授权。原 PDF、全文提取和页面图不纳入公开构建，详见[来源使用与再发布边界](./content/SOURCE_USE.md)。
 
-## 部署边界
+## 部署状态与边界
 
-当前构建是无后端的静态前端，技术上适合 GitHub Pages、Cloudflare Pages、Vercel 或国内对象存储/CDN。正式部署前仍需确定域名、备案与中国大陆访问目标，并按所选平台配置单页应用回退；本阶段未替用户创建远端仓库或部署。
+Beta 版已部署至 [GitHub Pages](https://marslhx.github.io/communication-compass/)，`main` 分支更新后由 GitHub Actions 自动完成内容校验、测试、构建与发布。项目已配置子路径资源加载和 404 深链回退，发布流程见 [GitHub 预览准备](./docs/GITHUB_PREVIEW.md)。
 
-已加入 GitHub Pages 项目子路径、404 深链回退和只检查不发布的 CI。详见 [GitHub 预览准备](./docs/GITHUB_PREVIEW.md)；这不表示已有在线预览网址。
+当前网站是无后端的静态前端。若后续面向中国大陆提供稳定访问，仍需另行确定域名、备案以及国内托管或 CDN 方案；GitHub Pages 版本不等同于已完成这些国内部署事项。
